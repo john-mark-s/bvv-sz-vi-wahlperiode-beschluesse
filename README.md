@@ -1,2 +1,2 @@
 # bvv-sz-vi-wahlperiode-beschluesse
-BVV Steglitz-Zehlendorf Beschlüsse VI. Wahlperiode
+Beschlüsse der BVV Steglitz-Zehlendorf, VI. Wahlperiode
