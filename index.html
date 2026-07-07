@@ -321,13 +321,12 @@ function render(){
   var eA=filt.filter(function(b){return b.status==="erledigt";}).length;
   var oA=filt.filter(function(b){return b.status==="offen";}).length;
   var aA=filt.filter(function(b){return b.status==="abgelehnt";}).length;
-  var pol=filt.filter(function(b){return!iA(b);}).length||1;
-  var pe=Math.round(eA/pol*100),po=Math.round(oA/pol*100),pa=Math.round(aA/pol*100);
+  var decidedTotal=eA+oA||1;
+  var pe=Math.round(eA/(eA+oA||1)*100),po=Math.round(oA/(eA+oA||1)*100);
   document.getElementById("sE").textContent=eA;document.getElementById("sO").textContent=oA;
   document.getElementById("sA").textContent=aA;document.getElementById("sG").textContent=filt.length;
   document.getElementById("pE").textContent=pe+"%";document.getElementById("bE").style.width=pe+"%";
   document.getElementById("pO").textContent=po+"%";document.getElementById("bO").style.width=po+"%";
-  document.getElementById("pA").textContent=pa+"%";document.getElementById("bA").style.width=pa+"%";
   if(view==="table")rT();else rTL();
 }
 
