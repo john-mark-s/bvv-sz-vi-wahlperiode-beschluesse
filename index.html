@@ -169,7 +169,7 @@
     <div>
       <div class="site-tag">Bezirkspolitik im Überblick</div>
       <h1 class="masthead-title">Wie hat die BVV entschieden?</h1>
-      <p class="masthead-sub">Alle 986 Vorgänge der VI. Wahlperiode. Erfahren Sie, welche Entscheidungen die BVV getroffen hat.</p>
+      <p class="masthead-sub">Alle Vorgänge der VI. Wahlperiode. Erfahren Sie, welche Entscheidungen die BVV getroffen hat.</p>
     </div>
     <div class="stat-grid">
       <div class="stat-box s-e"><span class="stat-num" id="sE">—</span><span class="stat-label">Erledigt</span></div>
@@ -220,7 +220,7 @@
         <div class="pd-clear" onclick="clearParties()">Alle anzeigen</div>
       </div>
     </div>
-    <button class="btn on" id="bA2" onclick="toggleAdmin()">– Verfahren</button>
+    <button class="btn" id="bA2" onclick="toggleAdmin()">+ Verfahren</button>
   </div>
 </div>
 <div class="main">
@@ -249,7 +249,7 @@ function iA(b){if(b.status==="entfaellt")return true;return AK.some(function(k){
 var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',abgelehnt:'<span class="badge ba">✗ Abgelehnt</span>',entfaellt:'<span class="badge bf">– Entfällt</span>',zwischenbericht:'<span class="badge bz">~ Zwischenbericht</span>'};
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
-var showA=true,view="table",filt=[],activeParties=new Set();
+var showA=false,view="table",filt=[],activeParties=new Set();
 function e(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
 function partyChips(parties){
   if(!parties||!parties.length)return "";
