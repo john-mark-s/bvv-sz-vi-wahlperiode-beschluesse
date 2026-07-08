@@ -17,12 +17,13 @@
   .site-tag{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:6px;}
   .masthead-title{font-size:clamp(1.8rem,4vw,3rem);font-weight:800;line-height:1.05;letter-spacing:-.02em;}
   .masthead-sub{font-size:14px;color:var(--mid);margin-top:6px;}
-  .stat-grid{display:grid;grid-template-columns:repeat(3,1fr);border:2px solid var(--dark);}
+  .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);border:2px solid var(--dark);}
   .stat-box{padding:12px 16px;text-align:center;border-right:2px solid var(--dark);background:var(--paper);}
   .stat-box:last-child{border-right:none;}
   .stat-num{display:block;font-size:2rem;font-weight:800;line-height:1;}
   .stat-box.s-e .stat-num{color:var(--green);}
   .stat-box.s-o .stat-num{color:var(--blue);}
+  .stat-box.s-z .stat-num{color:var(--purple);}
   .stat-label{display:block;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--mid);margin-top:2px;}
   .pb-section{background:var(--paper);border-bottom:1px solid var(--border);padding:12px 24px;}
   .pb-section .inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
@@ -148,7 +149,7 @@
   .ext-lnk::after{content:"↗";}
   @media(max-width:720px){
     .masthead-inner{grid-template-columns:1fr;}
-    .stat-grid{grid-template-columns:repeat(3,minmax(0,1fr));}
+    .stat-grid{grid-template-columns:repeat(4,1fr);}
     .stat-box{padding:7px 5px;}
     .th,.row{grid-template-columns:50px 1fr 100px;}
     .th>span:nth-child(2),.th>span:nth-child(4),.rd,.rz{display:none;}
@@ -186,6 +187,7 @@
     <div class="stat-grid">
       <div class="stat-box s-e"><span class="stat-num" id="sE">—</span><span class="stat-label">Erledigt</span></div>
       <div class="stat-box s-o"><span class="stat-num" id="sO">—</span><span class="stat-label">Offen</span></div>
+      <div class="stat-box s-z"><span class="stat-num" id="sZ">—</span><span class="stat-label">Zwischenbericht</span></div>
       <div class="stat-box"><span class="stat-num" id="sG">—</span><span class="stat-label">Gesamt</span></div>
     </div>
   </div>
@@ -338,10 +340,12 @@ function render(){
   filt = gF();
   var eA = filt.filter(function(b){ return b.status === "erledigt"; }).length;
   var oA = filt.filter(function(b){ return b.status === "offen"; }).length;
+  var zA = filt.filter(function(b){ return b.status === "zwischenbericht"; }).length;
 
   document.getElementById("sE").textContent = eA;
   document.getElementById("sO").textContent = oA;
-  document.getElementById("sG").textContent = eA + oA;
+  document.getElementById("sZ").textContent = zA;
+  document.getElementById("sG").textContent = eA + oA + zA;
 
   if(view === "table") rT();
   else rTL();
