@@ -17,12 +17,12 @@
   .site-tag{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:6px;}
   .masthead-title{font-size:clamp(1.8rem,4vw,3rem);font-weight:800;line-height:1.05;letter-spacing:-.02em;}
   .masthead-sub{font-size:14px;color:var(--mid);margin-top:6px;}
-  .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);border:2px solid var(--dark);}
-  .stat-box{padding:12px 16px;text-align:center;border-right:2px solid var(--dark);background:var(--paper);}
+  .stat-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border:2px solid var(--dark);}
+  .stat-box{padding:8px 6px;text-align:center;border-right:2px solid var(--dark);background:var(--paper);min-width:0;}
   .stat-box:last-child{border-right:none;}
-  .stat-num{display:block;font-size:2rem;font-weight:800;line-height:1;}
-  .stat-box.s-e .stat-num{color:var(--green);}.stat-box.s-o .stat-num{color:var(--blue);}.stat-box.s-a .stat-num{color:var(--red);}
-  .stat-label{display:block;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--mid);margin-top:2px;}
+  .stat-num{display:block;font-size:clamp(1rem,3vw,1.4rem);font-weight:800;line-height:1;}
+  .stat-box.s-e .stat-num{color:var(--green);}.stat-box.s-o .stat-num{color:var(--blue);}
+  .stat-label{display:block;font-size:8px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--mid);margin-top:4px;white-space:nowrap;}
   .pb-section{background:var(--paper);border-bottom:1px solid var(--border);padding:12px 24px;}
   .pb-section .inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
   .pb-item label{display:flex;justify-content:space-between;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--mid);margin-bottom:4px;}
@@ -96,7 +96,7 @@
   .tle-wrap{padding-left:12px;display:flex;flex-direction:column;gap:5px;padding-bottom:8px;}
   .tle{padding:8px 10px;background:var(--paper);border-left:3px solid var(--border);transition:all .12s;}
   .tle:hover{border-left-color:var(--red);background:#fff8f8;}
-  .tle.erledigt{border-left-color:var(--green);}.tle.offen{border-left-color:var(--blue);}.tle.abgelehnt{border-left-color:var(--red);}.tle.zwischenbericht{border-left-color:var(--purple);}
+  .tle.erledigt{border-left-color:var(--green);}.tle.offen{border-left-color:var(--blue);}.tle.{border-left-color:var(--red);}.tle.zwischenbericht{border-left-color:var(--purple);}
   .tle-t{font-size:13px;font-weight:600;line-height:1.35;cursor:pointer;}
   .tle-m{font-size:10px;color:var(--mid);margin-top:4px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;}
   .tl-lnk{color:var(--red);text-decoration:none;font-weight:700;font-size:10px;}
@@ -145,10 +145,8 @@
   .ext-lnk::after{content:"↗";}
   @media(max-width:720px){
     .masthead-inner{grid-template-columns:1fr;}
-    .stat-grid{grid-template-columns:repeat(2,1fr);}
-    .stat-box:nth-child(2){border-right:none;}
-    .stat-box:nth-child(3),.stat-box:nth-child(4){border-top:2px solid var(--dark);}
-    .stat-box:nth-child(4){border-right:none;}
+    .stat-grid{grid-template-columns:repeat(3,minmax(0,1fr));}
+    .stat-box{padding:7px 5px;}
     .th,.row{grid-template-columns:50px 1fr 100px;}
     .th>span:nth-child(2),.th>span:nth-child(4),.rd,.rz{display:none;}
     .main{padding:0 12px 40px;}
@@ -179,13 +177,12 @@
   <div class="masthead-inner">
     <div>
       <div class="site-tag">Bezirkspolitik im Überblick</div>
-      <h1 class="masthead-title">Wie hat die BVV entschieden?</h1>
-      <p class="masthead-sub">Alle Vorgänge der VI. Wahlperiode. Erfahren Sie, welche Entscheidungen die BVV getroffen hat.</p>
+      <h1 class="masthead-title">Was hat das Bezirksamt umgesetzt?</h1>
+      <p class="masthead-sub">Alle Vorgänge der VI. Wahlperiode. Erfahren Sie, wie das Bezirksamt auf Beschlüsse vorgegangen (Stand März 2026).</p>
     </div>
     <div class="stat-grid">
       <div class="stat-box s-e"><span class="stat-num" id="sE">—</span><span class="stat-label">Erledigt</span></div>
       <div class="stat-box s-o"><span class="stat-num" id="sO">—</span><span class="stat-label">Offen</span></div>
-      <div class="stat-box s-a"><span class="stat-num" id="sA">—</span><span class="stat-label">Abgelehnt</span></div>
       <div class="stat-box"><span class="stat-num" id="sG">—</span><span class="stat-label">Gesamt</span></div>
     </div>
   </div>
@@ -211,7 +208,6 @@
       <option value="ekat:nur_information_bereitgestellt">  └ Nur Information</option>
       <option value="ekat:keine_antwort">  └ Keine Antwort</option>
       <option value="offen">◎ Offen</option>
-      <option value="abgelehnt">✗ Abgelehnt</option>
       <option value="zwischenbericht">~ Zwischenbericht</option>
     </select>
     <select id="sz">
@@ -265,10 +261,10 @@ function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;retu
 DATA.forEach(function(b){b.ekat=(b.s&&b.s.erledigt_kategorie)||EKAT[b.ds]||"";});
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfaellt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
-var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',abgelehnt:'<span class="badge ba">✗ Abgelehnt</span>',entfaellt:'<span class="badge bf">– Entfällt</span>',zwischenbericht:'<span class="badge bz">~ Zwischenbericht</span>'};
+var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',:'<span class="badge ba">✗ </span>',entfaellt:'<span class="badge bf">– Entfällt</span>',zwischenbericht:'<span class="badge bz">~ Zwischenbericht</span>'};
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
-var showA=false,view="table",filt=[],activeParties=new Set();
+var view="table",filt=[],activeParties=new Set();
 function e(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
 function partyChips(parties){
   if(!parties||!parties.length)return "";
@@ -345,7 +341,7 @@ function render(){
   filt=gF();
   var eA=filt.filter(function(b){return b.status==="erledigt";}).length;
   var oA=filt.filter(function(b){return b.status==="offen";}).length;
-  var aA=filt.filter(function(b){return b.status==="abgelehnt";}).length;
+  var aA=filt.filter(function(b){return b.status==="";}).length;
   var decidedTotal=eA+oA||1;
   var pe=Math.round(eA/(eA+oA||1)*100),po=Math.round(oA/(eA+oA||1)*100);
   document.getElementById("sE").textContent=eA;document.getElementById("sO").textContent=oA;
@@ -437,9 +433,9 @@ function openD(idx){
   }
 
   // Beschlusstext
-  if(s.beschlusstext&&s.beschlusstext!=="Der Antrag ist abgelehnt."){
+  if(s.beschlusstext&&s.beschlusstext!=="Der Antrag ist ."){
     h+='<div class="ms"><div class="ms-title">Beschlossener Antragstext</div><div class="bt-box">'+e(cleanText(s.beschlusstext))+'</div></div>';
-  } else if(s.beschlusstext==="Der Antrag ist abgelehnt."){
+  } else if(s.beschlusstext==="Der Antrag ist ."){
     h+='<div class="ms"><div class="ms-title">Beschluss</div><div class="bt-box" style="border-left-color:var(--red)">'+e(cleanText(s.beschlusstext))+'</div></div>';
   }
 
