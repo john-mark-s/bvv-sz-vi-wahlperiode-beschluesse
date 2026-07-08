@@ -187,12 +187,6 @@
     </div>
   </div>
 </header>
-<div class="pb-section">
-  <div class="inner">
-    <div class="pb-item"><label><span>Beschlossen: Erledigt</span><span id="pE">—</span></label><div class="pb-track"><div class="pb-fill pb-e" id="bE" style="width:0%"></div></div></div>
-    <div class="pb-item"><label><span>Beschlossen: Offen</span><span id="pO">—</span></label><div class="pb-track"><div class="pb-fill pb-o" id="bO" style="width:0%"></div></div></div>
-  </div>
-</div>
 <div class="controls-bar">
   <div class="inner">
     <div class="sw"><input type="search" id="q" placeholder="Beschluss suchen... z.B. Radweg, Schule, Wannsee"></div>
@@ -261,7 +255,7 @@ function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;retu
 DATA.forEach(function(b){b.ekat=(b.s&&b.s.erledigt_kategorie)||EKAT[b.ds]||"";});
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfaellt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
-var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',:'<span class="badge ba">✗ </span>',entfaellt:'<span class="badge bf">– Entfällt</span>',zwischenbericht:'<span class="badge bz">~ Zwischenbericht</span>'};
+var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',entfaellt:'<span class="badge bf">– Entfällt</span>',zwischenbericht:'<span class="badge bz">~ Zwischenbericht</span>'};
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
 var view="table",filt=[],activeParties=new Set();
@@ -338,17 +332,16 @@ function gF(){
 }
 
 function render(){
-  filt=gF();
-  var eA=filt.filter(function(b){return b.status==="erledigt";}).length;
-  var oA=filt.filter(function(b){return b.status==="offen";}).length;
-  var aA=filt.filter(function(b){return b.status==="";}).length;
-  var decidedTotal=eA+oA||1;
-  var pe=Math.round(eA/(eA+oA||1)*100),po=Math.round(oA/(eA+oA||1)*100);
-  document.getElementById("sE").textContent=eA;document.getElementById("sO").textContent=oA;
-  document.getElementById("sA").textContent=aA;document.getElementById("sG").textContent=filt.length;
-  document.getElementById("pE").textContent=pe+"%";document.getElementById("bE").style.width=pe+"%";
-  document.getElementById("pO").textContent=po+"%";document.getElementById("bO").style.width=po+"%";
-  if(view==="table")rT();else rTL();
+  filt = gF();
+  var eA = filt.filter(function(b){ return b.status === "erledigt"; }).length;
+  var oA = filt.filter(function(b){ return b.status === "offen"; }).length;
+
+  document.getElementById("sE").textContent = eA;
+  document.getElementById("sO").textContent = oA;
+  document.getElementById("sG").textContent = filt.length;
+
+  if(view === "table") rT();
+  else rTL();
 }
 
 function rT(){
