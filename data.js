@@ -25,7 +25,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Geschäftsordnung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin in \nder seit dem 21. Juni 2007 geltenden Fassung, zuletzt geändert gemäß Beschluss der BVV \n1312/V (Drucksache 1990/V), gilt mit den folgenden Maßgaben in der sechsten Wahlperiode \nfort.\n1) In § 2 Absatz 2 werden die Worte „Höchstzahlverfahren d´Hondts“ durch die Worte \n„Hare/Niemeyer-Verfahren“ ersetzt.\n2) In § 11 Absatz 2 Satz 2 werden die Worte „Höchstzahlverfahren d´Hondts“ durch die \nWorte „Hare/Niemeyer-Verfahren“ ersetzt.\n3) In § 14 Absatz 1 Satz 2 werden die Worte „Höchstzahlverfahren d´Hondts“ durch die \nWorte „Hare/Niemeyer-Verfahren“ und in § 14 Absatz 1 Satz 4 das Wort „d´Hondt“ durch \ndie Worte „Hare/Niemeyer“ ersetzt.\n4) Die Geschäftsordnung tritt am 30. Juni 2022 außer Kraft.\nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "02/VI",
@@ -51,7 +52,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum Vorsteher der Bezirksverordnetenversammlung Steglitz-Zehlendorf wird \nHerr René Rögner-Francke\ngewählt.\nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "03/VI",
@@ -77,7 +79,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Vorsteher der Bezirksverordnetenversammlung Steglitz-Zehlendorf \nwird \nHerr Dr. Konstantinos Kosmas\ngewählt.\nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "04/VI",
@@ -103,7 +106,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur Schriftführerin im Vorstand der Bezirksverordnetenversammlung Steglitz-Zehlendorf wird\nFrau Juliana Kölsch\ngewählt.\nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "05/VI",
@@ -129,7 +133,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur stellvertretenden Schriftführerin der Bezirksverordnetenversammlung Steglitz-Zehlendorf \nwird\nFrau Dr. Marela Bone-Winkel\ngewählt. \nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "06/VI",
@@ -155,7 +160,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur stellvertretenden Schriftführerin der BVV Steglitz-Zehlendorf wird\nFrau Johanna Martens\ngewählt. \nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "07/VI",
@@ -181,7 +187,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Schriftführer im Vorstand der Bezirksverordnetenversammlung \nSteglitz-Zehlendorf wird\nHerr Martin Kromm\ngewählt.\nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "08/VI",
@@ -207,7 +214,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Schriftführer im Vorstand der Bezirksverordnetenversammlung \nSteglitz-Zehlendorf wird \nHerr Sören Grawert \ngewählt.\nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "09/VI",
@@ -233,7 +241,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Ältestenrat besteht aus dem Vorsteher und dem stellvertretenden Vorsteher kraft Amtes \nsowie 13 Mitgliedern, die von den Fraktionen entsprechend ihrer Stärke nach dem Verfahren \nHare/Niemeyer bestimmt werden, dies sind gegenwärtig für die CDU-Fraktion 4 \nBezirksverordnete, \ndie \nGrüne-Fraktion \n3 \nBezirksverordnete, \ndie \nSPD-Fraktion \n3 \nBezirksverordnete, \ndie \nFDP-Fraktion \n1 \nBezirksverordneter, \ndie \nAfD-Fraktion \n1 \nBezirksverordneter und die Linksfraktion 1 Bezirksverordneter.\nBezirksverordnetenvorsteher\n04.11.2021",
       "beschlussdatum": "04.11.2021"
-    }
+    },
+    null
   ],
   [
     "10/VI",
@@ -261,7 +270,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung bildet folgende Ausschüsse:\nHaushalt, Personal, Europa, Klima\nbestehend aus 12 Bezirksverordneten (3 CDU, 3 SPD, 3 Grüne, 1 AfD, 1 FDP, 1 Linke) und \n4 Bürgerdeputierten (2 CDU, 1 SPD, 1 Grüne)\nGebäude, Wirtschaft, Inklusion, Verwaltungsmodernisierung, Digitalisierung\nbestehend aus 9 Bezirksverordneten (2 CDU, 2 SPD, 2 Grüne, 1 AfD, 1 FDP, 1 Linke) und 4 \nBürgerdeputierten (2 CDU, 1 SPD, 1 Grüne)\nRechnungsprüfung \nbestehend aus 13 Bezirksverordneten (4 CDU, 3 SPD, 3 Grüne, 1 AfD, 1 FDP, 1 Linke)\nFrauen*, Gleichstellung, Queer\nbestehend aus 9 Bezirksverordneten (2 CDU, 2 SPD, 2 Grüne, 1 AfD, 1 FDP, 1 Linke) und 4 \nBürgerdeputierten (2 CDU, 1 SPD, 1 Grüne)\nPartizipation und Integration\nbestehend aus 9 Bezirksverordneten (2 CDU, 2 SPD, 2 Grüne, 1 AfD, 1 FDP, 1 Linke) und 6 \nBürgerdeputierten \nSchule\nbestehend aus 9 Bezirksverordneten (2 CDU, 2 SPD, 2 Grüne, 1 AfD, 1 FDP, 1 Linke) und 4 \nBürgerdeputierten (2 CDU, 1 SPD, 1 Grüne)",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "11/VI",
@@ -289,7 +299,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Vorsteher der Bezirksverordnetenversammlung Steglitz-Zehlendorf \nwird \nHerr Sören Grawert\ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "12/VI",
@@ -316,7 +327,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Schriftführer im Vorstand der Bezirksverordnetenversammlung \nSteglitz-Zehlendorf wird \nHerr Dr. Konstantinos Kosmas\ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "13/VI",
@@ -344,7 +356,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur Bezirksbürgermeisterin von Steglitz-Zehlendorf von Berlin wird \nFrau Maren Schellenberg\ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "14/VI",
@@ -370,7 +383,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur \nBezirksstadträtin \nvon \nSteglitz-Zehlendorf \nvon \nBerlin \nund \nstellvertretenden \nBezirksbürgermeisterin wird\nFrau Cerstin-Ullrike Richter-Kotowski\ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "15/VI",
@@ -396,7 +410,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur Bezirksstadträtin von Steglitz-Zehlendorf von Berlin wird\nFrau Carolina Böhm \ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "16/VI",
@@ -422,7 +437,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum Bezirksstadtrat von Steglitz-Zehlendorf von Berlin wird\nHerr Tim Richter\ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "17/VI",
@@ -448,7 +464,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum Bezirksstadtrat von Steglitz-Zehlendorf von Berlin wird\nHerr Urban Aykal\ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "18/VI",
@@ -474,7 +491,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum Bezirksstadtrat von Steglitz-Zehlendorf von Berlin wird\nHerr Michael Karnetzki\ngewählt.\nBezirksverordnetenvorsteher\n08.12.2021",
       "beschlussdatum": "08.12.2021"
-    }
+    },
+    null
   ],
   [
     "19/VI",
@@ -500,7 +518,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFolgende Bürgerinnen und Bürger werden zu Bürgerdeputierten in den Ausschüssen der \nBVV (VI. Wahlperiode) gewählt:\nAusschuss für Haushalt, Personal, Europa, Klima\nBürgerdeputierte\nStellv. Bürgerdeputierte\nHerr Oliver Scheele\nHerr Sedat Güldüm\nHerr Dr. Khalil Dindarian\nHerr Jürgen Heyn\nAusschuss für Gebäude, Wirtschaft, Inklusion, Verwaltungsmodernisierung, \nDigitalisierung\nBürgerdeputierte\nStellv. Bürgerdeputierte\nHerr Dr. Hartmut Kühne\nHerr Felix Wolf\nFrau Katharina Trump\nHerr Stephan Regeler\nAusschuss für Frauen, Gleichstellung, Queer\nBürgerdeputierte\nStellv. Bürgerdeputierte\nHerr Lutz Hannebauer\nHerr André Tinibel\nAusschuss für Schule\nBürgerdeputierte\nStellv. Bürgerdeputierte\nHerr Götz Müller\nHerr Sven Wesely\nFrau Ute Hahnfeld\nFrau Isabelle von Stechow",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "20/VI",
@@ -526,7 +545,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter für den Ausschuss für Haushalt, Personal, Europa, Klima wird gewählt:\nDr. Simon Wollenberg\nBezirksverordnetenvorsteher\n19.01.2022",
       "beschlussdatum": "19.01.2022"
-    }
+    },
+    null
   ],
   [
     "21/VI",
@@ -558,7 +578,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nEin Vertreter der Deutsch-Israelischen Gesellschaft e.V. (DIG), hat im Rahmen seiner Israel-\nreise Ende letzten Jahres auch Sderot besucht und dabei im Rathaus den BVV-Beschluss \nSymbolisch übergeben. \nLeider bietet das SGB VIII keine Rechtsgrundlage, um Kinder aus anderen Ländern Erho-\nlungsmaßnahmen zu gewähren. Weiter kommt hinzu, dass zurzeit keine räumlichen Ressour-\ncen zur Verfügung, um kurzfristig Dienste im Rahmen des internationalen Austausches anzu-\nbieten, da die bisher in diesem Rahmen genutzte Immobilie aufgrund der hohen Anzahl an \nGeflüchteten in unserer Stadt anderweitig genutzt wird. Sollten wieder freie Kapazitäten vor-\nhanden sein wird geprüft, inwieweit ein internationaler Austausch stattfinden kann. Ein auf \nGegenseitigkeit beruhender Austausch braucht dann allerdings eine erhebliche Vorlaufzeit, da \nauch auf hiesiger Seite austauschwillige Kinder und Jugendliche gefunden werden müssen, \ndie Finanzierung von beiden Seiten sicherzustellen ist und die Inhalte des Austausches ziel-\ngruppengerecht zu organisieren sind. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "22/VI",
@@ -591,7 +612,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Am 25.11.2022 wurde in der Dreifaltigkeitskirche in Lankwitz den einsam Verstorbenen ge-\ndacht. Im Rahmen einer überkonfessionellen Gedenkveranstaltung wurden die Namen von \n339 Verstorbenen verlesen. Anteilnehmende Bürgerinnen und Bürger hatten so die Möglich-\nkeit, den Menschen ein letztes Geleit zu geben. Die Veranstaltung wurde ausgerichtet von Bezirksamt und BVV Steglitz-Zehlendorf mit Un-\nterstützung der Kirchenkreise Steglitz und Teltow-Zehlendorf. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "24/VI",
@@ -615,7 +637,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFür die Hildegard-Gräfin-von-Koenigsmarck-Stiftung werden \n1) René Rögner-Francke\n2) Mariella Perna\n3) Juliana Kölsch\nals ordentliche Vorstandsmitglieder\nund\n1) Jens Kronhagel\n2) Dr. Konstantinos Kosmas \n3) Norbert Buchta\nals stellvertretende Vorstandsmitglieder\nvon der BVV benannt.\nBezirksverordnetenvorsteher\n23.02.2022",
       "beschlussdatum": "23.02.2022"
-    }
+    },
+    null
   ],
   [
     "25/VI",
@@ -641,7 +664,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFolgende Bürgerinnen und Bürger werden zu Bürgerdeputierten in den Ausschüssen der \nBVV (VI. Wahlperiode) gewählt:\nAusschuss für Haushalt, Personal, Europa, Klima\nBürgerdeputierter\nHerr Andre Kindler\nAusschuss für Gebäude, Wirtschaft, Inklusion, Verwaltungsmodernisierung, \nDigitalisierung\nBürgerdeputierter\nStellv. Bürgerdeputierte\nHerr Michael Chilla-Jung\nFrau Petra Hauschulz\nAusschuss für Frauen, Gleichstellung, Queer\nBürgerdeputierte\nStellv. Bürgerdeputierter\nFrau Gabriele Schraudolf\nHerr Moritz Littbarski\nAusschuss für Schule\nBürgerdeputierter\nStellv. Bürgerdeputierte\nHerr Ulrich Trenczek\nFrau Isabella Vogt-Schwarze",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "26/VI",
@@ -667,7 +691,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter für den Schulausschuss wird gewählt:\nAndré Tinibel\nBezirksverordnetenvorsteher\n23.02.2022",
       "beschlussdatum": "23.02.2022"
-    }
+    },
+    null
   ],
   [
     "27/VI",
@@ -693,7 +718,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFolgende Bürger*innen werden zu Bürgerdeputierten in den Ausschüssen der BVV in der \naktuellen Wahlperiode gewählt:\nAusschuss für Haushalt, Personal, Europa, Klima:\nStellv. Bürgerdeputierter\nHerr\nKarl-Heinz Hage\nAusschuss für Gebäude, Wirtschaft, Inklusion, Verwaltungsmodernisierung, \nDigitalisierung:\nBürgerdeputierte\nStellv. Bürgerdeputierter\nFrau \nMarianne Wagner\nHerr \nBrendan Herbst\nAusschuss für Frauen, Gleichstellung, Queer:\nBürgerdeputierte\nStellv. Bürgerdeputierte\nFrau \nBirgit Vasiliades\nFrau \nMichelle Heyer\nAusschuss für Schule:\nBürgerdeputierter\nStellv. Bürgerdeputierte\nHerr \nDeniz Can Zeyrek\nFrau\nMarnie Ernst",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "28/VI",
@@ -709,7 +735,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "29/VI",
@@ -726,7 +753,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "23.02.2022",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "30/VI",
@@ -749,7 +777,8 @@ var D=[
         }
       ],
       "beschlussdatum": "23.02.2022"
-    }
+    },
+    null
   ],
   [
     "31/VI",
@@ -794,7 +823,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Tiefbau hat eine barrierearme Querungsmöglichkeit der Hans-Sachs-Straße auf \nder östlichen Seite der Baseler Straße geschaffen. Dabei wurden zum Einen die Borde der Hans-\nSachs-Straße abgesenkt und zum Anderen die Fahrbahn zwischen den abgesenkten Borden as-\nphaltiert. Die Finanzierung erfolgte aus Mitteln des Sonderprogramms für Bordabsenkungen der Se-\nnatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz. Der Kiosk konnte dabei erhal-\nten bleiben. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "32/VI",
@@ -832,7 +862,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen für eine Prüfung einzusetzen, \nob an der Straßenkreuzung Machnower Straße Ecke Ludwigsfelder-/Sachtlebenstraße, das \nLinksabbiegen von der Machnower Straße kommend, durch Straßenmarkierungen erleichtert \nwerden kann.\nBezirksverordnetenvorsteher\n23.02.2022",
       "beschlussdatum": "23.02.2022"
-    }
+    },
+    null
   ],
   [
     "33/VI",
@@ -878,7 +909,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Büro des Bezirksstadtrates für die Abteilung Ordnung, Straßen- und Grünflächen, Umwelt- und \nNaturschutz hat im ersten Quartal des Jahres 2022 Gespräche mit VertreterInnen der Interessen-\ngemeinschaft Gutzmannstraße/Leo-Baeck-Straße und der Bürgerinitiative Nachhaltiger Nieritzweg \nsowie der Geschäftsführung des Helios-Klinikums Emil-von-Behring geführt. In Zusammenarbeit mit \ndiesen beiden Initiativen hat dann am 29.04.2022 in der Aula der Schweizerhof Grundschule eine \nBeteiligungswerkstatt stattgefunden. Die Anregungen und Ideen der teilnehmenden Bürgerschaft, \nder Schulen, weiterer Akteure und der Bezirksverordneten wurden aufgenommen und in der Folge \nvon zuständigen Fachamt geprüft. Am 11.11.22 fand eine Folgeveranstaltung statt in der der Be-\nzirksstadtrat und das Fachamt den Teilnehnenden erläutert hat, welche Maßnahmen zur Verkehrs-\nberuhigung und Verkehrssicherung nun angestoßen werden. Für das Frühjahr 2023 ist eine weitere \nVeranstaltung geplant. Weitere Informationen sind auf der Plattform „Mein Berlin“ im Internet ein-\nsehbar. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "34/VI",
@@ -916,7 +948,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber den zuständigen Stellen dafür einzusetzen, \ndass die Nutzungszeiten der Busspur in der Drakestraße zwischen Gardeschützenweg und \nRingstraße werktags in den Abendstunden (bis mindestens 20 Uhr) und samstags in den \nMorgenstunden (ab spätestens 8 Uhr) ausgeweitet werden. Außerdem sollen die Schilder für \nAusnahmeregelungen für das Be- und Entladen sowie Ein- und Aussteigen entfernt werden. \nIn den ersten Wochen nach der Umstellung sollen das Ordnungsamt und ggf. die BVG \nvermehrt die Einhaltung der Verkehrsregeln auf diesem Abschnitt kontrollieren. So weit \nmöglich sollte eine Ladezone geschaffen werden.\nBezirksverordnetenvorsteher\n23.02.2022",
       "beschlussdatum": "23.02.2022"
-    }
+    },
+    null
   ],
   [
     "35/VI",
@@ -961,7 +994,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat am 02.09.2022 die Sondernutzungserlaubnis für den o.g. \nKiosk für den Zeitraum vom 01.01.2023 bis 31.12.2025 erteilt. Der ursprüngliche Bewilligungszeit-\nraum endet am 31.12.2022. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "37/VI",
@@ -987,7 +1021,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter im Ausschuss für Soziales, Pflege, Arbeit, \nSenior*innen wird abberufen:\nHerr Matthias Baumann\nBezirksverordnetenvorsteher\n16.03.2022",
       "beschlussdatum": "16.03.2022"
-    }
+    },
+    null
   ],
   [
     "38/VI",
@@ -1011,7 +1046,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung wählt gemäß § 32 Abs. 2 BezVG die nachstehend \naufgeführten Personen zu Bürgerdeputierten in den Ausschuss für Partizipation und \nIntegration:\n1) Frau Chandni Sophia Schattenfroh,\nvorgeschlagen \nvom \nVerband \nfür \nInterkulturelle \nArbeit \n(VIA), \nRegionalverband \nBerlin/Brandenburg e.V.\n2) Herr Panagiotis Matlis,\nvorgeschlagen von der Hellenischen Gemeinde zu Berlin e.V.\n3) Herr Wilfred Dominic Josué,\nvorgeschlagen von GePGeMi e.V.\n4) Frau Inna Schulze,\nvorgeschlagen \nvom \nVerband \nfür \nInterkulturelle \nArbeit \n(VIA), \nRegionalverband \nBerlin/Brandenburg e.V.\n5) Frau Jieun Bong,\nvorgeschlagen von Kultursensible Altenhilfe HeRo e.V.\n6) Herr Robert Klenkoski,\nvorgeschlagen vom Zentralrat der Makedonen in Deutschland e.V.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "39/VI",
@@ -1035,7 +1071,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nVorbehaltlich der Aufhebung der vorläufigen Haushaltswirtschaft wird dem Berliner Ruder-\nClub e.V. für die Anschaffung eines Renneiners (Skiff) aus Sondermitteln der BVV ein Betrag \nbis zur Höhe von\n4.000 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n16.03.2022",
       "beschlussdatum": "16.03.2022"
-    }
+    },
+    null
   ],
   [
     "40/VI",
@@ -1079,7 +1116,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob durch das Aufstellen von neuen Laternen im \nSchweizerhofpark entlang des Gehwegs (Gabelung bis Biesestraße) die Beleuchtung zu \nverbessern und damit die Sicherheit zu erhöhen, möglich ist. Außerdem ist der \nGehwegzustand zu überprüfen.\nBezirksverordnetenvorsteher\n16.03.2022",
       "beschlussdatum": "16.03.2022"
-    }
+    },
+    null
   ],
   [
     "41/VI",
@@ -1095,7 +1133,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "42/VI",
@@ -1118,7 +1157,8 @@ var D=[
         }
       ],
       "beschlussdatum": "27.04.2022"
-    }
+    },
+    null
   ],
   [
     "43/VI",
@@ -1142,7 +1182,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nVorbehaltlich der Aufhebung der vorläufigen Haushaltswirtschaft wird dem Zehlendorfer TSV \nv. 1888 e.V. für Reisekosten zur Teilnahme an der Petanque-Bundesliga aus Sondermitteln \nder BVV ein Betrag bis zur Höhe von\n2.650 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n27.04.2022",
       "beschlussdatum": "27.04.2022"
-    }
+    },
+    null
   ],
   [
     "44/VI",
@@ -1193,7 +1234,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt wandte sich mit dem Anliegen an die Senatsverwaltung für Umwelt, Mobilität, \nVerbraucher- und Klimaschutz. Diese teilte am 18.08.2022 mit: „In der Gallwitzallee befindet sich ein gegenläufiger baulich angelegter Radweg, der in Höhe des \nThaliaweges auf die Fahrbahn geführt wird. Dieser Bereich wird häufig durch widerrechtlich abge-\nstellte PKW´s blockiert. Zu Erhöhung der Sichtbarkeit und zusätzlichen Sensibilisierung sind auf \nder Auf- und Abfahrt entsprechende Radpiktogramme nach RP 216 VLB zu markieren. Die Piktogramme, wie in der Mitteilung erwähnt, wurden nun am 28.05.2024 markiert. Sofern sich \ndiese Maßnahme nicht als zufriedenstellend erweisen sollte, wird sich das Bezirksamt noch einmal \nan die zuständige Senatsverwaltung werden. Ein Poller wurde nicht angeordnet. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "teilweise-umgesetzt"
   ],
   [
     "45/VI",
@@ -1238,7 +1280,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, Bezirksverordnete zu der AG Aufenthaltsqualität des \nStandortmanagements Kranoldkiez (Lichterfelde-Ost) einzuladen. Die daraus resultierenden \nErgebnisse sind im Stadtplanungsausschuss halbjährlich zu berichten. Eine mögliche \nUmsetzung \nder \ndaraus \nabgeleiteten \nMaßnahmen \nmuss \nin \nder \nBezirksverordnetenversammlung beschlossen werden.\nBezirksverordnetenvorsteher\n27.04.2022",
       "beschlussdatum": "27.04.2022"
-    }
+    },
+    null
   ],
   [
     "46/VI",
@@ -1288,7 +1331,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Eine Liste mit den bekannten Namen der „Stillen Helden“ ist auf der Homepage des Kulturamts \nveröffentlicht und über folgenden Link online abrufbar: https://www.berlin.de/ba-steglitz-zehlen-\ndorf/auf-einen-blick/kultur/regionalgeschichte/archive/ Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "47/VI",
@@ -1331,7 +1375,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Mit der Prüfung beauftragt wurde der Koordinator für Psychiatrie und Suchthilfe. Der Suchthilfekoordinator begrüßt die Initiative zur Verbesserung der Suchthilfe im Bezirk, \ndie in diesem Beschluss zugrunde liegt. Die in der Begründung ausgesprochene politische \nAnerkennung der gesamtgesellschaftlichen Realität von Suchterkrankungen und ihrer ge-\nsundheitlichen wie sozialen Folgen schafft erst die Grundlage für die gemeinsame Annahme \ndieser großen Herausforderung. Die positiven Wirkungen zur Vermeidung von Todesfällen \nund Hinführung zum Hilfesystem durch Drogenkonsumräume dürfen als gesichert gelten. Drogenkonsumräume sind ein ausgesprochen aufwändiger, sehr voraussetzungsvoller Spe-\nzialbaustein der Drogenhilfe. Es muss eine wirkliche „Drogenszene“, ein ortsbezogener „Hot-\nspot“ öffentlichen Drogenkonsums mit Drogentoten, einer erheblichen Beschwerdelage der \nNachbarschaft, sowie regelmäßige Funde von Konsumhinterlassenschaften vorhanden sein, \ndamit ein Drogenkonsumraum als schadensminderndes und ordnungspolitisch befriedendes \nInstrument in Betracht gezogen werden kann. Zu dieser entscheidenden Voraussetzung, zur Frage, ob und wenn ja wo solche „Hotspots“ \nin Steglitz-Zehlendorf bestehen wurden befragt: o Die Ärztliche Leitung des Sozialpsychiatrischen Dienstes im Gesundheitsamt, einem \nder zwei Orte von Suchtberatung im Bezirk und der Dienst, dem Auffälligkeiten von \nPersonen regelmäßig gemeldet werden. o Die Leitung des Jugendamtes. \no Alle drei Sozialraumkoordinator:innen des Jugendamtes. \no Die mobile Jugendarbeit / Straßensozialarbeit des Trägers „Outreach“. \no Die Sozialraumbezogene Planungskoordination im Bezirk \no Das Quartiersmanagement in der Thermometersiedlung \no Die Beteiligten der Organisationseinheit Qualitätsentwicklung, Planung, Koordination \nan der Gesundheitsplanung in der Thermometersiedlung \no Die Landessuchtbeauftragte in der Senatsverwaltung für Wissenschaft, Gesundheit, \nPflege und Gleichstellung \no Senatsverwaltung für Inneres \no Die Suchthilfekoordinatorin des als vorbildliches Beispiel genannten Bezirks Berlin-\nMitte \no Die Leitung der Integrativen Suchtberatung Königsberger 11 des Caritasverbandes \nBerlin \no Die Psychosoziale Betreuung für Substitutierte des Caritasverbandes in Steglitz-Zeh-\nlendorf \no Die Geschäftsführung des Drogennotdienstes Berlin, der in der gemeinsamen Sucht-\nhilferegion Südwest öffentliche Pflichtaufgaben wahrnimmt \no Die Leitung des Trägers Fixpunkt e.V., der Drogenmobile im L",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "49/VI",
@@ -1377,7 +1422,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nAlle drei Beschlüsse tragen denselben Titel. Nach den wortgleichen Beschlüssen 996/V \nund 49/VI sollen jährlich die Zahlenwerke der letzten zwei Jahre im Ausschuss berichtet \nwerden. Dies wird in der Form umgesetzt, in der die Zahlen vorliegen. Eine \nAufschlüsselung nach Ortsteilen ist nicht möglich. Der Wohnungsneubaubericht wurde, \nden Beschlüssen 996/V und 49/VI entsprechend, für die Jahre 2020/2021 am 04.10.22 \nim Ausschuss für Stadtentwicklung und Wohnen vorgelegt und unter folgendem Link \nonline gestellt: Stadtplanung Steglitz-Zehlendorf-Berlin.de \nWeitere Berichte folgen im angegebenen Turnus. Der Beschluss 1039/V modifiziert die gewünschte Verfahrensweise aus dem \nursprünglichen Beschluss 996/V. Das Bezirksamt versteht jedoch die erneute \nBeschlussfassung der ursprünglichen Antragsfassung mit Beschluss 49/VI so, dass diese \nModifizierung durch die BVV in der Sache zurückgenommen wurde. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "50/VI",
@@ -1410,7 +1456,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Aufstellung von Zeichen 283 StVO (Absolutes Haltverbot) einschließlich der Zusatzzeichen „Ein-\nsatzfahrzeuge frei“ im Bereich der DLRG Wasserrettungsstation in Höhe Königstraße 68 zum dau-\nerhaften Abstellen von Einsatzfahrzeugen der DLRG, NEF und RTW ist mit den Bestimmungen der \nStVO nicht vereinbar. Die Einrichtung entsprechender Stellplätze mittels der genannten Verkehrs-\nzeichenkombination würde, in Bezug auf das Fahrzeug der DLRG und unter Berücksichtigung der \nUmstände, lediglich zu einer Parkplatzreservierung führen und im Ergebnis sich als nicht genehmi-\ngungsfähig darstellen. \nDie Königstraße ist im betreffenden Streckenabschnitt mit einem Zeichen 286 StVO (eingeschränk-\ntes Haltverbot) beschildert. Das bedeutet, dass an dieser Stelle das Ein- und Aussteigen sowie das \nBe- und Entladen gestattet ist. \nMit Zeichen 315 StVO (Parken auf Gehwegen) ist der ruhende Verkehr vollflächig auf dem Gehweg \nausgewiesen. Rettungsfahrzeuge (NEF und RTW) der Berliner Feuerwehr sind gemäß § 35 StVO (Sonderrechte) \nim Einsatzfall von den Vorschriften der StVO ausgenommen. Diese Fahrzeuge können in den ge-\nnannten Fällen ohne Weiteres innerhalb der vorhandenen eingeschränkten Haltverbots oder an an-\nderen Stellen parken. Eine Möglichkeit zur störungsfreien Übergabe von geretteten Personen an die \nRettungskräfte der BF ist somit durchgehend gewährleistet. Ein Regelungsbedarf hinsichtlich der \nAufstellung der Fahrzeuge der BF besteht für diese Fahrzeuge demgemäß ohnehin nicht. 2 Bei Aufstellung des Rettungsfahrzeuges der DLRG am rechten Fahrbahnrand würde dieses den \nFließverkehr behindern. Eine auf die DLRG ausgerichtete Ausweisung für den Gehweg würde eine \nAbweichung von den bisher im Land Berlin zugelassenen Zusatzzeichen bedeuten. Die für eine im \nEinzelfall erforderliche Zustimmung zuständige Senatsverwaltung für Umwelt, Mobilität, Verbrau-\ncher- und Klimaschutz hatte für den Fall, dass der Bezirk eine entsprechende Anfrage an diese \nStelle richtet, vorab eine Ablehnung signalisiert. Aus Sicht der SenUMVK Abt. VI besteht keine \nGrundlage zur Genehmigung eines abweichenden Zusatzzeichens, welches lediglich die Parksitua-\ntion der DLRG begünstigt. Eine Notwendigkeit zur Vornahme einer solchen Maßnahme wird anhand \nder dargelegten Sachlage nicht erkannt. Die Voraussetzungen zur Ausstellung einer Ausnahmegenehmigung nach § 46 StVO im Rahmen \ndes Betriebssitzprinzips, analog der Regelungen zu einer Parkraumbewirtschaftungszone, sind hier \n",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "51/VI",
@@ -1443,7 +1490,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Verwaltung des SGA hat die Voraussetzungen für eine Benennung der Grünanlage \nan der Rothenburgstraße/Grunewaldstraße im Ortsteil Steglitz nach der ukrainischen Partnerstadt \n„Charkiw“ geprüft und kommt zum Ergebnis, dass eine Benennung möglich ist. Die bisher namenlose Grünanlage an der Rothenburgstraße/Grunewaldstraße erhielt am \n24.10.2022 in einer öffentlichen Veranstaltung den Namen: „Charkiw Park“. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "52/VI",
@@ -1494,7 +1542,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Der Beschluss fordert das Bezirksamt auf, alles daran zu setzen, zusätzliche Räumlichkeiten \nfür die Kältehilfe vornehmlich in Steglitz zu identifizieren und umgehend bereitzustellen. Bisher wurden folgende Einrichtungen durch den Bezirk genutzt: Jahr \nOrt \nPlätze \nDaten/Träger/Finanz-\nzusage durch SenFin \nfür die Basiskorrektur \nAnmerkung \n2017-I \nBusseeallee \n21 \n9 F \n02.01.-31.03.2017 \nTräger: Milaa \n15€/Pl. Wohnung der Diakonie, \nnur für Frauen (Maria & \nMartha) und stand nur für \neine Kältehilfesaison zur \nVerfügung \n2017-II Königin-Lu-\nise-Str. 98 \n(Ecke \nClayallee) \n30 \nge-\nmischt 15.01.-31.03.17 \nTräger: Milaa \n15€/Pl. \nBIM-Objekt, \nLuis & Luise, 2017/18 Königin-Lu-\nise-Str. 98 \n(Ecke \nClayallee) \n30 \nge-\nmischt \n15.11.17-31.03.18 \nTräger: IB \n17€/Pl. \nBIM-Objekt \nStand nach dieser Saison \nnicht mehr zur Verfügung \n2019/20 Bergstr. 4 \n30 01.11.19-31.03.20 \nTräger: IB \n17€/Pl. \nObjekt des Jugendamtes, \nÜbernahme in das Fachver-\nmögen von Soziales zur \nStandortsicherung erfolgt \n2020/21 Bergstr. 4 \n18 \n01.11.20-30.04.21 \nTräger: DRK \n17€/Pl. \nwegen Corona statt 30 Pl. \nnur 18 Pl. \n2021/22 Bergstr. 4 \n18 \n01.11.21-30.04.22 \nTräger: Neue Chance \n17€/Pl. \nwegen Corona statt 30 Pl. \nnur 18 Pl. \n2022/23 Bergstr. 4 \n30 \noffen \nTräger: Neue Chance \n17€/Pl. \nin Vorbereitung Folgende weitere Einrichtungen wurden geprüft, eine Umsetzung der Kältehilfe war aus ver-\nschiedenen Gründen jedoch nicht möglich: Zeit \nÖrtlichkeit \nSachstand \n2015/2016 Rheinbabenallee \n49 \nfür 20 Pers., Familien u. Frauen, auch tagsüber, wegen \nfehlender Finanzierungszusage durch SenFin nicht zu-\nstande gekommen \n05-2018 \nRatskeller, \nKirchstr.1 \nBegehung hat stattgefunden, \nRäume waren für eine Beherbergung ungeeignet 09-2020 \nSteglitzer Kreisel \nNachfrage bei Firmengruppe durch Koordinierungs-\nstelle, Räumlichkeiten wurden nicht zur Verfügung ge-\nstellt \n09-2020 \nBerliner Str. 1-3 gemäß BVV-Antrag zu prüfen, Leerstand, \nungeeignet \n04-2021 \nHausverwaltun-\ngen \nWerbeaktion: Serienbrief an alle Hausverwaltungen im \nBezirk, kein positiver Rücklauf, siehe Serienbrief in der \nAnlage, insgesamt 119 Hausverwaltungen mit Immobi-\nlienbestand in Steglitz-Zehlendorf wurden angeschrie-\nben \n04-2021 \nKönigin-Luise-\nStr.85 \nObjekt steht leer und befindet sich im Fachvermögen \nSchule (ehemalige Direktorenvilla), \ndie Nutzung ist zustandsabhängig aktuell nicht möglich, ein Eigentümerwechsel mit anschließender Grundsa-\nnierung steht bevor 05-2021 \nDreilinden, Sinti-\nR",
       "erledigtvermerk": "Es wird gebeten, den Beschluss daher als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "53/VI",
@@ -1542,7 +1591,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: In dem Beschluss wird das Bezirksamt dringend ersucht, Räumlichkeiten für 24/7-Einrichtun-\ngen zu identifizieren und noch in diesem Winter bereitzustellen. Zeitgleich soll ein Träger \ngesucht werden, der diese Einrichtung betreiben kann. Die in Berlin bestehenden 24/7-Einrichtungen werden ausschließlich zentral über die Se-\nnatsverwaltung für Integration, Arbeit und Soziales finanziert. Diese wurde im Vorfeld der \nSuche nach Räumlichkeiten deshalb angefragt, ob die Finanzierung einer weiteren Einrich-\ntung im Bezirk Steglitz-Zehlendorf umsetzbar ist. Mit Schreiben vom 27. Juni 2022 der zuständigen Staatssekretärin teilt diese mit, dass „(…) \neine Finanzierung einer zusätzlichen 24/7 Einrichtung in Ihrem Bezirk aus Mitteln der Senats-\nverwaltung für Integration, Arbeit und Soziales derzeit nicht möglich ist. Die Mittel für die bestehenden 24/7 Einrichtungen sind dem Land Berlin im Rahmen einer \nFörderung aus EU-REACT Mitteln zur Verfügung gestellt worden. Grundlage für die Vergabe \nder Leistung war eine Ausschreibung. Die Förderung ist bis Ende 2023 befristet. Mit einer \nbegleitenden Evaluation soll geprüft werden, ob und unter welchen Rahmenbedingungen \n24/7 Einrichtungen zukünftig einen wirkungsvollen Beitrag zur nachhaltigen Beendigung von \nObdachlosigkeit leisten können und welchen Platz sie ggf. im System der Wohnungsnotfall-\nhilfe einnehmen könnten. Erst wenn über eine Versteigung positiv entschieden ist, kann geplant werden, wo und in \nwelchem Umfang zukünftige Einrichtungen am besten zur Zielerreichung der Vermittlung in \ndas Regelsystem beitragen können. (…)“ Der Beschluss kann deshalb nicht erfolgreich umgesetzt werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, ihn als erledigt \nzu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "54/VI",
@@ -1604,7 +1654,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, alle rechtlichen Möglichkeiten auszuschöpfen, die dem Schutz \nder noch erhaltenen Gebäude und der Struktur der ehemaligen Colonie Alsen dienen. Dabei \nsind all jene Straßenzüge und Gebäude miteinzubeziehen, die dem genannten Zweck \ndienen. An den Stellen, wo bereits Gebäude, die zum Ensemble gehörten, abgerissen \nwurden, sollen Hinweisschilder ggf. mit Fotos oder Skizzen auf die Colonie Alsen und die \nGesamtstruktur der Bauarchitektur hinweisen.\nBezirksverordnetenvorsteher\n18.05.2022",
       "beschlussdatum": "18.05.2022"
-    }
+    },
+    null
   ],
   [
     "55/VI",
@@ -1661,7 +1712,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, alle Möglichkeiten für eine Wiedernutzung des Kiosks an der \nRehwiese mit den zuständigen Stellen unter Einbeziehung der Anwohner, die sich hierfür \neinsetzen, zu prüfen und der BVV über das Ergebnis zu berichten.\nBezirksverordnetenvorsteher\n18.05.2022",
       "beschlussdatum": "18.05.2022"
-    }
+    },
+    null
   ],
   [
     "57/VI",
@@ -1717,7 +1769,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Der Beschluss befindet sich in der Umsetzung. Der Stelentext von Dr. Kilian Steiner wurde in der \nSitzung des Ausschusses für Bildung und Kultur am 8. Juni 2024 verabschiedet, die Einweihung \nder Stele findet voraussichtlich am 9.9. oder am 10.9.2024 während der Internationalen Funkaus-\nstellung im Beisein der Geschäftsleitung der Loewe Technology GmbH statt. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "58/VI",
@@ -1772,7 +1825,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nIm Rathaus Zehlendorf wurde zunächst ein Spender im Bauteil A, EG, der öffentlichen Da-\nmentoilette Anfang November 2022 installiert und entsprechend mit Menstruationsartikeln be-\nfüllt. Dieser wurde seit dem 3-mal nachgefüllt. Nach der Beendigung der Wahlvor-/ und Nach-\nbereitungen werden 5 weitere Spender seitens der SE Facility Management angebracht wer-\nden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "59/VI",
@@ -1820,7 +1874,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nMit dem Eigentümer der Immobilie des ‘Bürgertreffpunkt Bahnhof Lichterfelde West‘ (Hans-\nSachs-Str. 4D, 12205 Berlin) konnte im Sommer 2022 eine Verlängerung des Mietvertrags-\nverhältnisses um weitere 10 Jahre geschlossen werden. Derzeit befindet sich die Umbaupla-\nnung (barrierefrei, inklusiv) und die Abstimmung mit dem Eigentümer, der Deutschen Bahn, \nden beteiligten Beauftragten und innerhalb der Fachämter in der Endphase. \nDie Fortführung des Bürgertreffs im „Kulturbahnhof“ ist mithin bis 2032 gesichert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "60/VI",
@@ -1871,7 +1926,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Mit dem Beschluss wird das Bezirksamt ersucht, umgehend sämtliche Möglichkeiten der Un-\nterbringung von Flüchtlingen aus den Kriegsgebieten der Ukraine im Bezirk zu ertüchtigen \nund diese niederschwellig vorzuhalten. Dabei ist auch die Ertüchtigung ehemals genutzter \nEinrichtungen und Gebäude zu prüfen. Folgende Unterkünfte wurden mit Stand 22.06.22 durch den Bezirk geprüft: Standort \nBemerkungen \nTheklastr. 20, 12207 Berlin Hotel Aparion, in Nutzung genommen \nFischerhhüttenstr. 113, 14163 Berlin Hotel Leopold, Nutzung bis 30.06.22 \nAlbrechtstr. 81a, 12167 Berlin Markusgemeinde, wird genutzt \nKönigin-Luise-Str. 55, 14195 Berlin Kirchengemeinde Dahlem, wird genutzt \nAlbrechtstr. 7, 12167 Berlin Wohnheim, Nutzung nicht ausschließlich durch \nUkrainer*innen \nGrunewaldstr. 8-9, 12165 Berlin Hotel Ravenna, trotz bereits erfolgter Einzüge \nPrüfung wegen fehlender Unterlagen noch nicht \nabgeschlossen Weiterhin stehen dezentrale Unterkünfte im Kirchen-Asyl, religiösen Gemeinden und sehr \nvielzählig in Privatunterkünften in Steglitz-Zehlendorf zur Verfügung. Aktuell erfolgt die Prüfung neuer Unterkünfte im Zusammenhang mit der Ukraine durch das \nLandesamt für Flüchtlingsangelegenheiten Berlin (LAF), sodass uns gemeldete Unterkünfte \ndorthin weitergeleitet werden. Der Beschluss wird somit laufend durch Amtshandeln umge-\nsetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "61/VI",
@@ -1922,7 +1978,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: In dem Beschluss wird das Bezirksamt um Prüfung ersucht, ob ein Bus mit mobiler Toilette und Du-\nschen für obdachlose Menschen über das Land kostenfrei ausleihbar ist. Dies wird dann weiter spe-\nzifiziert. Die Senatsverwaltung für Integration, Arbeit und Soziales wurde zu dem Anliegen angeschrieben. Mit Schreiben vom 27. Juni 2022 der zuständigen Staatssekretärin teilt diese mit, dass „(…) \nder Einsatz eines Duschbusses nach dem Prinzip der Versorgung von Hotspots erfolgt, da \ndie Mittel, die für den Duschbus zur Verfügung stehen, einen Einsatz im gesamten Stadtge-\nbiet leider nicht möglich machen. Bei der Identifizierung der Hotspots haben wir unter ande-\nrem die Ergebnisse der Nacht der Solidarität als Anhaltspunkt genommen. Dabei sind zum \neinen die Zahlen der Zählung, zum anderen auch die vorbereitenden Bezirksworkshops in \ndie Beurteilung eingeflossen. Im Bezirksworkshop für Ihren Bezirk wurden Aufenthaltsorte obdachloser Menschen identifi-\nziert, allerdings wurden keine Hotspots ausgemacht, die den Einsatz von Sonderteams erfor-\nderlich gemacht hätten. Bei der Zählung wurden in Steglitz-Zehlendorf 13 obdachlose Per-\nsonen im öffentlichen Raum angetroffen. In anderen Bezirken gab es diesbezüglich deutlich \ngrößere Bedarfe. (…)“ Ein Einsatz eines Duschbusses wird demzufolge nach dem Prinzip der Versorgung von Hot-\nspots geplant; der Bereich Steglitz-Zehlendorf zählt trotz auch hier bestehender Problema-\ntiken nicht dazu. Ein Einsatz in unserem Bezirk ist somit nicht geplant und der Beschluss kann \ndeshalb nicht erfolgreich umgesetzt werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, ihn als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "62/VI",
@@ -1979,7 +2036,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Im Beschluss wird das Bezirksamt ersucht, die bezirkliche Kältehilfe zukunftssicher aufzustel-\nlen. Dazu sollen der Standort Bergstr. 4 und ein weiterer Standort in Steglitz (Nähe Schloß-\nstraße) dauerhaft vorgehalten werden. Zum Standort Steglitz weise ich auf folgende Probleme bei der Akquise neuer Räumlichkei-\nten hin. Diese sind vornehmlich: \na) der geringe Kostensatz (aktuell 17,09 €/Platz/Nacht), mit dem die Kältehilfe finan-\nziert wird. Dieser Betrag ermöglicht den Trägern nicht, eine Nettokaltmiete für das \nzu nutzende Objekt zu zahlen. Es können deshalb nicht einfach geeignete Immobi-\nlien zum Marktpreis angemietet werden, da sich die Kosten aus dem bezirklichen \nHaushalt \nnicht \nrefinanzieren \nlassen. \nund \nb) die baurechtlichen Anforderungen, die an die Immobilien gestellt werden. Eine Käl-\ntehilfeeinrichtung ist baurechtlich ein Beherbergungsbetrieb, der einer Genehmi-\ngung bedarf. Die Zurverfügungstellung beliebiger freier Immobilien ist somit nicht \nausreichend. Aus den vorgenannten Gründen ist es bisher nicht gelungen, weitere Objekte für die Käl-\ntehilfe zugänglich zu machen. Bezüglich des Standortes Bergstr. 4, Berlin-Wannsee ist das Amt für Soziales am Abschluss \neines Erbbaurechtsvertrages für das Objekt interessiert. Folgende Schritte wurden bereits \nunternommen: Durchführung eines Interessenbekundungs-\nverfahrens und Auswahl eines Trägers 10/2019-01/2020 \nBA-Beschluss zur Aufnahme von Verhand-\nlungen mit dem DRK Berlin Südwest \ngGmbH über einen Erbbaurechtsvertrag \n11.02.2020 \nClusterung des Objektes zum Verbleib im \nFachvermögen \n23.08.2019 (noch in der Zuständigkeit von \nJug) \nÜbernahme des Flugstücks 246, Flur 6, Ge-\nmarkung Wannsee (1703 m²) in das Fach-\nvermögen des Amtes für Soziales \n12.02.2020 \nAuftrag an OM DR zum Abschuss eines \nErbbaurechtsvertrages \n19.02.2020 \nHinweis durch OM DR, dass als Vorausset-\nzung für den Abschluss eines Erbbaurechts-\nvertrages eine Grundstücksteilung vorge-\nnommen werden muss \n28.02.2020 \nAuftrag zur Grundstücksteilung an Verm \n28.02.2020 \nBemühungen, Dienstbarkeiten in der Abtei-\nlung 2 des Grundbuches zur Bergstr. 4 \n(Wasserleitungsrechte) löschen zu lassen \nseit 06/2020 bis laufend Erstellung eines Mustervertrages mit dem \nDRK für erste Abstimmungen, Zusendung \nan das DRK \n10.06.2020 \nNutzungsberechnung durch Verm als Vo-\nraussetzung für die Teilung des Grund-\nstücks, dabei Feststellung, dass Grenzzie-\nhung verändert werden muss \n29.10.2020 \nWertermittlung Grund",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "63/VI",
@@ -2023,7 +2081,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Auf Nachfrage bei der Berliner Stadtreinigung (BSR) als zuständige Stelle wurde mitgeteilt, dass an \ndieser Stelle inzwischen ein Papierkorb installiert wurde. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "64/VI",
@@ -2070,7 +2129,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt anzusehen.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "sonstiges-unklar"
   ],
   [
     "65/VI",
@@ -2112,7 +2172,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDer Bebauungsplan-Entwurf 6-30 hat in der Zeit vom 08.08.-16.09.2022 öffentlich ausgelegen. Damit wurde dem Wunsch der BVV, den Offenlegungszeitraum nach den Sommerferien auf vier \nWochen auszudehnen, entsprochen. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "66/VI",
@@ -2165,7 +2226,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass in der \nGoerzalle zwischen Altdorfer-/Bremerstraße und Königsberger-/Drakestraße Tempo 30 \nwegen fehlender Radverkehrsanlagen angeordnet wird.\nBezirksverordnetenvorsteher\n18.05.2022",
       "beschlussdatum": "18.05.2022"
-    }
+    },
+    null
   ],
   [
     "68/VI",
@@ -2225,7 +2287,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Grünflächen ist für rund 270.000 Bäume im Bezirk verantwortlich. Insbesondere \ndie Gewährleistung der Verkehrssicherheit und das Minimieren von Gefahren, welche von diesen \nBäumen potentiell ausgehen könnten, stellen für alle Dienstkräfte täglich eine große Herausforde-\nrung dar. Vor dem Hintergrund steigender Belastungen (intensive Dürreschäden der Jahre 2018/ \n2019/ 2020) kann der gesetzlichen Pflicht mit den zur Verfügung stehenden Ressourcen nur durch \neine gezielte Gewichtung und Prioritätensetzung begegnet werden. Die lokale Verbreitung von Misteln schädigt bei Massenbefall tatsächlich die betroffenen Bäume. \nIm Großen und Ganzen handelt es sich jedoch um ein natürliches Phänomen. Misteln gehören zu \nden heimischen Pflanzen. Schnittmaßnahmen zur Beseitigung der Misteln sind abhängig davon, \nwo sich die Mistel angesiedelt hat. Problematisch ist, dass zur Beseitigung der Mistel die besiedel-\nten Äste entfernt werden müssen, da die Misteln tief im Holz der Wirtsbäume wurzeln. Dies kann \nbeim bearbeiteten Baum zu erheblichen Kronenverlusten führen. Misteln werden vom Amt nur in \nKombination mit anderen Maßnahmen, wie z.B. bei einer Kronenpflege oder der Entfernung von \ntotem Holz entfernt. Alle Dienstkräfte des Fachbereichs Grünflächen unternehmen unter entsprechender Würdigung des \nVerkehrssicherheitsgedankens alles fachlich Notwendige für den Erhalt des gewachsenen Baum-\nbestandes. Insbesondere bei der Jungbaumpflege wird auf eine möglichst gute Entwicklung geach-\ntet. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "69/VI",
@@ -2288,7 +2351,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Für die Erstellung einer integrierten Sportentwicklungsplanung wurden von der Se-\nnatsverwaltung für Inneres und Sport für jeden Bezirk Mittel i.H.v. 100.000,00 € bereit-\ngestellt. Das Bezirksamt Steglitz-Zehlendorf hat das Büro „die raumplaner“ beauftragt, \neinen „Fachplan Sport und Bewegung“ zu erstellen. Dieser Plan dient als Instrument mit qualifizierten Handlungsempfehlungen für eine \nbedarfsgerechte und langfristige Entwicklung von Sport- und Freizeitangeboten im Be-\nzirk und wird laufend fortgeschrieben. Es konnten nur die landeseigenen Sport- und Spielstätten erfasst und berücksichtigt \nwerden. Für die Erfassung der privaten Sport- und Spielstätten wurden keine Haus-\nhaltsmittel des Bezirks zur Verfügung gestellt. Der Sportentwicklungsplan für den Bezirk Steglitz-Zehlendorf wurde am 20.02.2025 \nim Sportausschuss präsentiert ist online auf den Seiten des Sportamtes abrufbar: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/schul-und-\nsportamt/sport/ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "70/VI",
@@ -2343,7 +2407,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Am 14.11.2024 fand im Bürgersaal Zehlendorf die erste Sitzung des Runden Tisch Regionalge-\nschichte als Auftaktveranstaltung mit Akteuren des Kulturamtes, Vertretern von Museen, Initiativen, \nVereinen und Einzelpersonen statt. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "71/VI",
@@ -2400,7 +2465,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Böhm",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "sonstiges-unklar"
   ],
   [
     "73/VI",
@@ -2462,7 +2528,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der WHO-Initiative „Alternsfreundliche Stadt“ liegt ein Rahmen (WHO Age friendly cities Frame-\nwork) zugrunde, der acht miteinander verbundene Lebensbereiche älterer Menschen benennt1. Nach Prüfung der Bausteine, die Fundament der Initiative sind, kommen wir zu dem Ergebnis, dass \nein Beitritt als Bezirk aus folgendem Grund nicht zu realisieren ist: \nBereits im Bereich „Gesundheitsversorgung“ liegt die Zuständigkeit für wesentliche Elemente beim \nLand (Krankenhausplanung, Landespflegeplanung). Nicht die Bezirke entscheiden über die Zulas-\nsung ambulanter Pflegedienste und (teil-)stationärer Einrichtungen zur Versorgung. Sie regeln nicht \ndas Schnittstellen-Management im Übergang zwischen stationärer und ambulanter Versorgung. \nSomit wäre schon der Baustein „Community and Health Care“ des WHO-Rahmens in wesentlichen \nTeilen nicht zu erfüllen. Auch wenn wir derzeit zu dem Schluss kommen müssen, dass wir die mit einem Beitritt verbundenen \nZusagen schon aus rechtlichen Gründen nicht geben können, so ist die Vision eines altersfreundli-\nchen Steglitz-Zehlendorfs genau die, die wir im Bezirk verfolgen. - \n1 Community and health care, Transportation, Housing, Social Participation, Outdoor Spaces, Respekt \nand Social Inclusion, Civic Participation und Employment, Communication and Information Dazu arbeiten wir als Bezirk gemeinsam mit anderen Akteuren der Landesgesundheitskonferenz am \nBerliner Gesundheitsziel „Lebensqualität und Selbständigkeit im Alter erhalten“ sowie an der Um-\nsetzung der seniorenpolitischen Leitlinien des Landes Berlin mit und sind Teil des Prozess 80plus \nder Senatspflegeverwaltung. Auch als Mitglied im Berliner Regionalverbund des Gesunde-Städte-\nNetzwerkes adressieren wir viele Lebensbereiche mit Bezug zur Gesundheit, wenngleich für alle \nAltersgruppen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "74/VI",
@@ -2486,7 +2553,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nVorbehaltlich \nder \nAufhebung \nder \nvorläufigen \nHaushaltswirtschaft \nwird \ndem \nStädtepartnerschaftsverein Steglitz-Zehlendorf für eine Jugendbegegnung mit Kindern aus \nder Partnerstadt Charkiw aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n1.500 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "75/VI",
@@ -2510,7 +2578,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nVorbehaltlich \nder \nAufhebung \nder \nvorläufigen \nHaushaltswirtschaft \nwird \nder \nNachbarschaftsinitiative Paulinenplatz für einen Wasseranschluss am Paulinenplatz aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n5.000 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "76/VI",
@@ -2542,7 +2611,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Grünflächen teilt mit, dass ein Antrag zum „Klimasensiblen Umbau der Waldpark-\nanlagen an der Krummen Lanke und dem Schlachtensee“ beim Bundesinstitut für Bau-, Stadt- und \nRaumforschung (BBSR) im Bundesamt für Bauwesen und Raumordnung (BBR) gestellt wurde. \nEine Förderung wurde in Aussicht gestellt. Derzeit läuft die zweite Phase des Antragsverfahrens. \nDas Gesamtvolumen des Projekts beläuft sich auf 2 Mio €. Wenn diese Mittel bewilligt werden, \nkönnen damit sehr viele der seinerzeitigen Maßnahmenvorschläge der AG Seengebiete umgesetzt \nwerden. Im Rahmen der Maßnahme wird die AG Seengebiete ebenso wie Anwohnende mit ein-\nbezogen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "77/VI",
@@ -2575,7 +2645,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat den BVV-Beschluss zur Kenntnis genommen und besprochen. Das Be-\nzirksamt wird ihn entsprechend umsetzen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "78/VI",
@@ -2603,7 +2674,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Parlamentarischen Ferien der Bezirksverordnetenversammlung Steglitz-Zehlendorf \ndauern vom 07.07.2022 bis einschließlich 19.08.2022.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "79/VI",
@@ -2643,7 +2715,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Geschäftsordnung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin in \nder seit dem 21.06.2007 geltenden Fassung, zuletzt geändert gemäß Beschluss der BVV \nvom 04.11.2021 (Drs.0001/VI), gilt mit der folgenden Maßgabe in der sechsten Wahlperiode \nfort.\nDie Geschäftsordnung tritt am 30.11.2022 außer Kraft.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "80/VI",
@@ -2693,7 +2766,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird (ggf. in Abstimmung mit den zuständigen Stellen) ersucht zu prüfen, ob \ndie Parkplätze der südlichen Straßenseite Finckensteinallee zwischen den beiden \nBushaltestellen Berner Straße und Carstennstraße/Ringstraße abzuordnen sind. \nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "81/VI",
@@ -2749,7 +2823,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas \nBezirksamt \nwird \nersucht, \nsich \nbeim \nSenat \ndafür \neinzusetzen, \ndass \nder \nNachhaltigkeitsaspekt bei Klassenfahrten, insbesondere die Reduzierung von Flugreisen, \nsofern sie nicht aus pädagogischen Gründen indiziert sind, mitbeachtet wird. Damit sollen \nnicht nur Schulen motiviert, sondern auch diejenigen Schulen unterstützt werden, die sich \ndamit bereits intensiv auseinandersetzen.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "82/VI",
@@ -2806,7 +2881,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich wiederholt an die Senatsverkehrsverwaltung gewandt mit der Bitte an \ndieser Örtlichkeit eine Lichtzeichenanlage (LZA) zu errichten. So wurde die seinerzeit \nzuständige Staatssekretärin zuletzt im Februar 2023 gebeten, diese LZA umzusetzen. \nMit Schreiben vom 10.März 2023 teilte die Staatssekretärin mit, dass an dieser Örtlichkeit \naufgrund der sich dort befindlichen sensiblen Einrichtung eine Prüfung erfolge. Sie bat um \nVerständnis dafür, dass die Entscheidungsfindung noch Zeit in Anspruch nehmen würde. Das Bezirksamt hat am 21.03.2025 die Senatsverkehrsverwaltung erneut angeschrieben, die \nDringlichkeit dieser LZA betont und um das Prüfungsergebnis gebeten. Mit Schreiben vom \n04.06.2025 teilte die Staatssekretärin mit: \n„In die Prüfung zur Anordnung einer Lichtzeichenanlage auf der Argentinischen Allee auf Höhe \ndes Siebenendenweges wurden neben des aktuellen und erfreulicherweise unauffälligen \nUnfallzahlen auch die umliegenden Einrichtungen sowie das Fußverkehrsaufkommen \neinbezogen. Bei allen Beobachtungen an der Örtlichkeit wurden insbesondere aufgrund der \nLichtzeichenanlagen an den Bushaltestellen vor und nach dem Hertha-Müller-Haus \nausreichend Lücken im Fahrverkehr festgestellt, die ein sicheres Überqueren der Fahrbahnen \nermöglichen. Dies gilt grundsätzlich auch für Menschen mit gewissen Beeinträchtigungen. \nNach Auswertung aller Erkenntnisse wird daher für eine weitere Lichtzeichenanlage kein \nzwingendes Erfordernis festgestellt. Sollte sich das Aufkommen beim Fahrverkehr oder der \nQuerungsbedarf durch den Fußverkehr in den kommenden Jahren signifikant erhöhen, kann \ndie Prüfung bei Bedarf natürlich erneut aufgenommen werden.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "83/VI",
@@ -2862,7 +2938,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die mit dem Antrag geforderte kontrastreiche Markierung der im öffentlichen Straßenland neu zu \nsetzenden Poller wird bereits durch das SGA praktiziert. Ausnahmen bilden hierbei Bereiche im Umfeld denkmalgeschützter Gebäude, wo eine derartige \nfarbliche Gestaltung aus Belangen des Denkmalschutzes nicht zulässig ist. Der sukzessive Austausch der bestehenden Poller ist auf Grund der erheblichen Anzahl nur mittel \nbzw. langfristig möglich. Hierbei setzt das SGA darauf, die Poller im Rahmen der laufenden Unter-\nhaltung des Straßenlandes bei entsprechenden Beschädigungen gegen kontrastreiche auszutau-\nschen. Besonders störende, schwer wahrnehmbare Poller, welche eine erhebliche Einschränkung der Bar-\nrierefreiheit für Sehbehinderte darstellen, können dem SGA über alle bekannten Zugangskanäle \ngemeldet werden. Das SGA wird dann bemüht sein diese entsprechend seiner finanziellen und per-\nsonellen Kapazitäten auszutauschen. 2 Dieses Vorgehen ist bereits gängige Praxis. Hierzu steht das SGA regelmäßig in Kontakt mit der \nBeauftragten für Menschen mit Behinderung sowie dem Allgemeinen Blinden- und Sehbehinderten-\nverein Berlin (ABSV) und betroffenen Bürgerinnen und Bürgern. Eine weitergehende Einbindung dieser Gremien erscheint somit nicht erforderlich. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "bereits-gaengige-praxis"
   ],
   [
     "84/VI",
@@ -2918,7 +2995,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass in der \nOnkel-Tom-Straße zwischen Riemeisterstraße und Argentinische Allee Tempo 30 (wieder) \neingerichtet wird. \nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "85/VI",
@@ -2970,7 +3048,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, zeitnah wieder Altglas-Container in der Königstraße im Umfeld \nder Supermärkte und dem Rathaus Wannsee aufzustellen.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "86/VI",
@@ -3022,7 +3101,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, im Rahmen eines Pilotprojektes eine ausreichende Anzahl von \nBewässerungssäcken anzuschaffen und sie bei besonders von Trockenperioden \ngefährdeten Bäumen einzusetzen. Das Pilotprojekt soll sowohl an Bäumen im öffentlichen \nStraßenraum als auch an Bäumen auf geschützten bezirkseigenen Grünflächen durchgeführt \nwerden. Die Bewässerungssäcke sollen jeweils in der Zeit zwischen März und November an \njungen Bäumen eingesetzt werden. Nach Ablauf der zweijährigen Modellphase ist der BVV \nüber die Erkenntnisse/Ergebnisse des Einsatzes von Bewässerungssäcken zu berichten.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "87/VI",
@@ -3098,7 +3178,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, in Oberschulen in Steglitz-Zehlendorf kostenlos \nMenstruationsartikel \nbereitzustellen. \nDafür \nsollen \nDamenbinden \nund \nTampons \nin \nunterschiedlichen Größen zur Verfügung gestellt werden. Hierbei soll an fünf Schulen ein \nPilotprojekt installiert werden. Anzahl der Spender pro Schule sind vorher festzulegen. \nEbenfalls wird das Bezirksamt aufgefordert, bei den Jugendfreizeiteinrichtungen bestehende \nAngebote für die kostenlose Bereitstellung von Menstruationsartikeln auszuweiten und ein \nflächendeckendes Angebot für alle Jugendfreizeiteinrichtungen zu schaffen.\nNach einer Evaluation, die rechtzeitig vor Beginn der Verhandlungen und Beratung um den \nnächsten Doppelhaushalt 2024/2025 vorliegen soll, ist eine Ausweitung auf alle Schulen und \nJugendfreizeiteinrichtungen in den Ausschüssen zu diskutieren. In die Planung, Umsetzung \nund Evaluation sollen die Jugendlichen bzw. Schüler*innenvertretungen aktiv einbezogen \nwerden.\nParallel ist zu prüfen, welche Kosten pro Schule und Jugenfreizeiteinrichtung entstehen, \nwelche laufenden Kosten entstehen und wer die Kosten dauerhaft trägt. Die Kosten sind \nkünftig im Bezirkshaushalt abzubilden.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "88/VI",
@@ -3144,7 +3225,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Protokolle der Bezirksamtssitzungen umfassend auf der \nWebsite des Bezirks zu veröffentlichen. Hierzu gehören insbesondere die Tagesordnung, \nBerichte der Abteilungen, allgemeine Beschlüsse und Beschlüsse zu BVV-Anträgen \n(Kenntnisnahmen). Personalangelegenheiten sind davon ausgenommen. \nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "90/VI",
@@ -3200,7 +3282,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, dass zukünftig öffentliche Glascontainer nicht direkt \nan Fahrradwegen aufgestellt werden können oder andere Standorte gefunden werden \nkönnen. Einerseits sind die Scherben aus Containern eine ärgerliche Gefahrenquelle für die \nFahrradschläuche, anderseits ist der nahe Fahrradverkehr eine mögliche Gefahr für die \nContainer-Nutzer.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "91/VI",
@@ -3244,7 +3327,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Möglichkeit einer sicheren Fahrbahnquerung der \nSpanischen Allee zwischen der Straße An der Rehwiese und der Hoiruper Straße zu prüfen.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "92/VI",
@@ -3288,7 +3372,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, dass an der Kreuzung Teltower Damm/Machnower Straße für \nmehr Verkehrssicherheit u.a. eine Fahrradampel (Richtung Zehlendorf-Mitte) installiert wird.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "93/VI",
@@ -3343,7 +3428,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat bereits zum 1.10.2022 die Geschäftsstelle Kulturkorso durch die Aufstockung \nder Stelle einer Beschäftigten des Kulturamtes um eine halbes Vollzeitäquivalent (VZÄ) umsetzen \nkönnen. Es ist gelungen unter der Federführung des Kulturamtes, das Netzwerk Kulturkorso nach \nder langen Corona-Phase wieder zu aktivieren und wichtige gemeinsame Schritte zu vollziehen: 2022 \n \nStrategie-Workshop zur gemeinsamen Ausrichtung der Zusammenarbeit \n \nEinführung regelmäßiger Netzwertreffen \n \nGemeinsames Öffentlichkeitsarbeit für ein Sommerferienprogramm der Akteure \n \nErste größere Gemeinschaftsaktion Kulturkorso-Herbst \n2023 \n \nMarketing-Workshop \n \nDrittmittelakquise über die Wirtschaftsförderung \n \nGemeinsame durch eine Medienagentur unterstützte Aktion „Grüne Geheimnisse entde-\ncken“ Leider musste damals die halbe Stelle separat beschrieben werden (Anforderungsprofil und Be-\ntriebliche Aufgabenkreisbeschreibung), und anschließend zur Bewertung an den Steuerungsdienst \nübergeben werden. Mittlerweile ist die Ausschreibung der Stelle veröffentlicht worden. Der Neu-\nstart der Geschäftsstelle wird i noch im Herbst 2024 erfolgen. Über die Arbeit der Geschäftsstelle \nwir nach der Besetzung im Ausschuss für Bildung und Kultur berichtet. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "94/VI",
@@ -3393,7 +3479,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Durch die Einrichtung bzw. Erweiterung der Radverkehrsanlage im Steglitzer Damm zwischen \nMunsterdamm und Bismarckstraße sind Be- und Entlademöglichkeiten für anliegende Geschäfte \nweggefallen. Als Ausgleich für diesen Wegfall ist im Ergebnis einer Ortsbesichtigung durch verschie-\ndene Fachdienststellen vorgesehen, eine Ladezone in Höhe Steglitzer Damm 29, im Bereich der \nmarkierten Stellplätze, einzurichten. Diese Ladezone soll sich hinsichtlich der zeitlichen Beschrän-\nkung an den vorhandenen Kurzzeitparkplätzen orientieren, liegt in unmittelbarer Nähe der Haus-\nnummern 21 und 22 und bietet mehreren sowie größeren Fahrzeugen Platz für Ladetätigkeiten. Die verkehrsrechtliche Anordnung ist bereits erfolgt. Die Maßnahme wird in absehbarer Zeit umge-\nsetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "95/VI",
@@ -3440,7 +3527,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung ersucht das Bezirksamt, künstlerische Ausstellungen \nund Aufführungen auf öffentlichen Straßen und Plätzen zu fördern und dafür gestellte \nAnträge auf Sondergenehmigungen zu unterstützen.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "96/VI",
@@ -3490,7 +3578,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob\na) die Verkehrsinsel in der Gallwitzallee in südliche Richtung verlegt werden kann bzw. eine \nVerkleinerung der Verkehrsinsel möglich ist,\nb) im Lerbacher Weg unmittelbar nach der Einfahrt von der Gallwitzallee, auf der sodann \nrechten Seite, bis zur Einfahrt des Besucherparkplatzes die bereits vorhandenen Bügel \nunmittelbar an die Fahrbahn versetzt werden können, um das verkehrswidrige Parken von \nFahrzeugen zu verhindern, alternativ ist in diesem Bereich zumindest ein absolutes \nHalteverbot anzuordnen,\nc) eine Anbindung und Zuwegung des Grundstückes Liegenschaft THW an das Gelände der \nPolizei möglich ist, um hierüber die Beweglichmachung von großen Fahrzeugen zu \nermöglichen,\ndamit zu jeder Tages- und Nachtzeit mit allen Fahrzeugen des THW eine Einsatzbereitschaft \ndes THW aus verkehrstechnischer Sicht gewährleistet werden kann.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "97/VI",
@@ -3542,7 +3631,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, durch das Amt zu prüfen, welche Möglichkeiten dieses sieht, in \nder Crailsheimer Straße/Ecke Attilastraße den Schulweg für Schulkinder zu sichern, aber \nauch das Queren der Straße für Seniorinnen und Senioren zu erleichtern.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "98/VI",
@@ -3589,7 +3679,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die zuständigen Stellen dazu aufzufordern, die Sanierung des \nhistorischen Bahnhofsgebäudes Lichterfelde-Ost (Sicherung und Instandsetzung der \nBahnhofsdecke, Instandsetzung und Vervollständigung der Bahnhofstüren sowie Innen- und \nAußenanstrich) zeitnah umzusetzen.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "99/VI",
@@ -3639,7 +3730,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Da die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) auf der \nBerliner Seite und das Ministerium für Infrastruktur und Landesplanung (MIL) auf Brandenburger \nSeite als Bestellende der Verkehrsleistung für zusätzliche Wagons der S-Bahn zuständig sind, \nwurde SenUMVK am 16.02.2023 angeschrieben und um Prüfung des Beschlusses gebeten. Die SenUMVK hat in Abstimmung mit dem MIL des Landes Brandenburg mit Schreiben vom \n27.03.2023 Stellung bezogen: Aktuell würde die S-Bahn-Linie S25 (Teltow Stadt – Henningsdorf) mit 6-Wagen-Zügen und die S-\nBahn-Linie S26 (Teltow Stadt – Waidmannslust) mit 4-Wagen-Zügen verkehren. Die Erweiterung der Platzkapazitäten sei Bestandteil der mittel- und langfristigen Angebotsplanung \nder Länder Berlin und Brandenburg. Im Rahmen des Weiterbetriebs der Baureihe 480 und der damit einhergehenden besseren Fahr-\nzeugverfügbarkeit sei für die S-Bahn-Linie S26 geplant, die Zuglänge im Jahresplan 2024 von vier \nauf sechs Wagen zu erweitern. 2 \nFür die S-Bahn-Linie S25 sei die maximale Zuglänge bereits ausgeschöpft, da die Bahnsteiglänge \nauf dem nördlichen Streckenast von S-Bahnhof Schönholz (ausschließlich) bis zum S-Bahnhof Hen-\nningsdorf \n(einschließlich) \nbislang \nlediglich \nden \nEinsatz \nvon \nsechs \nWa gen ermöglicht. Insgesamt gebe es bereits seit Ende 2021 Planungsverträge, die auf eine Finanzierung der Pla-\nnungsleistung für die Bahnsteigverlängerung abzielen. Mit einer Umsetzung sei allerdings nicht vor \nEnde der 2020er Jahre zu rechnen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "100/VI",
@@ -3677,7 +3769,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, ein Verfahren zur Umbenennung des Rosemeyerwegs in \nNikolassee einzuleiten; dabei sollen auch die Bürgerinnen und Bürger in Nikolassee \ninformiert und mitgenommen werden.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "101/VI",
@@ -3724,7 +3817,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass die \nFußgänger*innenampel in der Wismarer Straße auf der Höhe Prettauer Pfad unmittelbar \noder nach kurzer Wartezeit auf einen Überquerungswunsch mit Grün reagiert.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "102/VI",
@@ -3763,7 +3857,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, am Haus Ahornstraße 15 oder in unmittelbarer Nähe eine \nhistorische Gedenktafel oder eine andere geeignete Form der Erinnerung anzubringen, die \nAuskunft über die Geschichte des Hauses und die verschiedenen Nutzungen gibt.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "103/VI",
@@ -3811,7 +3906,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Die Informationen über das Förderprogramm wurden an alle Amtsleitungen mit der Bitte \num Kenntnisnahme und Weiterleitung über die eigenen Verteiler verschickt. Die einzelnen \nÄmter müssen aufgrund eines dezentralen Fuhrparks selbst entscheiden, ob sie sich E-Las-\ntenfahrräder über ihre Haushaltsmittel anschaffen möchten. Des Weiteren wurden die Informationen als Hinweis auf der Internetseite Umweltfreundliche \nMobilität in Steglitz-Zehlendorf veröffentlicht (https://www.berlin.de/ba-steglitz-zehlen-\ndorf/politik-und-verwaltung/beauftragte/klimaschutz/artikel.471144.php). Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "104/VI",
@@ -3853,7 +3949,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Tim Richter",
       "antwort": "Hierzu wird Folgendes berichtet: Die Machbarkeit einer angemessenen Würdigung des ehrenamtlichen Engagements in der Flücht-\nlingshilfe wurde durch das Bezirksamt geprüft. In der Vergangenheit wurden hierzu verschiedene \nIdeen entwickelt und auf ihre Umsetzbarkeit hin untersucht. Dazu zählte unter anderem die Planung \neines Sommerfestes im Botanischen Garten mit begleitenden Informationsständen, um zugleich in-\nteressierte Bürgerinnen und Bürger für ein ehrenamtliches Engagement zu gewinnen und beste-\nhende Initiativen zu vernetzen. Eine Umsetzung dieser und weiterer Ansätze konnte jedoch aufgrund der haushalterischen Lage \nnicht erfolgen. Zudem ergab die Prüfung möglicher Drittmittel keine tragfähigen Finanzierungsmög-\nlichkeiten. Darüber hinaus fehlten bislang koordinierende Stellen, die eine entsprechende Planung, \nDurchführung und nachhaltige Begleitung solcher Formate hätten gewährleisten können. Mit der inzwischen erfolgten bzw. vorgesehenen Schaffung entsprechender personeller Strukturen \nhaben sich die Rahmenbedingungen verbessert. Die Stelle Koordination für Ehrenamt und Gesell-\nschaftliches Engagement wurde zum 01.02.2026 besetzt, die Besetzung der Stelle Koordination, \nSteuerung, Weiterentwicklung und inhaltliche Begleitung der Freiwilligenagentur wird zum \n01.06.2026 erfolgen. Vor diesem Hintergrund wird aktuell erneut geprüft, wie eine angemessene Würdigung des ehren-\namtlichen Engagements im allgemeinen Sinne unter den Bedingungen der vorläufigen Haushalts-\nwirtschaft gestaltet werden kann. Dabei werden insbesondere die Grundsätze der Sparsamkeit und \nWirtschaftlichkeit beachten und bei der Planung mit einbezogen. Zur Auslotung und Festsetzung konkreter Möglichkeiten ist zudem ein Vernetzungstreffen mit den zu-\nständigen Akteurinnen und Akteuren noch vor den Sommerferien geplant. Ziel dieses Austauschs ist \nes, gemeinsam tragfähige und ressourcenschonende Formen der Anerkennung und Würdigung des \nehrenamtlichen Engagements zu entwickeln. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "105/VI",
@@ -3901,7 +3998,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Frist für eine Antragsstellung des Förderaufrufes für investive Kommunale Klimaschutz-\nModellprojekte im Rahmen der Nationalen Klimaschutzinitiative (NKI) endete am 31.10.2024. \nIm Bewerbungszeitraum gab es kein geeignetes Projekt, welches sich für das Förderpro-\ngramm eignete. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "106/VI",
@@ -3949,7 +4047,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Das Bezirksamt hat die Einführung von kontaktlosen Zahlungsmethoden mittels e-Payment-\nKomponenten des Landes Berlin geprüft und ist an die dafür zuständige Senatskanzlei - \nAbteilung V - herangetreten. Aufgrund der Tatsache, dass es sich um eine Maßnahme handelt, die im Rahmen der LHO \nund des e-Government-Gesetzes Aufgabe des Senats ist, ist derzeit eine Insellösung nur für \nSteglitz-Zehlendorf nicht möglich. In der Senatskanzlei wird derzeit die Einführung von \nPayPal durchgeführt, GooglePay und ApplePay sind noch nicht im Fokus. Die Senatskanzlei wird nach eigenem Bekunden diesen Service dann einrichten, wenn auch \nalle Bezirke die Zahlmöglichkeit nutzen. Einzelne Bezirke sind jedoch noch skeptisch. Für die Einführung von PayPal ist die Errichtung eines sogenannten „Business-Kontos“ von \nPayPal notwendig, für welches eine natürliche Person Daten hinterlegen muss. Da in der \nVergangenheit fraglich war, ob es eine leitende Person des Amtes für Bürgerdienste oder \neine leitende Person in der Serviceeinheit Finanzen sein sollte, wurde diese Frage im Som-\nmer 2024 dahingehend geklärt, dass das Business-Konto durch den Leiter des Amtes für \nBürgerdienste eröffnet werden wird. Die Nutzung erfolgt somit zunächst ausschließlich \ndurch das Amt für Bürgerdienste. Sollten andere Ämter ebenfalls PayPal anbinden wollen, ist dann zu klären, ob im Rahmen \neiner Verwaltungsvereinbarung mit dem Amt für Bürgerdienste eine Ausweitung von diesem \nautorisiert wird oder eine Eröffnung eines zentralen Business-Kontos bei der Serviceeinheit \nFinanzen erfolgt. Der Natur der Sache folgend wird PayPal als Zahlungslösung von der Senatskanzlei nur für \nOnline-Dienstleistungen angeboten. Für die Bürgerämter entstünden dann Gebühren, die \nvorrangig im BackOffice verursacht würden. Der tatsächliche Mehrwert besteht allerdings \nfür das Standesamt. Hier könnte der Service für die Bürgerinnen und Bürger, die eine Ur-\nkunde online bestellen wollen, deutlich ausgeweitet werden. Das vorgeschlagene Vorgehen (Eröffnung eines Business-Kontos durch das Amt für Bürger-\ndienste und Ausweitung nur auf Basis einer Verwaltungsvereinbarung oder zentrale Eröff-\nnung eines Business-Kontos) wurde gewählt, um die Einführung von PayPal zu beschleuni-\ngen. Die Senatskanzlei prüft derzeit, ob eine Einführung mit einzelnen Piloten im Sinne einer „Ko-\nalition der Willigen“ möglich ist. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "107/VI",
@@ -3990,7 +4089,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Der Beschluss wurde zeitnah umgesetzt. Da zeitgleich der Park an der Schwartzschen Villa in Soli-\ndarität mit der Partnerstadt Charkiw nach dieser benannt werden sollte, wurde dem neuen Platz-\nbenennungsschild ein Text im Gedenken an Boris Romantschenko hinzugefügt. Dieser lautet wie \nfolgt: \nIn Gedenken an die vielen Opfer des am 24. Februar 2022 begonnenen \nrussischen Angriffskrieges gegen die Ukraine. \nEines der Opfer in Charkiw war Boris Romantschenko (20.1.1926-\n18.3.2022). Als Überlebender der Konzentrationslager Buchenwald, Mit-\ntelbau-Dora und Bergen-Belsen und langjähriger Vizepräsident des In-\nternationalen Komitees Buchenwald-Dora setzte er sich jahrzehntelang \nfür die Erinnerung an die NS-Verbrechen ein. \nDie Platzbenennung fand im Oktober 2022 statt. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "108/VI",
@@ -4028,7 +4128,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Zusammenarbeit mit den zuständigen Stellen darauf \nhinzuwirken, dass am Asternplatz in Steglitz die LZA (Ampel) für Radfahrer*innen in \nFahrtrichtung Zehlendorf zeitgleich mit der LZA für Fußgehende von Rot auf Grün wechselt.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "110/VI",
@@ -4069,7 +4170,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich beim Senat für die Nutzung von digitalen Lösungen, z.B. \nScan-Fahrzeugen, im Rahmen der Kontrolle der Parkraumbewirtschaftung einzusetzen und \nsich ggf. als Pilotbezirk zur Verfügung zu stellen. Selbstverständlich ist hierbei der \nDatenschutz zu gewährleisten.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "111/VI",
@@ -4109,7 +4211,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird beauftragt, sich bei der zuständigen Senatsverwaltung für Bildung, \nJugend und Familie dafür einzusetzen, dass Eltern ihre Kinder zum Schuljahr 2023/24 an \nallen Grund- und Oberschulen im Bezirk online anmelden können.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "112/VI",
@@ -4150,7 +4253,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, E-Roller, die so abgestellt sind, dass sie andere \nVerkehrsteilnehmende gefährden, zu entfernen und die verantwortlichen NutzerInnen mit \neinem Bußgeld zu belegen, wie z.B. das Ordnungsamt Neukölln es handhabt.\nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
-    }
+    },
+    null
   ],
   [
     "113/VI",
@@ -4218,7 +4322,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich nach Kontaktaufnahme mit dem für das Programm „Demokratie \nleben!“ zuständigen Bundesministerium für Familie, Senioren, Frauen und Jugend um die \nAufnahme in das Programm als „Partnerschaft für Demokratie“ beworben und wird seit März \n2023 als solche gefördert. Die Partnerschaft für Demokratie Steglitz-Zehlendorf hat 2023 \nbegonnen die notwendigen Grundlagen für die Arbeit zu schaffen und konnte bereits 2024 \nviele Projekte fördern. Auch in der neuen Förderperiode von 2025-2032 ist Steglitz-\nZehlendorf im Bundesprogramm vertreten. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "117/VI",
@@ -4256,7 +4361,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Weg, der am Grundstück Potsdamer Chaussee 49a (Wohnort der Familie Muthesius) vorbei-\nführt, ist gewidmetes Straßenland (Fußweg). Er beginnt an der Potsdamer Chaussee und endet \nam Rehsprung. Eine Skizze ist beigefügt. \nGem. AV Benennung Nr. 1 Abs. 3 a ist eine Doppelbenennung in diesem Fall nicht gegeben, da \ndie Vornamen dem Nachnamen hinzugefügt wurden. So differenziert sich der hier zu benennende \nAnna-und-Hermann-Muthesius-Steig von der in Steglitz befindlichen Muthesiusstraße. Die ande-\nren Berliner Bezirke wurden formal abgefragt, ob eine Doppelbenennung vorliegen würde. Aus der Sicht des Fachbereichs Kultur spricht nichts gegen eine Benennung des Weges nach \nAnna und Hermann-Muthesius. Somit hat der Benennungsvorgang begonnen. Im nächsten Schritt erhält der Weg eine Nummer \nvom Landesamt für Statistik und die Benennung wird im Amtsblatt veröffentlicht werden. Zur Benennungsfeier werden selbstverständlich die Bezirksverordneten und die Mitglieder der Kir-\nchengemeinde Nikolassee eingeladen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt anzusehen.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "119/VI",
@@ -4280,7 +4386,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFür den Schiedsamtsbezirk 4 wird\nMaria Berning\nals Schiedsperson gewählt.\nAls Nachrückerinnen werden\n1) Brigitte Römer\n2) Christina Bab\ngewählt.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "120/VI",
@@ -4297,7 +4404,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "14.09.2022",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "121/VI",
@@ -4313,7 +4421,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "122/VI",
@@ -4336,7 +4445,8 @@ var D=[
         }
       ],
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "123/VI",
@@ -4352,7 +4462,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "124/VI",
@@ -4376,7 +4487,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Freundeskreis der Musikschule Steglitz-Zehlendorf e.V. wird für die Ausrichtung der \nInternationalen 30. Steglitzer Tage für Alte Musik aus Sondermitteln der BVV ein Betrag bis \nzur Höhe von\n5.600 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "125/VI",
@@ -4406,7 +4518,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Büro des Bezirksstadtrats hat sich am 13.04.2023 im Sinne der Zuständigkeit an die Senats-\nverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz gewandt und sich über die Pläne \nder Senatsverwaltung bzw. der Berliner Forsten im Hinblick auf die Wildschweinpopulation und das \nvermehrte Auftreten von Schäden an Unterstreifen und in Grünanlagen informiert. Mit Schreiben vom 05.05.2023 teilt die Senatsverwaltung mit: „Die Nahrungsgrundlage durch die \nverhältnismäßig warmen Winter in Folge des Klimawandels und nicht zuletzt durch das aktive Füt-\ntern der Berlinerinnen und Berlinern ist für die Wildtiere ausgesprochen gut. Um eine nachhaltige \nReduzierung der Wildschweinpopulation im Bezirk Steglitz-Zehlendorf und den angrenzenden Be-\nzirken zu erreichen, werden seit Jahren immer wieder verstärkt auf der Fläche Berlins zusätzlich zu \nder Jagdausübung durch Jagdausübungsberechtigte der Berliner Forsten Begehungsscheininhabe-\nrinnen und –inhaber in den nahegelegenen Verwaltungsbezirken sowie im Stadtgebiet sehr enga-\ngierte Stadtjägerinnen und –jäger eingesetzt. Insbesondere, wenn Schäden, wie in Ihrem Schreiben \nzu Unterstreifen und in Grünanlagen dargelegt, sichtbar und angezeigt werden, erfolgt der Einsatz \nvon Stadtjägerinnen und Stadtjäger. Darüber hinaus betreibt die Senatsverwaltung für Umwelt, Mo-\nbilität, Verbraucher- und Klimaschutz gemeinsam mit den Berliner Forsten und dem Wildtiertelefon \nintensive Aufklärungsarbeit. Insbesondere wird die Bevölkerung wiederholt auf das Fütterungsverbot \nhingewiesen.“ Des Weiteren hat das Bezirksamt am 07.11.2023 eine Pressemitteilung zum Thema \n„Wildschweine füttern ist verboten“ veröffentlicht und dieser VzK beigefügt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "126/VI",
@@ -4438,7 +4551,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Vor dem Bauteil E wurde seitlich ein Standaschenbecher mit Bodenverankerung und hoher \nKapazität (26 Liter) aufgebaut. Dabei wurden die Vorgaben des Brandschutzes hinsichtlich der \nFreihaltung der Fluchtwege und die Einhaltung der Dienstvereinbarung Nichtraucherschutz \nberücksichtigt. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "127/VI",
@@ -4472,7 +4586,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Das Bezirksamt setzt sich seit Jahren für den Erhalt der griechischen Gemeinde in der Mittelstraße \nein. In Verbindung mit einem Schreiben des Griechischen Botschafters an den Regierenden Bürger-\nmeister hat das Bezirksamt die Senatskanzlei über die problematische Situation aufgeklärt und das \nSchreiben der hellenischen Gemeinde an die BIM vom April 2026, welches die Wichtigkeit des \nStandortes für das griechische Leben in Berlin und im Bezirk Steglitz-Zehlendorf hervorhebt, beige-\nfügt. In dem Schreiben an den Regierenden Bürgermeister machte das Bezirksamt abermals deut-\nlich, welche Relevanz die Standorte Mittelstraße 33 und 32 für das kulturelle und religiöse griechi-\nsche Leben im Bezirk haben und das sich eingesetzt werden muss, den Standort für die Diversität in \nder Stadt zu erhalten. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "129/VI",
@@ -4538,7 +4653,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt teilt mit, dass es nunmehr gelungen ist, einen Standort am Ende \nder Glienicker Straße zu finden, der als genehmigungsfähig für die Aufstellung eines Glas-Contai-\nners angesehen wurde, sodass der derzeit in der Glienicker Straße / Arnold-Knobloch-Ring befind-\nliche Container in absehbarer Zeit dorthin umgesetzt werden kann. \nDer neue Standort liegt in der Glienicker Straße in der Buswendekehre am Hahn-Meitner-Platz. \nFrühere verkehrliche Bedenken der Straßenverkehrsbehörde gegen den neuen Standort bestan-\nden darin, dass zahlreiche Verkehrsteilnehmende mit ihren Fahrzeugen unzulässigerweise in die \nBuswendekehre einfahren würden, um einen kurzen Weg zum Glas-Container zu haben. Diese \nBedenken wurden bei der Standort-Wahl jetzt anders bewertet. Es bleibt zwar weiterhin zu vermu-\nten, dass künftig Personen mit dem Fahrzeug unmittelbar vor dem Container halten werden, um \nGlas-Gut entsorgen zu können. Dennoch ist der neue Standort als besser geeignet anzusehen, da \ninsbesondere die Mindestentfernung zum nächstgelegenen Wohnobjekt von bislang 18 m auf jetzt \nüber 40 m deutlich erhöht werden konnte. Der vorliegenden lärmbezogenen Beschwerden wird mit \ndieser Standortverlegung Rechnung getragen. \nDie Straßenverkehrsbehörde hat bereits die entsprechende Ausnahmegenehmigung erteilt. Sofern \ndie Fläche in geeigneter Weise befestigt ist, kann die Umsetzung des Glas-Containers erfolgen, \nvoraussichtlich noch im laufenden Jahr. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "130/VI",
@@ -4604,7 +4720,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Grünflächen teilt mit, dass er im Rahmen seiner Unterhaltungstätigkeiten die \nWege auf den Friedhöfen verkehrssicher hält. Neben den Reparatur-Arbeiten durch die Mitarbei-\ntenden des Fachbereichs Grünflächen, die fortlaufend erfolgen, werden im Jahr 2023/2024 circa \n800.000 € für die Wegesanierung von überalterten Wegedecken investiert (circa 150.000 € aus \ndem Titel der Grünflächenunterhaltung und 650.000 € aus der Investitionsmaßnahme Wegesanie-\nrung auf den Friedhöfen). Der Pflegezustand der Wege und des Begleitgrüns, der auf allen zehn \nFriedhöfen existiert, ist unter Berücksichtigung des Alters und des Nutzungsdrucks auf den Fried-\nhöfen, als gut zu bewerten. Dies gilt auch für den Friedhof Wannsee - Friedenstraße. Die Toiletten für die Besuchenden der Friedhöfe werden regelmäßig gewartet. Die Toilette auf dem \nFriedhof Friedenstraße, die aufgrund von Abrissarbeiten 2021/2022 temporär abgebaut werden \nmusste und schnellstmöglich als „Öko-Toilette“ wieder in Betrieb ging, ist nach Aussage der Mit-\narbeitenden und des Betreibers „Eco Toiletten, stets sauber und unterliegt einem wöchentlichen \nWartungs- und Reinigungszyklus. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "133/VI",
@@ -4684,7 +4801,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, \n1) die Maßnahmen zur Sanierung der Hüttenwegsiedlung (Parkviertel Dahlem), insbesondere der \nTaylor- und Flanaganstraße, schnellstmöglich zu realisieren. \n2) Fördermöglichkeiten auf Landes-, Bundes- und EU-Ebene zu evaluieren, um weitere Maßnahmen \nfinanziell zu ermöglichen, die derzeit über das eingestellte Budget nicht abgedeckt werden können, \naber von den Anwohnerinnen und Anwohnern mehrheitlich eingefordert werden. Diese könnten \nz.B. sein: \na) die Verbesserung der Verkehrssicherheit, z.B. durch gesonderte Auto-Haltezonen an der Kita \nund Verkehrsberuhigungen auf Höhe der Spiel- und Bolzplätze und ebenfalls an der Kita;\nb) der Ausbau der Straßenbeschilderung, insbesondere der Vorfahrtsregeln;\nc) eine Aufwertung des Wasserabflusses zur Vorbeugung von Überschwemmungen;\nd) verkehrsberuhigende Maßnahmen, vor allem in der Flanaganstraße\ne) Ladestationen für E-Autos; \nf)\nAusbau der Parkmöglichkeiten;\ng) Befestigung des Durchganges von der Flanaganstraße zur Clayallee (auf Höhe der McDonalds-\nFiliale);\nh) Aufbau eines Radweges von der Flanaganstraße zur Kreuzung Clayallee/Königin-Luise-Straße;\ni)\neine einspurige Engstelle im Bereich des Kita-Zugangs Flanaganstraße vorzusehen.\n3) die Anwohnerinnen und Anwohner binnen 3 Monaten nach Beschluss dieses Antrages über den \nSachstand \nder \ngeplanten \nMaßnahmen \nzu \ninformieren \nund \nin \nBezug \nauf \nPunkt \n2 \nBeteiligungsmöglichkeiten in Hinblick auf eine etwaige Priorisierung der Anliegen anzubieten. \nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "134/VI",
@@ -4748,7 +4866,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich bei den zuständigen Stellen dafür einzusetzen, dass \nvor der Sanierung der Brücke über den Teltower Damm und zur barrierefreien Erschließung \ndes Regionalbahnsteigs der Ausgang und Durchgang Postplatz/Machnower Straße für den \nS-Bahnhof Zehlendorf errichtet wird. Es soll sich weiterhin dafür einsetzen, dass für den S-\nBahnhof Zehlendorf kein Ausgang unter der Brücke eingebaut wird. \nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "135/VI",
@@ -4810,7 +4929,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Wohnraumbündnis wurde durch das Bezirksamt, vertreten durch die Bereiche Stadtent-\nwicklung, Bürgerdienste und Soziales sowie Jugend und Gesundheit erneut einberufen. Ein \nAuftakttermin fand am 08.Januar 2025 statt, ein weiteres Treffen am 01. Juli 2025. Vorgesehen \nsind im weiteren Verlauf halbjährliche Treffen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "136/VI",
@@ -4890,7 +5010,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, das Parken auf unbefestigten Unterstreifen und Baumscheiben \nim Schweizer Viertel (begrenzt durch Finckensteinallee, Goerzallee und Carstennstraße) dort \nzu untersagen bzw. zu unterbinden, wo Pflanzen und Tiere dadurch erheblich beeinträchtigt \nwerden. Dort, wo Parken bereits verboten ist, soll die Einhaltung vermehrt kontrolliert \nwerden.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "137/VI",
@@ -4962,7 +5083,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat im Rahmen eines Gutachtenauftrages mit Fördermitteln des Bundesmi-\nnisteriums für Digitales und Verkehr die Erstellung eines „Elektromobilitätskonzept 2030“ in \nAuftrag gegeben. Das Konzept soll aus einer Bestandsanalyse mit tatsächlichem Mobilitäts-\nbedarf, einer Auflistung an Möglichkeiten des Ladesäuleninfrastruktur-Sharings, einem ge-\nmeinsam erarbeiteten Maßnahmenkonzept und dem tatsächlichen Umsetzungsplan beste-\nhen. Der Gutachtenauftrag wird voraussichtlich bis Ende Juli 2024 Ergebnisse liefern, die anschlie-\nßend etappenweise entsprechend umgesetzt werden. Hierin einbezogen ist auch eine mögli-\nche Planung eines Fuhrparks für das Bezirksamt, unabhängig von einer Zuordnung der jewei-\nligen Ämter. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "138/VI",
@@ -5018,7 +5140,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, mit den zuständigen Senatsverwaltungen in Verhandlungen zu \ntreten, um mehr Personal- und Sachmittel für den immer komplizierter werdenden Erhalt und \ndie dringend erforderlichen Neupflanzungen von Bäumen in Steglitz-Zehlendorf zu erhalten.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "139/VI",
@@ -5075,7 +5198,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die im Antrag geforderte Überprüfung der Sichtbarkeit von Straßenbenennungsschildern sowie \nderen Reinigung bzw. Austausch bei Beschädigungen erfolgt bereits. Das im Antrag geforderte Vorgehen stellt eine gesetzliche Pflichtaufgabe im Rahmen der Straßen-\nbaulast dar und ist übliche Verwaltungspraxis. Gemäß den Ausführungsvorschriften zu § 7 des Berliner Straßengesetzes – Überwachung des \nbaulichen Zustandes der öffentlichen Straßen Berlins – (AV Straßenüberwachung) werden die öf-\nfentlich gewidmeten Straßen regelmäßig begangen und auf etwaige Mängel / Schäden hin über-\nprüft. Zu den zu überwachenden Objekten gehört gemäß Nr. 1 Abs. 3 Bst. c.) AV Straßenüberwachung \nauch das Straßenzubehör, worunter die Straßenbenennungsschilder zu subsumieren sind. Bei Schäden / oder im Falle der Unlesbarkeit wird der Mangel erfasst und im Rahmen der Stra-\nßenunterhaltung zeitnah durch Reinigung oder den Ersatz des Schildes behoben. Hierzu sei aber angemerkt, dass die Straßen je nach Einstufung in die Begehungsklassen gemäß \nAV Straßenüberwachung unterschiedlich häufig begangen und auf Schäden kontrolliert werden. 2 In Fällen, in denen Schäden während dieses Zeitraums entstehen, bekommt das SGA nur Kennt-\nnis von diesen Stellen, wenn entsprechende Meldungen durch die Polizei, das Ordnungsamt oder \nBürgerinnen und Bürger eingehen. Auf Grund des vorgegebenen Kontrollturnus kann somit leider nicht vollständig ausgeschlossen \nwerden, dass es vereinzelt zu Schäden im Straßenland kommt, von dem das SGA erst im Rahmen \nder darauffolgenden Kontrolle Kenntnis erlangt. Eine Beseitigung aller auftretenden Schäden im „Echtzeitmodus“ ist jedoch bedingt durch die \nGröße der zu unterhaltenden Fläche schlicht nicht möglich. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "bereits-gaengige-praxis"
   ],
   [
     "140/VI",
@@ -5125,7 +5249,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \n„Das Bezirksamt hat die bezirkliche Straßenbenennungsliste auf der Seite des zuständigen \nStraßen- und Grünflächenamt veröffentlicht: \nhttps://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/strassen-und-\ngruenflaechenamt/tiefbau/artikel.313691.php \nVerzeichnisse bezirklicher Straßennamen sind leicht online von Anbietern aufzufinden. Verlinkungen auf Private Anbietern finden auf den Seiten des Bezirksamtes nicht statt, um \nkeinen der Anbieter zu bevorzugen.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "141/VI",
@@ -5188,7 +5313,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Das Bezirksamt Steglitz-Zehlendorf ist bei dem Neubau und Sanierung von Sportan-\nlagen an das Planungshandbuch - Fachraum Sport des Landes Berlin gebunden. Die \nentsprechend angespannten Platzkapazitäten in den Sporthallen sind dem Bezirksamt \nbekannt. Das Sportamt befindet sich im ständigen Austausch mit den Sportvereinen in \nZusammenarbeit mit den Schulsporthallen-Standorten, um die entsprechenden Platz-\nbedarfe zu decken. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "142/VI",
@@ -5241,7 +5367,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, für eine Erweiterung des Angebots an geschützten \nFahrradabstellanlagen und einfachen Fahrradbügeln weitere partizipative Verfahren \numzusetzen, z.B. Internetseite, FAQ, und Abfrage bei Schulen. Hierbei sollten auch \nniedrigschwellige Verfahren umgesetzt werden, damit auch Kinder und Jugendliche ihre \nVorschläge leicht einbringen können. \nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "143/VI",
@@ -5291,7 +5418,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob sich der Bezirk mit einem modellhaften Projekt \nauf das Förderprogramm bewerben kann. Das Projekt muss das Radfahren in der Freizeit \nund für den Liefer- und Transportverkehr sicherer und attraktiver machen. Programmlaufzeit: \n01.09.2021 bis 31.10.2024.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "145/VI",
@@ -5343,7 +5471,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, auch durch Nachfrage bei den zuständigen Stellen:\n1) Welche Sicherungsmöglichkeiten es gibt, die Gefahrenzone Fahrradspur beim Ein- bzw. \nAusstieg für beeinträchtigte Personen an der Clayallee 54 in Dahlem zu verbessern?\n2) Wie die Verkehrssicherheit beim Überqueren der Clayallee in Höhe Finkenstraße zur \nBushaltestelle X10, Brücke-Museum/Kunsthaus Dahlem in Fahrtrichtung Zehlendorf, \nerhöht werden kann?\n3) Ob es die Möglichkeit gibt, Querungshilfen wie Bedarfsampel oder Zebrastreifen zu \ninstallieren?\n4) Ob mit Hinweisschildern oder Displays, ähnlich wie bei Schulen oder Kitas, die \nAufmerksamkeit von motorisierten Fahrzeugführenden und Radfahrenden erhöht wird?\n5) Ob eine Einführung von Tempo 30 in diesem Bereich eine Verbesserung für die betagten \nDamen und Herren bringen könnte?\n6) Ob sogenannte „speed-breaker“ einen Einsatz finden könnten?\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "146/VI",
@@ -5389,7 +5518,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich im Zuge eines Neubaus der Taylorstraße beim Senat und \nden Berliner Wasserbetrieben dafür stark zu machen, dass im öffentlichen Raum moderne \nMöglichkeiten des nachhaltigen Regenwassermanagements (Regenentwässerung und \nRegenwasserspeicherung) im Parkviertel Dahlem erprobt werden.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "147/VI",
@@ -5436,7 +5566,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt setzt sich dafür ein, frei zugängliches WLAN in allen bezirklichen \nLiegenschaften einzurichten. Hierfür ist ein Umsetzungsplan zu erstellen, der u. a. den \nZeitplan für einen schrittweisen Ausbau und die Finanzierung aus Eigen- und Drittmitteln \ndarlegt.\nDer BVV ist bis zum 30. November 2022 und mindestens halbjährig im Fachausschuss zu \nberichten.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "148/VI",
@@ -5492,7 +5623,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Die Volkshochschule hat in den zurückliegenden Jahren ihre Angebote in allen Kursbereichen im \nProgrammbereich Deutsch als Fremdsprache/Deutsch als Zweitsprache (BAMF/Integrationskurse, \nSelbstzahlerkurse, Mutter-Kind-Kurse, Mütterkurse, Berufsorientierungskurse, Kurse für Geflüchtete, \ndie nicht in Integrationskursen aufgenommen werden können) substanziell ausgeweitet. Vor \nCorona wurden bereits Angebote auf hohem Niveau gemacht (33.223 Unterrichtseinheiten). \nCoronabedingt mussten die Angebote im Jahr 2020 (rund 21.400 Unterrichtseinheiten) und 2021 \n(20.200 Unterrichtseinheiten) stark abgesenkt werden. Bereits im Jahr 2022 konnte ein höheres \nNiveau als vor Corona mit rund 39.000 Unterrichtseinheiten und bis Ende 2023 sogar über \n42.500 Unterrichtseinheiten erreicht werden. Die Anzahl der Teilnehmenden stieg im Betrach-\ntungszeitraum von rund 2.000 (2020) auf nahezu 6.000 (2023). Der Deutschbereich hat mittler-\nweile einen größeren Umfang als das offene Programm. \nDamit liegt die Volkshochschule, was die prozentualen Steigerungen von einem Drittel gegenüber \n2019 anbelangt, im Spitzenfeld der zwölf Berliner Volkshochschulen. Dies konnte nur dadurch erreicht werden, dass die digitalen Angebote deutlich ausgebaut wur-\nden. Das Bezirksamt anerkannte den höheren Personalbedarf (mehr Stellenanteile für Programm-\nbereichsleitung und Programmkoordination), um den Angebotsausbau in dieser Dimension zu er-\nmöglichen. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "149/VI",
@@ -5541,7 +5673,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Böhm",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "sonstiges-unklar"
   ],
   [
     "150/VI",
@@ -5587,7 +5720,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, durch das zuständige Amt zu prüfen, welche Möglichkeiten es \nsieht, sogenannte „Speed Breaker“ am Hohentwielsteig zu errichten.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "151/VI",
@@ -5632,7 +5766,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat sich mit dem Anliegen, weitere Trinkbrunnen im Bezirk Steglitz-Zehlendorf \naufzustellen an die für das Aufstellen von Trinkbrunnen zuständigen Berliner Wasserbetriebe \n(BWB) gewandt. Mit Schreiben vom 18.01.2023 informiert die BWB zunächst an welchen Stand-\norten in Steglitz-Zehlendorf bereits Trinkbrunnen aufgestellt wurden: \nOrtsteil \nStraße \nBemerkung \nPLZ \nLichterfelde \nBogenstr. 9-14 12207 Bäkestraße 12207 Ludwig-Beck-Platz 12203 \nSteglitz \nHerrmann-Ehlers-Platz 12165 Stadtpark/Bismarckstraße 12167 Franz-Amrehn-Platz 12163 Munsterdamm 80 \nim Bau \n12169 \nDahlem \nKönigin-Luise-Str. 6 \nim Botanischen Garten \n14195 Königin-Luise-Platz \nEingang Botanischer Garten \n14195 U-Bhf Dahlem \nKönigin-Luise-Str. 48 \n14195 \nZehlendorf \nKirchstraße 2 \nDorfaue Zehlendorf \n14169 Sderotplatz 14163 FischerhüttenStraße/El-\nvirastr 14163 2 Fischerhüttenstr. 68 \nEcke Argent. Allee \n14163 \nLankwitz \nHanna-Renate-Laurien-\nPlatz \nNeben Wall Toilette \n12247 \nSchlachtensee \nAm Schlachtensee/Paul-\nErnst-Park \nggü. S-Bhf Schlachtensee \n14129 Mit Schreiben vom 24. Juni 2024 teilten die Berliner Wasserbetriebe mit, dass ab dem Jahr 2024 \nder Neubau weiterer Trinkbrunnen nicht mehr mit Landesmitteln unterstützt wird. \nIn der Vorlage zur Kenntnisnahme zum Beschluss 677/VI auf Drucksache 1029/VI „Trinkbrunnen \nin Steglitz-Zehlendorf“ teilte das Bezirksamt bereits mit, dass nach Information der Senatsumwelt-\nverwaltung vom Februar 2025 das Interesse an der Einrichtung weiterer Trinkwasserbrunnen groß \nist, allerdings aus Gründen der angespannten Haushaltslage im Jahr 2025 keine neuen Trinkwas-\nserbrunnen errichtet, jedoch die bestehenden gewartet werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "nur-information-bereitgestellt"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "155/VI",
@@ -5648,7 +5783,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "156/VI",
@@ -5707,7 +5843,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Corona-Pandemie jährt sich bald zum zweiten Mal und sie hält an. Trotz aller \nEinschränkungen sehen wir weiterhin ein großes Maß an Solidarität in unserer Gesellschaft: \nEltern betreuen ihre Kinder trotz Berufstätigkeit zu Hause und Lehrkräfte versuchen alles, um \nniemanden im Stich zu lassen. Auszubildende und Studierende machen ihre Abschlüsse \nnach einer Ausbildung, die hauptsächlich allein vor dem Rechner stattgefunden hat. Kleine \nBetriebe und die Gastronomie verzichten weiterhin auf Umsätze. Ärzt*innen und \nPflegekräfte, Beschäftigte der kritischen Infrastruktur und die Mitarbeiter*innen unseres \nGesundheitsamtes sind erschöpft und machen doch weiter. Ihnen allen gebührt unser \nRespekt, unser Dank und unsere Anerkennung! Nur wenn wir achtsam und solidarisch sind \nund möglichst viele sich impfen lassen, können wir gemeinsam diese Pandemie meistern. \nSeit mehreren Monaten finden in unserem Bezirk allerdings regelmäßig sogenannte \n“Spaziergänge” statt, bei denen gegen die Maßnahmen und Impfungen demonstriert und auf \nÄrger über die Corona-Politik aufmerksam gemacht werden soll. Wer die Maßnahmen zur \nPandemiebekämpfung ablehnt, kann dies im Dialog mit der Politik jederzeit und frei zum \nAusdruck bringen. Neben Demonstrierenden, die mit den Pandemiemaßnahmen unzufrieden \nsind, nutzen jedoch auch Rechtsextreme solche „Spaziergänge“, um Holocaust-\nVerharmlosungen, \nantisemitischer \nHetze \nund \ndemokratiefeindlichen",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "157/VI",
@@ -5766,7 +5903,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob die Spanische Allee in Zehlendorf umzuwidmen \nist. Die neue Widmung soll auf die europäische Einigung, die deutsch-spanische \nFreundschaft und den Sieg über den Faschismus lauten. Die Umwidmung soll in einer, den \nUmständen entsprechenden, öffentlichen Gedenk- und Informationsveranstaltung begangen \nwerden, zum Beispiel im Rahmen des Gedenkens zum 85. Jahrestag der Zerstörung \nGernikas. Die Anwohnenden sollen vorab über den Vorgang informiert und auch die \nZivilgesellschaft soll eingebunden werden. Dem Ausschuss ist bis Ende des Jahres zu \nberichten.\nBezirksverordnetenvorsteher\n14.09.2022",
       "beschlussdatum": "14.09.2022"
-    }
+    },
+    null
   ],
   [
     "158/VI",
@@ -5815,7 +5953,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: In Form eines Informationsschreibens der Grüne-, SPD- und FDP-Fraktion wurden die Anwohnen-\nden der Treitschkestraße über die beschlossene Umbenennung informiert und dazu aufgerufen, \nVorschläge für den neuen Namen einzureichen. Die Namensvorschläge wurden in der Sitzung des \nAusschusses für Bildung und Kultur vom 27. November 2024 im Rathaus Steglitz öffentlich beraten \nund anschließend von den Mitgliedern des Ausschusses abgestimmt. In der folgenden Ausschuss-\nsitzung vom 8. Januar 2025 wurde nach erneuter Aussprache der Name Betty-Katz-Straße als \nneuer Name festgehalten und von der BVV am 22.01.2025 beschlossen. Die Umsetzung der Um-\nbenennung erfolgt durch das Straßen- und Grünflächenamt. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "159/VI",
@@ -5864,7 +6003,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Stelle der Bezirklichen Flüchtlingskoordinatorin konnte, nach erfolgreicher Beteiligung der \nBeschäftigtenvertretungen, seit dem 10.06.2023 wiederbesetzt werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "160/VI",
@@ -5890,7 +6030,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte für den Ausschuss für Bildung und Kultur wird gewählt:\nSamantha Bütow\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "161/VI",
@@ -5906,7 +6047,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "162/VI",
@@ -5923,7 +6065,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "12.10.2022",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "163/VI",
@@ -5940,7 +6083,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "12.10.2022",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "164/VI",
@@ -6002,7 +6146,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob gemeinsam mit den zuständigen Stellen \nstadtplanerisch die Ansiedlung eines Campus für Digitalfirmen in Steglitz-Zehlendorf \ninsbesondere auch aus dem Start-up-Bereich vorangetrieben und sodann ausgewiesen \nwerden kann, so dass interessierten Firmen ein Ansiedlungsangebot gemacht werden kann. \nDer BVV ist binnen Jahresfrist qualifiziert zu berichten. \nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "166/VI",
@@ -6060,7 +6205,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, durch das zuständige Amt zu prüfen, welche Möglichkeiten es \nsieht, im Dahlemer Weg und der Wupperstraße entlang des Heinrich-Laehr-Parks einen \nFahrradweg parallel zur Bahntrasse zu schaffen.\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "167/VI",
@@ -6124,7 +6270,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie konsequente Digitalisierung unserer Schulen muss eine Selbstverständlichkeit werden. \nDie bislang oft bürokratischen Fördermöglichkeiten zur Digitalisierung müssen deshalb für \nSchulen besser nutzbar gemacht werden. Das Bezirksamt wird daher aufgefordert, im \nBezirksamt Angebote für Beratungs- und Serviceleistungen aufzubauen und den Schulen \ngezielt zur Verfügung zu stellen, um sie bei der Abrufung staatlicher wie privater Mittel aktiv \nzu unterstützen.\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "168/VI",
@@ -6176,7 +6323,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob und welche Flächen in bezirkseigenen Wäldern, \nGrünflächen oder anderen geeigneten Flächen wie Schulhöfen oder solche der Sen UVK \ngenutzt werden können, um durch Pflanzenspenden von Setzlingen und natürliche \nVersamungen auch in Kooperation mit Kitas, Schulen, Naturschutzverbänden und \nJugendfreizeiteinrichtungen neue Bäume zu ziehen.\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "169/VI",
@@ -6226,7 +6374,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Schaffung digitaler Schnittstellen zwischen den Senatsverwaltungen und Bezirken liegt \nallgemein in der Zuständigkeit und Verantwortung der Senatskanzlei beziehungsweise bei ein-\nzelnen Fachverfahren in der der jeweiligen Senatsfachverwaltung. \nFür einen effizienten digitalen Informationsaustausch zwischen den Behörden sollen im Land \nBerlin zukünftig insbesondere die beiden IKT-Basisdienste „Digitale Akte“ und „Digitale Ko-\noperation“ zur Verfügung stehen. Der geplante Basisdienst Digitale Kollaboration soll mehrere \nFunktionen bündeln und einen digitalen Austausch zwischen den Berliner Behörden ermögli-\nchen. Vorgesehen sind unter anderem die folgenden (behördenübergreifenden) Funktionen: \nDokumente teilen und gemeinsam bearbeiten, Video- und Telefonkonferenzen, Online-Chat, \nUmfragen, gemeinsam genutzte Kalender und Kontaktdaten. Perspektivisch sollen bei allen wesentlichen Fachverfahren im Land Berlin digitale Schnittstel-\nlen zum Basisdienst Digitale Akte geschaffen werden. Dazu laufen derzeit verschiedene Pro-\njekte für die jeweiligen Fachverfahren, das Programm ISBJ wird hierbei von der Senatsverwal-\ntung für Bildung, Jugend und Familie betreut. \nDas Bezirksamt Steglitz-Zehlendorf bringt sich aktiv ein, um gemeinsam mit anderen Behör-\nden die Anforderungen für behördenübergreifende Geschäftsgänge in der digitalen Akte oder \ndie erforderlichen Funktionalitäten für die zukünftige Kollaborationsplattform zu identifizieren. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "170/VI",
@@ -6278,7 +6427,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie BVV ersucht das Bezirksamt, dass auf den Internetseiten des Kulturamtes für jedes Jahr \nein barrierefreier Kalender eingerichtet und regelmäßig gepflegt wird, der sämtliche kulturelle \nVeranstaltungen und Gedenktage im Bezirk erfasst. \nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "171/VI",
@@ -6335,7 +6485,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Grünflächen teilt mit, dass vor den genannten regelmäßigen und wichtigen Ge-\ndenkveranstaltungen seitens des Amtes generell immer im Vorfeld gereinigt und das Grün gepflegt \nwird. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "172/VI",
@@ -6385,7 +6536,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: In Kooperation mit der Initiative „Bildungslandschaft Bäke“ und der Kita an der Bäke wurde ein Bie-\nnenfutterautomat gebaut und am 11.10.2023 an der Mauer am Eingang der Kita an der Bäke (Haydn-\nstraße 17, 12203 Berlin) eingeweiht. Am Bienenfutterautomat kann man sich für kleines Geld ein \nPäckchen gebietsheimisches und bienenfreundliches Saatgut ziehen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "173/VI",
@@ -6431,7 +6583,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, zusammen mit Berlin Recycling erneut in Dialog zu treten über \nden Ausbau des Angebots von Altglascontainern im Bezirk und die Findung von passenden \nStandorten. Bei der Standortwahl kann auch auf die Fahrbahn ausgewichen werden, sofern \nder Verkehrsfluss nicht behindert wird (z.B. in Parkbuchten).\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "176/VI",
@@ -6475,7 +6628,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob in der Frobenstraße in Berlin-Lankwitz in Höhe \ndes Seniorenpflegeheims ein Übergang asphaltiert werden kann.\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "177/VI",
@@ -6523,7 +6677,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Gemeinnützige Vereine und Organisationen konnten vom 1. bis 25. Oktober 2020 „Ehrenamts- \nund Vereinshilfen zur Bewältigung der Folgen der Corona-Pandemie“ (Soforthilfe X) bei der Inves-\ntitionsbank Berlin (IBB) beantragen. Eine Förderung war in der Regel bis zu einer Höhe von \n20.000 Euro möglich. Sie wurde als Zuschuss gewährt, der nicht zurückgezahlt werden musste. \nDafür stellte der Berliner Senat Mittel in Höhe von insgesamt 4,9 Mio. Euro zur Verfügung. Geför-\ndert wurden u.a. laufende Betriebskosten, Personalkosten, Zahlungsverpflichtungen für abgesagte \nVeranstaltungen oder sonstige Ausgaben, die aus den erwarteten Einnahmen im Berechnungszeit-\nraum bezahlt werden sollten und nicht storniert oder reduziert werden konnten. \nAntragsberechtigt waren Vereine und Organisationen mit Sitz in Berlin, die \n• \ngemeinnützige, mildtätige oder kirchliche Zwecke verfolgten und als steuerbegünstigt an-\nerkannt waren, \n• \nin denen ehrenamtliches Engagement eine tragende Rolle spielte, \n• \ndie sich zur Berliner Charta zum Bürgerschaftlichen Engagement und zu einer vielfältigen \nGesellschaft bekannten und sich gegen Diskriminierung, Gewalt, Antisemitismus, Rassis-\nmus und Fremdenfeindlichkeit stellten, • \ndie glaubhaft machen konnten, dass Liquiditätsengpässe infolge der Corona-Pandemie \nzu Existenzbedrohung führten. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "178/VI",
@@ -6561,7 +6716,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich an die zuständigen Stellen zu wenden mit der Bitte um \nstärkere Verkehrsüberwachung, insbesondere auch eine zeitweise Aufstellung des „Blitzer-\nAnhängers“ in der Goerzallee im Abschnitt Drakestraße bis Lausanner Straße. \nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "180/VI",
@@ -6599,7 +6755,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, in Zusammenarbeit mit der Senatsverwaltung für Umwelt, \nMobilität, Verbraucher- und Klimaschutz zu prüfen, wie sich in Steglitz-Zehlendorf „smarte \nLiefer- und Ladezonen“ im Bereich des Bezirks, insbesondere entlang der Straßen \nSchloßstraße, Steglitzer Damm/Albrechtstraße, Hindenburgdamm, Drakestraße, Teltower \nDamm, Clayallee, Potsdamer Chaussee, Königsstraße realisieren lassen.\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "181/VI",
@@ -6637,7 +6794,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich bei den zuständigen Stellen dafür einzusetzen, dass \nder Bus X83 in beiden Fahrtrichtungen, zumindest aber in Fahrtrichtung Lankwitz Kirche an \nder Haltestelle Malteserstraße/Kamenzer Damm einen Haltepunkt erhält. \nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
-    }
+    },
+    null
   ],
   [
     "182/VI",
@@ -6681,7 +6839,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat sich mit dem Anliegen, am Bahnhofsvorplatz in Lichterfelde-Ost an die für das \nAufstellen von Trinkbrunnen zuständigen Berliner Wasserbetriebe (BWB) gewandt. Mit Schreiben \nvom 18.01.2023 teilten die BWB mit, dass dieser Standort schon von mehreren Seiten an die BWB \nherangetragen wurde. Die BWB haben den Standort Bahnhofsvorplatz noch einmal gründlich ge-\nprüft und teilen mit dass dieser Standort aus mehreren Gründen nicht umsetzbar sei. Der Bahn-\nhofsvorplatz befindet sich im Besitz der Deutschen Bahn. Die vertraglichen Bedingungen der DB \nAG zur Nutzung bzw. Aufstellung eines Trinkwasserbrunnens auf ihrem Gelände seien für die BWB \nnicht akzeptabel. \nAus Sicht der BWB ist es grundsätzlich möglich, auf der der anderen Seite des Bahnhofs Lichter-\nfelde Ost zum Jungfernstieg hin im Bereich des Öffentlichen Straßenlandes einen Trinkbrunnen zu \ninstallieren. Allerdings werden aufgrund der angespannten Haushaltslage von Seiten der Se-\nnatsumweltverwaltung im Jahr 2025 keine neuen Trinkwasserbrunnen finanziert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "185/VI",
@@ -6729,7 +6888,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \n„Das Bezirksamt hat mit Schreiben vom 11.01.2023 den Beschluss der BVV an die Regierende \nBürgermeisterin von Berlin übermittelt. Die Protokollchefin der Regierenden Bürgermeisterin \nvon Berlin hat mit dem anliegenden Schreiben geantwortet.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "188/VI",
@@ -6755,7 +6915,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Ausschuss für Soziales, Pflege, Arbeit, Senior*innen wird\nFrau Cornelia Wörster \nabberufen.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "189/VI",
@@ -6781,7 +6942,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter im Ausschuss für Bürgerdienste wird\nHerr Frank Sommerfeld \nabberufen.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "190/VI",
@@ -6807,7 +6969,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls \nBürgerdeputierter \nim \nAusschuss \nfür \nGebäude, \nWirtschaft, \nInklusion, \nVerwaltungsmodernisierung und Digitalisierung wird\nHerr Michael Chilla-Jung\nabberufen.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "191/VI",
@@ -6833,7 +6996,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Ausschuss für Bürgerdienste wird\nFrau Katrin Runge\ngewählt.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "192/VI",
@@ -6849,7 +7013,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "193/VI",
@@ -6866,7 +7031,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "09.11.2022",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "194/VI",
@@ -6899,7 +7065,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat mit der für Gedenktafel zuständigen Senatsverwaltung für Kultur und Gesell-\nschaftlichen Zusammenhalt Kontakt aufgenommen und die Anbringung einer Gedenktafel für Dr. \nHugo Köster angeregt. Der Historische Beirat beim Senator für Kultur und Gesellschaftlichen Zu-\nsammenhalt hat den Vorschlag geprüft, jedoch keine Empfehlung für die Gedenktafel ausgespro-\nchen, sodass eine Errichtung nicht realisiert werden kann. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "195/V",
@@ -6983,7 +7150,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Seit Dezember 2023 werden die Sitzungen der Bezirksverordnetenversammlung live mit Bild \nund Ton gestreamt. Eine der Öffentlichkeit zur Verfügung zu stellende Aufzeichnung wird nicht \ndurchgeführt. Bei Bezirksverordneten, welche einer Live-Übertragung nicht zustimmen, wird \nder Live-Stream unterbrochen. Es erübrigt sich daher zwei unterschiedliche Redepulte zur \nVerfügung zu stellen. Eine Übertragung und Aufzeichnung erfolgt in diesen Fällen nicht. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "197/VI",
@@ -7039,7 +7207,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, ein Konzept zur Speicherung und Nutzung von Regenwasser \nzu erarbeiten. Hierbei sind geeignete öffentliche Gebäude und Flächen auszuwählen, auf \ndenen Regenwasserspeicher (Zisternen) errichtet werden können und die den Revieren des \nGrünflächenamtes zugeordnet werden können. Ziel ist, den Bedarf an Gießwasser durch die \neinzelnen Reviere des Grünflächenamtes künftig auch durch die Speicherung von \nRegenwasser zu decken.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "199/VI",
@@ -7093,7 +7262,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Sowohl das Bezirksverwaltungsgesetz (BezVwG) in §8 und §8a als auch die Neuregelungen, \nauf der Grundlage von §8a BezVwG, der Geschäftsordnung der Bezirksverordnetenversamm-\nlung haben ausdrücklich eine digitale Durchführung von Sitzungen der Bezirksverordnetenver-\nsammlung und ihrer Gremien bei Vorlage außergewöhnlicher Notlagen festgelegt. Weitere \nRegelungen zur digitalen Durchführung von Sitzungen der Bezirksverordnetenversammlung \nsind im Bezirksverwaltungsgesetz nicht vorgesehen worden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "201/VI",
@@ -7173,7 +7343,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Strategische Beteiligungskoordination im Jugendamt ist im kontinuierlichen Austausch \nmit dem Kinder- und Jugendbüro (KiJuB), mit dem Bezirksschüler:innenausschuss (BSA), mit \ndem Kinder- und Jugendforum „Jugend spricht mit!“ (JSM!) und dem Bezirksjugendring \n(BJR) zur Information und Sammlung von Anliegen bzgl. einer gemeinsamen Konzeptent-\nwicklung. Gleichzeitig sind weitere Prozesse im Bezirk angestoßen worden, die für die Konzeptent-\nwicklung wichtig sind und berücksichtigt werden müssen: So wurde durch den Bezirk ein Bürgerbeteiligungs-Leitlinienprozess initiiert, als dessen Er-\ngebnis eine Anlaufstelle bzw. ein Bürgerbeteiligungsbüro vorgesehen ist. Die Besetzung der \nAnlaufstelle und das Umsetzungskonzept für die Zusammenarbeit verschiedener Fachäm-\nter sind aktuell ausgeschrieben. Nach erfolgter Besetzung muss geklärt werden, wie die Anlaufstelle bzw. das Bürgerbeteiligungsbüro die Anliegen von Kindern und Jugendlichen \nzu bezirklichen Entscheidungsprozessen möglichst niedrigschwellig aufnehmen und metho-\ndisch kind- und jugendgerecht aufbereiten wird. \nDes Weiteren wurde durch den Bezirk das Bundesprogramm „Partnerschaft für Demokra-\ntie“ angestoßen, in dessen Zuge ein Austausch mit der sozialraumorientierten Planungsko-\nordination (SPK) initiiert und zudem eine Verknüpfung der verschiedenen bezirklichen Pro-\nzesse angeregt wurde. Im Hinblick auf die genannten Prozesse wird aktuell eine Handlungsleitlinie zur bezirklichen \nKonzeptentwicklung zur Stärkung der Kinder- und Jugendbeteiligung entworfen, die im Aus-\ntausch mit jungen Menschen und der Verwaltung angepasst werden soll. Sie gibt einen \nÜberblick zum aktuellen Stand der Beteiligung in der bezirklichen Jugendarbeit, entwickelt \nZiele, Handlungsfelder und nächste Schritte. So soll mit der neu zu besetzenden Fach- und \nKoordinierungsstelle der „Partnerschaft für Demokratie“ der Auftakt einer gemeinsamen \nKonzeptentwicklung mit einer für November 2023 geplanten Demokratiekonferenz umge-\nsetzt werden. Hierbei sollen neben einer möglichst breiten Vernetzung und Sichtbarma-\nchung von etabliertem Jugendengagement auch aktuelle bezirkliche Prozesse und Hand-\nlungsmöglichkeiten transparent gemacht werden. Zudem soll ein gemeinsames Verständ-\nnis von bezirklichen Strukturen der Kinder- und Jugendbeteiligung erarbeitet werden, an \ndas anknüpfend im Verlauf des Jahres 2024 ein gemeinsames Konzept von Verwaltung und \njungen Menschen in Kooperation mit dem Bürgerbeteiligungsbür",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "202/VI",
@@ -7229,7 +7400,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Auf der Internetseite des Fachbereiches Grünflächen können sich Bürgerinnen und \nBürger grundsätzlich über offene Sporteinrichtungen, wie z.B. Spielplätze, Tischten-\nnisplatten oder sogenannte Bolzplätze, informieren. Eine Übersicht ist ebenfalls aus dem Sportentwicklungsplan Steglitz-Zehlendorf er-\nsichtlich. Es wird auf die Erledigung des BVV-Beschlusses „Outdoor-Sport in Steglitz-Zehlendorf \nplanen und ermöglichen“ BNr: 721/VI Drs. Nr.: 1039/VI verwiesen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "203/VI",
@@ -7288,7 +7460,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, ab dem Sommer 2022 eine Hitzehilfe für obdachlose \nMenschen mit den notwendigen Angeboten kurzfristig zu planen und mit den ggf. \nzuständigen Stellen abzustimmen und umzusetzen.\nFolgende Maßnahmen sollen niederschwellig angeboten werden:\n\nAufklärung und Infokampagne über die Gefahren der Hitze in Kooperation mit \nanerkannten Trägern der Wohnungslosenhilfe\n\nIn bezirkseigenen Einrichtungen wie Rathäusern, Bibliotheken, Freizeitstätten o.ä. sollen \nWasserversorgungsmöglichkeiten \nund \nSonnenschutz \nfür \nobdachlose \nMenschen \nangeboten werden, z.B. auch durch sogenannte „Cooling Center“ und Schlaf-\n/Versorgungsräume. Hierbei ist darauf zu achten, dass diese auch explizit für Frauen \nangeboten werden.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "204/VI",
@@ -7328,7 +7501,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nIm Vorfeld der Konzeption und Durchführung des Videodrehs ist das Jugendamt gemeinsam \nmit der strategischen Beteiligungskoordination mit Kindern und Jugendlichen über deren \nErwartungen an die Vorstellung des Jugendhilfeausschusses ins Gespräch gegangen und \nhat deren Ideen und Vorschläge in die Planungen einfließen lassen. Im April 2024 wurden \ndie Videoaufnahmen mit der Ausschussvorsitzenden des Jugendhilfeausschusses gedreht \nund wurden dann, mit großer Unterstützung der Pressestelle des Bezirksamts, final bearbei-\ntet. Dabei ging es neben dem storytelling auch darum, Ton- und Bildqualität zu sichern und \ngraphische Elemente einzufügen. \nDie Barrierefreiheit ist durch die Untertitelung gewährleistet. \nDas Video ist auf der Homepage des Bezirksamts und dem Youtube-Kanal des BASZ abruf-\nbar. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "205/VI",
@@ -7376,7 +7550,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die bezirkliche Straßenverkehrsbehörde hat zur Verbesserung der Verkehrssituation eine verkehrs-\nrechtliche Anordnung mit folgenden Einzelmaßnahmen getroffen: \n- \nEinrichtung einer Haltverbotszone auf der südlichen Seite in der Marschnerstraße vor der \nEinmündung in die Haydnstraße \n- \nEinrichtung einer Abstellfläche zum Fahrradparken auf der östlichen Seite der Haydnstraße \nnach der Einmündung der Marschnerstraße. Es wurden eine Sperrfläche markiert, Poller an \ndie Ecken der Fläche gesetzt und Radbügel eingebaut. \nDie Maßnahme wurde m Herbst 2023 umgesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "207/VI",
@@ -7420,7 +7595,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, den Fahrradweg am Alfred-Grenander-Platz/U-Bahnhof \nKrumme Lanke farblich so zu gestalten, dass er sich leichter als solcher identifizieren lässt.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "208/VI",
@@ -7460,7 +7636,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, im Zuge des Neubaus des Rathauses Zehlendorf ein \nBlindenleitsystem \nzu \nimplementieren \nund \nbei \nden \nPlanungen \nentsprechend \nzu \nberücksichtigen. Ferner wird das Bezirksamt ersucht, auch bei den übrigen öffentlichen \nLiegenschaften \nmit \nhohem \nBesucheraufkommen \ndie \nImplementierung \neines \nBlindenleitsystems zu prüfen und dementsprechend zu forcieren.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "209/VI",
@@ -7516,7 +7693,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Konkrete Nachfragen seitens der Kunden sind nicht dokumentiert, fachlich besteht für Schulungen \nvon Mitarbeiterinnen und Mitarbeitern des Bürgeramtes für Gebärdensprache bisher kein Bedarf. \nSchwerhörige oder Gehörlose erscheinen gelegentlich mit einer Begleitperson, die der Gebärden-\nsprache mächtig ist. Im Normalfall werden Verständigungsprobleme durch kurze schriftliche Noti-\nzen gelöst. \nUm eine barrierefreie Kommunikation im Bürgeramt zu gewährleisten, kann es im Hinblick auf die \nInklusion von Menschen mit eingeschränktem oder nicht vorhandenem Hörvermögen sinnvoll sein, \neine Unterstützung in Gebärdensprache anzubieten. Gebärdensprachkurse werden von den Berli-\nner Volkshochschulen angeboten. Insgesamt würden Kosten für das Erlangen des Levels B1 mit \nfachspezifischem Bezug in Höhe von einmalig 13.350,00 EUR für z.B. 6 Mitarbeiter und 500 Unter-\nrichtseinheiten sowie 2.225,00 EUR je fluktuationsbedingter Nachnutzung anfallen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "210/VI",
@@ -7562,7 +7740,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, über seine Website auf Informationsseiten zum Thema \nRegenwasserbewirtschaftung hinzuweisen, wie beispielsweise https://www.bwb.de/de/ \nregenwasser.php \nund \nhttps://www.berlin.de/sen/uvk/umwelt/wasser-und-\ngeologie/regenwasser/regenwasserbewirtschaftung/ \n,damit \nEigentümer*innen \nund \nWohnungsbaugesellschaften sich über Möglichkeiten der Regenwasserbewirtschaftung \n(beispielsweise durch Regentonnen, Gründächer, Sickerschächte, Rigolen oder Zisternen) \nbeim \nNeubau \nund \nim \nBestand \ninformieren \nkönnen \nund \nauf \ndas \nfinanzielle \nEinsparungspotenzial hinsichtlich der Niederschlagswassergebühr hingewiesen werden. \nAuch sollen mögliche Umsetzungsstrategien aufgezeigt sowie auf Genehmigungsverfahren \nund Fördermittel hingewiesen werden. \nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "213/VI",
@@ -7602,7 +7781,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, die Ampel \nOsdorfer Straße, Höhe Hildburghauser Straße, auch am Wochenende, dann mit einer \nBedarfsschaltung versehen, in Betrieb zu nehmen.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "214/VI",
@@ -7646,7 +7826,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die bezirkliche Straßenverkehrsbehörde hat zur Erhöhung der Sicherheit für Fußgängerinnen und \nFußgänger beim Überqueren der Klingsorstraße im Bereich des Bäkeparks folgende Maßnahmen \nangeordnet: \n- \nZur Sicherung der Sichtbeziehungen zum Fußgängerüberweg und zum Ordnen des Fahr-\nradparkens werden neben dem Fußgänger Radbügel mit Sicherheitsbaken im Stellplatzbe-\nreich angeordnet. \n- \nDurch Anordnung einer Zickzacklinie (Vz 299) wird die Zuwegung zum Park für Rettungs-\nfahrzeuge sichergestellt. Diese Maßnahme wurde am 21.03.2024 umgesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "215/VI",
@@ -7686,7 +7867,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob im Bereich Schloßstraße zusätzliche Ladesäulen \nnach dem Stand der Technik und mit allen verfügbaren Steckern mit min. 11 KW installiert \nwerden können. Ergibt die Prüfung, dass eine Installation möglich wäre, wird das Bezirksamt \nersucht, die entsprechende Installation zu veranlassen.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "216/VI",
@@ -7760,7 +7942,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Neufassung des § 31 des Gesetzes über Naturschutz und Landschaftspflege von Berlin \nist auf alle in den letzten fünf Jahren zu irgendeinem Zeitpunkt legal bestehenden \nSteganlagen anzuwenden. \nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "217/VI",
@@ -7807,7 +7990,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in enger Zusammenarbeit mit den Schulvertreterinnen und \nSchulvertretern \nnachhaltige \nMaßnahmen \nzu \nprüfen \nund \numzusetzen, \ndie \ndie \nSchulwegsicherheit insbesondere im Einzugsbereich von Grundschulen fördern. Dafür soll \neine Arbeitsgruppe installiert werden. Für eine bessere Übersicht sollen die Schulen in \nCluster eingeteilt und entsprechend eingeladen werden.\nZu den möglichen Maßnahmen zählen u.a.:\n\nEntschleunigung des Kfz-Verkehrs (sog. Berliner Kissen, Dialog-Displays, Street-Buddys)\n\nSchaffung \nvon \nsicheren \nQuerungsanlagen \n(Gehwegvorstreckungen, \nFußgängerüberwege, Sperrflächenmarkierungen)\n\nAnordnung einer sog. temporären Schulstraße zwischen 7:30-8:15 Uhr in enger \nKoordination mit der Schule\n\ndie Etablierung des Projekts \"Berliner Tausendfüßler\" in enger Koordination mit der \nElternschaft.\nDen zuständigen Ausschüssen ist im regelmäßigen Turnus nach den Schulhalbjahren über \ndie Maßnahmenumsetzungen zu berichten.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
-    }
+    },
+    null
   ],
   [
     "220/VI",
@@ -7861,7 +8045,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat mit Schreiben vom 12.01.2023 die für die öffentliche Straßenbeleuchtung zu-\nständige Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz gebeten, die Be-\nleuchtungssituation an der angegebenen Stelle zu überprüfen. Die Senatsverwaltung hat am \n15.02.2023 mitgeteilt, dass die Beleuchtungssituation am Nieritzweg überprüft wurde. Im Ergebnis \nhat sie zugesagt, die Leuchtenköpfe im Rahmen eines Modernisierungsvorhabens durch neue LED-\nLeuchten zu ersetzen. Es sei geplant, den Leuchtenaustausch im Laufe des nächsten Quartals vor-\nzunehmen. Ferner wird der Fachbereich Grünflächen für eine gute Ausleuchtung der Gehwege ei-\nnen Freischnitt der Straßenbäume im Bereich der Lichtpunkte veranlassen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "222/VI",
@@ -7911,7 +8096,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Grünflächen teilt mit, dass dieser Beschluss in der Sitzung der Spielplatzkom-\nmission am 30.06.2023 diskutiert wurde. \nDas Problem der starken Sonneneinstrahlung ist allen bewusst. Anpflanzungen von – erst viele \nJahre später eventuell schattenspendenden - Bäumen und die Ansprüche an Fallschutzflächen \npassen allerdings in der Praxis oft nicht zusammen (Wurzelproblematik). Schattenspendende Dä-\ncher zum Beispiel bei Spielkombinationen werden bereits seit Jahren berücksichtigt; ebenso \nselbstverständlich ist die Ausrichtung entgegen der Sonne von bestimmten Spielgeräten wie Me-\ntallrutschen. Ganz aktuell wird beim Neubau des Spielplatzes in der Calandrellistraße ein Pavillon \nerrichtet, um den Spielplatzbesucherinnen und -besuchern Sonnen- und Regenschutz zu bieten. \nAlternative Lösungen wie „Sonnensegel“ sind auf öffentlichen Spielplätzen - anders als in betreu-\nten Kitas - schwer realisierbar. Insbesondere die fehlende Aufsicht bei Sturmwetterlagen sowie \nVandalismus-Anfälligkeit sowie die Kosten- und Wartungsintensität lassen hier wenig Handlungs-\nspielraum. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "223/VI",
@@ -7959,7 +8145,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Mit Schreiben vom 05.01.2023 hat sich das Bezirksamt an die Deutsche Bahn gewandt und darum \ngebeten, dass eine Lösung für mobilitätseingeschränkte Menschen an diesem Bahnhof während \nder Bauzeit gefunden wird. Dabei hat er sowohl auf diesen Beschluss verwiesen als auch auf ein \nSchreiben der bezirklichen Beauftragten für Menschen mit Behinderungen, die sich bereits im Juli \n2022 an die Deutsche Bahn in dieser Sache gewandt hatte. Eine Beantwortung dieses Schreibens seitens der Deutschen Bahn ist nicht erfolgt. Die Baumaßnahme wurde mit Freigabe der Moltkebrücke am 01.07.2024 beendet. Der Zugang \nzum S-Bahnhof Botanischer Garten ist wieder barrierefrei. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "224/VI",
@@ -7997,7 +8184,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, nunmehr unverzüglich die Zukunft des interreligiösen \nGemeindezentrums in der ehemaligen US-amerikanischen Kirche im Hüttenweg abzusichern \nund mit den bisherigen Nutzern (dem katholischen Friends of All Saints e.V., der \nprotestantischen Gemeinde, Protestant Faith Fellowship (PFF), der Baptistengemeinde, \nCrossway \nInternational \nBaptist \nChurch \nund \ndem \nenglischsprachigen \nMontessori-\nKindergarten) vertragliche Regelungen zu vereinbaren.\nBezirksverordnetenvorsteher\n29.11.2022",
       "beschlussdatum": "29.11.2022"
-    }
+    },
+    null
   ],
   [
     "225/VI",
@@ -8037,7 +8225,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Fraktionen der Bezirksverordnetenversammlung Steglitz-Zehlendorf erhalten ihre \nSitzplätze nebeneinander in folgender Reihenfolge: von links nach rechts (vom Vorstand aus \ngesehen):\nLINKE,\nSPD,\nBÜNDNIS 90/DIE GRÜNEN,\nFDP,\nCDU,\nAfD.\nBezirksverordnetenvorsteher\n29.11.2022",
       "beschlussdatum": "29.11.2022"
-    }
+    },
+    null
   ],
   [
     "226/VI",
@@ -8081,7 +8270,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Durch das Onlinezugangsgesetz (OZG) ist die Verwaltung verpflichtet, schon bereits bis Ende 2022 \nmöglichst viele Dienstleistungen digital anzubieten. Im Bürgeramtsstandort Steglitz wird bereits ein \nSelbstbedienungsterminal zur Unterstützung und Beschleunigung von Anträgen aus Ausstellung von \nPersonalausweisen und Reisepässen erfolgreich eingesetzt. Das Terminal wird von der Kundschaft \ngut angenommen, die Arbeitsprozesse sind etabliert. \nMit dem Selbstbedienungsterminal wird nicht nur das biometrische Foto für Personaldokumente \nkostengünstig (5,00 EUR) aufgenommen, es werden auch die Unterschrift und die Fingerabdrücke \nder Dokumenteninhaber digital erfasst und verarbeitet. Die Bearbeitungszeit am Bedienplatz wird \ndamit deutlich kürzer. Um der steigenden Nachfrage der Bürgerinnen und Bürger nach diesem Service auch in den Stand-\norten Zehlendorf und Lankwitz gerecht zu werden, strebt das Bürgeramt die Aufstellung von zwei \nweiteren Geräten an. \nHierzu fallen Kosten in Höhe von einmalig 11.000,00 EUR für die Geräte und Lizenzen sowie jährlich \n3.600,00 EUR für eine Service- und Updatepauschale an. \nDa entsprechende Summen nicht im Bezirkshaushalt abgebildet werden können, kann dem durch-\naus unterstützungswürdigen Ersuchen leider nicht entsprochen werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "227/VI",
@@ -8125,7 +8315,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Seit dem 1. Januar 2024 liegt die alleinige Zuständigkeit für die Bearbeitung von Einbür-\ngerungsanträgen beim Landesamt für Einwanderung (LEA) als zentrale Einbürgerungs- und \nStaatsangehörigkeitsbehörde im Land Berlin. Am Standort beim LEA bearbeiten die Mitarbeiterinnen und Mitarbeiter der Abteilung S fol-\ngende Anliegen nach dem Staatsangehörigkeitsgesetz (StAG): • Erwerb der deutschen Staatsangehörigkeit auf Antrag (Einbürgerungsanträge) \n• Anträge auf Feststellung des Bestehens oder Nichtbestehens der deutschen \nStaatsangehörigkeit (Staatsangehörigkeitsausweise und Negativbescheinigungen) • Anträge auf Erteilung einer Beibehaltungsgenehmigung (zur Abwendung eines \nVerlusts der deutschen Staatsangehörigkeit durch antragsbedingte Annahme einer \nausländischen Staatsangehörigkeit) \n• Erklärungen im Zusammenhang mit der Optionspflicht nach § 29 StAG \n• sonstige staatsangehörigkeitsrechtliche Erklärungen Bereits seit dem Frühjahr 2023 begannen die Vorbereitungen zur Aktenübergabe durch \ndas Bezirksamt an das LEA, des Weiteren wurde der Aufbau des dortigen Personalstamms \n(auch durch Mitarbeiterinnen und Mitarbeiter der Bezirke) vorangetrieben. Eine bezirkliche Einbürgerungsfeier war dem Bezirksamt aufgrund des fehlenden Personals \nsowie fehlender Haushaltsmittel nicht möglich. Obwohl die Einbürgerungen seit Januar 2024 nicht mehr in den jeweiligen Bezirken durch-\ngeführt werden, wird über das Integrationsbüro am 5. Juni 2026 im Rathaus Zehlendorf \neine Einbürgerungsfeier stattfinden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "228/VI",
@@ -8165,7 +8356,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, auf den beiden Richtungsfahrbahnen der Poschingerstraße \nzwischen Mencken- und Schönhauser Straße Schrägparken anzuordnen und das Parken auf \ndem begrünten Mittelstreifen durch geeignete Maßnahmen zu unterbinden. Es soll geprüft \nwerden, wie die Aufenthaltsqualität und die Versickerung von Regenwasser auf dem grünen \nMittelstreifen gefördert werden können („Schwammstadt Berlin“).\nBezirksverordnetenvorsteher\n29.11.2022",
       "beschlussdatum": "29.11.2022"
-    }
+    },
+    null
   ],
   [
     "229/VI",
@@ -8205,7 +8397,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, dafür Sorge zu tragen, dass die Behindertenparkplätze am S-\nBhf. Lichterfelde-West ohne zeitliche Begrenzung angeordnet werden.\nBezirksverordnetenvorsteher\n29.11.2022",
       "beschlussdatum": "29.11.2022"
-    }
+    },
+    null
   ],
   [
     "230/VI",
@@ -8222,7 +8415,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "29.11.2022",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "231/VI",
@@ -8246,7 +8440,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDen Pfadfindern Royal Rangers (Stamm 590) wird für die Anschaffung einer Kohte aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n1.100 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n29.11.2022",
       "beschlussdatum": "29.11.2022"
-    }
+    },
+    null
   ],
   [
     "232/VI",
@@ -8300,7 +8495,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung nimmt die Entscheidung der zuständigen Bezirksstadträtin \nbezüglich der Ablehnung des Antrags der Deutschen Telekom zur Installation einer \nMobilfunkantenne auf dem Turm des Arndt-Gymnasiums in Berlin-Dahlem (Königin-Luise-Straße \n80-84, 14195 Berlin) zur Kenntnis. Die BVV legt jedoch Wert darauf, dass Entscheidungen auf \nBasis des Standes von Wissenschaft und Technik getroffen und gleichzeitig Sorgen der \nSchulgemeinschaft und Anwohnenden aufgegriffen werden.\nWir bekennen uns ausdrücklich zum Ziel des flächendeckenden 5G-Ausbaus in Steglitz-\nZehlendorf. Dafür ist es unerlässlich, dass gerade bei der Nutzung von Schulen als Standorte für \nMobilfunkantennen rechtzeitig der Dialog mit der Schulgemeinschaft gesucht und Belangen und \nVorbehalten bereits im Voraus mit Information und Aufklärung begegnet wird. Das Bezirksamt \nwird daher ersucht, die Installation von Mobilfunkantennen an Schulen zukünftig nur im Rahmen \neiner frühzeitigen Rücksprache mit der Schule umzusetzen. Hierbei wird das Bezirksamt ersucht, \ninsbesondere auch bei den zuständigen Stellen auf Landesebene darauf hinzuwirken, dass \nInformationen zu geplanten Maßnahmen rechtzeitig und auch für alle Schüler*innen \nnachvollziehbar sowie verständlich kommuniziert werden.\nDas Bezirksamt wird ersucht, die Begehung des Turms am Arndt-Gymnasium sowie der Türme \nder übrigen bezirklichen Schulen im Rahmen von schulischen Aktivitäten weiterhin ggf. unter \nAuflagen zu gewährleisten.\nBezirksverordnetenvorsteher\n29.11.2022",
       "beschlussdatum": "29.11.2022"
-    }
+    },
+    null
   ],
   [
     "233/VI",
@@ -8337,7 +8533,8 @@ var D=[
       "beschlusstext": "Die BVV hat beschlossen:\nDie \nBezirksverordnetenversammlung \ngibt \nsich \nnach \n§ \n8 \nAbs. \n1 \ndes \nBezirksverwaltungsgesetzes die als Anlage beigefügte Geschäftsordnung.\nBezirksverordnetenvorsteher\n29.11.2022",
       "beschlussdatum": "29.11.2022",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "235/VI",
@@ -8393,7 +8590,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist durch Amtshandeln erledigt.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "236/VI",
@@ -8461,7 +8659,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass die \nUngleichbehandlung von Frauen und Menschen, die ein Stehpissoir nicht nutzen können \noder wollen, an den öffentlichen City-Toiletten im Bezirk beendet wird. Die Nutzung der \ngeschlossenen Kabinen soll – analog zu den an zahlreichen Standorten vorhandenen \nPissoirs für Männer – kostenlos für alle möglich sein, statt eine Nutzungsgebühr von 50 Cent \nzu erheben. Der Bezirksverordnetenversammlung ist bis zum 30.06.2023 zu berichten.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "237/VI",
@@ -8512,7 +8711,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nSeit der Streichung des § 219a im Juli 2022 dürfen Ärztinnen und Ärzte straffrei über \nSchwangerschaftsabbrüche informieren, wodurch der Zugang zu entsprechenden Informa-\ntionen für ungewollt Schwangere verbessert wurde. Das Land Berlin stellt hierzu eine Online-Übersicht mit Beratungsstellen, Kliniken und Pra-\nxen bereit, die Schwangerschaftskonfliktberatung oder Schwangerschaftsabbrüche anbie-\nten: \nhttps://www.berlin.de/sen/gesundheit/schwangerschaft-und-kindergesundheit/schwan-\ngerschaftskonfliktberatung/ \nhttps://liste.bundesaerztekammer.de/suche Im Bezirk Steglitz-Zehlendorf bietet das Zentrum für Familienplanung als einzige Bera-\ntungsstelle die gesetzlich vorgeschriebene Beratung nach § 218 StGB an. Zusätzlich bera-\nten einige niedergelassene Ärztinnen und Ärzte. \nPraxen informieren auf ihren Webseiten über Schwangerschaftsabbrüche oder verweisen \ndirekt an geeignete Kolleginnen und Kollegen. Bei jeder Beratung wird gefragt, ob die \nSchwangere Adressen benötigt. Falls gewünscht, wird eine selbst erstellte Liste mit Adres-\nsen – überwiegend aus dem Süden Berlins – ausgehändigt. Zudem liegt den Beraterinnen \neine regelmäßig aktualisierte Liste des Senats mit Adressen aus allen Bezirken vor. \nDa umfassende berlinweite Informationsquellen bereits bestehen, wird ein zusätzlicher \nWegweiser für einen einzelnen Bezirk nicht als erforderlich angesehen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "238/VI",
@@ -8535,7 +8735,8 @@ var D=[
         }
       ],
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "239/VI",
@@ -8568,7 +8769,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Mit Änderung des Zuständigkeitskatalogs zum allgemeinen Zuständigkeitsgesetz (ZuStKat AZG) \nvom 01.07.2022 ist die Zuständigkeit für die Landesbrunnen gem. Nr. 10 Abs. 11 ZuStKatAZG an \ndie Hauptverwaltung übergegangen. Darüber hinaus existiert ein Abgeordnetenhausbeschluss zur \nÜbergabe der Trinkwassernotbrunnen (Bundes- und Landesbrunnen) an die Berliner Wasserbe-\ntriebe (BWB). Dieser Beschluss wird derzeit von der Senatsverwaltung für Umwelt, Mobilität, Ver-\nbraucher- und Klimaschutz (SenUMVK) umgesetzt. Zu diesem Zweck hat die SenUMVK die Bezirke \nmit Schreiben vom 22.02.2023 aufgefordert die Bestandsunterlagen der Trinkwassernotbrunnen zu-\nsammenzustellen und der SenUMVK zu übersenden. Dieser Bitte ist das Straßen- und Grünflächen-\namt (SGA) nachgekommen. Durch die Übertragung der Zuständigkeit für die Trinkwassernotbrunnen an die SenUMVK bzw. \nBWB besitzt das SGA für das im BVV-Beschluss genannte Ansinnen keine Zuständigkeit mehr. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit"
-    }
+    },
+    "keine-zustaendigkeit"
   ],
   [
     "242/VI",
@@ -8633,7 +8835,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass \nsämtliche neu erstellten Sozialwohnungen barrierefrei und mindestens diejenigen im \nErdgeschoss rollstuhlgerecht erstellt werden.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "243/VI",
@@ -8689,7 +8892,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, eine sichere und komfortable Lösung für den Radverkehr in \nder Mühlenstraße zu finden und diese auch schnellstmöglich umzusetzen.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "244/VI",
@@ -8781,7 +8985,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass vor \nSenioreneinrichtungen, wie vor Schulen üblich, Tempo 30 angeordnet werden soll. \nAußerdem soll unter Einbeziehung der Behindertenbeauftragten angeordnet werden, dass \nvor Senioreneinrichtungen die Bordsteine abgesenkt werden.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "246/VI",
@@ -8835,7 +9040,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat bei der Senatsverwaltung fortwährend auf den Sanierungsbedarf der be-\nzirklichen Schulen hingewiesen. Während der Aufstellung des Haushaltsplanes und der Inves-\ntitionsplanung für die Folgejahre wurde die Aufnahme weiterer Sanierungsprojekte in die ge-\nzielte Zuweisung gefordert und wird dies auch weiter tun. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "247/VI",
@@ -8889,7 +9095,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt Steglitz-Zehlendorf von Berlin hat gemäß des Beschlusses 247/VI der Be-\nzirksverordnetenversammlung vom 07.12.2022 eine Veranstaltung im Gedenken an den 70. \nJahrestag des Aufstandes vom 17. Juni 1953 organisiert. Die Veranstaltung fand am Samstag, dem 17. Juni 2023 um 13:00 Uhr am Freiheitskreuz auf \nder Potsdamer Chaussee (Autobahnkreuz Zehlendorf) statt. \nBei der Veranstaltung wurden Gedenkworte verschiedener Akteure gesprochen. Darunter wa-\nren Herr René Rögner-Francke, Vorsteher der Bezirksverordnetenversammlung Steglitz-Zeh-\nlendorf von Berlin sowie Herr Michael Grubert, Bürgermeister der Gemeinde Kleinmachnow. \nDes Weiteren konnte das bezirkliche Veranstaltungsmanagement Frau Sapna Joshi, die Pfar-\nrerin der evangelischen Kirchengemeinde Berlin-Wannsee, als weitere Rednerin gewinnen. \nZahlreiche Vertreterinnen und Vertreter aus den Bereichen Politik und Verwaltung sowie viele \nGäste besuchten die Veranstaltung am 17. Juni 2023 am Freiheitskreuz auf der Potsdamer \nChaussee. Es war eine würdevolle Gedenkveranstaltung, die mit der Kranzniederlegung en-\ndete. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "248/VI",
@@ -8945,7 +9152,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, eine Planung zu entwickeln, um eine angemessene Anzahl \nvon Bänken im öffentlichen Raum aufzustellen. Die Anzahl der Bänke soll vor allem an die \nBedürfnisse älterer Menschen angepasst werden, die sich aufgrund ihres Alters auf ihren \ntäglichen Wegen zwischendurch ausruhen müssen, aber auch allen anderen Menschen für \nErholungspausen und Kommunikationsaustausch zur Verfügung stehen. \nDie Erstellung der Planung, die die konkrete Gestaltung der Bänke (Ruhebänke, Klönbänke, \nJugendbänke) sowie die Orte zur Aufstellung zum Inhalt hat, soll unter Einbeziehung der \nbezirklichen Seniorenvertretung und weiterer Vertreterinnen und Vertreter der Bürgerschaft \nerfolgen. Die Fertigstellung einer solchen Planung sollte bis Ende Februar 2023 erfolgen, \ndamit die Umsetzung im kommenden Frühjahr sichergestellt werden kann. \nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "249/VI",
@@ -8995,7 +9203,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem \nBezirksamt \nwird \nempfohlen, \nzusätzliche \nmobile \nGeschwindigkeitsdisplays \nanzuschaffen. \nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "250/VI",
@@ -9051,7 +9260,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Nach Rücksprache mit der Berliner Feuerwehr können mehr Rettungsringe und Rettungsleitern zu \nVerfügung gestellt werden. Allerdings sind die Bezirke für die Festlegung der jeweiligen Rettungs-\nstellen zuständig. Die Berliner Feuerwehr benötigt eine konkrete Darstellung auf einer Karte und \nwird dann die entsprechenden Mittel bereitstellen und zeitnah installieren. Die Kosten hierfür über-\nnimmt die Berliner Feuerwehr. \nIm Rahmen der nächsten Sitzung des BVV- Ausschusses für Grünanlagen, Natur, Umwelt können \ndie Bezirksverordneten gerne konkrete Standorte für weitere Rettungsstellen benennen. Diese \nwerden dann vom Bezirksamt geprüft und an die Berliner Feuerwehr weitergeleitet. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "251/VI",
@@ -9099,7 +9309,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Weder im Winter 2022/2023 noch im Winter 2023/2024 wurden die Temperaturen in den öf-\nfentlichen Gebäuden so weit abgesenkt, dass ein Aufenthalt nicht möglich gewesen wäre. Ins-\nbesondere die Rathäuser, aber auch Seniorenfreizeiteinrichtungen und andere öffentlichen \nGebäude standen für die Öffentlichkeit zum Aufenthalt während der Winterperiode zur Verfü-\ngung. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "252/VI",
@@ -9146,7 +9357,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, geeignete Mittel anzuwenden, um das Fahrradfahren in der \nLauenburger Straße und der Sedanstraße sicherer und attraktiver zu machen, insbesondere \nsoll das Bezirksamt die Fahrradstraßen als Vorfahrtsstraßen ausweisen.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "253/VI",
@@ -9196,7 +9408,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Standplatz des Schildes wurde mit der Waldschule Zehlendorf nach den Vorgaben des Fach-\nbereiches Tiefbau abgestimmt und die Beschilderung ist mittlerweile an der Königstraße zwischen \nKronprinzessinnenweg und Bismarckstraße montiert. Dadurch können Besuchende der Waldschule, \ndie vom S-Bahnhof Wannsee kommen, die Waldschule leichter finden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "254/VI",
@@ -9237,7 +9450,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die ruhenden Verfahren zur Aufstellung von Bebauungsplänen \nzur Sicherung der Kleingartenanlagen (KGA)\n\nKGA \nKarl-Lange-Brücke Nord (Az: XII-279)\n\nKGA\nKarl-Lange-Brücke Süd (Az: XII-280)\n\nKGA\nEinigkeit (Az: XII-281)\n\nKGA\nWeinviertel (nicht die KGA Weinviertel eG) \n(Az: XII-282 mit Überschneidung mit Az: XII-23)\n\nKGA\nDorfaue (Az: XII-273)\nder Kleingartenvereinsgruppe Berlin-Steglitz-Ost e.V. werden wieder aufzunehmen oder \nneue Aufstellungsbeschlüsse vom Bezirksamt zu fassen und etwaige Änderungen der \nFlächennutzungspläne (FNP) beim Senat zu beantragen.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "255/VI",
@@ -9287,7 +9501,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt teilt mit, dass der Mexikoplatz und die vor Ort befindliche Bepflanzung denkmal-\ngerecht ist. Die in der vorhandenen Form erlebbare Gestaltung ist als Gartendenkmal in der Denk-\nmalliste des Landes Berlin eingetragen und entsprechend geschützt. Hierzu gehört auch die stra-\nßenbegleitende Gestaltung, insbesondere das Vorhandensein der Formgehölze auf dem heutigen \nUnterstreifen. \nDie Formgehölze werden regelmäßig fachgerecht geschnitten, in dem der jährliche Zuwachs ab-\ngenommen wird. Die Gesamtgröße der Pflanzen bleibt somit mehr oder weniger gleich. \nAus Sicht des Amtes wirkt sich die vorhandene Bepflanzung nicht nachteilig auf die Verkehrssicher-\nheit der Radfahrenden aus. Bis zum Schnittpunkt der Fahrbahnkanten besteht für den abbiegenden \nKraftfahrzeugverkehr ausreichend Raum zur Verkehrsbeobachtung. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "257/VI",
@@ -9311,7 +9526,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie den iranischen Sittenwächtern zuzuschreibende Ermordung der 22jährigen Mahsa \nAmini, unterdrückter kurdischer Vorname: Jina, im September 2022 war der Auslöser für \nanhaltende iran- und weltweite Massendemonstrationen; für Frauen*- und Menschenrechte \nim Iran, gegen das brutale, menschenverachtende Mullah-Regime. Frauen* – ihre Körper, \nihre Kleidung – sind meistens das erste Ziel von Diktaturen und absolutistischen Ideologien, \nin Iran und weltweit.\nNeben \ndem \nDruck \nund \nSanktionen \nauf \nder \nEbene \nder \nAußenpolitik \nsind \nSolidaritätsbekundungen überlebenswichtig für den Widerstand, den hauptsächlich Frauen* \nim Iran weiterhin leisten. Auch in unserer Stadt gab es Demonstrationen und \nSolidaritätsaktionen für die Menschen und insbesondere für die Frauen* Irans, so auch vor \nder Botschaft Irans in Dahlem. In einem Fall ist es in unserem Bezirk auch zu Gewalt gegen \nfriedlich demonstrierende Menschen gekommen. Ende Oktober attackierten vermummte und \nteils bewaffnete Menschen die Mahnwache vor der iranischen Botschaft in Dahlem. Indem \ndie brutale Unterdrückung im Iran auch in Steglitz-Zehlendorf Widerhall findet, sind wir \nherausgefordert, klar Stellung zu beziehen: \nDie BVV von Steglitz-Zehlendorf drückt ihre Solidarität mit jeglicher Form friedlicher Proteste \niranischer Frauen* und allen, die sich mit ihnen solidarisieren, sowie ihre Abscheu gegen das \nbrutale Regime und ihr Entsetzen gegen die Gewalt in unserem Bezirk aus.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
-    }
+    },
+    null
   ],
   [
     "258/VI",
@@ -9335,7 +9551,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf beruft gemäß § 35 Abs. 7 Ziff. 9 AG \nKJHG für die VI. Wahlperiode folgende Personen aus der Jugendhilfe sachverwandten \nBereichen zu beratenden Mitgliedern des Jugendhilfeausschusses:\n\nSteffi Mosch (Schulaufsicht Steglitz-Zehlendorf)\n\nDr. Karen Seel (Kinder- und Jugendgesundheitsdienst)\n\nLucia Maceroni (Jugend spricht mit!)\nBezirksverordnetenvorsteher\n18.01.2023",
       "beschlussdatum": "18.01.2023"
-    }
+    },
+    null
   ],
   [
     "259/VI",
@@ -9352,7 +9569,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "18.01.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "260/VI",
@@ -9426,7 +9644,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich gegenüber der Deutschen Bahn dafür einzusetzen, \neine Informationsveranstaltung für alle Betroffenen und Beteiligten des Bauprojekts \n„Stammbahn“, welches im Rahmen des Infrastrukturprojekts „i2030“ verwirklicht werden soll, \nzu initiieren, um insbesondere über den Lärmschutz und etwaige weitere Probleme zu \ninformieren. Die Informationsveranstaltung soll als Grundlage dienen, um bei fortschreitender \nPlanung die Bürgerinnen und Bürger bspw. über einen Runden Tisch bei der \nLösungsfindung einzubeziehen.\nBezirksverordnetenvorsteher\n18.01.2023",
       "beschlussdatum": "18.01.2023"
-    }
+    },
+    null
   ],
   [
     "262/VI",
@@ -9478,7 +9697,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen des Berliner Senats dafür \neinzusetzen, dass im Rahmen von Umrüstungen von Gaslaternen in Steglitz-Zehlendorf auf \nLED-Beleuchtung smarte Technik verbaut wird, die nach Bedarf die Laternen einschaltet. \nDies könnte zunächst an ausgewählten Standorten modellhaft erprobt werden. Hierbei sollen \nmögliche Angsträume ausgenommen werden. Mit Blick auf die steigenden Energiepreise \nund die Verknappung der Ressource aufgrund des Angriffskriegs Russlands auf die Ukraine \nsoll dieser Antrag anregen, das bereits laufende LED-Umrüstungsprogramm beschleunigt \nfortzusetzen.\nBezirksverordnetenvorsteher\n18.01.2023",
       "beschlussdatum": "18.01.2023"
-    }
+    },
+    null
   ],
   [
     "263/VI",
@@ -9528,7 +9748,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Spielplatz am Asternplatz wurde durch neue Geräte sowie neuen Fallschutzsand aufgewertet, \nso dass jetzt eine Kleinkindrutsche sowie zwei Federwipper bespielt werden können. Die Umrandung des Spielplatzes wurde zum Teil erneuert, ebenso die oberste Schicht der wasser-\ngebundenen Wegedecke. Diese Maßnahmen - zusammen mit dem fachgerechten Rückschnitt der \numliegenden Gehölze - haben die Attraktivität dieses kleinen Spielplatzes erheblich gesteigert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "264/VI",
@@ -9580,7 +9801,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, einen geeigneten Ort im öffentlichen Raum zu finden, an dem \neine „Rote Bank“ („La Panchina Rossa”) platziert werden kann, die mit einer „Nachricht“ zum \nThema geschlechtsspezifische Gewalt zum Nachdenken anregen soll. Zwecks Gestaltung \nder Bank sollen Künstler*innen aus dem Bezirk aktiv angesprochen und einbezogen werden. \nEine Beschriftung auf der Sitzfläche und/oder Rückenlehne soll einer erläuternden \nanmontierten Plakette den Vorzug geben. Der Rotton der Bank soll in der Farbgebung von \nder anderer Bänke unterscheidbar sein.\nBezirksverordnetenvorsteher\n18.01.2023",
       "beschlussdatum": "18.01.2023"
-    }
+    },
+    null
   ],
   [
     "265/VI",
@@ -9628,7 +9850,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Seitens des Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt ist geplant, den Weg \nam Buschgraben im Rahmen des Programms der „20 grünen Hauptwege“ grundhaft zu sanieren. \nIm Zuge dieser Baumaßnahme, die die landeseigene GrünBerlin ausführt, werden auch neue Sitz-\nnischen geschaffen und neue Bänke beschafft. Die Bauplanungsunterlage ist inzwischen einge-\nreicht. Nach der Genehmigung ist 2024 mit einer Umsetzung zu rechnen. Temporär hat der Fachbereich Grünflächen im Buschgrabenrundweg im Oktober 2023 zwei Sitz-\nbänke aufgestellt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "266/VI",
@@ -9678,7 +9901,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Wie bereits im Ausschuss thematisiert, ist die gewünschte Zusammenführung nur mit erheblichen \nfinanziellen Mitteln umsetzbar. Einer Schätzung zufolge wären Mittel von ca. 500.000 Euro erfor-\nderlich. Angesichts der bereits vorhandenen digitalen Recherchemöglichkeiten wie dem vom Bun-\ndesarchiv herausgegeben »Gedenkbuch – Opfer der Verfolgung der Juden unter der nationalso-\nzialistischen Gewaltherrschaft in Deutschland 1933 – 1945« und den Seiten des Arolsen Archives \n(international Center on Nazi Persecution), in denen eine Recherche nach Steglitz und Zehlendorf \nmöglich ist, scheint eine weitere Datenbank nicht das notwendige Medium zu sein, um an die Op-\nfer des Nationalsozialismus zu erinnern. Darüber hinaus sind die Mittel in der genannten Höhe \nnicht im Haushalt 2024/2025 realisierbar. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "267/VI",
@@ -9719,7 +9943,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, folgende Prüfungsschritte einzuleiten, um den Osteweg \n53 als Schulstandort zu sichern:\n\nErstellung einer Bedarfsanalyse in Verbindung mit einer Machbarkeitsstudie,\n\nUnbedingt Einbeziehung der oberen Denkmalschutz-Behörde in die Machbarkeitsstudie, \ndie bei der Vorstellung der Machbarkeitsstudie der Senatsverwaltung SenSW beim \nRunden Tisch Osteweg im Jahr 2020 vernachlässigt wurde,\n\nBericht über die weitere Entwicklung im Ausschuss\nDie BVV entscheidet nach Vorlage aller Unterlagen über die Entwicklung des Osteweg 53 zu \neinem Schul- und Sportstandort. Dabei ist die Eingliederung des Grundstücks Osteweg 53 \nins Fachvermögen des Bezirks sicherzustellen.\nBezirksverordnetenvorsteher\n18.01.2023",
       "beschlussdatum": "18.01.2023"
-    }
+    },
+    null
   ],
   [
     "269/VI",
@@ -9766,7 +9991,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, inwieweit es möglich wäre, freie Flächen im \nBoulevard Berlin als Quartier für eine öffentliche oder private Kultur- und/oder \nBildungseinrichtung zu nutzen.\nBezirksverordnetenvorsteher\n18.01.2023",
       "beschlussdatum": "18.01.2023"
-    }
+    },
+    null
   ],
   [
     "270/VI",
@@ -9794,7 +10020,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Geschäftsordnung der Bezirksverordnetenversammlung gilt in ihrer bestehenden \nFassung (laut Beschluss der BVV vom 29.11.2022) ab dem 16. März 2023 auch weiterhin \nfort.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "271/VI",
@@ -9821,7 +10048,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nUm die Sitze im bestehenden Ältestenrat, wie rechtlich gefordert, den demokratisch \ngewählten Stärkeverhältnissen nach der Wahl am 12. Februar 2023 entsprechend zu \nverteilen, werden sie wie folgt besetzt (Hare-Niemeyer-Verfahren):\nCDU: 5\nGrüne: 3\nSPD: 3\nFDP: 1\nAfD: 1\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "272/VI",
@@ -9850,7 +10078,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie \nim \nGeschäftsgang \nbefindlichen \nDrucksachen \nund \nÜberweisungen \nder \nBezirksverordnetenversammlung gelten wie zum Stand der Wahl am 12. Februar 2023 auch \nweiterhin fort.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "273/VI",
@@ -9867,7 +10096,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "16.03.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "274/VI",
@@ -9884,7 +10114,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "16.03.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "275/VI",
@@ -9901,7 +10132,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "16.03.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "276/VI",
@@ -9917,7 +10149,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "278/VI",
@@ -10009,7 +10242,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, die Bürgerinnen und Bürger im Bezirk über verschiedene \nMedien aufzurufen, öffentliche Straßenabschnitte, Wege und Plätze zu benennen, die nicht \noder zu schlecht ausgeleuchtet sind und deshalb bei Dunkelheit gemieden werden.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "279/VI",
@@ -10071,7 +10305,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob die Parkplätze (halbseitiges Parken) in der \nGoerzallee in Fahrtrichtung Zehlendorf zwischen Ortlerweg und Wismarer Straße \nabgeordnet werden können, um so ausreichend Platz und Sicherheit für Radfahrer*innen zu \nschaffen. \nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "280/VI",
@@ -10133,7 +10368,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Dem Beschluss folgend werden bereits heute u.a. auf der Seite des Amtes für Soziales di-\nverse Dienstleistungen in Leichter Sprache vorgestellt, so u.a.  Was ist das Sozialamt  Grundsicherung im Alter und bei Erwerbsminderung \n Hilfe zum Lebensunterhalt \n Eingliederungshilfe für Menschen mit Behinderung \n Hilfe zur Pflege \n Leistungen nach dem Landespflegegeldgesetz \n Leistungen für Asylsuchende Ebenso werden auf den Seiten des Wohnungsamtes folgende Leistungen in Leichter Spra-\nche zur Verfügung gestellt:  Antrag auf einen Wohnberechtigungsschein (WBS) \n Antrag auf Wohngeld Zusätzlich liegt im Standesamt ein Flyer in einfacher Sprache zur Vornamensberatung, der \nvon der Gesellschaft für deutsche Sprache e.V. herausgegeben wird, aus. Weiterhin bietet das Amt für Soziales in seinen Räumlichkeiten eine soziale, kostenlose \nund vertrauliche Beratung durch sog. Ämterlotsen an. Diese helfen u.a.  beim Zusammentragen und Sichten der notwendigen Unterlagen \n beim Ausfüllen von Anträgen, z.B. von Alg II-Anträgen, Grundsicherungsanträ-\ngen, Wohngeldanträgen, Kindergeld- und Elterngeldanträgen, Beantragung \nvon Unterhaltsvorschuss \n das zuständige Amt zu finden Alle Ämterlosten arbeiten ehrenamtlich und haben selbst Erfahrungen mit Ämtern. Sie \nwurden zu den betreffenden Themen geschult und bieten qualifizierte Hilfe an. Weiterhin sind beide Ämter mit dem Bereich für Pressearbeit in regem Austausch, um mit \nder Landesredaktion für die Webseite www.berlin.de eine (pilotierte) Bereitstellung aller \nservicebezogenen Webseiten in leichter Sprache zu ermöglichen und Mittel zu akquirie-\nren. Das Amt für Soziales beschäftigt während der Sprechstunden einen freien Mitarbeiter als \nSprachmittler für arabisch und französisch. Darüber hinaus werden aktuell mehrere \nSprachmittlerinnen für russisch und ukrainisch beschäftigt. Für weitere Sprachen erfolgt \neine Zusammenarbeit mit den Integrationslotsen Steglitz-Zehlendorf. In wenigen Fällen \nwir auch auf den Gemeindedolmetscherdienst zurückgegriffen. Darüber hinaus werden \nPersonen ohne Deutschkenntnisse häufig von Vertrauenspersonen begleitet, die für diese \ndie Übersetzungen vornehmen. Mitarbeiter und Kundinnen und Kunden des Bürgeramtes bedienen sich im Gespräch häu-\nfig des Englischen, womit eine Verständigung meist hinreichend möglich ist. Vereinzelt ha-\nben Mitarbeiter auch Kenntnisse anderer Sprachen, die im Einzelfall zur Unterstützung ab-\ngerufen werden können. Mit Hilfe diese",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "281/VI",
@@ -10181,7 +10417,8 @@ var D=[
       "beschlussdatum": "16.03.2023",
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "sonstiges-unklar"
   ],
   [
     "282/VI",
@@ -10228,7 +10465,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich gegenüber der Senatsverwaltung für Umwelt, Mobilität, \nVerbraucher- und Klimaschutz einzusetzen für ein Pilotprojekt für ein Konzept einer \nZielvereinbarung auch für Bäume in Parks. Hierbei soll auch die Möglichkeit eines Produktes \nfür Parkbäume in Betracht gezogen werden.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "283/VI",
@@ -10272,7 +10510,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Stellungnahme der Marktverwaltung: Die Marktverwaltung begrüßt die Intention der BVV, den Wochenmarkt auf dem Ludwig-\nBeck-Platz zu stärken. Wie bereits in der Begründung geschrieben, hat der lange Umbau \ndes Platzes dazu geführt, dass die Händler sich neue feste Märkte gesucht haben. Ein \nWechsel ziehen die Händler nur in Betracht, wenn dies für sie wirtschaftliche Vorteile brin-\ngen würde. Bisherige Versuche neue Händler auf den Markt auf den Ludwig-Beck-Platz anzusiedeln haben trotz Absenkung bzw. Aussetzung von Standgebühren nicht zum Erfolg \ngeführt. Anders als noch vor einigen Jahren, gibt es mittlerweile ein Nachwuchsproblem \nbei den Händlern. Um die Sichtbarkeit des Platzes bei den Bürgern zu stärken wurde im März 2023 ein neues \nWerbeschild an der Straßenlaterne Hindenburgdamm/Augustastraße angebracht. Hier-\ndurch sollen die Bürger auf dem Hindenburgdamm dafür sensibilisiert werden, dass in der \nNähe regelmäßig ein Markt stattfindet. Zur Unterstützung wurde zudem in Zusammenarbeit \nmit unserer bezirksinternen Presse- und Öffentlichkeitsarbeit über Facebook im Spätsom-\nmer 2023 eine Vorstellungsreihe der städtischen Wochenmärkte inklusive einer kleinen Ver-\nlosung durchgeführt. Diese Zusammenarbeit soll regelmäßig fortgesetzt werden. Zur Stärkung des Standortes und zur Belebung konnte bereits am 01.09.2023 – 03.09.2023 \nder Erste Lichterfelder Weinbrunnen durchgeführt werden. Die Veranstaltung war sowohl \nbei den Besuchern als auch bei den Weinhändlern ein großer Erfolg und wird in 2024 fort-\ngesetzt. Zusätzlich sind in 2024 ein Ostermarkt und ein Adventsmarkt in Planung. Für das \nJahr 2024 ist der Weinbrunnen bereits für den Zeitraum 30.08.-01.09.2024 terminiert. Zusammenfassung Maßnahmen: - \nAkquise neuer Händler durch Ansprache und Anbietung von vergünstigten Stand-\ngebühren \n- \nFacebook Beiträge, wenn möglich verbunden mit kleinen Verlosungen oder ähnli-\nchem \n- \nFortführung und Etablierung des „Lichterfelder Weinbrunnens“ Als weitere Schritte werden derzeit folgende Maßnahmen geprüft: - \nEintritt in die FÖL „Fördergemeinschaft ökologischer Landbau Berlin-Brandenburg \ne.V.“, um Zugang zum Netzwerk für eventuelle neue Händler zu erhalten \n- \nDurchführung von weiteren Themenfesten (z.B. Adventsmarkt / Ostermarkt / Herbst-\nfest) auf dem Ludwig-Beck-Platz, zur Stärkung des Standortes. - \nWeitere Werbemaßnahmen (Plakate, Flyer, o.ä.) Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "284/VI",
@@ -10316,7 +10555,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt teilt mit, dass im Sinne des Beschlusses eine zusätzliche Personalstelle im \nFachbereich Grünflächen geschaffen werden konnte. Nach intensiver Suche konnte die entspre-\nchende Stelle, Fachkoordination naturnahe Pflege, zum 01.06.2024 mit einer Dienstkraft besetzt \nwerden. \nZu einer der ersten Aufgaben gehört die Analyse der vorhandenen Grünanlagen hinsichtlich ihrer \nnaturschutzfachlichen Potentiale. Hierbei sind auch wichtige Punkte der inhaltlichen Grünflächen-\npflegearbeit sowie der Zweckbestimmung der Grünanlagen miteinander zu verknüpfen. \nWie die gärtnerische Pflege unter Berücksichtigung ökologischer Aspekte zielgerichtet angepasst \nwerden kann steht hierbei im besonderen Fokus. Wichtiger Bestandteil der Arbeit ist insbesondere die inhaltliche und kollegiale Vernetzung zwi-\nschen Fachleuten des Natur- und Artenschutzes mit denen der gärtnerisch-technischen Pflege \nund Unterhaltung. Hierbei geht es im Besonderen auch um ein Werben für gegenseitiges Ver-\nständnis der jeweiligen Fachdisziplin. Möglichkeiten und Grenzen des jeweils Absoluten sind da-\nbei auszuloten. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "285/VI",
@@ -10356,7 +10596,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, ein Beteiligungsformat zum Thema Kleingewässer (bspw durch \neinen Runden Tisch Kleingewässer) zu initiieren mit dem Ziel, die Kleingewässer in unserem \nBezirk zu erhalten und sukzessive deren Situation zu verbessern. Dabei sollen Umweltverbände, \ndie Berliner Wasserbetriebe sowie die zuständigen Behörden eingebunden werden. Gemeinsam \nmit diesem Beteiligungsformat sollen Maßnahmen zur Verbesserung des Zustands der \nKleingewässer im Bezirk erörtert und anhand eines Beispielgewässers (wie der Bäke) umgesetzt \nwerden. Aufbauend auf der vom BUND im Sommer vorgelegten Studie soll eine Priorisierung von \ngezielten Maßnahmen zur Verbesserung des Zustands dieser Gewässer vorgenommen werden. \nDie Priorisierung der bezirklichen Maßnahmen zur Sicherung des ökologischen Zustands dieser \nGewässer sollte entsprechend Auskunft geben über: \n\nden Wasserhaushalt, \n\nVerlandungstendenzen, \n\nmögliche Biotopverluste, \n\nden Fisch- und Amphibienbesatz, \n\nden Zustand des Uferumfelds als Lebensbereich der Fauna und Flora, \n\ndie Vernetzung mit anderen Gewässern und mit Grünzügen. \nAls Ergebnis sollten Vorschläge und eine Priorisierung für Entwicklungsmaßnahmen unter \nanderem im Bereich Renaturierung und Regenwassermanagement vorgestellt und perspektivisch \numgesetzt werden. Gegenüber der Senatsverwaltung und den zuständigen Stellen soll sich der \nBezirk dafür einsetzen, dass die den Bezirken übertragene Pflege von Kleingewässern finanziell \nentsprechend ausgestattet wird. \nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "286/VI",
@@ -10394,7 +10635,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in der Clayallee bei der Fußgängerampel in Höhe des \nGesundheitszentrums gegenüber der Hausnummer 229 auf beiden Seiten Absenkungen der \nBordsteine vorzunehmen. \nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "287/VI",
@@ -10435,7 +10677,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass die \nAmpelphase zur Überquerung der Schildhornstraße in Höhe Gritznerstraße bedarfsgerecht \nverlängert wird.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "288/VI",
@@ -10476,7 +10719,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass die \nBVG zwischen dem Teltower Damm und der Sachtlebenstraße einen Rufbus (z.B. Muva) \ninsbesondere für SeniorInnen einsetzt.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "289/VI",
@@ -10505,7 +10749,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer mit BVV-Beschluss 75/VI am 22.06.2022 der Nachbarschaftsinitiative Paulinenplatz für \neinen Wasseranschluss am Paulinenplatz aus Sondermitteln der BVV zur Verfügung \ngestellte Betrag in Höhe von bis zu 5.000 € darf aus Haushaltsmitteln des Jahres 2023 \ngedeckt werden.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
-    }
+    },
+    null
   ],
   [
     "290/VI",
@@ -10533,7 +10778,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie \nReihenfolge \ndes \nZugriffs \nder \nFraktionen \nauf \nAusschussvorsitze \nund \nstv. \nAusschussvorsitze erfolgt, wie nach der Wahl am 12. Februar 2023 rechtlich gefordert, \ngemäß den demokratisch gewählten Stärkeverhältnissen nach dem d’Hondt-Verfahren.\nBezirksverordnetenvorsteher\n19.04.2023",
       "beschlussdatum": "19.04.2023"
-    }
+    },
+    null
   ],
   [
     "291/VI",
@@ -10550,7 +10796,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "19.04.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "292/VI",
@@ -10566,7 +10813,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "19.04.2023"
-    }
+    },
+    null
   ],
   [
     "293/VI",
@@ -10583,7 +10831,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "19.04.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "294/VI",
@@ -10611,7 +10860,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass auf \ndem Spazierweg am Teltowkanal zwischen Krahmerstaße und Birkbuschstraße „wildtier-\nsichere“ (Marder, Krähen etc.) Mülleimer aufgestellt werden.\nBezirksverordnetenvorsteher\n19.04.2023",
       "beschlussdatum": "19.04.2023"
-    }
+    },
+    null
   ],
   [
     "295/VI",
@@ -10637,7 +10887,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob mehr Mülleimer am Teltowkanalweg zwischen \nTeltower Damm und Sachtlebenstraße aufgestellt werden können. \nBezirksverordnetenvorsteher\n19.04.2023",
       "beschlussdatum": "19.04.2023"
-    }
+    },
+    null
   ],
   [
     "296/VI",
@@ -10664,7 +10915,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nUm die Sitze in bestehenden Ausschüssen, wie rechtlich gefordert, den demokratisch \ngewählten Stärkeverhältnissen nach der Wahl am 12. Februar 2023 entsprechend zu \nverteilen, werden sie für die stimmberechtigten Mitglieder wie folgt besetzt (Hare-Niemeyer-\nVerfahren):\nHaushalt, Personal, Europa, Klima\nbestehend aus 13 Bezirksverordneten (5 CDU, 3 Grüne, 3 SPD, 1 FDP, 1 AfD) und 4 \nBürgerdeputierten (2 CDU, 1 Grüne, 1 SPD)\nGebäude, Wirtschaft, Inklusion, Verwaltungsmodernisierung, Digitalisierung\nbestehend aus 9 Bezirksverordneten (3 CDU, 2 Grüne, 2 SPD, 1 FDP, 1 AfD) und 4 \nBürgerdeputierten (2 CDU, 1 Grüne, 1 SPD)\nRechnungsprüfung\nbestehend aus 13 Bezirksverordneten (5 CDU, 3 Grüne, 3 SPD, 1 FDP, 1 AfD)\nFrauen*, Gleichstellung, Queer\nbestehend aus 9 Bezirksverordneten (3 CDU, 2 Grüne, 2 SPD, 1 FDP, 1 AfD) und 4 \nBürgerdeputierten (2 CDU, 1 Grüne, 1 SPD)\nPartizipation und Integration\nbestehend aus 9 Bezirksverordneten (3 CDU, 2 Grüne, 2 SPD, 1 FDP, 1 AfD) und 6 \nBürgerdeputierten\nSchule\nbestehend aus 9 Bezirksverordneten (3 CDU, 2 Grüne, 2 SPD, 1 FDP, 1 AfD) und 4 \nBürgerdeputierten (2 CDU, 1 Grüne, 1 SPD)",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "297/VI",
@@ -10700,7 +10952,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung (BVV) Steglitz-Zehlendorf wird gebeten, nachfolgenden \nBeschluss zu fassen und im Wege der eigenen Zuständigkeit oder in Zusammenarbeit mit \nanderen Behörden seine Umsetzung zu ermöglichen: \nAuf \nder \nBrauerstraße \nwird \nim \nAbschnitt \nzwischen \nKastanienstraße \nund \ndem \nKreuzungsbereich Königsberger Straße/Kranoldplatz ein temporärer Radweg entgegen der \nEinbahnstraße eingerichtet bzw. die Straße für den Radverkehr entgegen der Einbahnstraße \nfreigegeben. Der Radweg wird so weit an den Kreuzungsbereich Königsberger \nStraße/Kranoldplatz \nherangeführt \nwerden, \nwie \neine \nGefährdungssituation \ndurch \nentgegenkommenden Autoverkehr - insbesondere im Bereich der Einfahrt zur Brauerstraße - \nausgeschlossen werden kann. Auf dem letzten Stück der Brauerstraße (ab ca. Höhe Einfahrt \nzum Parkhaus Ärztehaus) bis zur Fußgängerampel am Oberhofer Weg könnte der Radweg \nauf den Bürgersteig verschwenkt werden. Bei der Umsetzung der Maßnahmen ist auf die \nSchulwegsicherheit zu achten.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "298/VI",
@@ -10726,7 +10979,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nIm Ausschuss für Mobilität, Verkehr, Ordnung wird der stellvertretende Bürgerdeputierte\nHerr Lukas Graf Yorck von Wartenburg\nabberufen.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "299/VI",
@@ -10752,7 +11006,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Mobilität, Verkehr, Ordnung wird \nFrau Marianne Männing\nabberufen.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "300/VI",
@@ -10778,7 +11033,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Gesundheitsausschuss wird \nFrau Michelle Heyer\nabberufen.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "301/VI",
@@ -10804,7 +11060,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Frauen*, Gleichstellung, Queer wird \nFrau Michelle Heyer\nabberufen.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "302/VI",
@@ -10830,7 +11087,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Ausschuss für Soziales, Pflege, Arbeit, Senior*innen wird\nFrau Nicole Simonett-Fröhlich\ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "303/VI",
@@ -10856,7 +11114,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nIm Ausschuss für Mobilität, Verkehr, Ordnung wird als neuer stellvertretender \nBürgerdeputierter \nHerr Dr. Martin Lange\ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "304/VI",
@@ -10882,7 +11141,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter im Ausschuss für Mobilität, Verkehr, Ordnung wird \nHerr Uwe Netzel\ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "305/VI",
@@ -10908,7 +11168,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Soziales, Pflege, Arbeit, Senior*innen \nwird \nFrau Marianne Männing\ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "306/VI",
@@ -10934,7 +11195,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Gebäude, Wirtschaft, Inklusion, \nVerwaltungsmodernisierung, Digitalisierung wird \nFrau Janine Meeßen\ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "307/VI",
@@ -10960,7 +11222,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte für den Gesundheitsausschuss wird \nFrau Sabine Baierl-Johna \ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "308/VI",
@@ -10986,7 +11249,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte für den Ausschuss für Frauen*, Gleichstellung, Queer \nwird \nFrau Buachompoo Melisa Lee \ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "309/VI",
@@ -11012,7 +11276,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte für den Ausschuss für Soziales, Pflege, Arbeit, \nSenior*innen wird \nFrau Asena Baykal\ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "310/VI",
@@ -11038,7 +11303,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter für den Ausschuss für Stadtentwicklung und Wohnen \nwird \nHerr Rolf Breidenbach\ngewählt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "311/VI",
@@ -11062,7 +11328,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Ruderclub am Wannsee e.V. Berlin wird für die Anschaffung eines Einers aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n3.800 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "312/VI",
@@ -11086,7 +11353,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Potsdamer Yacht Club e.V. wird für ein seetaugliches Segel-Begleitboot aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n9.580 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "313/VI",
@@ -11110,7 +11378,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Galerie Wannsee Contemporary wird für ein Kunstprojekt am Wannsee aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n3.750 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "314/VI",
@@ -11134,7 +11403,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Schenk doch mal ein Lächeln e.V. wird für die Wunschbaum-Aktion für Kinder aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n1.500 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "315/VI",
@@ -11163,7 +11433,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, durch das Amt zu prüfen, welche Möglichkeiten eines \nErsatzstandortes es für den Wochenmarkt in Zehlendorf-Mitte geben könnte, wenn es ab \n2026 zum Start der Brückenbauarbeiten an der S-Bahn Zehlendorf-Mitte kommt.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "318/VI",
@@ -11233,7 +11504,8 @@ var D=[
       "beschlussdatum": "24.05.2023",
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "sonstiges-unklar"
   ],
   [
     "319/VI",
@@ -11292,7 +11564,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sicheres Kinderspiel im Straßenabschnitt Baseler Straße \nzwischen Friedrichstraße und Ringstraße gemäß § 56 Abs. 1 Berliner Mobilitätsgesetz zu \nermöglichen und dazu ein Pilotprojekt für 1 Jahr anzuordnen. Das Pilotprojekt soll \nausgewertet und rechtzeitig für eine Verstetigung im Ausschuss vorgestellt werden.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "320/VI",
@@ -11342,7 +11615,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob geeignete bezirkliche Liegenschaften für die \nSchaffung einer E-Ladeinfrastruktur existieren und dem Internetangebot „FlächenTOOL“ zur \nIdentifizierung von Ladeinfrastruktur für E-Fahrzeuge zu melden. Ferner wird das Bezirksamt \nersucht, das FlächenTOOL mit den zur Verfügung stehenden Mitteln der Öffentlichkeitsarbeit \nbei Investoren und Privatpersonen bekannt zu machen. \nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "321/VI",
@@ -11404,7 +11678,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nNachdem durch Befragungen von Jugendlichen und Fachkräften, Aufsuchen von Schulen und Ju-\ngendclubs, aber auch über Peerhelper, Social Media und Personen aus der Community selbst her-\nausgefiltert wurde, welche Angebote es in Steglitz-Zehlendorf braucht, hat der freie Träger der Ju-\ngendhilfe Outreach gGmbH im Auftrag des Jugendamtes Steglitz-Zehlendorf zunächst mobile An-\ngebote geschaffen. In bestehenden Jugendclubs wurden Filmabende mit Diskussionen, Projekte im \nkreativen Bereich, aber auch Ausflüge zu queeren Angeboten und Events veranstaltet. Daraus \nergab sich der Wunsch nach einem festen Standort, der nunmehr seit Februar 2025 in der Jugend-\nfreizeiteinrichtung Flemmingstraße angesiedelt ist und vom Träger Outreach gGmbH betreut wird. \nIn dieser Base wird es zunächst Beratungsangebote geben und es soll ein Treffpunkt für queere \njunge Menschen sein, um sich auszutauschen, gemeinsam weitere Angebote und Aktivitäten zu ent-\nwickeln und das Jugendzentrum mit diesem Schwerpunkt auszubauen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "322/VI",
@@ -11455,7 +11730,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Bereits im Jahr 2024 konnten ca. 200 Ehrenamtskarten an die ehrenamtlichen Mitarbeiterinnen und \nMitarbeiter vergeben werden. Zusätzlich erhielt der Seniorenservice des Amtes für Soziales am \n30.09.2025 weitere 50 neue Ehrenamtskarten. Ehrenamtliche Mitarbeiterinnen und Mitarbeiter, die \ndie Voraussetzungen erfüllen, haben eine Ehrenamtskarte erhalten bzw. können diese erhalten. Nach den geltenden Voraussetzungen kommt die Ehrenamtskarte insbesondere für Personen in Be-\ntracht, deren Engagement in Berlin oder Brandenburg ausgeübt wird, seit mindestens einem Jahr be-\nsteht, mindestens 200 Stunden jährlich umfasst und auch künftig fortgeführt wird. Zudem darf das Engagement grundsätzlich nicht gegen Entgelt oder gegen eine Aufwandsentschä-\ndigung erfolgen, die über die Erstattung tatsächlicher Auslagen hinausgeht. Darüber hinaus ist zu berücksichtigen, dass einzelne ehrenamtliche Mitarbeiterinnen und Mitarbeiter \nnoch über eine gültige Ehrenamtskarte verfügen, da die Gültigkeitsdauer drei Jahre beträgt. In die-\nsen Fällen ist eine erneute Ausstellung derzeit nicht erforderlich. Eine kostenlose Nutzung des Berliner ÖPNV ist mit der Ehrenamtskarte derzeit nicht regelhaft verbun-\nden. Eine entsprechende Ausweitung liegt nicht in bezirklicher Zuständigkeit, sondern müsste auf Lan-\ndesebene beziehungsweise in Abstimmung mit den zuständigen Verkehrs- und Tarifstellen entschie-\nden werden. Das Bezirksamt kann das Anliegen im Rahmen seiner Möglichkeiten unterstützen bzw. \nweitergeben; eine eigenständige bezirkliche Umsetzung ist jedoch nicht möglich. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "323/VI",
@@ -11496,7 +11772,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Anbringung einer Photovoltaikanlage auf dem Dach der \nSchweizerhof-Grundschule zu prüfen.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "324/VI",
@@ -11522,7 +11799,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum Bezirksstadtrat von Steglitz-Zehlendorf von Berlin wird \nHerr Patrick Hans Willy Steinhoff \ngewählt. \nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "325/VI",
@@ -11567,7 +11845,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDer Start der Bauarbeiten der Deutschen Bahn AG (DB AG) zur Sanierung der \nEisenbahnüberführung „Teltower Damm“ verzögert sich mindestens in das Jahr 2030. In \n2026 soll nach Aussage der DB AG ausschließlich eine Überführung über den östlichen \nFußgängertunnel, meist unter laufenden Betrieb der S-Bahn, erneuert werden. \nVollumfängliche Sperrungen sind damit in der nächsten Zeit nicht zu erwarten. Die DB AG \nhat zudem zugesichert, die Errichtung der Unterführung vom Postplatz zur Machnower \nStraße ggf. vorzuziehen. Mit der DB AG sind zudem regelmäßige ämterübergreifende \nAustauschtermine zum Informationsaustausch festgelegt worden. Parallel wird aus der erfolgreichen Teilnahme des Bezirks Steglitz-Zehlendorf am \nStädtebauförderprogramm „Lebendige Zentren und Quartiere“ für den Bereich \n„Zehlendorf-Mitte“ bereits in 2026 eine Gebietskoordination eingeführt, welche im \nAnschluss auch die Ausschreibung eines Geschäftsstraßenmanagements vorbereiten wird. \nDieses wird bis ca. 2034 die Einzelhandelsbetriebe besser vernetzen und auch \nSchnittstellen zur DB AG aufbauen. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "326/VI",
@@ -11629,7 +11908,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, Maßnahmen zur Säuberung, Instandsetzung und \nInstandhaltung der Kleingewässer des Bezirks zeitnah, insbesondere für den Waldsee, zu \nergreifen, für welche \n\nbeim Berliner Senat und Abgeordnetenhaus die Bereitstellung der notwendigen \nfinanziellen Mittel zur Entschlammung zu erwirken sind, \n\nMaßnahmen gegen Hochwasser (wie z.B. 2017 und dadurch Absterben von 80 Bäumen) \ndurch Wiederherstellung eines Überlaufs bzw. verbindlicher Regelungen mit den \nWasserwerken, wenn ein kritischer Wasserstand erreicht ist, festzulegen sind, \n\neine Konzeption für die Realisierung nachhaltiger Maßnahmen, die sowohl die Neubildung \ngiftigen Schlamms, Hochwasser und übermäßiges Wachstum von Algen und Hornkraut \nverhindern sollen, zu erstellen.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "327/VI",
@@ -11685,7 +11965,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer auf Antrag der CDU-Fraktion am 14.10.2020 getroffene Beschluss 1153/V „Abriss des \nMäusebunkers“ wird korrigiert: Die BVV begrüßt das Modellverfahren Mäusebunker \n(https://www.modellverfahren-maeusebunker.de/) \nund \nbittet \ndas \nBezirksamt, \ndieses \nVerfahren positiv zu begleiten.\nBezirksverordnetenvorsteher\n24.05.2023",
       "beschlussdatum": "24.05.2023"
-    }
+    },
+    null
   ],
   [
     "329/VI",
@@ -11728,7 +12009,8 @@ var D=[
       "beschlussdatum": "24.05.2023",
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "331/VI",
@@ -11752,7 +12034,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt des Bürgerdeputierten im Ausschuss für Gebäude, \nWirtschaft, Inklusion, Verwaltungsmodernisierung, Digitalisierung\nHerr Dr. Hartmut Kühne\ngemäß § 24 Abs. 1a BezVG (durch Verzicht) mit Wirkung vom 28.02.2023 als beendet \nanzusehen ist.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "332/VI",
@@ -11776,7 +12059,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt der Bürgerdeputierten im Gesundheitsausschuss\nFrau Jingsi Wawrzyn-Lei\ngemäß § 24 Abs. 1c BezVG (Wegfall der Voraussetzungen) mit Wirkung vom 30.05.2023 als \nbeendet anzusehen ist.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "333/VI",
@@ -11802,7 +12086,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur Schriftführerin der Bezirksverordnetenversammlung Steglitz- Zehlendorf wird\nJuliana Kölsch\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "334/VI",
@@ -11828,7 +12113,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur stellvertretenden Schriftführerin der Bezirksverordnetenversammlung Steglitz-Zehlendorf \nwird\nDr. Marela Bone-Winkel\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "335/VI",
@@ -11854,7 +12140,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur stellvertretenden Schriftführerin der Bezirksverordnetenversammlung Steglitz-Zehlendorf \nwird\nUte Hahnfeld \ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "336/VI",
@@ -11880,7 +12167,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur stellvertretenden Schriftführerin im Vorstand der Bezirksverordnetenversammlung \nSteglitz-Zehlendorf wird\nJohanna Martens\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "337/VI",
@@ -11906,7 +12194,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Schriftführer im Vorstand der Bezirksverordnetenversammlung \nSteglitz-Zehlendorf wird\nDr. Konstantinos Kosmas\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "338/VI",
@@ -11932,7 +12221,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nIm \nAusschuss \nfür \nGebäude, \nWirtschaft, \nInklusion, \nVerwaltungsmodernisierung, \nDigitalisierung wird als neuer Bürgerdeputierter \nLutz Hannebauer\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "339/VI",
@@ -11958,7 +12248,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Haushalt, Personal, Europa, Klima \nwird \nSarah Maurer\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "340/VI",
@@ -11974,7 +12265,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "341/VI",
@@ -11990,7 +12282,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "342/VI",
@@ -12007,7 +12300,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "21.06.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "343/VI",
@@ -12040,7 +12334,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich mehrfach gegenüber der Senatsverwaltung Bildung, Jugend und Familie \ndafür eingesetzt, dass das Therapiebad erhalten bleibt. Der Mietvertrag zwischen der BIM und dem \nPrimaVita Bad wurde bis Ende 2027 verlängert, da sich die Pläne für die Sanierung und Erweiterung \nder John-F.-Kennedy-Schule verzögern. Eine Fortführung des Mietvertrages ist nicht ausgeschlos-\nsen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "344/VI",
@@ -12069,7 +12364,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, bezüglich des vor kurzem bekannt gegebenen geplanten \nAbrisses des Schwimmbades am Teltower Damm und der von der angrenzenden Kita \ngenutzten Turnhalle und Küche sich bei den zuständigen Stellen dringend für den Erhalt \noder alternative Lösungen einzusetzen. Unabhängig davon wird das Bezirksamt ersucht, \nsich dafür einzusetzen, dass der Betrieb des Schwimmbades auf Dauer erhalten bleibt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "345/VI",
@@ -12098,7 +12394,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Parlamentarischen Ferien der Bezirksverordnetenversammlung Steglitz-Zehlendorf \ndauern vom 13.07.2023 bis einschließlich 25.08.2023.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "346/VI",
@@ -12172,7 +12469,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, eine mögliche Ausweitung der Parkraumbewirtschaftung zu \nprüfen, insbesondere die angrenzenden Bereiche der heute schon vorhandenen \nParkraumbewirtschaftungszonen 23 bis 25 in Steglitz und Zehlendorf-Mitte.\nZudem wird angeregt, die Zeiten der Parkraumbewirtschaftungszonen 23 bis 25 an \nSamstagen an die Ladenöffnungszeiten anzupassen und von 18:00 auf 20:00 Uhr zu \nverlängern.\nDer BVV ist bis Ende 2023 zu berichten.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "347/VI",
@@ -12232,7 +12530,8 @@ var D=[
       "beschlussdatum": "21.06.2023",
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "349/VI",
@@ -12292,7 +12591,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Akustikanlage im Bürgersaal als solches ist funktionsfähig. Im Rahmen der Einrichtung des Live-Streamings der BVV-Sitzungen im Dezember 2023 \nwurde eine neue Aussteuerung des Tons realisiert, was zu einer Verbesserung der Akustik \ngeführt hat. Im Rahmen der Sitzungen der BVV findet eine individuelle Steuerung der Höhen, Tiefen und \nLautstärken statt. Vor jeder Sitzung wird eine gesonderte Überprüfung durchgeführt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "353/VI",
@@ -12348,7 +12648,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat die verkehrliche Situation der Straße „Am Sandwerder“ ein-\ngehend geprüft und kommt zum Ergebnis, dass keine Einbahnstraße im betreffenden Abschnitt an-\ngeordnet werden kann. Nachfolgend werden die Gründe für diese Entscheidung erläutert: Grundsätzlich dürfen Beschränkungen und Verbote des fließenden Verkehrs gemäß § 45 Abs. 9 der \nStraßenverkehrs-Ordnung (StVO) nur angeordnet werden, wenn aufgrund der besonderen örtlichen \nVerhältnisse eine Gefahrenlage besteht, die das allgemeine Risiko einer Beeinträchtigung der Si-\ncherheit und Ordnung übersteigt. Die Straße „Am Sandwerder“ ist gemäß einer Festlegung im Stadtentwicklungsplan Verkehr (StEP \nVerkehr) Bestandteil des untergeordneten Straßennetzes und somit Teil einer geschwindigkeitsre-\nduzierten Tempo 30-Zone. Die Fahrbahnbreite beträgt zwischen 5,40 m und 5,50 m. Überwiegend \nwird an beiden Fahrbahnrändern der Straße in Längsaufstellung halbseitig auf dem Gehweg ge-\nparkt. In den Teilen der Straße „Am Sandwerder“, die nach Osten zum Tillmannsweg führen, ist \nhingegen das Gehwegparken nicht erlaubt. Dort beträgt die Fahrbahnbreite etwa 5,50 m und lässt \naktuell ein alternierendes Parken jeweils an einem Fahrbahnrand in Längsaufstellung zu. Die Vorfahrtsregelung in der Straße „Am Sandwerder“ ist gemäß § 8 Absatz 1 StVO „rechts vor links“ \nund entspricht somit einer üblichen Verkehrsregelung in einer Tempo 30-Zone i. S. d. Vorgabe aus \n§ 45 Abs. 1c StVO. An den Stellen der Straße „Am Sandwerder“, an denen beidseitig geparkt wird, \nermöglicht die dem Fließverkehr zur Verfügung stehende Restbreite der Fahrbahn von ca. 3,50 m \nkeinen Begegnungsverkehr zweier Kraftfahrzeuge, da stets der Gegenverkehr abgewartet werden \nmuss. Infolgedessen verringert sich die gefahrene Geschwindigkeit dort nachhaltig. Entgegenkom-\nmendem Verkehr kann im Bereich vorhandener Grundstückszufahrten, Straßenkreuzungen sowie \nan den mit Haltverbot versehenen Ausweichstellen ausgewichen werden. 2 \nDer Verkehrsablauf ist im Allgemeinen sicher und geordnet. Beanstandungen anderer Verkehrsteil-\nnehmer, wie z. B. der BSR im Rahmen der durchzuführenden Müllentsorgung, über eine mangelnde \nPassierbarkeit der Straße liegen darüber hinaus ebenfalls nicht vor. Die Straßenverkehrsbehörde ist nach Maßgabe der Verwaltungsvorschrift (VwV Nr. XI 3a zu § 45 \nStVO) gehalten, in Tempo 30-Zonen die dem fließenden Verkehr zur Verfügung stehende Fahrbahn-\nbreite durch geeignete Maßnahmen zusätzlic",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "354/VI",
@@ -12400,7 +12701,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Auswirkungen von Bezirksamtsbeschlüssen auf \nklimakritische Bereiche abzuschätzen. So wird das Bezirksamt gebeten, in seiner \nGeschäftsordnung zu verankern, dass alle seine Beschlussvorlagen einem systematischen \nKlimacheck unterzogen werden.\nIn der Begründung der Bezirksamtsvorlagen zur Beschlussfassung mit Ausnahme von \nPersonalvorlagen sind die Auswirkungen auf den Klimaschutz zu erläutern. Es ist \ndarzustellen, in welchem Maß die vorgeschlagene Regelung zur Senkung oder Erhöhung \nvon Treibhausgasemissionen beiträgt. Bei erheblichen negativen Folgen für den \nKlimaschutz, sind klimafreundlichere Entscheidungsalternativen darzulegen.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "355/VI",
@@ -12447,7 +12749,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die bezirkseigenen LKW mit Abbiegeassistenten auszurüsten \nbzw. ggf. nachzurüsten und hierfür möglichst Fördermittel in Anspruch zu nehmen.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "357/VI",
@@ -12504,7 +12807,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Mit Schreiben vom 06.03.2024 teilte die Senatsverkehrsverwaltung mit, dass es dem Land Berlin \ngelungen ist, innerhalb des durch das Bundesverkehrsministerium geförderten Leuchtturmprojektes \neUVM – Aufbau und Betrieb eines erweiterten umweltsensitiven Verkehrsmanagementsystems \nFahrradreparaturstationen (FRS) zu akquirieren. \nIm Bezirk Steglitz-Zehlendorf soll eine FRS am Breitenbachplatz und eine weitere in der Birkbusch-\nstraße 37. Die Stationen werden von einem Dienstleister im Auftrag der Senatsverkehrsverwaltung \nin diesem Jahr errichtet. Wartung und Betrieb der Stationen werden bis Ende 2026 von der Senats-\nverkehrsverwaltung finanziert, anschließend von der GB infraVelo. Dem Bezirk entstehen somit \nkeine Kosten. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "358/VI",
@@ -12554,7 +12858,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, auf der Interseite des Bezirks in der A-Z Themenleiste den \nBegriff „Schlaglochmeldung“ aufzunehmen und mit einem Link zur Meldung von \nSchlaglöchern zu verbinden.\nDas Bezirksamt wird zudem gebeten, das Formular.87799.php zur Meldung von \nSchlaglöchern auch unmittelbar über die Internetseite des Tiefbauamtes für Nutzer \nauffindbar zu machen, was derzeit nicht der Fall ist, und das Formular zur „Meldung von \nSchäden im öffentlichen Raum“ entsprechend dem Formular.282104 auf der Internetseite \ndes Tiefbauamtes Pankow nutzerfreundlich zu unmittelbaren Störungsmeldung an das \nStraßen- und Grünflächenamt weiterzuentwickeln.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "359/VI",
@@ -12604,7 +12909,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert zu prüfen, ob ein ständiges Wahlamt mit mindestens einer \nAnzahl von 10 festen Stellen eingerichtet werden kann. Das ständige Wahlamt soll an einem \neigenen Standort mit den dort notwendigen Räumlichkeiten, wie z.B. einem Briefwahllokal \nund Möglichkeiten zur Lagerung von Unterlagen u.ä., unterbracht werden. Die dauernde \nFinanzierung durch den Senat ist vorab sicherzustellen.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "360/VI",
@@ -12661,7 +12967,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Nach Vorlage der verkehrsrechtlichen Anordnung der Senatsverwaltung MVKU bereits im Mai 2024 \nhat das Bezirksamt die Planung vorangetrieben, so dass der Fußgängerüberweg im August 2025 \nfertiggestellt werden konnte. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "361/VI",
@@ -12713,7 +13020,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass die \nGarystraße aus dem Hauptstraßennetz genommen wird und in der Folge in die bestehenden \nTempo-30-Zonen integriert wird.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "362/VI",
@@ -12757,7 +13065,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt teilt mit, dass im Sinne des Beschlusses eine Kooperation mit den Kolleginnen \nund Kollegen des Bezirksamtes Charlottenburg-Wilmersdorf besteht. \nÜber die im Juni 2024 erstmals im Fachbereich Grünflächen besetzte Personalstelle, Fachkoordi-\nnation naturnahe Pflege, wird der fachliche Kontakt im Hinblick auf die mögliche Verwendung von \nWildstauden in der Bepflanzung der Grünanlagen und Friedhöfe weiter intensiviert werden. Bei \nvielen Wildstauden ist es zudem sinnvoll, diese in Form der Direktsaat auszubringen. Eine Etab-\nlierung am Standort ohne eine entwicklungshemmende Verpflanzung ist oftmals erfolgreicher. \nHierzu gibt es z.B. bereits Probeflächen entlang des Königsweges. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "363/VI",
@@ -12807,7 +13116,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Seit der Beschlussfassung des ersten Antrages bin ich im aktiven Austausch mit der Bürgerinitiative \nBlumenkiez und den Gewerbetreibenden vor Ort. So habe ich drei Ortstermine – am 20.11.2023, \n23.04.2024 und zuletzt am 19.10.2024 wahrgenommen. Des Weiteren waren Vertreterinnen und \nVertreter der Initiative mehrfach bei mir ihm Büro, so dass die einzelnen Maßnahmen im Austausch \nentwickelt wurden. Folgende Einzelmaßnahmen sind geplant: Im Zentrum des umgestalteten Eugen-Gerstenmaier-Platzes steht der Mensch. Das bedeutet zu-\nnächst mehr Raum und mehr Ordnung. Aktuell stehen zum Beispiel die Fahrradbügel verteilt auf \ndem Platz. Daher werden die Fahrradbügel im Bereich des Fußweges in Richtung S-Bahn zuguns-\nten der Barrierefreiheit entfernt. Auf dem Platz werden zusätzlich zwei neue Bäume gepflanzt, die \nmit ihren Baumscheiben für eine neue Stadtnatur-Atmosphäre sorgen sollen. Die Restfläche wird \nkünftig für den Lieferverkehr, die Feuerwehr und Rettungsfahrzeuge freigegeben. Gleichzeitig soll \nder Platz zu einem nachbarschaftlichen Begegnungsort werden. Die bestehenden Bänke wurden \ngedreht und mit neuen Bänken ergänzt, so dass Sitzgruppen entstanden sind. Ein kleiner Markt \nkann hier stattfinden. Unter Aufsicht können temporäre Spielangebote wie zum Beispiel durch das \nProjekt „Spielmobil“ für Kinder organisiert werden. Eine Bücherbox soll aufgebaut werden. Der \ngroße Baumstubben wurde bereits gefräst, ein neuer Baum gepflanzt und der Gehweg an der \nHortensienstraße instandgesetzt. Eine Querungsmöglichkeit wird in der Hortensienstraße auf Höhe der früheren Telefonzelle ge-\nschaffen. Die Telekom hat zugesagt, die alten Telefonzellen im Bezirk Steglitz-Zehlendorf in die-\nsem Jahr abzubauen, prioritär wird diese Telefonzelle abgebaut werden. Am Asternplatz sind wie-\nderum Gehwegvorstreckungen vorgesehen. Allerdings sollen diese nicht baulich sein, sondern \ndurch Markierungen und entsprechendem Pollerschutz erfolgen. Dies ist deutlich günstiger und \nauch schneller umsetzbar. \nGegenüber dem Eugen-Gerstenmaier-Platz wird in Abstimmung mit der Marktleitung vor dem Su-\npermarkt „Penny“ die Lieferzone abgeordnet, da die Lieferzone direkt um die Ecke in der Hortensi-\nenstraße ausreichend ist. Somit können an dieser Stelle Kurzzeitparkplätze (2 Stunden) eingerichtet \nwerden. An dieser Stelle werden zwei neue Bäume gepflanzt, dazwischen Fahrradbügel installiert. Auf der Westseite der Moltkestraße (südlich der Brücke) soll das Gehwegparken abge",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "364/VI",
@@ -12854,7 +13164,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung ersucht das Bezirksamt, auf seiner Internetseite \nausführliche Informationen zum bezirklichen Katastrophenschutz bereitzustellen und diese \nauch in geeigneter Weise nicht digital als Broschüre in den Rathäusern zur Verfügung zu \nstellen. \nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "365/VI",
@@ -12904,7 +13215,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: An allen Bibliotheksstandorten in Steglitz-Zehlendorf wurden mittlerweile die Rückgabegeräte aus-\ngetauscht. Alle Standorte haben nun neue, moderne Ausleihautomaten. Die neuen Automaten sind \nnicht nur leiser und schneller, sie ermöglichen auch die papierlose Ausleihe und Rückgabe der \nBibliotheksmedien. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "366/VI",
@@ -12950,7 +13262,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass es \nMittel der Personalkostenbudgetierung (PKB) auch für krankheitsbedingt ausgefallenes \npädagogisches Personal im EFöB-Bereich der Schulen gibt analog zu den PKB-Mitteln für \nLehrkräfte. Dabei ist es wichtig, dass für das pädagogische Personal in der EFöB \n(ergänzende Förderung und Betreuung) ein eigener Haushaltstitel eingerichtet wird. Des \nWeiteren braucht es eine höhere Finanzierung für freie Träger, damit auch dort \nkrankheitsbedingt ausgefallene Erzieherinnen und Erzieher ersetzt werden können. Dafür \nbraucht es eine entsprechende Aufstockung der Mittel im Haushaltsplan.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "367/VI",
@@ -12988,7 +13301,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht ggf. mit den zuständigen Stellen zu prüfen, ob auf der \nLiegenschaft des Bundesarchivs eine zentrale öffentliche Durchwegung für den Fußverkehr \ngeschaffen werden kann, die die Altdorfer Straße mit der Finckensteinallee verbindet. \nWeitere Schritte zur Nutzbarkeit der Liegenschaft als öffentlich zugängliche Grünfläche \nsollen geprüft werden.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "368/VI",
@@ -13028,7 +13342,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, baldmöglichst den Klimaschutzbeirat wieder neu zu \nkonstituieren. Dabei ist zu prüfen, inwieweit mehr zivilgesellschaftliche Akteure in die Arbeit \neinbezogen werden können als bislang und ob das Tätigkeitsfeld erweitert werden kann. Die \nSchlussfolgerungen des letzten Klimaschutzbeirates sind zu berücksichtigen. \nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "370/VI",
@@ -13054,7 +13369,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum Vorsteher der Bezirksverordnetenversammlung Steglitz-Zehlendorf wird \nRené Rögner-Francke \ngewählt. \nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "371/VI",
@@ -13080,7 +13396,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Vorsteher der Bezirksverordnetenversammlung Steglitz-Zehlendorf \nwird\nSören Grawert\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
-    }
+    },
+    null
   ],
   [
     "375/VI",
@@ -13096,7 +13413,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "376/VI",
@@ -13122,7 +13440,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter im Schulausschuss wird \nChristoph Herbort-von Loeper\ngewählt.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "377/VI",
@@ -13148,7 +13467,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte für den Ausschuss für Bildung und Kultur wird\nAnette Knaut\ngewählt.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "378/VI",
@@ -13174,7 +13494,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte für den Ausschuss für Gebäude, Wirtschaft, Inklusion, \nVerwaltungsmodernisierung, Digitalisierung wird\nAstrid Gottwald\ngewählt.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "379/VI",
@@ -13200,7 +13521,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte für den Schulausschuss wird\nAnja Sokoll\ngewählt.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "380/VI",
@@ -13226,7 +13548,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte für den Ausschuss für Soziales, Pflege, Arbeit, \nSenior*innen wird\nBetül Gülsen\ngewählt.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "381/VI",
@@ -13252,7 +13575,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter für den Ausschuss für Grünanlagen, Natur, Umwelt \nwird\nNiklas Müller\ngewählt.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "382/VI",
@@ -13278,7 +13602,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter für den Ausschuss für Mobilität, Verkehr, Ordnung \nwird\nMarkus Humpert\ngewählt.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "383/VI",
@@ -13294,7 +13619,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "384/VI",
@@ -13317,7 +13643,8 @@ var D=[
         }
       ],
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "385/VI",
@@ -13334,7 +13661,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "20.09.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "386/VI",
@@ -13358,7 +13686,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Katholischen Kirchengemeinde Heilige Familie Lichterfelde wird für die Herbstfahrt 2023 \naus Sondermitteln der BVV ein Betrag bis zur Höhe von\n2.500 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "387/VI",
@@ -13391,7 +13720,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat sich an die DB Station&Service AG, Leitung Regionalbereich Ost gewandt \nund für die Idee geworben, in Kooperation mit der Ortsteilinitative Schlachtensee den histori-\nschen Jahrestag des Bahnhofes unter Einbeziehung kultureller Einrichtungen und lokaler Ge-\nwerbebetreibender mit einem Ortteilfest zu begehen. Laut Rückmeldung der Deutschen Bahn beteilige sie sich gerne an der Ausrichtung des Orts-\nteilfestes in Kooperation mit der Ortsteilinitiative Schlachtensee. \nDie Ortsteilinitiative hat sich zwischenzeitlich mit der Deutschen Bahn in Verbindung gesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "388/VI",
@@ -13420,7 +13750,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, die Berliner Bäder Betriebe aufzufordern, die notwendigen \nInstandsetzungsarbeiten vorzunehmen und nach einem neuen Pächter für das Sommerbad \nLichterfelde \"Spucki\" und die dazugehörige Saunalandschaft zu suchen. Der Pächter soll mit \nseinem Vertrag zur Erhaltung und Pflege des Bades und der Saunalandschaft verpflichtet \nwerden.\nWeiterhin ist darauf hinzuwirken, dass das Bad im Sommer 2024 wieder geöffnet ist. \nDarüber hinaus wird das Bezirksamt ersucht die Berliner Bäder Betriebe bis hin zur \nWiedereröffnung der Saunalandschaft und des Sommerbades aufzufordern, dem Pächter bis \nzur Eröffnung der einzelnen Wirtschaftseinheiten pro Einheit einen anteiligen Pachtnachlass \nvon 20 Prozent in Aussicht zu stellen. Sollte in einem Zeitraum, der die Eröffnung zur \nBadesaison 2024 ermöglicht, kein Pächter gefunden werden, sollen die Berliner \nBäderbetriebe den Betrieb selbstständig aufnehmen. Das Bezirksamt wird in diesem Fall \naufgefordert zu prüfen, inwiefern es hieran beteiligt werden kann.\nÜber den Stand der Entwicklung ist der BVV in jedem Fall spätestens im Februar 2024 zu \nberichten.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "389/VI",
@@ -13491,7 +13822,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob in der Stichstraße in Höhe des Eingangs der \nGiesensdorfer Grundschule eine sichere Überquerungsmöglichkeit, zum Beispiel durch eine \neinspurige Engstelle, ermöglicht werden kann.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "390/VI",
@@ -13539,7 +13871,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt teilt mit, dass bereits Mittel zur Verfügung stehen und zur Wie-\nderbepflanzung von Straßen eingesetzt werden, die im Falle von baubedingten Wegnahmen von \nStraßenbäumen als Wertausgleich eingenommen werden. \nNaturschutzrechtliche Ausgleichsabgaben stehen hierfür nicht zur Verfügung, da diese zweckge-\nbunden für Maßnahmen des Naturschutzes und der Landschaftspflege zu verwenden sind. Hierbei \ngeht es insbesondere um den Ausgleich von Bestandsminderungen, die nicht anderweitig ausgegli-\nchen werden können. Sie dürfen nicht für Zwecke in Anspruch genommen werden, die aus dem \nallgemeinen Steueraufkommen zu finanzieren sind. Mit naturschutzfachlichen Ausgleichsabgaben \nwurde zum Beispiel der Schutzzaun an der Krummen Lanke zum Schutz des Ufers finanziert oder \ndie Maßnahme zur Förderung des Alteichenbestandes am Königsweg. Die Bepflanzung der Straßen mit Bäumen ist dagegen eine Pflichtaufgabe des Straßenbaulastträ-\ngers, die sich aus dem Berliner Straßengesetz ergibt. \nBei der Bepflanzung wird darauf geachtet, dass die entsprechende Baumartenwahl standortgerecht \nist und sich an den neusten Erkenntnissen der fachgerechten Pflanzenverwendung orientiert. Die \nnotwendige Anwuchs- und Entwicklungspflege wird situationsbedingt und nach Erfordernis mittler-\nweile sogar bis auf acht Jahre ausgedehnt. Darüber hinaus finden Substrate und Wasser spei-\nchernde Zuschlagsstoffe Verwendung. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "391/VI",
@@ -13599,7 +13932,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat die in Zehlendorf-Mitte am Teltower Damm befindlichen La-\ndezonen im Bereich von der Kreuzung Berliner Straße / Clayallee / Potsdamer Straße / Teltower \nDamm bis zur Machnower Straße überprüft. Im Ergebnis konnte festgestellt werden, dass auf der \nöstlichen Seite des genannten Abschnitts zwei Ladezonen vorhanden sind, von Haus Nr. 7-15 (ca. \n60 m) und von Haus Nr. 23-29 (ca. 50 m). Der Umfang der Ladezonen wurde im Rahmen einer \nörtlichen Überprüfung als angemessen beurteilt. Eine Erweiterung dieser genannten Ladezonen ist \ndurch die vorhandenen BVG-Haltestellen und Lichtzeichenanlagen nicht möglich. Zudem liegen \nkeine Anträge von Gewerbetreibenden auf Einrichtung von weiteren Ladezonen am Teltower Damm \nvor. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "392/VI",
@@ -13652,7 +13986,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich in Zusammenarbeit mit dem Bezirksamt Tempelhof-\nSchöneberg und der BVG für eine Erschließung des Lichterfelder Ringes von der \nWaldsassener Straße in Richtung Lichterfelde-Süd durch eine Buslinie der BVG einzusetzen. \nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "393/VI",
@@ -13704,7 +14039,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt soll sich bei der DB dafür einsetzen, dass, zumindest bis Bauarbeiten \nerfolgen, im Bahnhof Lichterfelde-Ost wieder die Möglichkeit besteht, Fahrräder abzustellen.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "394/VI",
@@ -13756,7 +14092,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt soll sich dafür einsetzen, die Plantagenstraße in Steglitz schnellstmöglich zu \nsanieren, um die Verkehrssicherheit in dieser Straße wiederherzustellen. Des Weiteren soll \ngeprüft werden, ob vor der Grundschule in der Plantagenstraße „Speedbreaker“ oder andere \nMaßnahmen zur Verkehrsberuhigung umgesetzt werden können.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "395/VI",
@@ -13808,7 +14145,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob an der Birkbuschstraße/Ecke Siemensstraße die \nEinrichtung von Rechtsabbiegespuren und einer Linksabbiegespur mit gesonderter \nBusführung möglich ist bei gleichzeitiger Erhaltung des Baumes an der Kreuzung.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "396/VI",
@@ -13861,7 +14199,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, entsprechende Maßnahmen zur Sicherung der Querungen zur \nNordgrundschule erneut zu prüfen und entsprechende Konzepte, wie z.B. Ampelanlagen \n(Bedarfsampel für Fußgänger westlich der Fischerhüttenstraße) und Zebrastreifen (in der \nFischerhüttenstraße in der Nähe der Bushaltestelle) vorzulegen.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "397/VI",
@@ -13917,7 +14256,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt teilt mit, dass die Belange von Menschen mit Behinderungen bei \nden Genehmigungsverfahren von Jelbi-Standorten durch die am Verfahren beteiligten Stellen in \nausreichender Weise Berücksichtigung finden. Insbesondere die Straßenverkehrsbehörde achtet \ngenau auf die Einhaltung der maßgeblichen rechtlichen Bestimmungen zur Nutzung der Verkehrs-\nflächen, darüber hinaus ist es im Berliner Straßengesetz verankert, dass durch erlaubte Sondernut-\nzungen keine Menschen mit Behinderungen in der Ausübung des Gemeingebrauchs erheblich be-\neinträchtigt werden dürfen. Zusätzlich wird der Kreis der am Verfahren beteiligten Stellen für die Erteilung einer Sondernut-\nzungserlaubnis für Jelbi-Standorte der BVG künftig durch aktive Einbindung der Beauftragten für \nMenschen mit Behinderungen erweitert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "398/VI",
@@ -13970,7 +14310,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass am \nDahlemer Weg/Jänickestraße eine LZA (Ampel) analog des Dahlemer Weg/Seehofstraße \neingerichtet wird.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "399/VI",
@@ -14014,7 +14355,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob ein eingezäuntes Grundstück/eine eingezäunte \nFläche von wenig ökologischer Bedeutung in Zehlendorf-Süd für Hunde und deren \nHundehalter für einen Hundespielplatz zur Verfügung gestellt werden kann.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "400/VI",
@@ -14065,7 +14407,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt teilt mit, dass die Situation vor Ort umfassend geprüft wurde. Im Charkiw-Park gibt es derzeit 9 Sitzbänke. Im Bereich des Spielplatzes gibt es zusätzlich eine sog. \nBerliner Bank und eine lange Sitzmauer. Objektiv gibt es dem Grunde nach ausreichend Sitzgele-\ngenheiten. Um die Aufenthaltsqualität des Ortes jedoch zu verbessern, wird es als sinnvoll erachtet, eine zu-\nsätzliche Berliner Bank im Bereich des Spielplatzes aufzustellen. \nDie Umsetzung erfolgt kurzfristig, jedoch im Rahmen der verfügbaren Einsatzressourcen mit eige-\nnem Personal und Material aus dem Grünflächenunterhalt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "402/VI",
@@ -14107,7 +14450,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt teilt mit, dass die Situation vor Ort umfassend geprüft wurde. Wie in der ersten Stellungnahme durch den Fachbereich Grünflächen ausgeführt, sind Pflanzungen \nim westlichen Bereich zur Straße Ritterhufen aufgrund zu enger Platzverhältnisse leider nicht mög-\nlich. Im östlichen Abschnitt zwischen Vesterzeile und Teltower Damm wurde jedoch Handlungsbe-\ndarf bestätigt. Dieser Teil der Rendtorffstraße wird nun mit 8 Bäumen bepflanzt. Weitere Straßen, wie z. B. der Teltower Damm, werden in diesem Bereich dabei auch bepflanzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "404/VI",
@@ -14154,7 +14498,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in der Dessauerstraße, vor der Einmündung Zietenstraße und \nvor dem Veilchenweg (Fußgängerweg zur Kleingartenanlage), zur Sicherung der \nSchulwegsicherheit Verkehrsschilder, VZ 136-10, Achtung Kinder, aufzustellen.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "405/VI",
@@ -14211,7 +14556,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Bezüglich der mit dem Beschluss einhergehenden Aufforderung an das Bezirksamt, sich bei den \nzuständigen Stellen dafür einzusetzen, dass Anwohnende und Verkehrsteilnehmende vor Baube-\nginn über die Bauarbeiten im öffentlichen Straßenland in fremder Zuständigkeit informiert werden, \nwird auf die bestehenden gesetzlichen Grundlagen verwiesen. Gemäß § 22 Abs. 7 MobG ist der Verkehrszeichenplan während aller Baumaßnahmen mit Auswir-\nkungen auf das öffentliche Straßenland vor Ort öffentlich einsehbar durch die Bauherrin oder den \nBauherren oder die beauftragte Unternehmerin oder den beauftragten Unternehmer auszuhängen \noder im Internet zu veröffentlichen. Diese Forderung wird regelmäßig durch die SenMVKU Abt. VI auch als Auflage in die Verkehrs-\nrechtliche Anordnung mit aufgenommen. Für Bauvorhaben der Leitungsverwaltungen gelten die Ausführungsvorschriften zu § 12 des Berliner \nStraßengesetzes - Sondernutzung öffentlicher Straßen für Zwecke der öffentlichen Versorgung -. \nGemäß Ziffer 4. der vorgenannten AV ist der Sondernutzer bei umfangreichen Arbeiten dazu zu \nverpflichten, die betroffenen Anlieger, insbesondere Industrie- und Gewerbetreibende, über die Bau-\nmaßnahme in geeigneter Form rechtzeitig vorher zu unterrichten, und zwar durch Veröffentlichun-\ngen in den Tages- oder Bezirkszeitungen, durch Hauswurfsendungen beziehungsweise Hausaus-\nhängen oder durch Postsendungen. Auch eine Kombination der genannten Möglichkeiten kann ver-\nlangt werden. Dabei sind Ansprechpartner der Sondernutzer unter Angabe der Anschrift, Telefon- \nund Faxnummer sowie E-Mail-Adresse zu benennen. Dieser Forderung zur Verpflichtung des Sondernutzers zur Information der betroffenen Anlieger \nkommt das Straßen- und Grünflächenamt regelmäßig nach, indem entsprechende Auflagen mit der \nSondernutzungserlaubnis erteilt werden. 2 Ergänzend hierzu macht das SGA bei großen Bauvorhaben der Leitungsverwaltungen regelmäßig \nvon seinem Recht gemäß § 12 Abs. 8 BerlStrG Gebrauch, indem es bei zeitlichen und räumlich-\nverkehrlichen Wirkungszusammenhängen von Leitungsbaumaßnahmen einen gemeinsamen Bau-\nablaufplan und eine Projektkoordination der Leitungsnetzbetreiber verlangt. Zu den Aufgaben der \nProjektkoordination gehören dann regelmäßig auch entsprechende Beteiligungs- und Informations-\nformate der betroffenen Anlieger. Das Bezirksamt bemüht sich im Vorfeld über bevorstehende Baumaßnahmen zu informieren und \nauf Hinweise aus der Bevölkerung schnell zu reagieren. Außerdem",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "406/VI",
@@ -14267,7 +14613,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Auf der Internetseite des Straßen- und Grünflächenamtes / Straßenverkehrsbehörde wurde ein Link \neingefügt, der auf die entsprechende Homepage der SenMVKU ( https://www.berlin.de/sen/uvk/mo-\nbilitaet-und-verkehr/verkehrsplanung/fussverkehr/autofreie-kieze-und-strassen/temporaere-spiel-\nstrassen/ ) verweist. Auf der Seite der SenMVKU werden weitergebende Hinweise zur Einrichtung von Temporären Spiel-\nstraßen gegeben. Der dazugehörige Leitfaden ist an dieser Stelle veröffentlicht und kann als PDF \nheruntergeladen werden. Von der Seite der SenMVKU gelangt man auch auf die Seiten der Nach-\nbarschaftsinitiative „Bündnis temporäre Spielstraßen“. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "407/VI",
@@ -14313,7 +14660,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, im Rahmen der Straßenbenennungen im Neubaugebiet \nLichterfelde-Süd \nauch \nan \ndie \nZwangsarbeiter \ndes \nStammlagers \nIII-D \nund \nihre \nUnterstützerinnen und Unterstützer aus der Nachbarschaft zu erinnern.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "408/VI",
@@ -14367,7 +14715,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat dîe BVG angeschrieben und um eine Stellungnahme zu diesem Beschluss ge-\nbeten. Mit Schreiben vom 01.08.2025 teilt die BVG mit, dass ihr bekannt sei, dass diese beiden \nBuslinien von Fahrgästen stark nachgefragt seien. Allerdings bestehe bei der BVG aktuell die Not-\nwendigkeit den Betrieb zu stabilisieren, bevor er ausgeweitet werden könne, daher sei es zurzeit \nnicht möglich den Verkehr auf diesen Linien zu verdichten. Bereits heute würden auf diesen Linien \ngrößere Fahrzeuge eingesetzt - auf der Linie M85 Gelenkbussen und auf der Linie 285 Doppelde-\ncker, um so pro Fahrt mehr Fahrgäste ans Ziel bringen zu können. Mittelfristig könne es mit Blick auf das Neubaugebiet „Neu Lichterfelde“ in der Hauptverkehrszeit zu \neiner Entlastung kommen, wenn alle 10 Minuten ein ExpressBus X 86 zwischen Königsberger \nStraße und Schloßstraße mit ausgewählten Halten über den Hindenburgdamm verkehren wird. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "409/VI",
@@ -14415,7 +14764,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt wandte sich mit dem Anliegen, E-Busse auf der Linie Messe-Pfaueninsel einzu-\nsetzen, an die BVG. Diese antwortete im Schreiben vom 12.12.23, dass zur Einhaltung des Berli-\nner Mobilitätsgesetzes und nach Vorgabe des Verkehrsvertrages 2020 bis 2035 die Busflotte der \nBerliner Verkehrsbetriebe (BVG) bis 2030 vollständig elektrifiziert werden solle. Dies geschehe \nstufenweise und sei von diversen Faktoren wie Verfügbarkeit der Fahrzeuge auf dem Markt, der \nAnpassung der Betriebshöfe auf die neue Antriebsart sowie der Endstellenelektrifizierung an \nstrategisch ausgewählten Standorten abhängig. Darüber hinaus habe die BVG die Fahrgastzah-\nlen im Blick und entsprechend die Bestellung einer Linie durch den Aufgabenträger. Für die Linie \n218 habe der Aufgabenträger die Fahrt mit Doppeldeckerbussen bestellt. Die Linie 218 werde an jedem Betriebstag mit einem Umlauf (ca. 220 km) von Mo-So mit einem \nvom Aufgabenträger bestellten Doppeldecker-Bus betrieben. Dafür nutze die BVG einen Berliner \nDoppeldecker-Traditionsbus, der am Wochenende bzw. bei Bedarf in den Sommermonaten mit \neinem herkömmlichen BVG-Bus ergänzt werde. Die Linie werde als Ausflugslinie gesehen und \ndas Ziel „Pfaueninsel“ passe zum touristischen Charakter des Berliner Traditionsbusses. Ein prioritäres Umstellen der Linie auf E-Antrieb sei nicht möglich, da die BVG über keine Doppel-\ndecker mit E-Antrieb verfüge. Hinzu komme, dass der entsprechende Betriebshof in der Cice-\nrostraße noch nicht auf E-Busse umgerüstet sei. Die perspektivisch auf dem Betriebshof zur Ver-\nfügung stehenden E-Busse werden keine Doppeldecker sein, sondern Depotlader mit einer Reich-\nweite von ca. 130 km, d.h. die Strecke wäre mit diesen Fahrzeugen nicht mehr in einem Umlauf \nzu gewährleisten und gemäß des allgemeinen Wirtschaftlichkeitsgebotes nicht einsetzbar. Des-\nhalb müsse die BVG dem Wunsch der BVV leider eine Absage erteilen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "410/VI",
@@ -14462,7 +14812,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, den Fahrradweg Kohlhasenbrücker Straße stadtauswärts bis \nBabelsberg zu verlängern, zumindest aber am derzeitigen Ende des Fahrradwegs eine \nQuerung durch Zebrastreifen zu ermöglichen.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "411/VI",
@@ -14512,7 +14863,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat sich mit der Bitte um Umsetzung des Beschlusses an die BVG gewandt. Die \nBVG antwortete, dass sich das ÖPNV-Angebot grundsätzlich an der Fahrgastnachfrage ausrichte \nund diese in den Außenbezirken wie „Nikolassee Süd“ zur Nachtverkehrszeit derart schwach sei, \ndass dort nur ein grundlegendes Angebot möglich sei. Die Standards für Bedienung und Erschließung orientieren sich dabei an den Vorgaben des Nah-\nverkehrsplanes Berlin. Trotz des im nationalen und internationalen Vergleich guten nächtlichen \nÖPNV-Angebotes gibt es in der Stadt zahlreiche Gebiete, die noch nicht ausreichend mit dem ÖPNV \nerschlossen sind. Dazu gehört u.a. auch das Gebiet „Nikolassee Süd“. Die BVG teilt weiter mit, dass sie bemüht sei, in enger Abstimmung mit dem Land Berlin als Aufga-\nbenträger, das nächtliche Angebot weiter zu verbessern und auch bestehende Erschließungslücken \nzu beseitigen. „Nikolassee Süd“ gehöre allerdings mit einer vergleichsweise geringen Einwohnen-\ndenzahl im berlinweiten Vergleich leider nicht zu den Gebieten mit hoher Dringlichkeit für eine An-\ngebotsverbesserung. Die derzeit bestehenden betrieblichen Rahmenbedingungen, insbesondere \nder Fahrpersonalmangel, lassen derzeit keine Mehrleistungen zu. Die BVG hofft in den nächsten \nJahren wieder mehr zusätzliche nächtliche Angebote umsetzen zu können. Zur Verbesserung der Situation setzen wir uns als Bezirksamt bei der SenMVKU für die Einführung \nvon Rufbussen ein. Derzeit wird ein solches Angebot „BVG Muva“ in Teilen der östlichen Bezirke \nBerlins ausprobiert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "412/VI",
@@ -14556,7 +14908,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat die Voraussetzungen für eine evtl. Straßenbenennung nach \nder Architektin Hildegard Weström geprüft. Im Ergebnis ist festzustellen, dass eine Benennung ge-\nmäß § 5 Berliner Straßengesetz möglich ist, zudem existiert ein örtlicher Bezug zum Bezirk Zehlen-\ndorf. Eine Benennung nach Frau Weström würde darüber hinaus den Anteil an weiblichen Straßen-\nnamen erhöhen. \nDer Namensvorschlag wird daher auf die Straßenbenennungsliste gesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "413/VI",
@@ -14572,7 +14925,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "417/VI",
@@ -14652,7 +15006,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, wie und zu welchen Kosten an bestehenden Orten \nsämtliche Partnerschaften des Bezirks Steglitz-Zehlendorf durch Hinweisschilder sichtbar \ngemacht, ergänzt und ggf. erneuert werden können.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "418/VI",
@@ -14714,7 +15069,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, bedarfsgerecht vor jeder Jugendfreizeiteinrichtung im Bezirk \nsichere Fahrradbügel zu installieren und die teilweise noch vorhandenen „Speichenfresser“ \nzu entfernen. Ggf. sollen Fahrradbügel auch auf heute noch vorhandenen Autoparkplätzen \ninstalliert werden.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "419/VI",
@@ -14780,7 +15136,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Milieuschutzgebiete wurden im Februar 2024 eingeführt. Die anfänglichen \nGenehmigungskriterien seitens des Bezirksamts Steglitz-Zehlendorfs haben auch den \nFokus auf Barrierefreiheit und Umweltschutz gelegt. Mit Einführung berlinweiter \nGenehmigungskriterien Ende 2024 ist das Bezirksamt aufgefordert, diese bei \nUmbaumaßnahmen heranzuziehen. Seitens der Senatsverwaltung für Stadtentwicklung, \nBauen und Wohnen werden die Kriterien, auch in Zusammenarbeit mit den Bezirken, \nweiterentwickelt. Bzgl. der Barrierefreiheit sind auf diesem Wege, unter Vorbehalt der \nZustimmung des Senats, im Frühjahr 2026 entsprechende Erleichterungen zu erwarten \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "420/VI",
@@ -14830,7 +15187,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird beauftragt, schnellstmöglich auf den bezirklichen Senioren- und \nBürgertreffs Photovoltaik-Anlagen (sogenannte Solaranlagen) zu installieren und in diesem \nZuge eine Zeitplanung zu erstellen, welche die Teilschritte zur Umsetzung des gesetzlich \nvorgeschriebenen Ausbaus von Photovoltaik-Anlagen auf öffentlichen Gebäuden bis Ende \n2024 und darüber hinaus transparent definiert. Dieses Umsetzungskonzept soll als \nZeitplanung die jährlichen Ausbauziele für technisch nutzbare Dachflächen auf bezirklichen \nSenioren-/Bürgertreffs und öffentlichen Gebäuden im Bezirk bis Ende 2024 verbindlich \nfestschreiben und gleichermaßen geeignete Flächen für klimaschonende Dachbegrünung \nidentifizieren.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "421/VI",
@@ -14886,7 +15244,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Organisationseinheit für Qualitätsentwicklung, Planung und Koordination im öffentlichen \nGesundheitsdienst (QPK) hat den Frauengesundheitsbericht 2024 erstellt. Mit diesem Be-\nricht wurden erstmals entsprechende Daten für den Bezirk zusammengestellt, aufbereitet \nund bewertet, die dann Grundlage für Aktivitäten zur Verbesserung der gesundheitlichen \nLage der Frauen in Steglitz-Zehlendorf in verschiedenen Handlungsfeldern sein können. \nGleichzeitig informiert der Bericht auch die (Fach-)Öffentlichkeit über Frauengesundheit in \nSteglitz-Zehlendorf. \nDer Bericht wird ab sofort auf der Homepage der QPK und als gedruckte Broschüre veröf-\nfentlicht. In den entsprechenden Ausschüssen wird der Bericht bei Bedarf vorgestellt. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "422/VI",
@@ -14942,7 +15301,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sobald wie möglich für einen neuen Straßenbelag in der \nLepsiusstraße zu sorgen.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "424/VI",
@@ -15000,7 +15360,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob und wo in der Thermometersiedlung ein \nsogenannter Solar-Tree aufgestellt werden kann, der öffentliche Räume nicht nur im Dunkeln \numweltfreundlich beleuchtet, sondern 24/7 auch ein attraktives Sitzmöbel darstellt. Bei \npositiver Prüfung möge das Amt den Solar-Tree aufstellen lassen.\nBezirksverordnetenvorsteher\n20.09.2023",
       "beschlussdatum": "20.09.2023"
-    }
+    },
+    null
   ],
   [
     "425/VI",
@@ -15029,7 +15390,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nErklärung\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf verneigt sich vor den unschuldigen \nOpfern des barbarischen palästinensischen Terrorüberfalls auf israelische Gemeinden, \ndarunter unsere Partnerstadt Sderot.\nWir stehen in Trauer um die ermordeten Kinder, Frauen und Männer fest an der Seite Israels \ngegen die brutalen, barbarischen Verbrechen der Hamas und weiterer palästinensischer \nTerrorgruppen, die sich damit selbst außerhalb jeder Zivilisation stellen. Darüber hinaus \nsprechen wir unser Mitgefühl denjenigen aus, die verletzt worden sind oder Angehörige \ndurch den Anschlag verloren haben. Wir nehmen Anteil am Schicksal der Entführten.\nWir fordern, dass sämtliche deutschen Finanzmittel, die für von der Hamas kontrollierte \nGebiete vorgesehen sind, sofort eingefroren werden. Diese Mittel müssen unverzüglich auf \nihre humanitäre Notwendigkeit hin strikt überprüft werden und dürfen unter keinen \nUmständen in Kassen fließen, die von der Hamas kontrolliert werden. Es ist unerträglich und \nnicht hinnehmbar, dass auch nur ein Cent zur Unterstützung von Terrorismus oder \nantisemitischer Propaganda beiträgt. Wir bekennen uns entschieden zu unseren \nPartnerstädten Sderot und Kiryat Bialik und allen Gemeinden Israels und unterstützen diese \nin ihrem Kampf für Freiheit, Recht und Sicherheit.\nWir verurteilen jegliche Beifallskundgebung für die Hamas und andere palästinensische \nTerrorgruppen in unserer Stadt und fordern den Senat von Berlin auf, solche wirksam bereits \nim Ansatz zu unterbinden.\nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "426/VI",
@@ -15053,7 +15415,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt der Bürgerdeputierten im Ausschuss für Bildung und \nKultur\nSamantha Bütow\ngemäß § 24 Abs. 1c BezVG (Wegfall der Voraussetzungen) mit Wirkung vom 18.09.2023 als \nbeendet anzusehen ist.\nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "427/VI",
@@ -15077,7 +15440,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer DLRG Steglitz-Zehlendorf wird für die Anschaffung von zwei Stand up Paddle (SUP) \nBoards aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n1.200 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "428/VI",
@@ -15109,7 +15473,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat die BVG um Stellungnahme gebeten. Mit Schreiben vom 05.08.2025 teilt die \nBVG mit, dass sie derzeit an einen neuen Wartehallenkonzept arbeite. Bei diesem neuen Konzept \nwerde im Sinne der Nachhaltigkeit unter anderem eine Dachbegrünung mitgedacht. Die BVG stehe \nderzeit zum weiteren Vorgehen im Austausch mit der Senatsverwaltung für Stadtentwicklung. Die \nBVG sagt zu, zu gegebener Zeit über den weiteren Prozess und Zeitplan zu informieren. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "429/VI",
@@ -15159,7 +15524,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich an die BSR zu wenden und dafür einzusetzen, dass \ntestweise sogenannte \"Pfandringe\" um einige Mülleimer in den Grünanlagen an \nSchlachtensee und Krumme Lanke installiert werden.\nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "430/VI",
@@ -15222,7 +15588,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat zur Erhöhung der Schulwegsicherheit für die Schülerinnen \nund Schüler der Dunantgrundschule in der Gritznerstraße, in unmittelbarer Schulnähe bereits Geh-\nwegvorstreckungen mit Pollern markiert, sowie Fahrradbügel in der Fahrbahn der Treitschkestr., \neingebaut und absolute Haltverbote in der Treitschkestraße angeordnet, um so die Sichtbeziehun-\ngen zu verbessern. \nAus Sicht des Bezirksamts sind diese Maßnahmen ausreichend. Die Schaffung eines Fußgänger-\nüberwegs wurde von der AG Querungshilfen geprüft und aufgrund zu geringen Verkehrsaufkom-\nmens und der bereits getroffenen Maßnahmen verworfen. \nDas Straßen- und Grünflächenamt hat den Standort in die Liste der mit Dialogdisplays auszustat-\ntenden Standorte aufgenommen und plant die Displays noch im Herbst dieses Jahres einzubauen. Die Einrichtung einer sogenannten „Schulzone / Schulstraße“ ist weiterhin in Prüfung. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "431/VI",
@@ -15281,7 +15648,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die Schulwegsicherheit im Umfeld der Grundschule am \nKarpfenteich weiter zu fördern und in eigener Zuständigkeit zu prüfen oder durch die \nzuständigen Behörden prüfen zu lassen, ob die nachfolgenden Maßnahmen umsetzbar sind:\n\nZebrastreifen zum Überqueren des Oberhofer Weges in Höhe der Geraer Straße, in der \nGeraer Straße selbst und auf dem Lichterfelder Ring in Höhe des Achenseeweges, \n\nversetztes Parken auf dem Achenseeweg, \n\nZur \nVermeidung \ndes \nrechtswidrigen \nParkens \nim \nKreuzungsbereich \nOberhofer \nWeg/Hildburghauser Straße regelmäßige Kontrollen durch das Ordnungsamt/Aufstellen \nvon Poller,\n\nVerkürzung der Rotphase für Fußgänger bei der Bedarfs-LZA vor der Schule \ninsbesondere in der Zeit von 8:00 Uhr bis 8:20 Uhr und 13:45 bis 14:00 Uhr,\n\neine Öffnung der Scheelestraße (Einbahnstraße) für den Radverkehr in beide Richtungen. \nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "433/VI",
@@ -15341,7 +15709,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die bezirkliche Straßenverkehrsbehörde ist bereits im April des vergangenen Jahres tätig geworden \nund hat mit Verkehrsrechtlicher Anordnung vom 12.05.2023 das vollständige Parken auf dem Geh-\nweg (Vz 315-65) entlang der Baseler Straße im Abschnitt von Curtiusstraße bis Potsdamer Straße \nabgeordnet und zugleich halbseitiges Parken (Vz 315-55) in diesem Bereich angeordnet. Die bis dahin vorhandene Gehwegbreite von 1,80 m wurde durch diese Maßnahme auf 2,50 m er-\nhöht und gewährleistet eine den rechtlichen Bestimmungen entsprechende Gehwegbreite. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "434/VI",
@@ -15379,7 +15748,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Lankwitz mehr Sitzbänke aufzustellen. Als mögliche Orte \nsollen der Park am Königsgraben (Okengraben) sowie der Park zwischen der Apoldaer \nStraße und Hildburghauser Straße geprüft sowie ggf. mit Mülleimern ausgestattet werden.\nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "435/VI",
@@ -15419,7 +15789,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Schulwegpläne zu aktualisieren und sie den jeweiligen \nSchulen zur Verfügung zu stellen. \nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "436/VI",
@@ -15459,7 +15830,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich weiterhin bei der zuständigen Senatsverwaltung dafür \neinzusetzen, dass bestehende Beleuchtungen in Parkanlagen künftig in die Verantwortung \ndes Senats übergehen. Die Ertüchtigung der Beleuchtung auf dem Hauptweg im Stadtpark \nSteglitz könnte dabei als ein erster Schritt im Auftrag der zuständigen Senatsverwaltung über \nStromnetz Berlin GmbH erfolgen. Das Bezirksamt wird ferner gebeten, prüfen zu lassen, ob \ndie Beleuchtung mit LEDs insektenfreundlicher und ggf. mit Bewegungsmeldern umgerüstet \nwerden kann.\nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "437/VI",
@@ -15503,7 +15875,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Zunächst verweist das Straßen- und Grünflächenamt auf die Informationsquellen der Senatsverwal-\ntung für Mobilität, Verkehr, Klimaschutz und Umwelt und deren Veröffentlichungen. Weiterer Kon-\ntaktpartner ist die Wildtierberatung Berlin des Naturschutzbund Deutschland, Landesverband Berlin \ne.V. mit dem dazugehörigen Wildtiertelefon. Die von dort herausgegebene Aufklärungsbroschüren \nzum Thema „Füttern – Nein Danke!“ sind im Fachbereich vorhanden und werden entsprechend zur \nVerfügung gestellt. Das Straßen- und Grünflächenamt teilt mit, dass in ausgewählten Grünanlagen insbesondere zum \nThema Fütterung von Vögeln intensive und erfolgreiche Aufklärungsarbeit vor allem über das vom \nFachbereich Grünflächen eingesetzte Parkmanagement geleistet wird. \nKonkrete Hinweise zu unzulässigen Fütterungen können gerne z.B. über die Ordnungsamts-App an \ndas Straßen- und Grünflächenamt gerichtet werden. Diesen wird zeitnah nachgegangen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "438/VI",
@@ -15547,7 +15920,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt teilt mit, dass die Situation sich seit dem Einsatz des aktiven \nParkmanagements im Jahr 2019 deutlich verbessert hat. \nDie Parkläufer der vom Fachbereich Grünflächen beauftragten Firma SI³UG verfolgen ein koope-\nrativ-aufklärendes Ziel. Sie sind vor Ort und verschaffen sich einen Überblick darüber, wie die \nStimmung unter den Besuchern dieser Grünanlage ist. Sie versuchen zu deeskalieren und holen \nbei Bedarf rechtzeitig das Ordnungsamt oder die Polizei dazu. Der Fachbereich Grün, das Park-\nmanagement, das Ordnungsamt und die Polizei sind im intensiven Austausch und miteinander gut \nvernetzt. Zuletzt gab es im April ein gemeinsames Akteurs-Treffen, um sich für die Sommerzeit \ngut vorzubereiten. Das Ordnungsamt wird, wie in den Vorjahren auch, an Verbundeinsätzen mit \nder Polizei teilnehmen. Ein erster Verbundeinsatz fand am 9. Mai 2024 statt. Der Einsatz verlief \nrecht ruhig. Der nächste ist bereits geplant. Der Termin ist bekannt, soll aber vorher nicht öffentlich \ngenannt werden. Eine Herausforderung ist das Grillen. Um das Grillen zu unterbinden, werden \nnicht nur die Kontrollen verstärkt weitergehen, es sind auch Banner und Schilder in Vorbereitung, \ndie auf den Grill- und Feuerverbot aufmerksam machen sollen. Hinsichtlich des immens hohen Müllaufkommens in den Sommermonaten gab es gleichsam eine \ndeutliche Verbesserung, seit dem die BSR an den Seen die turnusmäßige Reinigung übernommen \nhat. Auch hierzu finden regelmäßige Evaluierungsrunden statt, um bei Defiziten gezielt gegensteu-\nern zu können. \nAlle Akteure arbeiten eng zusammen und unternehmen ihr Möglichstes, um die Bereiche der Seen \nangemessen und sauber präsentieren zu können. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "439/VI",
@@ -15589,7 +15963,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt wandte sich mit dem Anliegen, Geschwindigkeitsmessungen an der Potsdamer \nChaussee Ecke Quanzstraße vorzunehmen, an den Polizeiabschnitt 43. Die Landespolizeidirek-\ntion teilte am 14.05.2024 mit: „Im Zeitraum vom 26. April 2024 bis 6. Mai 2024 wurde an der im Betreff benannten Örtlichkeit ein \nGeschwindigkeitsüberwachungseinsatz mittels Geschwindigkeitsmessanhänger der Polizei Berlin \ndurchgeführt. Im Ergebnis dieser Kontrolle durchfuhren etwas über 87.000 Fahrzeuge die Mess-\nstelle, bei denen knapp 1.100 Fahrzeuge die zulässige Höchstgeschwindigkeit überschritten. Sig-\nnifikate Geschwindigkeitsüberschreitungen wurden hierbei nicht festgestellt. Die durchschnittliche \nGeschwindigkeit aller passierenden Fahrzeuge lag bei unter 45 km/h. Die beim benannten Mes-\nseinsatz festgestellte Überschreitensquote zeigt mit ungefähr 1,3 % keine Auffälligkeit und liegt \ndamit deutlich unter dem berlinweiten Durchschnitt vergleichbarer Straßenzüge (stadtweite Über-\nschreitensquote ca. 5 %). Die Polizei Berlin wird auch zukünftig das Geschwindigkeitsverhalten in \nder Potsdamer Chaussee kontrollieren, allerdings liegt eine Notwendigkeit zur Intensivierung der \nörtlichen Kontrollen mit Stand 14. Mai 2024 nicht vor.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "440/VI",
@@ -15633,7 +16008,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat am 09.11.2023 gemeinsam mit der Initiative Haus Wolfenstein eine Ver-\nanstaltung an der Spiegelwand durchgeführt. Vor der traditionellen Kranzniederlegung erfolgten Redebeiträge der Bezirksbürgermeisterin, \nder Initiative Haus Wolfenstein und des Projekts Jarock. \nBegleitet wurde die Veranstaltung von Liedern des Jarock-Ensembles. \nDen Abschluss bildete das Schlussgebet von Kantor Tal Koch. Zur der Veranstaltung waren die Mitglieder der Bezirksverordnetenversammlung Steglitz-Zeh-\nlendorf, die bezirklichen Mitglieder des Berliner Abgeordnetenhauses und Bundestages, sowie \ndie Initiative Haus Wolfenstein und die Öffentlichkeit eingeladen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "441/VI",
@@ -15677,7 +16053,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hatte bereits bei Prüfung des vorangegangenen Antrags festge-\nstellt, dass die Örtlichkeit Grunewaldstraße / Schmidt-Ott-Straße für die Aufstellung einer Bücherbox \nkeinen ausreichenden Platz auf öffentlichem Straßenland bietet. Die jetzt im Beschluss geänderte \nbzw. erweiterte Standortfestlegung auf die „nähere Umgebung“ zur o. g. Straßenkreuzung führte zu \neiner erneuten Überprüfung des Umfeldes. Im Ergebnis ist die Aufstellung einer Bücherbox auf dem \nKönigin-Luise-Platz möglich. Es bedarf zum Aufstellen der Bücherbox auf öffentlichem Straßenland eines Antrages auf Son-\ndernutzung gemäß § 11 Berliner Straßengesetz, dem ein Plan mit dem eingezeichneten Standort, \nggf. mit Alternativ-Standort beigefügt sein muss. Bereits bei Antragstellung sollte Berücksichtigung \nfinden, dass ein Abstand zu denkmalgeschützten Objekten eingehalten werden muss. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "442/VI",
@@ -15717,7 +16094,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, auf geeigneten Flächen Aufstellflächen für E-Scooter \nauszuweisen bzw. zu markieren, ggf. vorläufig als Pop-up. Ferner wird das Bezirksamt \ngebeten, sich berlinweit unter Einbeziehung der großen Anbieter für praktikable Lösungen \neinzusetzen, damit die Nutzerinnen und Nutzer nach Gebrauch die E-Scooter \ngefährdungsfrei für andere Verkehrsteilnehmende abstellen (Bei nicht gefährdungsfreiem \nAbstellen, ist zwingend ein Bußgeld zu verhängen.).\nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
-    }
+    },
+    null
   ],
   [
     "443/VI",
@@ -15761,7 +16139,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Seit der Beschlussfassung des ersten Antrages bin ich im aktiven Austausch mit der Bürgerinitiative \nBlumenkiez und den Gewerbetreibenden vor Ort. So habe ich drei Ortstermine – am 20.11.2023, \n23.04.2024 und zuletzt am 19.10.2024 wahrgenommen. Des Weiteren waren Vertreterinnen und \nVertreter der Initiative mehrfach bei mir ihm Büro, so dass die einzelnen Maßnahmen im Austausch \nentwickelt wurden. Folgende Einzelmaßnahmen sind geplant: Im Zentrum des umgestalteten Eugen-Gerstenmaier-Platzes steht der Mensch. Das bedeutet zu-\nnächst mehr Raum und mehr Ordnung. Aktuell stehen zum Beispiel die Fahrradbügel verteilt auf \ndem Platz. Daher werden die Fahrradbügel im Bereich des Fußweges in Richtung S-Bahn zuguns-\nten der Barrierefreiheit entfernt. Auf dem Platz werden zusätzlich zwei neue Bäume gepflanzt, die \nmit ihren Baumscheiben für eine neue Stadtnatur-Atmosphäre sorgen sollen. Die Restfläche wird \nkünftig für den Lieferverkehr, die Feuerwehr und Rettungsfahrzeuge freigegeben. Gleichzeitig soll \nder Platz zu einem nachbarschaftlichen Begegnungsort werden. Die bestehenden Bänke wurden \ngedreht und mit neuen Bänken ergänzt, so dass Sitzgruppen entstanden sind. Ein kleiner Markt \nkann hier stattfinden. Unter Aufsicht können temporäre Spielangebote wie zum Beispiel durch das \nProjekt „Spielmobil“ für Kinder organisiert werden. Eine Bücherbox soll aufgebaut werden. Der \ngroße Baumstubben wurde bereits gefräst, ein neuer Baum gepflanzt und der Gehweg an der \nHortensienstraße instandgesetzt. Eine Querungsmöglichkeit wird in der Hortensienstraße auf Höhe der früheren Telefonzelle ge-\nschaffen. Die Telekom hat zugesagt, die alten Telefonzellen im Bezirk Steglitz-Zehlendorf in die-\nsem Jahr abzubauen, prioritär wird diese Telefonzelle abgebaut werden. Am Asternplatz sind wie-\nderum Gehwegvorstreckungen vorgesehen. Allerdings sollen diese nicht baulich sein, sondern \ndurch Markierungen und entsprechendem Pollerschutz erfolgen. Dies ist deutlich günstiger und \nauch schneller umsetzbar. \nGegenüber dem Eugen-Gerstenmaier-Platz wird in Abstimmung mit der Marktleitung vor dem Su-\npermarkt „Penny“ die Lieferzone abgeordnet, da die Lieferzone direkt um die Ecke in der Hortensi-\nenstraße ausreichend ist. Somit können an dieser Stelle Kurzzeitparkplätze (2 Stunden) eingerichtet \nwerden. An dieser Stelle werden zwei neue Bäume gepflanzt, dazwischen Fahrradbügel installiert. Auf der Westseite der Moltkestraße (südlich der Brücke) soll das Gehwegparken abge",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "448/VI",
@@ -15809,7 +16188,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Zur Verbesserung der Wärmeleistung und höheren Versorgungssicherheit finden seit Ende \n2022 im Bereich des Hindenburgdammes umfassende Baumaßnahmen statt. Zwecks einer umfassenden Datenerhebung zum Liefer- und Kundenverkehr wurden vom 30. \nAugust bis zum 05. September 2024 Gewerbetreibende am Hindenburgdamm befragt. \nDaraus resultierten wesentliche Erkenntnisse: \n- \nLiefer- und Parkplatzbedarf: Mehr als die Hälfte der Gewerbetreibenden gab an, \ndass sie regelmäßig Lieferungen erhalten und daher eine direkte Anlieferung am \nGeschäft notwendig ist. Über 40 % der Befragten sehen außerdem einen erhöhten \nBedarf an Parkplätzen für ihre Kunden während der Öffnungszeiten. - \nAblehnung einer Busvorrangspur: Über zwei Drittel der Gewerbetreibenden spra-\nchen sich gegen die Einrichtung einer Busvorrangspur aus, da sie befürchten, dass \ndies zu einer Verschärfung der Parkplatzknappheit und erhöhtem Stau führen würde. Insgesamt haben 51 Gewerbetreibende am Hindenburgdamm die Möglichkeit zur Teil-\nnahme erhalten, von denen 24 den Fragebogen vollständig ausgefüllt zurückgesendet ha-\nben. Eine vollständige Auswertung der Umfrageergebnisse ist einzusehen unter https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/service-und-organi-\nsationseinheiten/wirtschaftsfoerderung/aktuelles/artikel.1533111.php Die Wirtschaftsförderung Steglitz-Zehlendorf steht den Gewerbetreibenden weiterhin un-\nterstützend zur Seite und führt bei Bedarf beratende Gespräche u.a. zum Thema Überbrü-\nckungshilfen für Gewerbetreibende bei öffentlichen Baumaßnahmen durch den Berliner \nSenat. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "449/VI",
@@ -15833,7 +16213,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt des Bürgerdeputierten im Ausschuss für Haushalt, \nPersonal, Europa, Klima\nSimon Wollenberg\ngemäß § 24 Abs. 1a BezVG (durch Verzicht) mit Wirkung vom 08.11.2023 als beendet \nanzusehen ist.\nBezirksverordnetenvorsteher\n15.11.2023",
       "beschlussdatum": "15.11.2023"
-    }
+    },
+    null
   ],
   [
     "450/VI",
@@ -15859,7 +16240,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Ausschuss für Frauen*, Gleichstellung, Queer wird \nKatharina Trump\ngewählt.\nBezirksverordnetenvorsteher\n15.11.2023",
       "beschlussdatum": "15.11.2023"
-    }
+    },
+    null
   ],
   [
     "451/VI",
@@ -15885,7 +16267,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Gesundheitsausschuss wird \nPetra Blum\ngewählt.\nBezirksverordnetenvorsteher\n15.11.2023",
       "beschlussdatum": "15.11.2023"
-    }
+    },
+    null
   ],
   [
     "452/VI",
@@ -15911,7 +16294,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter im Schulausschuss wird\nSteffen Kunze\ngewählt.\nBezirksverordnetenvorsteher\n15.11.2023",
       "beschlussdatum": "15.11.2023"
-    }
+    },
+    null
   ],
   [
     "453/VI",
@@ -15937,7 +16321,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter für den Ausschuss für Haushalt, Personal, Europa, Klima wird \nTobias Gürster\ngewählt.\nBezirksverordnetenvorsteher\n15.11.2023",
       "beschlussdatum": "15.11.2023"
-    }
+    },
+    null
   ],
   [
     "454/VI",
@@ -15961,7 +16346,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Tennis-Club Grün-Weiss Nikolassee 1925 e.V. wird für die Anschaffung einer \nTennissand-Abtragmaschine aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n756,50 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n15.11.2023",
       "beschlussdatum": "15.11.2023"
-    }
+    },
+    null
   ],
   [
     "455/VI",
@@ -15978,7 +16364,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "15.11.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "457/VI",
@@ -16034,7 +16421,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDer Bezirk Steglitz-Zehlendorf nahm mit der Bezirksregion Lankwitz von Herbst 2022 bis Herbst \n2023 als Bezirk an der 2. Modellphase der „Berliner Hausbesuche“ teil. In Steglitz-Zehlendorf wur-\nden bereits während der Modellphase auch Hausbesuche durchgeführt, die außerhalb der Modell-\nregion Lankwitz lagen. Lediglich die Anschreiben der Bezirksstadträtin wurden nur innerhalb der \nModellregion sukzessive an ältere Menschen von 70 bis 80 Jahren versandt. Die Modellphase der Berliner Hausbesuche wurde im September 2023 mit einer Gesamtevaluation \nim Auftrag der Senatsverwaltung für Wissenschaft, Pflege und Gleichstellung abgeschlossen. Die \nüberaus positiven Ergebnisse sowie die Rückmeldungen aus den Modellbezirken haben dazu bei-\ngetragen, dass der Senat beschloss, dass Programm auf alle 12 Bezirke auszuweiten. Für Steglitz-Zehlendorf gilt damit: Die älteren Mitbürger:innen aller Bezirksregionen (beginnend mit \nden 70-Jährigen) werden per Anschreiben und über Öffentlichkeitsarbeit über das Programm in-\nformiert und erhalten, sofern sie dies wünschen, einen Hausbesuch. Was die Mittelausstattung betrifft, so hat die Senatsverwaltung den Bezirken Mittel für den Versand \nder Anschreiben durch das ITDZ bereitgestellt. Der Bezirk seinerseits stellt Personalmittel zur Ver-\nfügung. Die Hausbesuche für Steglitz-Zehlendorf werden durch eine Mitarbeiterin in der QPK un-\nterstützt, die mit den Maltesern als Lotsen und der Senatsverwaltung als Auftrag- und Fördermittel-\ngeberin in engem und regelmäßigen Austausch steht. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "458/VI",
@@ -16086,7 +16474,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die notwendigen Schritte zu unternehmen, um über die \nEntwicklung von für den Bau der B 101 freigehaltene Flächen zu entscheiden und ein \nBeteiligungsverfahren anzustoßen. Insbesondere im Abschnitt zwischen Steglitzer Damm \nund Teltowkanal sollen diese möglichst als Grünflächen und Naherholungsräume gesichert \nwerden.\nBezirksverordnetenvorsteher\n15.11.2023",
       "beschlussdatum": "15.11.2023"
-    }
+    },
+    null
   ],
   [
     "459/VI",
@@ -16142,7 +16531,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie 3. Fortschreibung des bezirklichen Zentrenkonzepts wurde am 20.03.2024 durch die \nBezirksverordnetenversammlung Steglitz-Zehlendorf beschlossen. Dem voraus ging die \nentsprechende Vorstellung des finalen Konzepts im Ausschuss für Stadtentwicklung und \nWohnen in der Sitzung vom 13.02.2024 einher. Ein erster Sachstand durch das beauftragte \nPlanungsbüro erfolgte bereits in der Ausschusssitzung vom 13.10.2023. Über weitere \nBeteiligungsschritte \nwurde \nfortlaufend \ninformiert. \nDiskussionsbeiträge \nder \nBezirksverordneten wurden vom Planungsbüro beachtet. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "460/VI",
@@ -16192,7 +16582,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Untere Denkmalschutzbehörde ist leider nicht berechtigt, Bauwerke unter \nDenkmalschutz zu stellen. Die Entscheidung hierzu obliegt ausschließlich der Oberen \nDenkmalschutzbehörde, respektive dem Landesdenkmalamt Berlin (LDA). Die besondere Bedeutung des RTO-Bahnsteigs steht für das Bezirksamt Steglitz-Zehlendorf \naußer Frage. Basierend auf dem Beschluss der BVV wurde das LDA mit einem Schreiben \nvom 13.02.2025 darum gebeten, die Reste dieses historischen Ortes in die Denkmalliste \naufzunehmen. Vor allem im Hinblick einer möglichen Reaktivierung der Potsdamer \nStammbahn könnte der Bahnsteig im Baufeld liegen. Nach Rücksprache mit dem LDA wird \naber eine Unterschutzstellung derzeit nicht erwogen. Man habe aber den Blick darauf, wie \nmögliche Schritte der Entwicklung der Potsdamer Stammbahn vorangehen. Eine \nUnterschutzstellung wird dann nochmals geprüft. \nSeitens der Deutschen Bahn AG werden seit einem Schreiben vom Bezirksamt vom \n11.01.2024 regelmäßig Vegetationsschnitte unterhalb des Dachs durchgeführt. Auch \nwurden Verkabelungen und defekte Dachelemente neu sortiert. Das Erscheinungsbild hat \nsich positiv verstetigt. Seitens der DB AG liegt die Zusage vor, den Bahnsteig zu erhalten. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "461/VI",
@@ -16236,7 +16627,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt Steglitz-Zehlendorf stellt über seine Webseite ein umfangreiches Angebot an \nInformationen und Kontakten für Geflüchtete bereit. Die Inhalte sind über die Seite des Integ-\nrationsbüros frei abrufbar (siehe: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-ver-\nwaltung/beauftragte/integration/). \nDer Wegweiser „Kiez International“ wurde umfangreich überarbeitet und erneuert, einschließ-\nlich aktualisiertem Grußwort. Der Wegweiser ist in sechs Sprachen auf der Website des Be-\nzirksamts abrufbar (siehe: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwal-\ntung/beauftragte/integration/artikel.1319979.php). Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "463/VI",
@@ -16262,7 +16654,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter im Ausschuss für Bildung und Kultur wird \nAxel Jürs \nabberufen.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "464/VI",
@@ -16288,7 +16681,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Bildung und Kultur wird \nMalgorzata Sijbrandij\ngewählt.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "465/VI",
@@ -16314,7 +16708,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Bildung und Kultur wird \nIsabelle Thomsen\ngewählt. \nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "466/VI",
@@ -16331,7 +16726,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "13.12.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "467/VI",
@@ -16348,7 +16744,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "13.12.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "468/VI",
@@ -16372,7 +16769,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem \nWilma-Rudolph-OS-Alumni-Netzwerk \ne.V. \nwird \nfür \ndie \nAnschaffung \neines \nBalkenmähers aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n900 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "469/VI",
@@ -16389,7 +16787,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "13.12.2023",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "470/VI",
@@ -16417,7 +16816,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich in einem Schreiben vom 26.01.2024 an die Senatorin für Gesund-\nheit und Wissenschaft gewandt. Die Antwort aus der Senatsverwaltung für Wissenschaft, \nGesundheit und Pflege wurde am 22.03.2024 an den Vorsitzenden des Gesundheitsaus-\nschusses mit der Bitte um Weiterleitung an die Ausschussmitglieder geschickt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "471/VI",
@@ -16489,7 +16889,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: \nDas Bezirksamt unterstützt den Einsatz der Ersthelfer-App KATRETTER. Auf der bezirklichen \nInternetseite zum Bevölkerungsschutz in Steglitz-Zehlendorf wird unter dem Stichwort „Helfen Sie \nmit beim Bevölkerungsschutz“ für die Nutzung der App durch freiwillige Ersthelferinnen und \nErsthelfer geworben. Auch auf der Internet-Startseite des Bezirksamts wurde im März/April an \nprominenter Stelle auf die App hingewiesen. Das Bezirksamt hat mit Presseerklärung vom \n20.03.2024 für die Nutzung geworben und auf die näheren Informationen auf der Internet-Seite \nder Berliner Feuerwehr verwiesen. Es ist beabsichtigt, diese Presseerklärung wenigstens zweimal \nin einem Abstand von etwa einem halben Jahr zu wiederholen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "472/VI",
@@ -16548,7 +16949,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den landeseigenen Wohnungsbaugesellschaften \ndahingehend einzusetzen, deren Mietern mit Behinderungen (mindestens Merkmal G) \nentsprechende PKW-Stellflächen auf ihren Grundstücken kostenfrei zur Verfügung zu \nstellen.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "473/VI",
@@ -16617,7 +17019,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat diesen Beschluss an die BVG mit der Bitte um Prüfung weitergeleitet. Mit Schrei-\nben vom 31.07l.2025 teilt die BVG mit: „Vielen Dank für die Übersendung des Anliegens, die Linie 218 bis zum Wirtshaus Moorlake zu \nführen. \nWir hatten in der Vergangenheit das Thema in verschiedenen Zusammenhängen – gerne wieder-\nhole ich aber noch einmal die Gründe, warum wir das Wirtshaus Moorlake nicht mehr ansteuern \nkönnen: Zunächst zur Geschichte der Anbindung des Wirtshauses Moorlake: Der Wunsch nach einer Rück-\nkehr zu einer „ursprünglichen Linie 218“ kann so nicht erfüllt werden, da es eine Anbindung des \nNikolskoer Weges und des Wirtshauses Moorlake mit der Linie 218 nicht gab. Es gab eine Linie \n216. Die 218 endete am S Wannsee. Von dort verkehrten die Linien 216 und 316. Die 316 ver-\nkehrte direkt zur Pfaueninsel, die 216 befuhr einen Ring über Moorlake, Nikolskoe und Pfauenin-\nsel. 2003 gab es eine Neukonzeptionierung. Der 218 wurde zu Pfaueninsel verlängert, 216 und \n316 entfielen. Der Anschluss des Wirtshauses wurde aufgegeben, da es für unsere Fahrzeuge sehr schlecht \n(und in den Wintermonaten, ggf mit Schnee und Eis, gar nicht) erreichbar ist. Die steile Zufahrt \nund der Zustand des Fahrweges lassen einen sicheren Betrieb nicht zu, zumal oft genug die Wen-\ndekehre vor dem Wirtshaus so zugeparkt war, dass ein Bus nicht wenden konnte und feststeckte. \nHinzu kommt, dass die BVG angesichts der angespannten Personalsituation zunächst wieder Sta-\nbilität in ihren Betrieb bekommen muss. Ausweitungen des Bediengebietes und Streckenverlän-\ngerungen würden zunächst in wichtige Wohn- und Gewerbegebiete geplant werden – nicht zu \nreinen Ausflugszielen. 2 \nWir bitten um Verständnis, dass wir dem Wunsch der BVV auf absehbare Zeit aus den oben ge-\nnannten Gründen nicht nachkommen werden.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "474/VI",
@@ -16664,7 +17067,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wir gebeten, sich beim Berliner Senat und der BSR dafür einzusetzen, dass \nbei der BSR die notwendigen Strukturen dafür geschaffen werden, damit die BSR \nzugewachsene Geh- und Fahrradwege unmittelbar vom Bewuchs befreit, ohne dass es \nhierzu einer vorherigen Beauftragung durch das bezirkliche Tiefbauamt bedarf.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "475/VI",
@@ -16714,7 +17118,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei der zuständigen Senatsverwaltung dafür einzusetzen, \ndass die Mittel für Angebote für das „Netzwerk der Wärme“ (in der breiten Auslegung für \nsoziale Aspekte für das gesamte Jahr) auch in den kommenden Jahren für Beratungs- und \nBegegnungsangebote ganzjährig zur Verfügung stehen. \nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "476/VI",
@@ -16773,7 +17178,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass \nstationäre \nGeschwindigkeitsmessungen, \nggf. \nAufstellung \nvon \n“Blitzern” \noder \nGeschwindigkeitsanzeigetafel im Umfeld der Kitas und der Conradschule sowohl auf der \nChausseestraße als auch den zu- und abführenden Straßen, v.a. der Alsenstraße \neingerichtet werden. Die auf die Königstraße zu- bzw. abführenden Straßen, wie z.B. die \nHohenzollernstraße, \nwerden \ndurch \neinseitiges \nParken \nund \nbesser \neinsehbare \nKreuzungsbereiche als Unfallschwerpunkte entlastet. \nEbenso ist zur Entlastung der Verkehrssituation in den Bring- und Abholzeiten der Kinder für \ndie Conradschule und den anliegenden Kitas ein Einbahnstraßen-System (getrennte Ein- \nund Ausfahrt) auf dem Parkplatz vor dem Stadion Wannsee zu etablieren, besondere \nAusstiegszonen zu definieren und für eine bessere Beschilderung zu sorgen. \nBei der Übergangssituation Ecke Königstraße/Chausseestraße ist eine kinderfreundliche \nAmpelschaltung (längere Dauer, einheitliche Schaltung) zu berücksichtigen und eine \nAbsenkung des Bordsteins auf beiden Seiten der Königstraße (Höhe Biomarkt) \nvorzunehmen, um die Barrierefreiheit herzustellen.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "477/VI",
@@ -16835,7 +17241,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Der Bezirksverordnetenvorsteher veranstaltete zum Anlass des 30. Jahrestages des Truppenabzu-\nges am 08.10.2024 einen Festakt für die transatlantische Freundschaft und als Dank an die US-\namerikanische Schutzmacht. An diesem Festakt nahmen über 50 US-amerikanischen Veteranen teil, \ndie zwischen 1945 und 1994 bei der Berlin Brigade gedient hatten. Anwesend waren neben den \nVeteranen der Luftattaché der US-Botschaft sowie Schülerinnen und Schüler der John-F-Kennedy \nSchule, die dem Festakt mit einer Flaggenzeremonie und Musik beiwohnten. Das Alliiertenmuseum bot am 06. Oktober 2024 im Rahmen des Museumssonntages spezifische \nAktivitäten an, die sich auf die Geschichte der Freundschaft nach dem Zweiten Weltkrieg bezogen. \nDazu gab es einen Graffiti-Workshop und Führungen in der Dauerausstellung, wie aus Feinden \nFreunde wurden. Die Organisation einer übergreifenden Veranstaltung durch das Bezirksamt war aufgrund personeller und finanzieller Engpässe nicht möglich. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "478/VI",
@@ -16879,7 +17286,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass im Bezirk \nSteglitz-Zehlendorf noch mehr Polizeibeamte mit Fahrrädern, etwa in Grünanlagen, \neingesetzt werden. Auch im Bereich der Seenplatte wäre Polizei auf Rädern sinnvoll.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "480/VI",
@@ -16935,7 +17343,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nFolgende Rückmeldung ist zum oben genannten Beschluss aus der Unteren Denkmalschutzbehörde \neingegangen: Die mit den in der Waldsiedlung Zehlendorf gelisteten Gasleuchten, sind die \nLampenkörper, nicht die Leuchtstoffe angesprochen. Aus denkmalfachlicher Sicht ist eine Umrüstung \nmit LED-Technik jederzeit möglich. Zu dem Stand der Umrüstungsplanung liegen in der \nDenkmalschutzbehörde keine Informationen vor. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "481/VI",
@@ -16985,7 +17394,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat sich mit Vertreterinnen der Schule und des Schulamts vor \nOrt getroffen. Es konnte eine geeignete, bisher ungenutzte Fläche unmittelbar am Zugang zum \nSchulhof gefunden werden, vgl. Lageplan. Es können in etwa 20 Bügel für 40 Räder aufgestellt \nwerden. In der Nähe gibt es bereits Fahrradbügel. Diese Stelle wird von der Schule und dem Schul-\namt gegenüber den genannten Stellplätzen für PKW an der Turnhalle favorisiert. Über den Sommer \nwird die Planung verfeinert, die Ausschreibungsunterlagen erstellt und die Maßnahme veröffentlicht. \nDa auf der Fläche kleinere Sträucher und ggf. ein Apfelbaum entfernt werden, kann mit dem Bau \nfrühestens im Oktober und somit außerhalb der Vegetationsperiode begonnen werden. Das Straßen- und Grünflächenamt hat mitgeteilt, dass sich sowohl die Schule als auch das Schulamt \ngegen eine Überdachung ausgesprochen haben. Daher wurde diese Möglichkeit nicht weiter unter-\nsucht. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "484/VI",
@@ -17025,7 +17435,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob und wie am S-Bahnhof Nikolassee (Ausgang \nBorussenstraße) Kurzzeitparkplätze eingerichtet werden können. In diesem Zusammenhang \nwird das Bezirksamt unterstützend gebeten, sich bei Bedarf ggf. auch ergänzend bei \nanderen zuständigen Stellen für eine Einrichtung solcher Kurzzeitparkplätze einzusetzen.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "485/VI",
@@ -17080,7 +17491,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Stadtbibliothek: \nDer Fachbereich Bibliotheken bietet an allen drei festen Standorten bereits Aktivitäten zur Stärkung \nder digitalen Medienkompetenz von Senior*innen an. Dazu zählen \nSprechstunden zu den Digitalen Angeboten des VÖBB \n- \nHilfestellungen bei Fragen wie zum Beispiel zur E-Book-Ausleihe, dem Musikstreaming oder \nauch zu möglichen technischen Aspekten rund um die digitale Ausleihe \n- \nRegelmäßig 1-2x im Monat, in der Ingeborg-Drewitz-Bibliothek, in der Gottfried-Benn-Bib-\nliothek und in der Stadtteilbibliothek Lankwitz \nFrauen-Computer-Stammtisch \n- \nAustausch von Frauen zu Computern, Tablets und Smartphones; Teilen von Erfahrungen \nsowie niedrigschwelliges Lernen \n- \nRegelmäßig 1x im Monat in der Ingeborg-Drewitz-Bibliothek \nDigitale Fotos optimieren \n- \nHilfestellung und Beratung zur digitalen Bildbearbeitung \n- \nRegelmäßig 1x im Monat in der Ingeborg-Drewitz-Bibliothek Roboter, Rechner und Rentner: Künstliche Intelligenz. Eine praktische Einführung für Senioren \n- \npraktische Einführungsveranstaltung zur Künstlichen Intelligenz: Erläuterung von häufig auf-\nkommenden Begrifflichkeiten sowie die Möglichkeit, um Fragen zu stellen und Ausprobieren \nvon ChatGPT \n- \nAuftaktveranstaltung in der 50. Berliner Seniorenwoche in der Ingeborg-Drewitz-Bibliothek, \nsoll zu einer regelmäßigen Veranstaltungsreihe ausgebaut werden \nKI/AI-Spezial für Alle - \nCoderDojo-Spezial für Jugendliche ab 14 Jahren und Erwachsene, mit einer Einführung in \ndie Welt von ChatGPT und Co: Einblick in die Geschichte der KI-Entwicklung, Überblick \nüber die Einflussgebiete der KI sowie ein Praxisteil \nIm Bereich Kommunikationstools bietet die Stadtbibliothek Ratgeber, die die Benutzung einschlä-\ngiger Instant-Messenger - wie WhatsApp - auch für absolute Neueinsteiger erläutern. Informationen \nzu digitalen Arztbesuchen und dem E-Rezept finden sich in den in der Stadtbibliothek erhältlichen \nMagazinen test und finanztest sowie im Bereich Medizin in den Sachbuchabteilungen. \nIm Bereich „Warnung vor Missbrauch und Kriminalität im Internet“ wird während unserer Polizei-\nsprechstunden entsprechende Aufmerksamkeit geschaffen. \nAusblick Digital-Zebra \n- \nDie Stadtbibliothek Steglitz-Zehlendorf beteiligt sich am Berliner Digital-Zebra-Projekt, \nwelches allen Bürgerinnen und Bürgern ein umfassendes Beratungsangebot hinsichtlich di-\ngitaler Dienstleitungen bieten soll. Start ist voraussichtlich im Herbst 2024. \nVolkshochschule/Seniorenfreizeitstätten \nDie Volkshochs",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "487/VI",
@@ -17123,7 +17535,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Die Volkshochschule Steglitz-Zehlendorf konnte bereits für das Sommerprogramm 2024 einen \nkompetenten Kursleiter (Demokratie- und Antigewalt-Trainer, Schützer von Veranstaltungen) ge-\nwinnen, einen Wochenendkurs mit folgendem Titel und Inhalt ausschreiben und erfolgreich durch-\nführen: \nUmgang mit Konflikten und Gewaltsituationen - Für Frauen und Mädchen ab 16 Jahren \nWo fängt Selbstverteidigung an? \nMädchen und Frauen wollen nicht Opfer von Gewalt werden. Sich selbst zu behaupten, abzu-\ngrenzen, Situationen zu erkennen und richtig einzuschätzen, sich situationsangemessen zu verhal-\nten und zu einer realistischen Selbstverteidigung fähig zu sein, sind die wesentlichen Vorausset-\nzungen, um Angst zu reduzieren, mit Gefahren und Risiken sinnvoll umzugehen und Angriffen zu \nbegegnen. Situationen, die Ihre Selbstbehauptung oder Zivilcourage erfordern, sind zu 80 Prozent durch \nvorbeugende Maßnahmen zur Vermeidung gewalttätiger Auseinandersetzungen, durch sicheres, \nüberlegtes Handeln zu lösen. \nFür die restlichen 20 Prozent ist das Training der Abwehr physischer Angriffe ein wesentliches Ele-\nment des Kurses. Verwendet werden praxisbewährte Techniken aus verschiedenen Kampfsportar-\nten. Diese Techniken können Sie effektiv einsetzen, um typische Gefahrensituationen zu bewälti-\ngen. Ziel des Kurses ist es, Kompetenzen und Fähigkeiten zu entwickeln, um das Vertrauen in das \neigene Handeln zu stärken. Die Veranstaltung wurde über den Instagram-Kanal der VHS, eine Pressemitteilung und eine Wei-\nterleitung an die Frauenvertreterin publiziert, das Sommerprogramm über die Auslage im Bezirk-\nsamt und an weiteren Stellen veröffentlicht. Sieben Frauen bzw. Mädchen hatten sich für den Kurs \nangemeldet. Der nächste Kurs ist im Herbstsemester der VHS ausgeschrieben und für das Wochenende \n26./27.10.2024 terminiert und wird erneut über zahlreiche Kanäle bekannt gemacht. Die Programme der VHS werden schon immer in Bürgerämtern, Bibliotheken und vielen anderen \nöffentlichen Orten ausgelegt. Bestimmte Zielgruppen können darüber hinaus in Kursen z.B. für Ge-\nflüchtete (auch in Flüchtlingsunterkünften) angesprochen werden. Eine Erweiterung des Kursprogramms auch in anderen Sprachen hängt maßgeblich von der Ver-\nfügbarkeit weiterer geeigneter Kursleitungen ab, die aufgrund der aktuellen Situation eine große \nHerausforderung ist. Die Volkshochschule greift den Beschluss dennoch auf und sucht nach min-\ndestens einer weiteren geeigneten Kursleitung für die komm",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "488/VI",
@@ -17163,7 +17576,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die BVG aufzufordern, das nicht funktionierende Display – \nbeziehungsweise das Dynamische Auskunfts- und Informationssystem (DAISY) – an der \nBushaltestelle Lichterfelde-Ost in der Lankwitzer Straße, Fahrtrichtung Lankwitz, zu \nreparieren.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "489/VI",
@@ -17203,7 +17617,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, unter Berücksichtigung von Beschluss 407/VI (Drs. 0591/VI), \nStraßen im geplanten Neubaugebiet von Lichterfelde-Süd auch nach weiblichen Personen \nzu benennen.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "490/VI",
@@ -17243,7 +17658,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, bei einer möglichen Bebauung des Tanklagers in Lankwitz den \nzukünftigen S-Bahnhof Kamenzer Damm, dessen Auswirkungen auf das Gebiet und die \nAnbindung des Gebiets an diesen mit einzubeziehen. Hierbei ist die Durchwegung zwischen \ndem Neubaugebiet und dem bestehenden Einfamilienhausgebiet an den kommenden S-\nBahnhof miteinzubeziehen, genauso wie die Anbindung an die bestehenden S-Bahnhöfe \nAttilastraße und Lankwitz. Ebenso soll (wie in Beschluss 1852/IV beschlossen) der \nöffentliche Grünzug entlang des Kanals verlängert werden.\nBezirksverordnetenvorsteher\n13.12.2023",
       "beschlussdatum": "13.12.2023"
-    }
+    },
+    null
   ],
   [
     "492/VI",
@@ -17295,7 +17711,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Seit der Beschlussfassung des ersten Antrages bin ich im aktiven Austausch mit der Bürgerinitiative \nBlumenkiez und den Gewerbetreibenden vor Ort. So habe ich drei Ortstermine – am 20.11.2023, \n23.04.2024 und zuletzt am 19.10.2024 wahrgenommen. Des Weiteren waren Vertreterinnen und \nVertreter der Initiative mehrfach bei mir ihm Büro, so dass die einzelnen Maßnahmen im Austausch \nentwickelt wurden. Folgende Einzelmaßnahmen sind geplant: Im Zentrum des umgestalteten Eugen-Gerstenmaier-Platzes steht der Mensch. Das bedeutet zu-\nnächst mehr Raum und mehr Ordnung. Aktuell stehen zum Beispiel die Fahrradbügel verteilt auf \ndem Platz. Daher werden die Fahrradbügel im Bereich des Fußweges in Richtung S-Bahn zuguns-\nten der Barrierefreiheit entfernt. Auf dem Platz werden zusätzlich zwei neue Bäume gepflanzt, die \nmit ihren Baumscheiben für eine neue Stadtnatur-Atmosphäre sorgen sollen. Die Restfläche wird \nkünftig für den Lieferverkehr, die Feuerwehr und Rettungsfahrzeuge freigegeben. Gleichzeitig soll \nder Platz zu einem nachbarschaftlichen Begegnungsort werden. Die bestehenden Bänke wurden \ngedreht und mit neuen Bänken ergänzt, so dass Sitzgruppen entstanden sind. Ein kleiner Markt \nkann hier stattfinden. Unter Aufsicht können temporäre Spielangebote wie zum Beispiel durch das \nProjekt „Spielmobil“ für Kinder organisiert werden. Eine Bücherbox soll aufgebaut werden. Der \ngroße Baumstubben wurde bereits gefräst, ein neuer Baum gepflanzt und der Gehweg an der \nHortensienstraße instandgesetzt. Eine Querungsmöglichkeit wird in der Hortensienstraße auf Höhe der früheren Telefonzelle ge-\nschaffen. Die Telekom hat zugesagt, die alten Telefonzellen im Bezirk Steglitz-Zehlendorf in die-\nsem Jahr abzubauen, prioritär wird diese Telefonzelle abgebaut werden. Am Asternplatz sind wie-\nderum Gehwegvorstreckungen vorgesehen. Allerdings sollen diese nicht baulich sein, sondern \ndurch Markierungen und entsprechendem Pollerschutz erfolgen. Dies ist deutlich günstiger und \nauch schneller umsetzbar. \nGegenüber dem Eugen-Gerstenmaier-Platz wird in Abstimmung mit der Marktleitung vor dem Su-\npermarkt „Penny“ die Lieferzone abgeordnet, da die Lieferzone direkt um die Ecke in der Hortensi-\nenstraße ausreichend ist. Somit können an dieser Stelle Kurzzeitparkplätze (2 Stunden) eingerichtet \nwerden. An dieser Stelle werden zwei neue Bäume gepflanzt, dazwischen Fahrradbügel installiert. Auf der Westseite der Moltkestraße (südlich der Brücke) soll das Gehwegparken abge",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "493/VI",
@@ -17360,7 +17777,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber den zuständigen Stellen und insbesondere der \nBVG dafür einzusetzen, dass geprüft wird, dass die Ronnebypromenade vom Bahnhof \nWannsee aus ohne größere Umwege barrierefrei mit einem Aufzug zu erreichen ist.\nBezirksverordnetenvorsteher\n17.01.2024",
       "beschlussdatum": "17.01.2024"
-    }
+    },
+    null
   ],
   [
     "495/VI",
@@ -17409,7 +17827,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksverordnetenvorsteher Rögner-Francke",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "sonstiges-unklar"
   ],
   [
     "496/VI",
@@ -17457,7 +17876,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: In der 9.Sitzung der Spielplatzkommission am 01.03.2024 stand dieser Beschluss auf der Tages-\nordnung und wurde besprochen. Der Inklusionsgedanke wird schon seit langem vom Fachbereich \nGrünflächen verfolgt und auch in Zukunft weiter fortgeführt werden. So können Kinder bereits jetzt \nauf den öffentlichen Kinderspielplätzen des Bezirks ihre Motorik und ihre geistigen Fähigkeiten aus-\nprobieren und weiterentwickeln. Auf Spielplätzen gibt es Memory- und Klangspiele.Im Sinne der Inklusion bieten die Kinderspiel-\nplätze im Bezirk eine große Vielfalt an Spielgeräten für möglichst alle Kinder an. Beim Austausch \ndefekter Spielgeräte werden auch zukünftig – dort, wo es möglich ist – solche Geräte in Betracht \ngezogen werden, die bei Kindern die Motorik fördern und die diversen Sinne ansprechen (s. auch \nVzK zum Beschluss 1286/V). \nRegenwassermulden stuft der Fachbereich Grünflächen als ausgesprochen gefährlich ein, da \ndadurch eine große Unfallgefahr gerade für Kleinkinder bestehen kann. Daher baut der Fachbereich \nGrünflächen ausschließlich Wasserpumpen auf Spielplätzen ein, auf denen sich das Wasser nicht \nstauen kann bzw. errichtet sogenannte Matschtische. Auf den Spielplätzen im Döhlauer Pfad, im \nGemeindepark Lankwitz, auf dem Spielplatz Am Bäkequell, in der Paulsenstraße und im Stadtpark \nSteglitz kann so mit Wasser gespielt werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "497/VI",
@@ -17481,7 +17901,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt des stellvertretenden Bürgerdeputierten im Ausschuss für \nGrünanlagen, Natur, Umwelt\nHans Jörg Henning\ngemäß § 24 Abs. 1a BezVG (durch Verzicht) mit Wirkung vom 30.12.2023 als beendet \nanzusehen ist.\nBezirksverordnetenvorsteher\n17.01.2024",
       "beschlussdatum": "17.01.2024"
-    }
+    },
+    null
   ],
   [
     "498/VI",
@@ -17507,7 +17928,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte für den Ausschuss für Frauen*, Gleichstellung, Queer wird\nLiliana Dornheckter\ngewählt.\nBezirksverordnetenvorsteher\n17.01.2024",
       "beschlussdatum": "17.01.2024"
-    }
+    },
+    null
   ],
   [
     "499/VI",
@@ -17533,7 +17955,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte für den Ausschuss für Frauen*, Gleichstellung, Queer \nwird\nAdrijana Jonjić\ngewählt.\nBezirksverordnetenvorsteher\n17.01.2024",
       "beschlussdatum": "17.01.2024"
-    }
+    },
+    null
   ],
   [
     "500/VI",
@@ -17559,7 +17982,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter für den Ausschuss für Frauen*, Gleichstellung, Queer \nwird\nJonathan Morsch\ngewählt.\nBezirksverordnetenvorsteher\n17.01.2024",
       "beschlussdatum": "17.01.2024"
-    }
+    },
+    null
   ],
   [
     "503/VI",
@@ -17583,7 +18007,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt des stellvertretenden Bürgerdeputierten im Ausschuss für \nMobilität, Verkehr, Ordnung\nMarian Volmer\ngemäß § 24 Abs. 1 c BezVG (Wegfall der Voraussetzungen) mit Wirkung vom 09.02.2024 \nals beendet anzusehen ist.\nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "504/VI",
@@ -17607,7 +18032,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf beruft gemäß § 35 Abs. 7 Ziff. 9 AG \nKJHG für die VI. Wahlperiode folgende Person aus der Jugendhilfe sachverwandten \nBereichen zum beratenden Mitglied des Jugendhilfeausschusses:\nHeike Jastrow (Schulaufsicht Steglitz-Zehlendorf)\nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "505/VI",
@@ -17680,7 +18106,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Aktuell wird eine Verkehrsuntersuchung für den Untersuchungsbereich zwischen Machnower \nStraße, Teltower Damm, Nieritzweg und Sachtlebenstraße durchgeführt, die die Reduzierung des \nDurchgangsverkehrs, Erhöhung der Verkehrssicherheit und Verbesserung der Aufenthaltsqualität \nzum Gegenstand hat. Im Zusammenhang mit den bereits durchgeführten Beteiligungswerkstätten \nwerden kurzfristige Maßnahmen zur Verkehrsberuhigung geprüft. Die Öffnung des Verkehrs in den Kleinmachnower Weg sowie in die Sachtlebenstraße würde den \nDurchgangsverkehr im Kiez nicht unterbinden, sondern nur verlagern und somit die Bewohner der \nSachtlebenstraße und die Nutzer der Kleingartenanlage stärker belasten. Der Durchgangsverkehr \nin der Leo-Baeck-Straße und im Nieritzweg wäre dadurch auch nicht ausgeschlossen. 2 \nDa der Kleinmachnower Weg eine Verlängerung des Beeskowdamms bzw. der Goerzallee dar-\nstellt, würde durch die Öffnung vermutlich eine höhere Menge an Durchfahrtsverkehr generiert \nwerden, als derzeit im Bestand vorhanden. Demnach ist eine großräumige Verkehrsuntersuchung anzuraten, die sich nicht nur auf den \nSchönow-Kiez bezieht, sondern die Verkehrsverflechtung Zehlendorf / Brandenburg im Blick hat, \num realistisch die künftigen Verkehrsmengen abschätzen zu können. Evtl. wäre es auch zielführen-\nder, die Stauproblematik an den Landesgrenzen zu beheben oder den Umweltverbund weiter zu \nstärken. Aktuell ist der Kleinmachnower Weg mit einer Straßenbreite von 5,00 – 6,00 m nicht ausreichend \nausgebaut. Es gibt im überwiegenden Abschnitt keine Gehwege, Straßenbeleuchtung und Straßen-\nentwässerung. Daher wäre der Kleinmachnower Weg als I-Maßnahme neu herzustellen. Es müsste \neine kostenintensive Investitionsmaßnahme angemeldet werden. Darüber hinaus wären für die Öffnung und Ausbaus des Kleinmachnower Wegs Bebauungsplanver-\nfahren durchzuführen (entweder Änderung oder Neuaufstellung), welche personelle und finanzielle \nRessourcen verschiedener Fachämter bindet. Ein hypothetischer Ausbau des Kleinmachnower Weges erfordert nicht nur die Ressourcen des Stra-\nßen- und Grünflächenamtes, sondern auch weiterer Fachämter des Bezirks und der Senatsverwal-\ntungen, welche aufgrund der Personal- und Finanzknappheit derzeit nicht leistbar ist. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "507/VI",
@@ -17732,7 +18159,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht sich bei den zuständigen Stellen dafür einzusetzen, an der \nPrinzregent-Ludwig-Brücke in Lankwitz eine Unterführung am Kanal für Zufußgehende zu \nbauen.\nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "508/VI",
@@ -17784,7 +18212,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt soll sich bei den zuständigen Stellen dafür einsetzen, an der Eugen-Kleine-\nBrücke in Lichterfelde eine Unterführung am Kanal für zu Fuß Gehende zu schaffen.\nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "509/VI",
@@ -17838,7 +18267,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Sporthalle der Athene-Grundschule ist bereits für Schülerinnen und Schüler nutzbar. Der Standort der Athene-Grundschule wurde unter anderem von den Basketballvereinen des Be-\nzirks sowohl für den Trainings- als auch dem Wettkampfbetrieb genutzt. Durch einen erheblichen \nWasserschaden war eine Nutzung der Umkleidebereiche und der sanitären Einrichtungen nicht \nmehr möglich. Die Bauarbeiten vor Ort zur Wiederherstellung der Umkleiden, Toiletten und Duschen werden vo-\nraussichtlich im Frühsommer 2025 starten und sollen bis Mitte Oktober 2025 abgeschlossen sein. \nNach Abschluss der Baumaßnahmen ist die Halle wieder vollumfänglich für Trainings- und Wett-\nkampfzwecke nutzbar. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "510/VI",
@@ -17885,7 +18315,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Zusammenarbeit mit der Senatsverwaltung eine \nHandlungsempfehlung bzgl. der Verwaltungspraxis bei den Genehmigungsverlängerungen \nvon Steganlagen zu erarbeiten, die die Änderung des § 31 NatSchG Bln und den ihr \nzugrundeliegenden Willen des Gesetzgebers in besonderem Maße beachtet. Die \nQualitätsstandards der Bearbeitung entsprechender Verwaltungsvorgänge sollen in Einklang \nmit dieser Handlungsempfehlung gebracht werden. Ein besonderer Fokus soll insbesondere \ndarauf gelegt werden, die Vermeidbarkeit von Versagungen mittels Auflagen zu prüfen, um \ndie Interessen des Naturschutzes und der Stegnutzer in Einklang zu bringen und den \nGrundsatz der Verhältnismäßigkeit gerichtsfest zu wahren. Zudem soll der Bezirk sich \ngegenüber der Senatsverwaltung dafür einsetzen, dass der Einsatz von Wellenbrechern und \nweiteren, die Wasserqualität verbessernden Maßnahmen zu fördern.\nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "511/VI",
@@ -17931,7 +18362,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die dauerhaft im Straßenland geparkten Anhänger auch in den \nFokus des Ordnungsamtes aufzunehmen, zu kontrollieren und ggf. zu sanktionieren. \nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "512/VI",
@@ -17977,7 +18409,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei der zuständigen SenUMVK dafür einzusetzen, den \nBereich von Tempo 30 auf der Königstraße zu vergrößern. Der Bereich soll künftig von der \nConradstraße bis zur Chausseestraße gehen.\nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "513/VI",
@@ -18025,7 +18458,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Sijbrandij",
       "antwort": "Hierzu wird berichtet: Im Jahr 2022 bezifferte das Alliiertenmuseum im Rahmen der Sonderausstellung „Ein Museum im \nZeichen der Freiheit“ (Laufzeit: 21.9.2022 bis 29.5.2023) den benötigten Zeitrahmen für einen \nUmzug nach Tempelhof nach einer Beschlussfassung auf 12-15 Jahre, frühestmöglicher Umzugs-\ntermin wäre zu diesem Zeitpunkt das Jahre 2034 gewesen. Bis heute ist der Umzugsbeschluss \nnicht erfolgt, auf politischer Ebene finden derzeit keine Diskussionen über das Thema statt. Sollten \ndie Diskussionen zu einem späteren Zeitpunkt wieder aufgenommen werden und der Umzug doch \nnoch beschlossen werden, bleibt angesichts der für den Umzug erforderlichen Zeitspanne von \nmindestens 12 Jahren genug Zeit, um mit den zuständigen Stellen in einen Austausch über eine mögliche Nachnutzung zu treten. Zum jetzigen Zeitpunkt entbehrte jedwede Anfrage einer soliden \nBeschlusslage. Wir bitten, den Beschluss damit als erledigt zu betrachten. Tim Richter",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "514/VI",
@@ -18063,7 +18497,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Zusammenarbeit mit den zuständigen Stellen die \nVerkehrssicherheit für Radfahrer*innen und Nutzer*innen der BVG an der Haltestelle \nTeltowkanalstraße Richtung Steglitz-Zentrum zu verbessern.\nBezirksverordnetenvorsteher\n21.02.2024",
       "beschlussdatum": "21.02.2024"
-    }
+    },
+    null
   ],
   [
     "516/VI",
@@ -18108,7 +18543,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Zehlendorf-Mitte wurde durch die Senatsverwaltung für Stadtentwicklung, Bauen und \nWohnen als eines von fünf Berliner Gebieten für eine Aufnahme in das Förderprogramm \nLebendige Zentren und Quartiere (LZQ) ab dem Jahr 2025 ausgewählt. Vorab wird ein \nIntegriertes städtebauliches Entwicklungskonzept (ISEK) entwickelt. Im Rahmen des Förderprogrammes können verschiedene Maßnahmen angemeldet und \ngefördert \nwerden. \nDie \nWirtschaftsförderung \nhat \nin \nAbstimmung \nmit \ndem \nStadtentwicklungsamt ein Geschäftsstraßenmanagement beantragt, welches auch \ngleichzeitig ein Baustellenmanagement beinhaltet. Sofern dem Antrag entsprochen wird, stehen \nab \ndem \n3./4. \nQuartal \n2025 \nund \nden \nFolgejahren \nMittel \nfür \nein \nGeschäftsstraßenmanagement zur Verfügung. Außerdem soll ein solches Management den \nKontakt mit den Gewerbetreibenden suchen und pflegen. Durch verschiedene Projekte und \nWerbemaßnahmen soll der Standort attraktiver gestaltet werden. Negative Folgen durch \ndie Großbaustelle sollen abgefedert und ein wirtschaftlich lebendiges Zentrum \ngewährleistet werden. Sogenannten Traiding-Down-Effekten soll mit dem Management \nentgegengewirkt werden. Unabhängig davon wird die Wirtschaftsförderung des Bezirkes weiterhin für die \nGewerbetreibenden als Ansprechpartnerin und beratend zur Verfügung stehen. Sowie der \nkonkrete \nBauablauf \nfeststeht, \nkann \nhier \nkonkret \nvorgegangen \nwerden. \nDie \nWirtschaftsförderung des Bezirkes hat schon seit Jahren gute Kontakte zu den \nHändlergemeinschaften der Gegend. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "517/VI",
@@ -18152,7 +18588,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nMit der berlinweiten Ausführungsvorschrift (AV) Genehmigungskriterien (in Kraft getreten zum 01. \nDezember 2024) seitens der Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen ist dieses \nThema „zentralisiert“ worden. Ziel hierbei war, dass in allen Bezirken und in allen \nMilieuschutzgebieten nach den gleichen Kriterien gearbeitet wird. \nAn der Erstellung der AV waren die Bezirke beteiligt. Zusätzlich erfolgte durch SenStadt parallel ein \numfassender Evaluationsprozess. Derzeit erfolgt die weitere Überarbeitung der AV, in denen u.a. das \nVorgehen beim „möblierte Wohnen“ geregelt werden soll. Entsprechende Anpassungen erfolgen \nfortlaufend und häufiger als in den vorhergehenden bezirklichen Ausführungsvorschriften. \nEine eigenständige Evaluation durch das Bezirksamt ist aus diesen Gründen nicht vorgesehen und \nfachlich nicht sinnvoll. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "518/VI",
@@ -18201,7 +18638,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Hierzu wird berichtet: \nDie Bezirksverordnetenversammlung (BVV) Steglitz-Zehlendorf forderte mit Beschluss vom \n21.02.2024 das Bezirksamt auf, sich im Zuge der geplanten bundesgesetzlichen \nRegelungen zur Teillegalisierung von Cannabis als Modellregion zu bewerben. Der \nBeschluss bezog sich offenbar auf die in den Eckpunkten der Bundesregierung vom April \n2023 angekündigte sogenannte „Säule 2“ eines 2-Säulen-Modells1. Diese zweite Säule 1 Kontrollierte Abgabe von Genusscannabis an Erwachsene \nEckpunkte eines 2-Säulen-Modells \n(https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/C/Cannabis/Eckpunkte_2-\nSaeulenmodell_Cannabis.pdf (zuletzt abgerufen am 26.05.2025) sollte regionale, kommerzielle Modellprojekte zum staatlich kontrollierten Vertrieb von \nCannabis in lizenzierten Fachgeschäften ermöglichen. Diese Projekte sollten dazu dienen, \ndie Auswirkungen eines legalen Cannabismarktes auf Gesundheitsschutz, Jugendschutz \nund illegalen Markt zu untersuchen. Hierzu wären dann Regionen aufgefordert gewesen, \nsich als Modellregion zu bewerben. Diese zweite Säule wurde bislang jedoch nicht gesetzlich umgesetzt. Es liegt weder ein \nGesetzentwurf noch ein Zeitplan zur Einführung dieser Regelung vor. Somit besteht derzeit \nkeine rechtliche Grundlage, auf deren Basis sich der Bezirk Steglitz-Zehlendorf als \nModellregion bewerben könnte. Im Rahmen der „Säule 1“ gibt es gem. § 2 Abs. 4 KCanG, die Möglichkeit, \nForschungsprojekte zu Genusscannabis durchzuführen und hierzu gem. Konsumcannabis-\nWissenschafts-Zuständigkeitsverordnung (KCanWV) einen Antrag beim Bundesanstalt für \nLandwirtschaft und Ernährung zu stellen. \nHierzu heißt es Auf der Website des Ministeriums für Landwirtschaft, Ernährung und Heimat: „Die Verordnung nach § 2 Abs. 4 KCanG regelt den wissenschaftlichen Umgang mit \nKonsumcannabis. Wer Konsumcannabis zu wissenschaftlichen Zwecken besitzen, anbauen, \nherstellen, einführen, ausführen, erwerben, entgegennehmen, abgeben, weitergeben, \nCannabinoide aus der Cannabispflanze extrahieren oder mit Konsumcannabis zu \nwissenschaftlichen Zwecken Handel treiben will, benötigt eine Erlaubnis der Bundesanstalt \nfür Landwirtschaft und Ernährung. Dies ist nicht die „zweite Säule“ des Eckpunktepapiers. Die „zweite Säule“ sollte in einem \numfassenden und detaillierten Gesetz bundesweit Cannabisfachgeschäfte erproben. \nZuständig für die Erarbeitung eines solchen Gesetzentwurfs ist das Bundesministerium für \nGesundheit.“2 \nDie Sucht- und Drogenberatun",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "521/VI",
@@ -18245,7 +18683,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nIm Rahmen der Erstellung des Integrierten Städtebaulichen Entwicklungskonzepts (ISEK) für \nZehlendorf-Mitte wurden neben den Beteiligungsformaten, welche alle Bevölkerungsgruppen \nansprechen sollte (bspw. durch Beteiligungswerkstätten im Rathaus Zehlendorf), auch ein \nRundgang speziell für Kinder und Jugendliche zum Tag der Städtebauförderung 2024 angeboten \nsowie eine Kinder- und Jugendbefragung durchgeführt. In der Vorbereitung wurde das Kinder- und \nJugendbüro (KiJuB) mit einbezogen. 75 Kinder und Jugendliche haben sich beteiligt und einzelne \nMaßnahmen für das ISEK sind hieraus abgeleitet worden. Die Ergebnisse der Beteiligung wurden \nbei der Abschlussveranstaltung am 15.10.2024 vorgestellt. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "522/VI",
@@ -18271,7 +18710,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretender Bürgerdeputierter für den Ausschuss für Grünanlagen, Natur, Umwelt \nwird\nLeon von Salisch \ngewählt.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "523/VI",
@@ -18297,7 +18737,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretender Bürgerdeputierter für den Ausschuss für Mobilität, Verkehr, Ordnung \nwird\nUwe Köhne\ngewählt.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "524/VI",
@@ -18323,7 +18764,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretender Bürgerdeputierter im Ausschuss für Stadtentwicklung und Wohnen \nwird\nRoman Gerhardt\ngewählt.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "525/VI",
@@ -18349,7 +18791,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretender Bürgerdeputierter im Ausschuss für Gebäude, Wirtschaft, Inklusion, \nVerwaltungsmodernisierung, Digitalisierung wird \nPatrick John\ngewählt.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "526/VI",
@@ -18366,7 +18809,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "20.03.2024",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "527/VI",
@@ -18390,7 +18834,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Royal Rangers-Stamm 590 wird für den Campbeitrag für das Eurocamp 2024 aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n2.400 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "528/VI",
@@ -18414,7 +18859,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Lankwitzer Kulturverein e.V. wird für die Beschaffung von Bühnentechnik für \nTheateraufführungen aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n4.500 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "529/VI",
@@ -18438,7 +18884,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer LiteraturInitiative wird für das Literatur-Projekt \"Kafkas Zeit im Bezirk Steglitz-Zehlendorf“ \naus Sondermitteln der BVV ein Betrag bis zur Höhe von\n5.700 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "530/VI",
@@ -18512,7 +18959,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei Senat und CityLab dafür einzusetzen, ein \nEntsiegelungskataster für den Bezirk zu erstellen. Die Flächen sollen hierbei nach ihrem \nEntsiegelungspotenzial gewertet werden. Hierbei sind mindestens alle Bezirksamtsflächen \nsowie das Straßenland zu berücksichtigen. Als Grundlage können die bestehenden \nStrukturen sowie die bisher groben Daten des Geoportals dienen. Das Bezirksamt soll sich \ngegenüber dem Senat dafür einsetzen, dass diese Flächen im Rahmen von \nAusgleichsmaßnahmen entsiegelt werden.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "531/VI",
@@ -18595,7 +19043,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, inwiefern am Wannsee eine Ladesäule für elektrisch \nbetriebene Boote (Sporteinsätze, DLRG etc.) installiert werden kann. Bei dieser Prüfung \nsollen auch Plätze in einem der unzähligen Segelvereine miteinbezogen werden. Sollte die \nPrüfung \npositiv \nausfallen \nund \nsollte \nsomit \ngrundsätzlich \neine \nsolche \nSäule \ngenehmigungsfähig sein, soll das Bezirksamt sich gegenüber dem Ladeinfrastrukturbüro des \nLandes Berlin dafür einsetzen, dass unter Federführung des Ladeinfrastrukturbüros eine \nUmsetzung des Projekts initiiert und damit in Angriff genommen wird.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "532/VI",
@@ -18648,7 +19097,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, sich an \nden bezirksübergreifenden Planungen und baulichen Umsetzungen von Fahrradparkhäusern \nan ÖPNV-Bahnhöfen zu beteiligen und Fördermittel zur Co-Finanzierung zu nutzen.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "533/VI",
@@ -18706,7 +19156,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob an der Ecke Sembritzkistraße/Grabertstraße die \ngesperrte Fläche zwischen Verkehrsinsel und Musikschule entsiegelt und gemeinsam mit \nder Verkehrsinsel gestaltet werden kann.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "534/VI",
@@ -18755,7 +19206,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Das Amt für Soziales steht hierzu im regelmäßigen Austausch mit Trägern der Wohnungsnotfallhilfe \nund berücksichtigt bestehende Bedarfe fortlaufend im Rahmen der vorhandenen Unterbringungs- \nund Unterstützungsstrukturen. Schlafplatz- und Unterkunftsalternativen werden dabei regelmäßig un-\nter Berücksichtigung der aktuellen Bedarfslage, der verfügbaren Kapazitäten und der rechtlichen so-\nwie tatsächlichen Umsetzbarkeit geprüft. Mit der Frage der Umsetzbarkeit von Schließfächern bzw. abschließbaren Spinden für die persönli-\nche Habe obdachloser Menschen hat sich das Amt für Soziales bereits in der Vergangenheit befasst. \nHierzu fand auch ein Austausch mit anderen Bezirken statt, in denen entsprechende Schließanlagen \nbzw. vergleichbare Ansätze bereits erprobt oder umgesetzt wurden. Darüber hinaus verweise ich auf die Vorlage zur Kenntnisnahme für die Bezirksverordnetenversamm-\nlung zum BVV-Beschluss Nr. 647/VI vom 17.07.2024 – Drs. Nr. 1002/VI -, in der zum Thema Schließ-\nfächer für Obdachlose wie folgt berichtet wurde: „Das Amt für Soziales hat hierzu Kontakt mit den Betreibern und Unterkunftsgebern aufge-\nnommen, um in deren Umfeld geeignete Standorte mit entsprechender auch sozialarbeiteri-\nscher Begleitung zu identifizieren, da diese häufig eine größere Reichweite und eine direk-\ntere Verbindung zu obdachlosen Menschen haben. Derartige Unterkünfte verfügen zudem \nhäufig über umfangreiche Kapazitäten und Erfahrungen in der Betreuung von obdachlosen \nMenschen und sind deswegen gut geeignet, einen solchen Service in ihrem Umfeld anzubie-\nten und zur Sicherheit im öffentlichen Raum beizutragen und gleichzeitig weitere soziale \nDienstleistungen und Beratungsangebote anzubieten und eine entsprechende Schließfach-\nanlage nicht nur „hinzustellen“, sondern aktiv zu betreiben. Der Zugang sollte nach Rück-\nmeldung der Betreiber 24/7 ermöglicht werden, Ansprechpartner müssten bei Problemen \nzeitnah erreichbar sein. Da in den Einrichtungen bereits schon entsprechende Angebote für \ndie Hinterlegung von Wertsachen und Habseligkeiten bestehen, konnten keine weiteren \nStandorte im jeweiligen Umfeld identifiziert werden. Zudem teilt das Straßen- und Grünflächenamt mit, dass es auf konkrete Einzelanträge zu \nkonkreten Standorten eine Prüfung veranlasst, sofern entsprechende Betreiber auf das Stra-\nßen- und Grünflächenamt für z.B. auch im Beschluss genannte Schließfächer, die im öffentli-\nchen Straßenland aufgestellt werden sollen, zukommen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "nur-information-bereitgestellt"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "535/VI",
@@ -18805,7 +19257,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Am 07.01.2025 wurde im Ausschuss für Frauen, Gleichstellung, Queer der BVV ein Frauenbeirat \ngewählt. Gewählt wurden nach einem öffentlichen Aufruf zur Bewerbung 6 Mitglieder von Verei-\nnen und Organisationen und 7 Mitglieder aus engagierten Frauen aus dem Bezirk. Am \n26.02.2025 fand die konstituierende Sitzung des Frauenbeirates statt. Informationen zum Frauenbeirat können auf der folgenden Internetseite eingesehen werden: \nhttps://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/gremien/frauenbeirat/ Die Geschäftsordnung des Frauenbeirates Steglitz-Zehlendorfs ist unter dem folgenden Link ab-\nrufbar: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordneten-\nversammlung/online/___tmp/tmp/45081036/2hW8fqEndQKFJdHwrGlbjJpxJv9jvTf0zzL-\nbUlKy/rbRpqHtW/74-Anlagen/01/EntwurfGOFBSteZe.pdf Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "537/VI",
@@ -18855,7 +19308,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nGesundheitsämter in Berlin impfen auf der gesetzlichen Grundlage des Gesetzes über den \nöffentlichen Gesundheitsdienst, (Gesundheitsdienst-Gesetz - GDG) vom 25. Mai 2006 § 9 Abs. 2. \nHier sind subsidiär und sozialkompensatorisch folgende Personengruppen im Fokus der \nFachdienste: \nIm Kinder- und Jugendgesundheitsdienst (KJGD); vor allem zum Schluss von Impflücken \nbei Kita- oder Schuleingangs- sowie Jugenduntersuchungen, bei Zuzugsuntersuchungen \nund unversicherte Kinder. Bei Letzteren handelt es sich häufig um den vollständigen Aufbau \ndes Impfschutzes nach STIKO. Dies ist einerseits sehr aufwendig und andererseits kosten-\nintensiv. Im Zentrum für Familienplanung \nSpezielle Impfaktionen für Menschen mit einem erschwerten Zugang zum Gesundheitssys-\ntem, aktuell mit Schwerpunkt der Gemeinschaftsunterkünfte für Geflüchtete. Diese Impfun-\ngen werden durch den Fachbereich Hygiene und Umweltmedizin mit Unterstützung des \nKJGD durchgeführt. Es handelt sich bei diesen Impfaktionen auf der Grundlage des Ma-\nsernschutzgesetztes, ausschließlich um eine ausreichende Immunisierung gegen Masern. \nDie Masernimpfung stellt eine Grundvoraussetzung zur Unterbringung in einer Gemein-\nschaftseinrichtung wie § 36 Absatz 1 Nummer 4 für nach dem 31. Dezember 1970 Gebo-\nrene nach § 20 Abs. 8 Satz 2 b Infektionsschutzgesetz dar. Diese Impfungen sind von Riegelungsimpfungen bei Ausbrüchen zu unterscheiden. \nIn Berlin gibt es zur Kostenerstattung von Impfstoffen folgende Regelungen: \n1. Versicherte über Reinickendorf \n2. Nicht Versicherte Menschen werden über die Senatsverwaltung für Wissenschaft, Ge-\nsundheit und Pflege (SenWGP) aus einem gedeckelten Fond erstattet. Auf Steglitz-Zeh-\nlendorf entfallen etwa 9000,00 €. Die Gruppe der Nichtversicherten schlägt bei Ge-\nflüchteten in unserem Bezirk kaum zu Buche. \nEine zunehmend größere Zahl sind nicht versicherte Kinder. Eine Vollimmunisierung schlägt \nhier mit etwa 2000,00 € zu Buche, beinhaltet mehrere Termine und ist oft durch Sprach-\nmittlung begleitet. \nEine explizite Impfstelle wie in anderen Bundesländern durch das jeweilige Gesundheits-\ndienstgesetzt festgeschrieben, gibt es in Berlin nicht. So wird in Gesundheitsämtern in Bran-\ndenburg zum Beispiel jedes Jahr ab Mitte Oktober die Influenzaimpfung für Beschäftigte \nder Kreise oder kreisfreien Städte und Bürgerinnen und Bürger angeboten und gut ange-\nnommen. Hierbei können die Gesundheitsämter auf zentral vom Land bestellte Impfstoffe \nzurückgreifen und ",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "538/VI",
@@ -18898,7 +19352,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Am 12. September 2024 widmete sich die Schwartzsche Villa in einem musikalisch-literarischen \nAbend ganz Franz Kafka und seinem Wirken im Bezirk. Michael Kumpfmüller las in einem ersten \nTeil aus seinem Roman „Die Herrlichkeit des Lebens“, der u. a. von Kafkas Zeit im Bezirk Steglitz-\nZehlendorf erzählt. Umrahmt wurde die Lesung einerseits von zwei Liedern aus der Feder Max \nBrods, dem engen Kafka-Freund und Herausgeber, sowie den „Frühen Kafka-Texten“ von Ruth \nZechlin im zweiten Teil. Letztere erklangen als Raumkomposition im Lichthof der Schwartzschen \nVilla, gespielt vom renommierten Zafraan Ensemble mit Mezzosopranistin Alice Lackner als Solis-\ntin. Die Veranstaltung war eine Kooperation mit der LiteraturInitiative Berlin und restlos ausge-\nbucht. \nKontakt zur tschechischen und österreichischen Botschaft wurde aufgenommen und auf die Not-\nwendigkeit einer Restauration der Gedenktafel hingewiesen. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "540/VI",
@@ -18942,7 +19397,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat die ersten Voraussetzungen für eine evtl. Straßenbenennung \nnach Nora Schimming geprüft. Im Ergebnis ist festzustellen, dass eine Benennung gemäß § 5 Ber-\nliner Straßengesetz möglich wäre, zudem existiert ein örtlicher Bezug zum Bezirk Zehlendorf. Eine \nBenennung nach Frau Schimming würde darüber hinaus den Anteil an weiblichen Straßennamen \nerhöhen. \nDer Namensvorschlag wird daher auf die Straßenbenennungsliste gesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "541/VI",
@@ -18959,7 +19415,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "20.03.2024",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "542/VI",
@@ -18975,7 +19432,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "543/VI",
@@ -19015,7 +19473,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, bei allen künftig abzuschließenden städtebaulichen Verträgen, \ndie der Wohnbebauung dienen, auch Trägerwohnungen vorzusehen. Die Trägerwohnungen \nsollen in dem 30% Sozialwohnungsanteil enthalten sein.\nBezirksverordnetenvorsteher\n20.03.2024",
       "beschlussdatum": "20.03.2024"
-    }
+    },
+    null
   ],
   [
     "544/VI",
@@ -19039,7 +19498,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt der Bürgerdeputierten im Ausschuss für Partizipation und \nIntegration\nInna Schulze\ngemäß § 24 Abs. 1 a BezVG (durch Verzicht) mit Wirkung vom 25.03.2024 als beendet \nanzusehen ist.\nBezirksverordnetenvorsteher\n17.04.2024",
       "beschlussdatum": "17.04.2024"
-    }
+    },
+    null
   ],
   [
     "545/VI",
@@ -19065,7 +19525,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretender Bürgerdeputierter im Ausschuss für Mobilität, Verkehr und Ordnung \nwird \nRoland Hauschulz\ngewählt.\nBezirksverordnetenvorsteher\n17.04.2024",
       "beschlussdatum": "17.04.2024"
-    }
+    },
+    null
   ],
   [
     "546/VI",
@@ -19091,7 +19552,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretende Bürgerdeputierte im Ausschuss für Frauen*, Gleichstellung, Queer \nwird\nKim Alexandra Trau\ngewählt.\nBezirksverordnetenvorsteher\n17.04.2024",
       "beschlussdatum": "17.04.2024"
-    }
+    },
+    null
   ],
   [
     "549/VI",
@@ -19132,7 +19594,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen (Senatsverwaltung und \nBäderbetriebe) mit besonderem Nachdruck dafür einzusetzen, dass das Freibad „Spucki“ \numgehend instandgesetzt und wieder in Betrieb genommen wird. Ebenso soll das \nBezirksamt sich für die umgehende Sicherung von Gelände und Gebäude einsetzen bzw. \ndas ihm selbst mögliche dazu beitragen.\nBezirksverordnetenvorsteher\n17.04.2024",
       "beschlussdatum": "17.04.2024"
-    }
+    },
+    null
   ],
   [
     "550/VI",
@@ -19172,7 +19635,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich gegenüber der Senatsverwaltung dafür einzusetzen, \ndass der Senat im Rahmen der anstehenden Neubauarbeiten an Schloßstraße/Unter den \nEichen die Infrastruktur für die Reinigung des Straßenabwassers prüft (unter anderem zur \nAbsetzung von Sedimenten, Reifenabrieb und weiteren Stoffen).\nBezirksverordnetenvorsteher\n17.04.2024",
       "beschlussdatum": "17.04.2024"
-    }
+    },
+    null
   ],
   [
     "551/VI",
@@ -19196,7 +19660,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt der Bürgerdeputierten im Ausschuss für Gebäude, \nWirtschaft, Inklusion, Verwaltungsmodernisierung, Digitalisierung\nJanine Meeßen\ngemäß § 24 Abs. 1 a BezVG (durch Verzicht) mit Wirkung vom 23.04.2024 als beendet \nanzusehen ist.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "552/VI",
@@ -19222,7 +19687,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretender Bürgerdeputierter im Ausschuss für Haushalt, Personal, Europa, \nKlima wird \nKonrad Rux\ngewählt.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "553/VI",
@@ -19246,7 +19712,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Kirchbauverein St. Annen - St. Annenchor wird für ein inklusives Chorprojekt aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n2.000 €\nzur Verfügung gestellt. \nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "554/VI",
@@ -19270,7 +19737,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Ev. Paulus-Kirchengemeinde Berlin-Lichterfelde wird für eine Lesung mit Texten von \nSelma Meerbaum-Eisinger aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n1.275 €\nzur Verfügung gestellt. \nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "555/VI",
@@ -19350,7 +19818,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Inklusion spielt in der heutigen Zeit eine immer größere Rolle, auch im Sport. Hier geht \nes darum, allen Menschen – unabhängig von Alter, Geschlecht, Behinderung, Herkunft \noder sozialen Gegebenheiten – die Möglichkeit zu geben, aktiv teilzunehmen. Sport \nbietet eine einzigartige Plattform, um Barrieren abzubauen, Vorurteile zu überwinden \nund Gemeinschaft zu fördern. Berlinweit wurde 2023 der „Kriterienkatalog für inklusive nutzbare Sportstätten“ verab-\nschiedet, welcher verbindlich anzuwenden ist. Der entsprechende Kriterienkatalog ist als Anlage dieser Vorlage zur Kenntnisnahme \nbeigefügt. Das Thema Inklusion ist ein wichtiges Handlungsfeldziel des Sportentwicklungsplans \nSteglitz-Zehlendorf. Eine aktuelle Erhebung zum Stand der Barrierefreiheit auf den \nSteglitz-Zehlendorfer Sportanlagen wurde im Sportstättenkataster festgehalten. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "nur-information-bereitgestellt"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "556/VI",
@@ -19416,7 +19885,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nEin Gewaltschutzkonzept oder auch institutionelles Schutzkonzept liegt in jeder Jugendfrei-\nzeiteinrichtung vor und wird regelhaft aktualisiert und angepasst. \nDabei handelt es sich im eigentlichen Sinne um ein individuell auf die jeweilige Einrichtung \nbezogenes Konzept mit strukturellen und prozessorientierten Maßnahmen zur Vermeidung \nvon physischer und sexueller Gewalt, emotionalen Missbrauchs sowie grenzüberschreiten-\nden Verhaltens innerhalb einer Einrichtung, durch Mitarbeitende gegenüber den jungen \nMenschen aber auch der jungen Menschen untereinander. \nBeim Cybermobbing und Cybergrooming handelt es sich in der Regel um „außenstehende“ \nTäter und Täterinnen. \nIm Bereich der Jugendförderung ist die Aufklärung zu Cybermobbing und Cybergrooming \nund die Unterstützung der betroffenen jungen Menschen ein genereller Bestandteil der pä-\ndagogischen Arbeit in der Jugendarbeit, sowohl in den Jugendfreizeiteinrichtungen als auch \nin der mobilen Jugend(sozial)arbeit. Das Fachreferat Förderung initiiert regelmäßig Projekte \nfür Fachkräfte, junge Menschen und auch Eltern, die die Schnittstelle zwischen Medienpä-\ndagogik und Gewaltprävention aufgreifen. \nSeit 2023 finden z.B. Workshops an Schulen und in Jugendfreizeiteinrichtungen zu beiden \nThemen statt. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "557/VI",
@@ -19482,7 +19952,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Jugendfreizeiteinrichtungen laden die Polizei und Feuerwehr regelmäßig zu Festen ein, um sich \ndort zu präsentieren. So war z. B. beim 50-jährigen Jubiläum der Jugendwerkstatt am Ostpreu-\nßendamm die Feuerwehr vor Ort. Beim Jugendfestival wurde mit der Polizei eine Kooperation \ndurchgeführt. Darüber hinaus sind in Planung Erste-Hilfe-Kurse und Brandschutz-Kurse. Die koope-\nrierenden Institutionen können allerdings nur soweit eingebunden werden wie sie Freiräume für sol-\nche Veranstaltungen haben. Hierauf haben die Jugendfreizeiteinrichtungen keinen Einfluss \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "558/VI",
@@ -19539,7 +20010,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich gegenüber den zuständigen Stellen für die Einrichtung \neiner \nüberbezirklichen \nSchnell-Verbindung \nmit \nelektrischen \nWasser-Shuttles \nals \numweltfreundlichen Linienbetrieb und ÖPNV-Ergänzung im Teltowkanal auszusprechen.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "559/VI",
@@ -19596,7 +20068,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Seit dem Jahr 2024 steht in allen sieben Seniorenfreizeiteinrichtungen des Bezirks ein kostenloses \nund flächendeckendes WLAN für Gäste, Gruppen sowie weitere Nutzerinnen und Nutzer zur Verfü-\ngung. Damit wird die digitale Teilhabe älterer Menschen gestärkt. Zugleich unterstützt das Angebot die \nDurchführung von Gruppenangeboten, Veranstaltungen und weiteren Aktivitäten in den Einrichtun-\ngen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "562/VI",
@@ -19656,7 +20129,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDer Chatbot Bobbi wurde im Rahmen eines Forschungsprojektes 2017 in das Serviceportal Berlin \neingefügt und sollte als virtueller Bürger-Assistent dienen. Nach der Auswertung des Nutzungsverhaltens wurde Bobbi mehr als qualifizierte Suchmaschine \nund weniger als Dialogpartner genutzt. Die Chatbot-Ergebnisse wurde selten besser bewertet, als \ndie Ergebnisse der üblichen Service-Portal-Suche. Das Beta-Stadium des betriebenen Bobbi \nkonnte mit der enormen Weiterentwicklung üblicher Suchmaschinen nicht mithalten und Erwartun-\ngen, die an aktuelle KI-Chatbots gestellt werde, nicht erfüllen. Eine entsprechende Weiterentwick-\nlung war im Rahmen des Projektes nicht möglich. \nDie anwendungsbezogene Forschungskooperation sowie der darauf basierende Betrieb des Chat-\nbots Bobbi lief zum 31.12.2024 aus. Die Optionen, insbesondere die inhaltlichen, finanziellen und organisatorischen Rahmenbedingen, \nfür ein Nachfolgeprojekt werden derzeit auf Landesebene noch geprüft. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "563/VI",
@@ -19710,7 +20184,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt (SGA) hat die Örtlichkeit geprüft und festgestellt, dass auf der \nsüdwestlichen Straßenseite der Drakestraße im Abschnitt zwischen den Geschäften „McPaper“ und \n„Lüske“ bereits zahlreiche Poller vorhanden sind. Daher hat das SGA das Ordnungsamt gebeten, \nhier Rahmen seiner Möglichkeiten Kontrollen durchzuführen. Allerdings wurden zum Unterbinden \ndes nicht erlaubten Gehwegparkens auf der anderen Straßenseite der Drakestraße in Höhe der \nHausnummern 31 und 31a Fahrradbügel eingebaut. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "564/VI",
@@ -19766,7 +20241,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Für verkehrsrechtliche Anordnungen im übergeordneten Straßennetz ist die Senatsverkehrsverwal-\ntung zuständig. Am 28.08.2024 habe ich daher den für Verkehr zuständigen Staatssekretär ange-\nschrieben und um Umsetzung des Beschlusses gebeten. Neben den Bezirksverordneten hatten sich \nauch Bürgerinnen und Bürger mit hunderten Unterschriften diesbezüglich an mich gewandt und eine \nAusweitung von Tempo 30 rund um die Uhr gefordert. Mit Schreiben vom 22.10.2024 teilte mir der Staatssekretär mit, dass aus Sicht der Senatsverkehrs-\nverwaltung derzeit kein Anordnungsgrund für eine entsprechende Geschwindigkeitsreduzierung vor-\nliege. Da die Zuständigkeit für eine dauerhafte Geschwindigkeitsbeschränkung auf 30 km/h in der \nSundgauer Straße allein bei der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt \nliege, solle ich die Bürgerinitiative direkt an seine Verwaltung verweisen. \nDarüber habe ich die Bürgerinitiative informiert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "keine-zustaendigkeit"
   ],
   [
     "565/VI",
@@ -19812,7 +20288,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, welche der regionalgeschichtlichen Publikationen \ndes Kulturamtes (https://www.berlin.de/ba-steglitz-zehlendorf/auf-einen-blick/kultur/regional-\ngeschichte/publikationen), sich ggf. in Zusammenarbeit mit den jeweiligen Verlagen zu einer \ndigitalen Veröffentlichung eignen und bringt diese entsprechend heraus.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "566/VI",
@@ -19858,7 +20335,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob die im Rahmen der ressortübergreifenden \nGemeinschaftsinitiative des Senats einsetzbaren Förderprogramme „Bibliothek im Stadtteil“ \nII (BIST II) bzw. Kultur und Bibliotheken im Stadtteil (KUBIST) zu nutzen sind, um einen \nfesten Bibliotheksstandort in der den Fördermitteln zugrundeliegenden Region in \nLichterfelde-Süd zu entwickeln. Dieser kann die aktuellen Planungen zur Nutzung der \nSchulbibliothek der Mercator-Schule teilweise beinhalten, soll aber in Konzept, Zielgruppe, \nAngebot und Zugänglichkeit diese durch Neu- oder Ausbau einer Immobilie oder auch \nGebäudeaufstockung deutlich erweitern und ausbauen. Hierzu sollen auch Akteur*innen wie \ndie HOWOGE und das Quartiersmanagement einbezogen werden. Weitere Fördermittel für \ndiesen Sozialraum sollen mitgenutzt werden, sofern möglich.\nDer BVV ist im zuständigen Fachausschuss regelmäßig über den Planungsfortschritt zu \nberichten.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "567/VI",
@@ -19897,7 +20375,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Sijbrandij",
       "antwort": "Hierzu wird berichtet: \nDer Fachbereich Kultur hat den 20. Juli bereits in den vergangenen Jahren zum Anlass genom-\nmen, um neben dem militärischen Widerstand auch andere Formen des Widerstandes gegen den \nNationalsozialismus im Bezirk in Form von Veranstaltungen in den Blick zu nehmen. 2024 wurde \nam Wochenende des 20./21. Juli ein kostenloser Stadtspaziergang zum Thema Widerstand von \nFrauen im Nationalsozialismus in unserem Bezirk realisiert. 2025 stand der Bruder von Claus \nSchenk Graf von Stauffenberg, der Völkerrechtler Berthold Schenk Graf von Stauffenberg, im \nZentrum einer Veranstaltung. Diese Fokussierung auf unterschiedliche Formen des Widerstandes \nund die verschiedenen Widerstandsgruppen aus Anlass des 20. Juli soll auch in Zukunft jährlich \nfortgeführt werden. \nDarüber hinaus wurde am 18. Dezember 2025 im Beisein von Nachfahren Erich Fellgiebels in der \nWrangelstraße 10 eine zweiseitige regionalhistorische Informationsstele eingeweiht, die auf der \neinen Seite den bezirksweiten Widerstand gegen den Nationalsozialismus insgesamt und auf der \nanderen Seite Erich Fellgiebel und den 20. Juli 1944 beleuchtet. \nWir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "569/VI",
@@ -19937,7 +20416,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich gegenüber der Senatsverwaltung dafür einzusetzen, \ndass die Bäke in das Gewässergüteprogramm aufgenommen wird.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "570/VI",
@@ -19977,7 +20457,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich gegenüber den zuständigen Stellen dafür einzusetzen, \ndass beim Ausbau der U3 zum Mexikoplatz Infrastruktur zur Reinigung des in den Waldsee \ngeleiteten Straßenabwassers mitgedacht wird. Beispielsweise zur Absetzung von \nSedimenten/Schlamm.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
-    }
+    },
+    null
   ],
   [
     "572/VI",
@@ -20001,7 +20482,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt des Bürgerdeputierten im Ausschuss für Partizipation und \nIntegration\nWilfred Josue\ngemäß § 24 Abs. 1 a BezVG (durch Verzicht) mit Wirkung vom 05.06.2024 als beendet \nanzusehen ist.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "573/VI",
@@ -20027,7 +20509,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter im Ausschuss für Haushalt, Personal, Europa, Klima wird\nOliver Scheele\nabberufen. \nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "574/VI",
@@ -20053,7 +20536,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter im Ausschuss für Haushalt, Personal, Europa, Klima wird\nDr. Andreas Gräff\ngewählt. \nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "575/VI",
@@ -20077,7 +20561,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf beruft gemäß § 35 Abs. 7 Ziff. 8 AG \nKJHG für die VI. Wahlperiode folgende Person als Vertreter des Ausschusses für \nPartizipation und Integration zum beratenden Mitglied des Jugendhilfeausschusses:\nPanagiotis Matlis (Bürgerdeputierter im Ausschuss für Partizipation und Integration)\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "576/VI",
@@ -20094,7 +20579,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "19.06.2024",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "577/VI",
@@ -20118,7 +20604,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Freundeskreis der Musikschule Steglitz-Zehlendorf e.V. wird für die Veranstaltung der \n32. Steglitzer Tage für Alte Musik aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n8.200 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "578/VI",
@@ -20151,7 +20638,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: 1) Das Bezirksamt hat im Anschluss an die Verabschiedung des Beschlusses eine kurzfristige \nfachamtliche Prüfung zur Bereitstellung von Sondermitteln für den Rumpelbasar Zehlendorf e.V. veranlasst und entsprechend bei der Formulierung beraten. Am 17.07.2024 hat die Be-\nzirksverordnetenversammlung beschlossen, Sondermittel der BVV bis zur Höhe von 10.000 € \ndem Rumpelbasar Zehlendorf e.V. zur Verfügung zu stellen. 2) Das Bezirksamt hat sich mit Schreiben vom 23.07.2024 an die Geschäftsführung der Firma \nDiehl Metal Applications GmbH gewandt. Es wurde auf die lange Historie der gemeinnützigen \nEinrichtung sowie seiner Bedeutung für das soziale Gefüge im Bezirk hingewiesen. Infolge der \ndurch den Brand verursachten Notlage des Rumpelbasars wurde bei der Firma Diehl die Be-\nreitstellung einer finanziellen Zuwendung angeregt und Unterstützung bei der Abwicklung von \nVersicherungsangelegenheiten erbeten. Firma Diehl teilte mit Schreiben vom 29.07.2024 mit, \ndass sie bereits im Juni einen entsprechenden Beitrag an den Rumpelbasar überwiesen ha-\nben. Des Weiteren haben Mitarbeitende der Firma Diehl nach Eröffnung des Rumpelbasars \nihre private Unterstützung bzgl. Sachspendensammlungen angeboten. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "579/VI",
@@ -20180,7 +20668,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob der Ladiusmarkt (Wochenmarkt), der sich zurzeit \nim Breitensteinweg befindet, langfristig im Breitensteinweg verbleiben kann.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "580/VI",
@@ -20209,7 +20698,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Parlamentarischen Ferien der Bezirksverordnetenversammlung Steglitz-Zehlendorf \ndauern vom 19.07.2024 bis einschließlich 30.08.2024.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "581/VI",
@@ -20282,7 +20772,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Hierzu wird berichtet: \nGemäß Beschluss wurde zunächst die Zuständigkeit für eine etwaige weitergehende Bearbei-\ntung festgelegt. Aufgrund des ämterübergreifenden Querschnittscharakters der neuen Auf-\ngabe wurde die Sozialraumorientierte Planungskoordination (SPK) als zuständige Organisati-\nonseinheit festgelegt. \nMit Blick auf die Kosten für vorbereitende Maßnahmen zur Einleitung des Bewerbungsprozes-\nses muss von verhältnismäßig großem Ressourceneinsatz ausgegangen werden. So sind be-\nreits die vorbereitenden Maßnahmen der Verwaltung vor Initialisierung des Zertifizierungsver-\nfahrens mit einem Mehraufwand von einer halben VZÄ zu beziffern. Diese Personalressource \nist für den gesamten Zeitraum des Prozesses zur Verfügung zu stellen. Der Zertifizierungspro-\nzess beginnend bei der Bewerbung über die Bestandsanalyse und die Erarbeitung eines Ak-\ntionsplanes bis hin zu dessen ämterübergreifender Umsetzung umfasst erfahrungsgemäß drei \nbis vier Jahre. In dieser Zeit fallen neben den Personalkosten der halben VZÄ auch die Ma-\nnagementkosten des Prozesses und die Mitgliedsbeiträge an den Verein Kinderfreundliche \nKommune e.V. in Höhe von jährlich 16.000 € an. Es wird gebeten",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "582/VI",
@@ -20338,7 +20829,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, dass nach Fertigstellung des Verkehrsgutachtens zusammen \nmit der Schulgemeinschaft der Schweizerhof-Grundschule und der Polizei die notwendigen \nMaßnahmen zur Schulwegsicherheit abgestimmt werden.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "584/VI",
@@ -20400,7 +20892,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Im Bezirk bestehen bereits niedrigschwellige Unterstützungsangebote, die auch den Bereich rund um \ndie Schloßstraße und weitere relevante Aufenthaltsorte obdachloser Menschen im Blick haben. \nHierzu zählt insbesondere das Angebot von Gangway, das aufsuchende Sozialarbeit leistet und \ndurch regelmäßige Kontakte zu den Betroffenen eine wichtige Brückenfunktion in das Hilfesystem \nübernimmt. Darüber hinaus ist im Bezirk der Obdachlosenbus des DRK sehr aktiv. Der Obdachlosenbus erreicht \nMenschen unmittelbar im öffentlichen Raum, stellt eine Erstversorgung sicher und gibt unter anderem \nKleidung, Getränke und Lebensmittel aus. Gerade durch diese niedrigschwellige und praktische Un-\nterstützung gelingt es, Vertrauen zu den betroffenen Menschen aufzubauen und Gesprächszugänge \nzu schaffen. Diese Angebote sind für die Versorgung obdachloser Menschen im Bezirk von großer Bedeutung. Sie \ntragen dazu bei, Bedarfe frühzeitig wahrzunehmen, akute Notlagen abzumildern und Betroffene an \nweiterführende Hilfen heranzuführen. Das Bezirksamt bewertet die bestehenden Angebote daher als wichtigen Bestandteil der bezirklichen Unterstützungsstruktur und wird diese im Rahmen seiner Mög-\nlichkeiten weiterhin fachlich begleiten und befürworten. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "586/VI",
@@ -20454,7 +20947,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Eingangs wird darauf hingewiesen, dass die StVO die Begrifflichkeit „Ladezone“ in Verbindung mit \ndem neuen Verkehrszeichen 230 verwendet, auch wenn mit dem Beschluss die Lieferzone bezeich-\nnet wurde. Die Beantragung einer Ladezone ist für Gewerbetreibende möglich, indem der konkrete Bedarf dar-\ngestellt und begründet wird. Dies geschieht üblicherweise formlos und schriftlich, sodass es keiner \nBereitstellung von Vordrucken bedarf. Auf der Internetseite der bezirklichen Straßenverkehrsbehörde im Rahmen des Internetauftritts des \nStraßen- und Grünflächenamtes, auf der die einschlägigen Vordrucke zum Abruf bereitstehen, \nwurde ein Hinweis zur Beantragung von Ladezonen hinzugefügt. Im Internetauftritt der bezirklichen \nWirtschaftsförderung wird auf die Seite der Straßenverkehrsbehörde verlinkt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "587/VI",
@@ -20508,7 +21002,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat die BVG angeschrieben und um eine Stellungnahme zu diesem Beschluss ge-\nbeten. Mit Schreiben vom 01.08.2025 teilt die BVG mit, dass die Buslinie X 11 im Bezirk Steglitz-\nZehlendorf zwischen U Krumme Lanke und S Lichterfelde Ost werktags zwischen 7 und 9 Uhr sowie \n13:30 und 17:00 Uhr im 10 Minutentakt verkehrt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "588/VI",
@@ -20561,7 +21056,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die zuständigen Stellen zu veranlassen und prüfen zu lassen, \nob die Installation einer Straßenbeleuchtung, vorzugsweise einer sensorgesteuerten \nSektionsbeleuchtung, \nentlang \ndes \nWannseebadweges \n(Straße \nzwischen \nKronprinzessinnenweg und Inselstraße, Fußweg zwischen Kronprinzessinnenweg und \nStrandbad Wannsee) möglich ist.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "589/VI",
@@ -20615,7 +21111,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat die ersten Voraussetzungen für eine evtl. Straßenbenennung \nnach Hedwig Wollmann geprüft. Im Ergebnis ist festzustellen, dass eine Benennung gemäß § 5 \nBerliner Straßengesetz möglich wäre, zudem existiert ein örtlicher Bezug zum Bezirk Zehlendorf. \nEine Benennung nach Frau Wollmann würde darüber hinaus den Anteil an weiblichen Straßenna-\nmen erhöhen. \nDer Namensvorschlag wird daher auf die Straßenbenennungsliste gesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "591/VI",
@@ -20665,7 +21162,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob es möglich ist in der Nähe des Wannsees eine \nzentrale Abstellmöglichkeit für Anhänger für Gewerbetreibende und Sportvereine zu \nschaffen.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "592/VI",
@@ -20717,7 +21215,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich beim Ladeinfrastrukturbüro dafür einzusetzen, zu prüfen, \nob es entsprechende Förderprogramme (Land, Bund, Europa) gibt, um auch in unserem \nBezirk an ausgewählten Standorten eine Ladeinfrastruktur für E-Bikes aufzubauen. Falls die \nPrüfung positiv ausfällt, wird das Bezirksamt gebeten erste Vorschläge für eine Umsetzung \nvorzulegen.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "593/VI",
@@ -20772,7 +21271,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Anlässlich des 80. Jahrestages der Befreiung des Konzentrationslagers Auschwitz-Birkenau am \n27. Januar 1945 erinnerte der Bezirk Steglitz-Zehlendorf mit einem langen Tag des Gedenkens \nan die Geschichte und die Opfer des Nationalsozialismus. Neben den offiziellen Kranzniederle-\ngungen des Bezirksamtes und der Bezirksverordnetenversammlung fanden an diesem Tag und \nam Tag zuvor bezirksweit Führungen, Lesungen und Konzerte statt, die vom Amt für Weiterbildung \nund Kultur und von zahlreichen Institutionen und Initiativen aus dem Bezirk organisiert wurden. Das \nProgramm wurde in einem Fachbereich Kultur erstellen Programmflyer öffentlich gemacht. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "596/VI",
@@ -20822,7 +21322,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt begrüßt den Beschluss des Senats vom 13.02.2024 zur Verlängerung der U3 \nvon Krumme Lanke bis zum Mexikoplatz. \nDetaillierte Informationen zu diesem Bauprojekt gibt es im Internet-Auftritt der BVG-Projekt \nGmbH:https://bvg-projekt.de/projekte/verlaengerung-u-bahnlinie-u3-nachhaltigkeits-\npilotprojekt-berlin-steglitz-zehlendorf/ \nDie BVG hat den Bezirksverordneten des Ausschusses für Mobilität, Verkehr, Ordnung das \nBauprojekt in der Sitzung des Ausschusses am 26.09.2024 vorgestellt. Aktuell läuft das Planfeststellungsverfahren. Auch das Bezirksamt hat im Rahmen dieses \nVerfahrens eine Stellungnahme abgegeben. \nDabei hat das Bezirksamt betont, dass es aus Sicht des Bezirksamtes sinnvoll sei, die \nBaumaßnahme zu vergrößern und die U3 über den Mexikoplatz hinaus gleich bis Düppel-Süd \nzu verlängern, um weitere Gebiete, wie z.B. das Gebiet rund um die Potsdamer Chaussee wie \ndas Studentendorf Schlachtensee, die BIMA Siedlung Düppel, die degewo-Wohnungen am \nWiesenschlag und Kleinmachnow anzuschließen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "597/VI",
@@ -20874,7 +21375,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die Statik der Dachflächen der Großen Anna-Essinger-\nGemeinschaftsschule zu überprüfen, ob die Tragfähigkeit für eine PV-Anlage geeignet ist. \nBei positivem Prüfergebnis wird das Bezirksamt gebeten, die Umsetzung der Installation \neiner Photovoltaikanlage in die Wege zu leiten.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "598/VI",
@@ -20918,7 +21420,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert zu prüfen, ob im Sommer, gemeinsam mit dem Bezirksamt \nCharlottenburg-Wilmersdorf, \nauf \nder \naktuell \ngesperrten \nAutobrücke \nüber \nden \nBreitenbachplatz \nein \nzentrales, \ndurch \ndie \nBezirksämter \ndurchgeführtes, \nNachbarschaftspicknick im Stile der Aktion „Still-Leben Ruhrschnellweg“, bei der anlässlich \nder Kulturhauptstadt Europas 2010 im Ruhrgebiet die B1 und A 40 gesperrt wurde, \ndurchgeführt werden kann. Hierfür soll die Brücke allen Interessierten geöffnet sein. Bei der \nPlanung sollen lokale Initiativen, Vereine, religiöse Einrichtungen und die ansässigen \nBildungs- und Forschungseinrichtungen eingeladen zu sein, sich zu beteiligen. Bei \nerfolgreicher Prüfung und Durchführung und sollte die Sperrung der Brücke länger andauern, \nsoll eine Wiederholung eines solches Festes in den Folgejahren ebenfalls geprüft werden.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "599/VI",
@@ -20979,7 +21482,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Im Rahmen der Vorbereitungen und Recherchen für die Ausstellung „umbenennen?! Straßenna-\nmen und ihre Geschichte in Steglitz-Zehlendorf“ mit ihrem bezirklichen Schwerpunkt auf der Um-\ngestaltung des öffentlichen Raumes im NS konnte die freiberufliche Kunsthistorikerin Dr. Simone \nOelker mit der Erarbeitung eines Dossiers zu in der NS-Zeit entstandenen öffentlichen Bauten und \nKunstwerken beauftragt werden, das nun vorliegt. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "600/VI",
@@ -21025,7 +21529,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird im Rahmen des Quartiersmanagements erneut ersucht, sich bei den \nzuständigen \nStellen \n(BSR) \ndafür \neinzusetzen, \ndass \nder \nRegenrückhalteteich \n(Stangenpfuhlteich) Fahrenheitstraße Ecke Osdorfer Straße in Lichterfelde-Süd und dessen \nUmfeld von Müll und Unrat befreit wird.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "603/VI",
@@ -21068,7 +21573,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Geplant ist für den Aktionszeitraum um den Weltalphabetisierungstag, vorgegeben und beworben \ndurch das Grundbildungszentrum Berlin https://grundbildung-berlin.de/weltalphatagberlin/, ein \nThementag in der Ingeborg-Drewitz-Bibliothek am 03.09.2024, nachmittags ca. 4 Stunden, veran-\nstaltet durch das Alpha-Bündnis SZ mit Unterstützung der VHS und der Stadtbibliothek. Dies wurde \nim Alpha-Bündnis-Treffen beschlossen. Die Idee ist, dass zu konkreten Angeboten der Bündnispart-\nnerinnen und Partner informiert wird, aber auch das Thema „Geringe Literalität“ allgemein in den \nBlick rückt, z.B. durch Lesungen in einfacher Sprache. Eine Pressemitteilung wurde über die Presse-\nstelle bereits in Umlauf gebracht. Auf Veranlassung des Amtes für Weiterbildung und Kultur (FB VHS) \nwird diese Veranstaltung begleitet d.h., dass vor Ort die Veranstaltung dokumentiert wird, ggf. ein \nReel produziert und veröffentlicht wird. Des Weiteren wird der Amtsplausch zum Alpha-Bündnis \nnochmal pressemäßig verwertet und/oder über social media-Kanäle in den Umlauf gebracht. Außerdem ist von Seiten des Servicezentrums der Berliner Volkshochschulen geplant, eine Kam-\npagne für die Grundbildung zu starten. Diese läuft unter dem Schlagwort „Kieck mal: Kann ich!“ \nund startet mit einem Reel zum Thema Weltalphabetisierungstag am 8. September. Die VHS \nSteglitz-Zehlendorf \nist \nin \nder \nAG \nzur \nGestaltung \neben \ndieses \nReels \nvertreten. Es ist des Weiteren beabsichtigt, eine Zweitnutzung der demnächst vorhandenen Social-Media-\nKampagne des Servicezentrums der Volkshochschulen für die Grundbildung zu verfolgen, da sich \ndiese an jüngere Menschen wenden soll. Das Grund-Bildungs-Zentrum Berlin unterstützt die Arbeit in den Bezirken sehr umfassend \n(https://grundbildung-berlin.de/warum-es-uns-gibt/): \n„Wir arbeiten für und mit gering Literalisierten in Berlin. In allem, was wir tun, steht das Ziel im \nVordergrund, Menschen mit Grundbildungsbedarf das Lernen, Selbstbestimmung und gesellschaft-\nliche Teilhabe zu ermöglichen. Um dies zu erreichen, suchen und pflegen wir die Zusammenarbeit \nmit Akteur:innen aus allen Bereichen unserer Stadtgesellschaft: Verwaltung und Behörden, Bil-\ndungsträger und soziale Einrichtungen, Politik und Medien, Wissenschaft und Wirtschaft. \nAls Kompetenzzentrum für Alphabetisierung und Grundbildung in Berlin bieten wir allen unseren \nZielgruppen und Stakeholdern Informationen, Beratung, Know-how und aktive Unterstützung in Ver-\nnetzungs- und Trans",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "604/VI",
@@ -21112,7 +21618,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDer Bezirk ist aufgefordert, die Umsetzung der HPV-Impfempfehlung z.B. durch Informati-\nonsvermittlung in Schulen (siehe auch Drucksache 0993/VI) zu unterstützen. Hierfür wurde im Bündnis für Bildung und gesundes Aufwachsen durch die QPK am \n04.07.2024 den Schulen das Angebot der Ärztlichen Gesellschaft für Gesundheitsförde-\nrung empfohlen und des Zentrums für Familienplanung des Gesundheitsamtes. Diese bie-\nten kostenfreie Klassenworkshops zu Themen der sexuellen und reproduktiven Gesundheit \nan und informieren auch zu den aktuellen Impfempfehlungen. Ein direkter Eingriff seitens des Gesundheitsamtes in Lehrpläne ist nicht möglich. \nDie STIKO empfiehlt eine Impfung bei Mädchen zwischen 9 und 14 Jahren mit zwei Dosen. \nDer Kinder- und Jugendgesundheitsdienst hat eigentlich keinen direkten dienstlichen Auftrag für diese Altersgruppe. Allerdings werden je nach Valenzen Impfbuchkontrollen in \nder 3. und 6. Klasse in der Primarstufe und auch in der Sekundarstufe durchgeführt und \nEmpfehlungen nach STIKO gegeben. Älteren Mädchen von 15 – 17 werden drei Impfdosen empfohlen. Zu dieser Altersgruppe hat der Kinder- und Jugendgesundheitsdienst teilweise über die Jugendarbeitsschutzuntersuchungen Kontakt. Auch dabei werden Impfbücher kontrolliert \nund Impfempfehlungen nach STIKO ausgesprochen und Informationsmaterial mitgegeben, \nauch zu HPV. \nIm August 2024 hat die Kassenärztliche Bundesvereinigung (KBV) auf Grund der niedrigen \nHPV – Durchimpfungsrate eine Informationskampagne gestartet. \nDa auch Jungen infiziert werden können, empfiehlt die KBV auch Jungen zu impfen. In Berlin wurden im Jahr 2023 43.293 HPV- Impfungen durch Vertragsärzte verimpft. Allerdings entfielen dabei 25.983 Dosen auf die erste und nur 17.310 auf die zweite Dosis. \nIm Vergleich zum Vorjahr 2022 ist die Zahl der Impfungen um über 5000 gestiegen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "605/VI",
@@ -21153,7 +21660,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Beschlüsse aus vorigen Wahlperioden in 2024 als VzK \noder als Zwischenbericht vorzulegen. Weiterhin sollen regelmäßig in den BVVen vor der \nSommerpause und vor den Weihnachtsferien entsprechende Vorlagen zur Kenntnisnahme \nerstellt und der BVV zur Kenntnis gegeben werden.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
-    }
+    },
+    null
   ],
   [
     "607/VI",
@@ -21201,7 +21709,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Banner von Sderot wurde am Folgetag der BVV gehisst. Flaggen der Städte Kiriat Bialik \nund Charkiw wurden beschafft. \nDie Flaggen sämtlicher israelischer und ukrainischer Partnerstädte werden dauerhaft vor dem \nRathaus Zehlendorf gehisst. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "608/VI",
@@ -21227,7 +21736,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Frauen*, Gleichstellung, Queer wird\nBuachompoo Melisa Lee\nabberufen.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "609/VI",
@@ -21238,7 +21748,8 @@ var D=[
     "entfällt",
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9204",
     "Bezirksverordnetenversammlung",
-    {}
+    {},
+    null
   ],
   [
     "610/VI",
@@ -21264,7 +21775,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretender Bürgerdeputierter im Gesundheitsausschuss wird\nAlexander Michael Pickert\ngewählt.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "611/VI",
@@ -21288,7 +21800,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf beruft gemäß § 35 Abs. 7 Ziff. 7 AG \nKJHG für die VI. Wahlperiode folgende Person zur Vertretung der Katholischen Kirche zum \nberatenden Mitglied des Jugendhilfeausschusses:\nMargarete Kümpel.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "612/VI",
@@ -21312,7 +21825,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf beruft gemäß § 35 Abs. 7 Ziff. 9 AG \nKJHG für die VI. Wahlperiode folgende Person aus der Jugendhilfe sachverwandten \nBereichen zum stellvertretenden beratenden Mitglied des Jugendhilfeausschusses:\nDr. Astrid Stock (Kinder- und Jugendpsychiatrischer Dienst) als Stellvertretung für Dr. Karen \nSeel (Kinder- und Jugendgesundheitsdienst).\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "613/VI",
@@ -21328,7 +21842,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "614/VI",
@@ -21344,7 +21859,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "615/VI",
@@ -21373,7 +21889,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, wie auf dem Sderot-Platz rund um das \nStädtepartnerschaftsschild und die nahegelegene Baumscheibe eine dauerhafte Pflanzung \nzum Zeichen der Verbundenheit mit unserer Partnerstadt entstehen kann. Es soll geprüft \nwerden, ob ISEK-Mittel dafür genutzt werden können. Die Entwürfe sollen im Ausschuss für \nGrünanlagen, Natur, Umwelt vorgestellt werden, um einen Siegerentwurf zu küren, der \nanschließend umgesetzt wird.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "616/VI",
@@ -21402,7 +21919,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem vom Großbrandereignis in Lichterfelde am 03.05.2024 betroffenen Rumpelbasar \nZehlendorf e.V. soll die zügige Wiederaufnahme des Betriebs ermöglicht werden. Zu diesem \nZweck wird aus Sondermitteln der BVV ein Betrag bis zur Höhe von \n10.000 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "618/VI",
@@ -21467,7 +21985,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in eigener Zuständigkeit oder sich bei den zuständigen Stellen \neinzusetzen, dass auf dem Platz vor der Dreifaltigkeitskirche in Lankwitz (Lankwitz Kirche)\n\ndie in den letzten Jahren mehrfach defekte Laterne dauerhaft und nachhaltig \ninstandgesetzt und die Beleuchtungssituation auf dem Platz und dem Weg über den Platz \nin Richtung Gallwitzallee verbessert wird,\n\ndie Hecken gekürzt werden.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "619/VI",
@@ -21529,7 +22048,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in eigener Zuständigkeit oder sich bei den zuständigen Stellen \ndafür einzusetzen, dass der Fahrbahnbelag in der Prausestraße in Berlin-Lichterfelde und \ndie Gehwegüberquerung an der Kyllmannstraße instandgesetzt und hierbei auch die \nRegenwasserabläufe an das Fahrbahnniveau angepasst werden. Es ist ferner zu prüfen, ob \ndie Baumscheiben auf dem Gehweg vergrößert werden können und der Zugang zum \nTietzenweg, möglichweise unter Einbeziehung von Flächen der Deutschen Bahn, barrierefrei \ngestaltet werden kann.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "620/VI",
@@ -21587,7 +22107,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, halbjährlich zum 31.03. und 30.09. schriftlich über die \nStellensituation im Bezirksamt zu berichten. Die tabellarische Auflistung soll insbesondere \nfolgende Informationen beinhalten:\n1) Wie viele und welche Stellen sind in den einzelnen Geschäftsbereichen des Bezirksamtes \nnicht besetzt?\n2) Gibt es Stellen, welche über sechs Monate nicht besetzt sind?\n3) Welche Gründe liegen für die Nichtbesetzung jeweils vor?\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "621/VI",
@@ -21643,7 +22164,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich bei den zuständigen Stellen dafür einzusetzen, dass \ndiese prüfen, ob die Aufstellung der Verkehrszeichen 625-10 (Richtungstafel in Kurven) \nsowie der Verkehrszeichen 103-20 (Kurve rechts) und 103-10 (Kurve links) in bzw. an der \nKurve Wannseebadweg in Höhe Strandbad Wannsee oder das Aufstellen von Leitpfosten \nmöglich sind.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "622/VI",
@@ -21705,7 +22227,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nGrundsätzlich beraten die Fachabteilungen des Gesundheitsamtes, die jeweiligen Bevöl-\nkerungsgruppen, je nach Auftrag, zu notwendigen oder anstehenden Impfungen nach \nSTIKO - Empfehlungen. Ebenfalls tun dies die Beschäftigten bei Begehungen von Einrich-\ntungen für Kinder oder Senioren. Dabei werden keine expliziten Schwerpunkte gesetzt, sondern unter Betrachtung des jewei-\nligen Immunstatus individuell beraten. Hierbei nimmt das Gesundheitsamt Steglitz-Zehlen-\ndorf seinen Auftrag der Aufklärung über bevölkerungsbezogenen Gesundheitsschutz wahr. Mit Datum vom 27.06.2024 hat die STIKO die Empfehlung zur spezifischen Prophylaxe von \nRSV-Erkrankungen mit Nirsevimab®(Beyfortus) bei Neugeborenen und Säuglingen in ihrer \n1. RSV-Saison 3 beschlossen und wissenschaftlich begründet. Die STIKO empfiehlt allen Neugeborenen und Säuglingen eine RSV-Prophylaxe mit dem \nmonoklonalen Antikörper Nirsevimab®(Beyfortus) als Einmaldosis vor bzw. in ihrer 1. RSV-\nSaison. Säuglinge, die zwischen April und September geboren sind, sollen \nNirsevimab®(Beyfortus) möglichst im Herbst vor Beginn ihrer 1. RSV-Saison erhalten. Neu-\ngeborene, die während der RSV-Saison (üblicherweise zwischen Oktober und März) gebo-\nren werden, sollen Nirsevimab®(Beyfortus) möglichst rasch nach der Geburt bekommen. \nNeugeborene und Säuglinge sind in ihren ersten 6 Lebensmonaten besonders gefährdet, \nschwer an RSV zu erkranken. RSV-Infektionen sind die häufigste Ursache für Krankenhaus-\neinweisungen von Säuglingen in Deutschland. \nDer Kinder- und Jugendgesundheitsdienst hat mit diesen kleinsten Bürger:innen recht wenig \nKontakt. Gelegentlich müssen, bei im Bezirk Steglitz-Zehlendorf gemeldeten, unversicherte \nKinder ohne pädiatrische Anbindung, grundimmunsiert werden. Dann käme nach STIKO – \nEmpfehlung auch unter Umständen eine RSV-Prophylaxe mit dem monoklonalen Antikörper \nNirsevimab®(Beyfortus) in Frage. \nAllerdings muss bemerkt werden, dass es lange keine Abrechnungsmodalitäten für diese \npassive Immunisierung gab, da es sich nicht um einen (klassischen) Impfstoff handelt. \nHierzu wurde nun eine Rechtsverordnung verabredet, die die Behandlung mit Nirsevimab®(Beyfortus) in den Kassenleistungskatalog zum Herbst 2024 regelt. In den \nKliniken soll die Regelung der neuen Untersuchungs- und Behandlungsmethoden (NUB) \ngreifen. Offen sind noch zusätzliche Vergütungen der Kassenärzte. \nMit Datum vom 08.08.2024 hat die STIKO die Empfehlung für eine Standardimpfung gegen \nErkrankungen dur",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "624/VI",
@@ -21761,7 +22284,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, mindestens eine weitere öffentliche Außenfläche für das \nBoulespiel im Bezirk zu identifizieren und dort einen Bouleplatz (idealerweise mit mindestens \nzwei Spielfeldern und Sitzbänken) einzurichten.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "625/VI",
@@ -21811,7 +22335,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie BVV Steglitz-Zehlendorf dankt den Schüler*innen im Bezirk, die in den letzten Wochen \nfür Frieden, Freiheit und Demokratie demonstriert haben. Die Schüler*innen in unserem \nBezirk sollen wissen: Die BVV verteidigt gemeinsam mit ihnen das Recht auf freie \nMeinungsäußerung.\nDie Angriffe der AfD auf einzelne Schulleitungen sowie das offensichtliche Filmen einer \nSchüler*innendemonstration in der Schloßstraße durch mehrere Vertreter*innen der AfD \nSteglitz-Zehlendorf wertet die BVV als Einschüchterungsversuch seitens der AfD gegenüber \nmissliebigen Meinungen. Dass die AfD nicht davor zurückschreckt, Kinder und Jugendliche \nins Visier zu nehmen, macht ihre Handlungen besonders verachtenswert.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "628/VI",
@@ -21878,7 +22403,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "sonstiges-unklar"
   ],
   [
     "629/VI",
@@ -21930,7 +22456,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, aktiv auf mögliche Trägervereine bzw. -organisationen \nzuzugehen, die für eine Trägerschaft des zukünftigen Gedenkortes “Stalag III d” im Rahmen \ndes Bauprojektes Lichterfelde-Süd in Frage kommen würden.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "630/VI",
@@ -21970,7 +22497,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Bezirksverordnetenvorsteher wird gebeten, sich um Einladung zum gemeinsamen \nAusschuss \nder \nparlamentarischen \nGremien \nder \nGemeinden \nTeltow/Stahnsdorf/ \nKleinmachnow zu bemühen, in welchem kommunengrenzenübergreifende Themen (z.B. \nVerkehrsplanung, Stadtplanung) gemeinsam behandelt werden können. Für Steglitz-\nZehlendorf sollen sechs Bezirksverordnete teilnehmen (2 CDU, 2 Grüne, 1 SPD und 1 FDP – \nBerechnung nach Haare-Niemeyer).\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "631/VI",
@@ -22023,7 +22551,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Sijbrandij",
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat sich mit der für die Gedenktafeln zuständigen Koordinierungsstelle Historische \nStadtmarkierungen in Verbindung gesetzt und die Anbringung einer Gedenktafel für Arthur Cris-\npien angeregt. Über den Antrag wird in der nächsten Sitzung des Historischen Beirates bei der \nSenatorin für Kultur und Gesellschaftlichen Zusammenhalt, voraussichtlich im Frühjahr 2026, ent-\nschieden. Bei einem positiven Bescheid setzt sich die Koordinierungsstelle mit den Eigentümern \ndes Hauses in Verbindung und prüft in Abstimmung mit diesen die Anbringung einer Tafel. Wir bitten, den Beschluss damit als erledigt zu betrachten. Tim Richter",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "633/VI",
@@ -22073,7 +22602,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, zu überprüfen bzw. überprüfen zu lassen, inwiefern der \nKünstler Bernhard Butzke (1876–1952) mit dem Nationalsozialismus ideologisch verbunden \nwar (bejahende Äußerungen in Wort und Schrift, Mitgliedschaften etc.) und ob aufgrund der \nRechercheergebnisse der Verbleib des von ihm geschaffenen „Weiblichen Aktes“ aus \nBronze im öffentlichen Bereich des Rathauses Zehlendorf weiterhin angezeigt ist. Die BVV \nist über den Ausschuss für Bildung und Kultur innerhalb eines Jahres an einer \nEntscheidungsfindung zu beteiligen.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "634/VI",
@@ -22117,7 +22647,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, an den Eingängen jener Grünanlagen, die nachweislich von \nillegalem Grillen betroffen sind, mit Schildern oder Tafeln darauf hinzuweisen, dass das \nGrillen nicht erlaubt ist und dass Müll selbst zu entsorgen ist. \nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "635/VI",
@@ -22173,7 +22704,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Für das Aufbringen entsprechender Wartelinien (Vz 341) ist eine verkehrsrechtliche Anordnung er-\nforderlich. Da es sich bei der Albrechtstraße um eine Straße im übergeordneten Straßennetz han-\ndelt, habe ich die Senatsverkehrsverwaltung mit Schreiben vom 11.11.2024 gebeten, diese Anord-\nnung zur Erhöhung der Verkehrssicherheit zu erteilen. In seinem Antwortschreiben vom 31.01.2025 \nteilte Herr Staatssekretär Wieczorek für die Senatsverwaltung für Mobilität, Verkehr, Klimaschutz \nund Umwelt mit, dass dieses Anliegen grundsätzlich nachvollziehbar sei, seiner Fachabteilung je-\ndoch keine konkreten Hinweise vorlägen, die einen Bedarf für die gewünschten Markierungen er-\nkennen ließen. Er bat mich daher um eine Einschätzung. Mit Schreiben vom 17.02.2025 habe ich \ndem Staatssekretär mitgeteilt, dass die Haltelinien an diesen Einmündungsbereichen eine wichtige \nMaßnahme vor allem zur Erhöhung der Schulwegsicherheit für die Schülerinnen und Schüler der \nGrundschule in der Plantagenstraße darstellt. Sobald die Antwort der Senatsverkehrsverwaltung vorliegt, werde ich diese gerne den Bezirksver-\nordneten im Ausschuss für Mobilität, Verkehr, Ordnung zur Beratung vorlegen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "636/VI",
@@ -22225,7 +22757,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nWeiterhin einen zweigleisigen Ausbau der S-Bahn zwischen Lichterfelde-Süd und Teltow zu \nbefürworten und bittet das Bezirksamt sich bei den zuständigen Stellen dafür einzusetzen.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "637/VI",
@@ -22277,7 +22810,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, inwiefern es Fördermittel der verschiedenen \nföderalen Ebenen (z.B. Kulturstiftung der Länder) gibt, die zur Neuanschaffung, Pflege, \nErhalt und/oder Rekonstruktion von Kunstwerken im öffentlichen Raum eingesetzt werden \nkönnten.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "638/VI",
@@ -22333,7 +22867,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nGrundsätzlich ist das Quartiersmanagement und das Bezirksamt in einem regelmäßigen Austausch \nmit der HOWOGE, dazu gehören auch Fragen oder Projekte zum Klimaschutz oder zur \nKlimaanpassung. Die HOWOGE ist bezüglich des vorliegenden Beschlusses kontaktiert worden und \nhat Folgendes mitgeteilt: „Die HOWOGE befürwortet die Betrachtung nachhaltiger Entwicklungsziele \nfür unsere Quartiere. An diesem Standort können wir uns jedoch nicht mittelfristig für eine Installation \naus Bewirtschaftungs- und Finanzierungssicht aussprechen. Vielmehr sollte der Ort in eine \nganzheitliche integrierte Betrachtung unter Berücksichtigung weiterer Entwicklungsziele für die \nSiedlung auch unter Einbeziehung von Neubaupotentialen und deren Finanzierungsmöglichkeiten \ngeführt werden.“ \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "639/VI",
@@ -22389,7 +22924,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Berliner Stadtwerke haben im Auftrag des Landes Berlin Untersuchungen zu \nKleinwindkraftanlagen durchgeführt. Die Kleinwindkraftanlagen wurden in einer Testanlage \ngebaut, mussten aber nach einem Jahr abgebaut werden, da der Windertrag deutlich geringer \nwar als geplant. Des Weiteren gab es Schwingungen, die in das Gebäude eingedrungen sind. \nNach Aussage der Berliner Stadtwerke werden Kleinwindkraftanlagen nicht geplant, da sie sich \nwirtschaftlich nicht darstellen lassen. \nDer Bezirk hat keine Ressourcen um proaktiv zu prüfen. Das Planungsrecht ist vorrangig zu \nbetrachten. Die Handreichung liegt vor und bei Anträgen wird je nach Situation positiv oder \nnegativ beschieden. \nKleinwindkraftanlagen sind verfahrensfrei bis zu 10 Meter Höhe gemessen von der \nGeländeoberfläche bis zum höchsten Punkt der vom Rotor bestrichenen Fläche, \nRotordurchmesser von max. 3 Meter (§61(1)3.c) BauOBln). Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "640/VI",
@@ -22435,7 +22971,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Das Bezirksamt hat im Sommer 2025 Gehwegvorstreckungen markiert, um im Bereich der Grünan-\nlage die Sichtbeziehungen zur sicheren Querung der Haydnstraße sicher zu stellen. Im April 2026 \nwurden die Markierungen mit Sperrpfosten zusätzlich gesichert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "641/VI",
@@ -22481,7 +23018,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der spitze Winkel der Einmündung der Jägerndorfer Zeile in die Curtiusstraße erfordert einen gro-\nßen Radius (Schleppkurve) des Abbiegeverkehrs, wie z.B. der Versorgungs- und Rettungsfahr-\nzeuge, weshalb der Kreuzungsbereich stark aufgeweitet ist. Das Bezirksamt hat unter Einhaltung \nder Schleppkurven an der Einmündung der Jägerndorfer Zeile in die Curtiusstraße Gehwegvorstre-\nckungen markiert und mit VZ 605 (Warnbake) gesichert. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "642/VI",
@@ -22525,7 +23063,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt möge sich bei der BVG einsetzen, die Beleuchtungen der Bushaltestellen \nam Teltower Damm insb. Teltower Damm/Am Birkenknick zu reparieren.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "643/VI",
@@ -22563,7 +23102,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sich bei den Berliner Forsten dafür einzusetzen, \nnachhaltige Sitzmöglichkeiten weiter zu schaffen. Dazu soll das sich im Wald befindliche \nHolz genutzt werden, um sogenannte Baumbänke/Stamm-Bänke zu tischlern und entlang \nvon Weggabelung entlang der Haupt-Spaziergangsrouten aufzustellen. Gleichzeitig sollen an \ndiesen neu eingerichteten Sitzmöglichkeiten Mülleimer installiert werden, die regelmäßig von \nder BSR geleert werden.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "644/VI",
@@ -22603,7 +23143,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, eine \ndigitale Anwendung zu entwickeln, welche die freien Kapazitäten in Berliner Notunterkünften \nder Kältehilfe in Echtzeit erfasst und Helfern sowie Sozialarbeitern diese bei der Vermittlung \nvon Bedürftigen zur Verfügung stellt.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "645/VI",
@@ -22643,7 +23184,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, ggf. bei den zuständigen Stellen, zu veranlassen, dass auf \ndem Uferweg (Mauerweg) zwischen Moorlake und Pfaueninsel die Sitzgelegenheiten \n(Bänke) wieder instand gesetzt und damit nutzbar werden. Die vorhandenen Bänke sind \nteilweise verfallen und nicht mehr nutzbar. Diese Bänke sind instand zu setzen bzw. \nauszutauschen. \nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "646/VI",
@@ -22683,7 +23225,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Spielplatzkommission zu bitten, zu prüfen, ob und ggf. wo \nauf den bezirkseigenen Spielplätzen bei anstehenden Spielplatzsanierungen Barfußpfade \nintegriert werden können. Ferner wird das Bezirksamt gebeten, alternativ zu prüfen, ob auch \neine Grünanlage für die Anlage eines Barfußpfades sich eignet, gerne auch in Nähe einer \nKinder- und Jugendfreizeiteinrichtung.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "647/VI",
@@ -22733,7 +23276,8 @@ var D=[
       "antwort": "Hierzu wird folgendes berichtet: Das Amt für Soziales hat hierzu Kontakt mit den Betreibern und Unterkunftsgebern aufge-\nnommen, um in deren Umfeld geeignete Standorte mit entsprechender auch sozialarbeite-\nrischer Begleitung zu identifizieren, da diese häufig eine größere Reichweite und eine di-\nrektere Verbindung zu obdachlosen Menschen haben. Derartige Unterkünfte verfügen zu-\ndem häufig über umfangreiche Kapazitäten und Erfahrungen in der Betreuung von obdach-\nlosen Menschen und sind deswegen gut geeignet, einen solchen Service in ihrem Umfeld \nanzubieten und zur Sicherheit im öffentlichen Raum beizutragen und gleichzeitig weitere \nsoziale Dienstleistungen und Beratungsangebote anzubieten und eine entsprechende \nSchließfachanlage nicht nur „hinzustellen“, sondern aktiv zu betreiben. Der Zugang sollte \nnach Rückmeldung der Betreiber 24/7 ermöglicht werden, Ansprechpartner müssten bei \nProblemen zeitnah erreichbar sein. Da in den Einrichtungen bereits schon entsprechende \nAngebote für die Hinterlegung von Wertsachen und Habseligkeiten bestehen, konnten \nkeine weiteren Standorte im jeweiligen Umfeld identifiziert werden. Zudem teilt das Straßen- und Grünflächenamt mit, dass es auf konkrete Einzelanträge zu \nkonkreten Standorten eine Prüfung veranlasst, sofern entsprechende Betreiber auf das \nStraßen- und Grünflächenamt für z.B. auch im Beschluss genannte Schließfächer, die im \nöffentlichen Straßenland aufgestellt werden sollen, zukommen. Die Errichtungskosten richten sich – unabhängig von Betreiber und unabhängig des Stand-\norts – grundsätzlich nach der Schließfachgröße: Exemplarisch kostet eine Anlage mit 22 \nnutzbaren Fächern (überdacht mit USB-Anschlüssen in jedem Fach) derzeit rd. 25.000,00 \n€, eine Anlage mit 38 Fächern rd. 39.000,00 €. Hinzu kommen die Kosten für das Funda-\nment sowie den elektrischen Anschluss. Durchschnittlich kommen hierfür ca. 10.000,00 € \nhinzu (alle Preise netto). Diese Kosten sind nicht im Haushalt nicht hinterlegt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "648/VI",
@@ -22772,7 +23316,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, den Biotopflächenfaktor des Landes Berlin künftig in allen \nneuen Landschaftsplänen und denjenigen, die geändert werden sollen, im Bezirk Steglitz-\nZehlendorf verbindlich festzusetzen.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "649/VI",
@@ -22814,7 +23359,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nAuf Nachfrage bei der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt kann \nFolgendes mitgeteilt werden: \n„Nach dem Teileinsturz der Teufelsbrücke im Jahr 2009 wurde die denkmalgerechte \nWiederherstellung der Teufelsbrücke geplant und mit der Ausführung begonnen. Wie bekannt, \nmussten diese Arbeiten im August 2016 eingestellt werden, da trotz Vorsichtsmaßnahmen bei \nFortführung ein weiterer Einsturz drohte. Die Arbeiten konnten nicht wieder aufgenommen werden. \nGrund hierfür waren Differenzen zwischen dem Landesdenkmalamt und der Senatsverwaltung für \nMobilität, Verkehr, Klimaschutz und Umwelt über den weiteren Fortgang. Der von den \nDenkmalbehörden geforderte originalgetreue Wiederaufbau unter Beibehaltung der Ist-Situation \nließ sich nicht mit den notwendigen Standsicherheitsnachweisen belegen. Die Senatsverwaltung für \nMobilität, Verkehr, Klimaschutz und Umwelt als Erhaltungs- und Verkehrssicherungspflichtiger des \nBauwerks lehnte verständlicherweise unter den v.g. Bedingungen die Instandsetzung bzw. \nWiederaufbau des Bauwerks ab. Ein erneuter Teileinsturz nach einem Wiederaufbau ist \nauszuschließen. Durch das Landesdenkmalamt wurde eine grundhafte Wiederherstellung unter Einhaltung der \nnotwendigen Standsicherheitsnachweise zunächst abgelehnt. Vielmehr wurde darauf bestanden, die \nvorhandene originale Bausubstanz (südl. Widerlager, südl. Pfeiler, Pfeilertorso) trotz der nicht \nausräumbaren Standsicherheitsmängel zu erhalten. \nZwischenzeitlich hat sich die zuständige Abteilung mit dem Landesdenkmalamt auf einen \ndenkmalgerechten Ersatzneubau mit der Maßgabe einigen können, dass der Wiederaufbau die \nnotwendigen Standsicherheitsnachweise berücksichtigt. \nLeider ist momentan nicht absehbar, wann die entsprechenden Planungen für den Wiederaufbau \nfortgesetzt werden, da aufgrund der verkehrlichen Bedeutung derzeit das Hauptaugenmerk und \ndamit die Bindung personeller Ressourcen auf andere Bauwerke mit größerer Relevanz für den \nöffentlichen Verkehr gelegt werden müssen. In naher Zukunft sind zunächst keine diesbezüglichen \nPlanungen absehbar.“ \nSollten dem Bezirksamt neue Informationen vorliegen, wird der BVV dies mitgeteilt. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "650/VI",
@@ -22854,7 +23400,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, auf der Website des Bezirksamtes die bisherigen \nBezirksbürgermeister*innen und die Stadträt*innen ab 1945 inklusive Dezernat, Dienstzeit \nund Parteizugehörigkeit aufzulisten.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
-    }
+    },
+    null
   ],
   [
     "651/VI",
@@ -22920,7 +23467,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Mit Schreiben vom 02.08.2024 an den Präsidenten der Freien Universität Berlin wurde auf \nden Beschluss der BVV vom 17.07.2024 hingewiesen. Dieser teilte daraufhin mit, dass die \nHochschulleitung im regelmäßigen Kontakt zu VertreterInnen von jüdischen Studierenden, \nDozierenden und Beschäftigten steht. Es besteht zudem eine enge und vertrauensvolle Zu-\nsammenarbeit mit den zuständigen Polizeibehörden. Es wurden zahlreiche Maßnahmen, wie Workshops, Vorträge sowie Fachberatung zur Infor-\nmation, Prävention und Sensibilisierung für den Umgang mit Antisemitismus für Studie-\n\nrende, Lehramtsstudierende, Lehrende und Mitarbeitende angeboten. Des Weiteren wur-\nden Empowerment-Angebote und Safer Spaces geschaffen. Grundsätzlich wird bei der \nPlanung von Veranstaltungen im Zusammenhang mit dem Themenfeld geprüft, ob anlass-\nbezogene Sicherheitsmaßnahmen getroffen werden sollten. \nZum Schutz wird in jedem Fall von Tätlichkeiten mit Bezug zur Freien Universität in Aus-\nübung des Hausrechts der Erlass eines Hausverbotes geprüft. ,,Zudem wurde durch das am 21.07.2024 in Kraft getretene Siebzehnte Gesetz zur Ände-\nrung des Berliner Hochschulgesetzes dessen § 16 neugefasst mit Regelungen zum Ord-\nnungsrecht und zu Maßnahmen zum Schutz der Hochschulmitglieder und -angehörigen \nwurden rechtliche Rahmenbedingungen für Ordnungsmaßnahmen der Hochschule ge-\nschaffen. Diese Regelung ermöglicht es nunmehr, gegen Studierende, die einen Ord-\nnungsverstoß nach § 16 Abs. 1 BerIHG begangen haben, unter Berücksichtigung des \nGrundsatzes der Verhältnismäßigkeit, Ordnungsmaßnahmen zu verhängen. Dazu gehört \nz.B. auch eine Exmatrikulation, welche allerdings nur auf Grundlage einer rechtskräftigen \nstrafrechtlichen Verurteilung ausgesprochen werden kann. Über Ordnungsmaßnahmen ist \nim förmlichen Verfahren zu entscheiden, wozu jede Hochschule eine Satzung zu erarbei-\nten hat, welche der zuständigen obersten Landesbehörde, d.h. der Senatsverwaltung für \nWissenschaft, Gesundheit und Pflege, vor dem Inkrafttreten anzuzeigen ist. Die Hochschu-\nlen haben, sich untereinander abstimmend, umgehend mit der Erarbeitung einer entspre-\nchenden Satzung begonnen.“ Die Beschlussfassung der Satzung durch den Akademi-\nschen Senat der Freien Universität Berlin wird im kommenden Wintersemester erwartet. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "656/VI",
@@ -22944,7 +23492,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Sinfonieorchester Steglitz e.V. wird für die Durchführung von drei Konzerten aus \nSondermitteln der BVV 2024/2025 in zuwendungsrechtlich gebotener Aufteilung ein Betrag \nbis zur Höhe von\n600 €\nzur Verfügung gestellt. \nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "657/VI",
@@ -22961,7 +23510,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "18.09.2024",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "659/VI",
@@ -23042,7 +23592,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Bereits am 03.11.2023 fand ein Termin zwischen dem Amtsleiter des Straßen- und Grünflächen-\namtes, dem Geschäftsführer der Firma infresSt und mir statt. Im Ergebnis der Sitzung wurde ent-\nschieden, dass der Bezirk Steglitz-Zehlendorf zukünftig den Baustellenatlas aktiv nutzt und seine \nInvestitionsmaßnahmen in das System einträgt / eintragen lässt. Am 03.06.2024 habe ich die Er-\ngänzung der Nutzungsvereinbarung des „Baustellenatlas“ – Schreibrecht für den Bezirk Steglitz-\nZehlendorf unterschrieben. Diese Nutzungsvereinbarung ergänzt die bereits bestehende Nut-\nzungsvereinbarung der Firma infreST mit der Senatsverkehrsverwaltung. Eine Ausweitung auf die Maßnahmen der Straßenunterhaltung ist weder leistbar noch aus Sicht \nder infreSt und des SGA zielführend da diese einen viel zu kurzen Vorlauf haben. \nJahresgespräche mit den großen Leitungsnetzbetreibern (NBB, BWB; Stromnetz) und dem Stra-\nßen- und Grünflächenamt finden bereits jetzt statt, so dass die Einrichtung einer zusätzlichen Ko-\nordinierungsrunde nicht notwendig ist. \nHinsichtlich der Einhaltung der Aufgrabeverbote muss darauf hingewiesen werden, dass diese \ngrundsätzlich bereits jetzt eingehalten werden. Ausnahmen bilden hierbei Havariemaßnahmen, \ndie entsprechend durch die Leitungsnetzbetreiber belegt/ begründet werden müssen. \nWeiterhin stellen Baumaßnahmen der Telekommunikationsunternehmen einen Großteil der Auf-\ngrabungen dar. Für diese Leitungsnetzbetreiber greift das Aufgrabeverbot nicht, da die Telekom-\nmunikationlinien auf Grundlage des TKG verlegt werden. Dieses kennt kein Aufgrabeverbot. Das 2 \nAufgrabeverbot gem. AV zu § 12 BerlStrG ist hier nicht anwendbar, da das TKG als Bundesrecht \nentsprechend der Normenhierachie über dem BerlStrG steht. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "660/VI",
@@ -23116,7 +23667,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, bei geplanten Änderungen von Verkehrsführungen eine \nangemessene Einbeziehung der Betroffenen sicherzustellen.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "661/VI",
@@ -23196,7 +23748,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Straßenverkehrsbehörde hat die mit der Schulgemeinschaft der Dreilinden-Grundschule und \nder Polizei abgestimmten Maßnahmen am 22.03.2024 verkehrsbehördlich angeordnet. \nZur Erhöhung der Schulwegsicherheit wurde die Lage der Querung über die Dreilindenstraße ent-\nsprechend der vorherrschenden Laufwege verändert und an dieser Stelle beidseitige bauliche, bar-\nrierefreie Gehwegvorstreckungen hergestellt. An der alten Querungsstelle wurden zusätzliche Fahr-\nradstellplätze geschaffen. Zur Verbesserung der Sichtbeziehungen wurden an der Kreuzung Isoldestr./ Dreilindenstraße \nHaltverbote angeordnet. Die Maßnahmen wurden bereits umgesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "662/VI",
@@ -23264,7 +23817,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, aufbauend auf der Studie von Prof. Thomas Brechenmacher \n(Universität Potsdam) sämtliche im Bezirk vorliegenden Akten bezüglich des Grundstücks \nKohlhasenbrücker Straße 40 in einer Übersicht zu erfassen und diese aktuell zu halten, \ndamit eine vollumfassende Aufarbeitung durch externe Forschungsstellen erfolgen kann.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "664/VI",
@@ -23326,7 +23880,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der vorliegende Beschluss wurde durch die zuständige Straßenverkehrsbehörde in enger Abstim-\nmung mit dem Fachbereich Tiefbau und der Berliner Polizei abschließend geprüft. \nIm Ergebnis dieser Prüfung wurde festgelegt die vorhandenen Markierungen und Sperrflächen \n(sogenanntes „Briefkuvert“) beizubehalten. Diese Sperrflächen sind sauber ausgeführt, in einem \nordentlichen Zustand und jederzeit als solche erkennbar. Um das Parken auf den Sperrflächen zu unterbinden hat die bezirkliche Straßenverkehrsbehörde \neine verkehrsrechtliche Anordnung gefertigt, derzufolge Leitbaken (Vz 605) dort eingebaut sind. \nDiese Maßnahme soll noch in der ersten Jahreshälfte umgesetzt werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "665/VI",
@@ -23378,7 +23933,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Tiefbau und die Straßenverkehrsbehörde haben gemeinsam mit dem Quartiers-\nmanagement der Thermometersiedlung die vorgeschlagene Maßnahme geprüft. \nIm Resultat der Prüfung wurden am Rand der Celsiusstraße drei Fahrradbügel eingebaut. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "666/VI",
@@ -23427,7 +23983,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Verkehrssituation in der Curtiusstraße 37 und gegenüber zwischen Jägerndorfer Ziele und \nKöhlerstraße, also im Umfeld der Athene-Grundschule wurde mehrmals überprüft. Im Ergebnis der \nPrüfung wurde in diesem Teilbereich das halbseitige Gehwegparken im Sinne der Schulwegsi-\ncherheit abgeordnet. \nAuf der Nordseite der Curtiusstraße wiederum wurde in diesem Abschnitt das halbseitige Gehweg-\nparken abgeordnet, so dass Fahrzeuge nun auf der Fahrbahn parken können. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "667/VI",
@@ -23489,7 +24046,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, auf dem dann neu gestalteten Hermann-Ehlers-Platz die \nStädtepartnerschaften des Bezirkes Steglitz-Zehlendorf weiterhin zu würdigen.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "668/VI",
@@ -23542,7 +24100,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, an der Kreuzung Lerbacher Weg/Gallwitzallee in Lankwitz ein \nabsolutes Halteverbot auf der rechten Seite des Lerbacher Weges in Richtung der Kreuzung \neinzurichten. Das Schild könnte direkt unter dem Schild „Vorfahrt achten“ angebracht \nwerden, um eine gefährliche Verkehrssituation für alle Verkehrsteilnehmer zu entschärfen. \nDie berechtigte Forderung wurde von einem Anwohner vorgetragen.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "669/VI",
@@ -23592,7 +24151,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die zuständigen Stellen (Berliner Forsten, Senatsverwaltung) \nzu bitten, dass diese prüfen, ob neben der Kohlhasenbrücker Straße zwischen Alsenbrücke \nund Stadtgrenze befestigte Radwege angelegt werden können.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "671/VI",
@@ -23644,7 +24204,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die zuständigen Stellen zu bitten, am Ende der Osdorfer \nStraße zu Brandenburg (beim Ortsausgang Berlin) eine temporäre Fahrbahnverengung zu \ninstallieren, die es LKWs unmöglich macht, diese zu passieren, um so das LKW-Verbot in \nder Straße endlich durchzusetzen.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "672/VI",
@@ -23696,7 +24257,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob und wie sich die Parkplatzsituation an der \nSeniorenfreizeitstätte Süd am Teltower Damm 226 für die Besucher der Freizeitstätte \nverbessern lässt. Je nach Ergebnis der Prüfung, auch durch Hinzuziehung und in \nKooperation mit ggf. weiteren zuständigen Stellen, sind sodann zeitnah Anordnungen zu \nveranlassen, die die Parkplatzsituation für Besucher der Freizeit- und Begegnungsstätte so \nverbessern, dass weiterhin Senioren, die auf die Nutzung eines PKW angewiesen sind, \nmotiviert sind, die Angebote der Freizeitstätte auch regelmäßig wahrzunehmen. Es soll im \nAusschuss für Mobilität, Verkehr, Ordnung zeitnah berichtet werden.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "673/VI",
@@ -23748,7 +24310,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die zuständigen Stellen zu bitten, eine Verkehrszählung an \nfolgenden Einfallstraßen nach Steglitz-Zehlendorf durchzuführen: Osdorfer Straße, \nOstpreußendamm, Benschallee, Teltower Damm, Machnower Straße und Potsdamer \nChaussee, um aktuelle Zahlen über das Pendleraufkommen zu erhalten.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "674/VI",
@@ -23804,7 +24367,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Eine Neuregelung erfordert eine umfangreiche Neuplanung des gesamten Knotenpunktes (inklu-\nsive der Lichtsignalanlagen) unter Einbeziehung der Senatsverkehrsverwaltung. Der vorhandene \nPlatz im Straßenland ist begrenzt, so dass die Möglichkeit für eine Wegeführung äußerst be-\nschränkt sind und eine Lösung nach heutigen Regelwerken schwierig bzw. gar nicht umzusetzen \nsein wird. Deshalb hat der Fachbereich Tiefbau entschieden, zunächst die gesamte Kreuzung neu zu mar-\nkieren. Der Auftrag dazu ist bereits erfolgt und soll im ersten Halbjahr 2025 umgesetzt werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "675/VI",
@@ -23856,7 +24420,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, Übergänge an Kreuzungen und Einmündungen, an denen es \nvermehrt \nzu \nParkverstößen \n(„Eckparken“) \nkommt, \ndurch \ngeeignete \nMaßnahmen \n(idealerweise Poller) zu schützen und sicherer zu gestalten. Damit soll die Einhaltung der \nvorgeschriebenen Fünf- und Acht-Meter-Bereiche gewährleistet werden. Darüber hinaus \nsollen neben den Kreuzungsbereichen Stellflächen für Fahrräder bzw. Jelbi-Punkte errichtet \nwerden, um die Sichtbeziehungen zu verbessern. Kreuzungsbereiche entlang von \nSchulwegen sind dabei zu priorisieren.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "676/VI",
@@ -23900,7 +24465,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, welche Maßnahmen zur Verbesserung der \nVerkehrssicherheit an der Einmündung in die Quantzstraße gegenüber der Ausfahrt aus dem \nTunnel umgesetzt werden können.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "677/VI",
@@ -23950,7 +24516,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich mit einem Schreiben im Oktober 2024 an die zuständige Senats-\nverwaltung für Mobilität, Verkehr, Klimaschutz gewendet und um die Prüfung und Errichtung \nvon Trinkbrunnen an den im Antrag genannten Standorten gebeten. Dabei wurde vor allem \nauf die immer stärkere Hitzebelastung und die notwendigen Klimaanpassungsmaßnahmen \nim Bereich des Hitzeschutzes verwiesen. Die Senatsverwaltung teilte in einem Schreiben \naus dem Februar 2025 mit, dass das Interesse an der Errichtung weiterer Trinkbrunnen be-\ngrüßt wird, wegen der angespannten Haushaltslage allerdings ein Neubau von Trinkbrunnen \nim Jahr 2025 im Auftrag des Landes nicht möglich sei. Dafür werden 2025 erhebliche Mittel \nfür die Sicherstellung des Betriebs und der Wartung der bestehenden Trinkbrunnen bereit-\ngestellt. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "679/VI",
@@ -23992,7 +24559,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, gegenüber den zuständigen Stellen die Entwässerung der \nGoerzallee im Abschnitt Appenzeller Straße bis Bremer Straße anzuregen, so dass der \nbegleitende Radweg bei Regen nicht mehr unter Wasser steht.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "680/VI",
@@ -24032,7 +24600,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nUm die Sitze in bestehenden Ausschüssen, wie rechtlich gefordert, den demokratisch \ngewählten Stärkeverhältnissen der Fraktionen nach der Auflösung der AfD-Fraktion am 01. \nMai 2024 entsprechend zu verteilen, werden sie für die stimmberechtigten Mitglieder wie \nfolgt besetzt (Hare-Niemeyer-Verfahren):\nHaushalt, Personal, Europa, Klima\nbestehend aus 12 Bezirksverordneten (5 CDU, 3 Grüne, 3 SPD, 1 FDP) und 4 \nBürgerdeputierten (2 CDU, 1 Grüne, 1 SPD)\nGebäude, Wirtschaft, Inklusion, Verwaltungsmodernisierung, Digitalisierung\nbestehend aus 8 Bezirksverordneten (3 CDU, 2 Grüne, 2 SPD, 1 FDP) und 4 \nBürgerdeputierten (2 CDU, 1 Grüne, 1 SPD)\nRechnungsprüfung\nbestehend aus 12 Bezirksverordneten (5 CDU, 3 Grüne, 3 SPD, 1 FDP)\nFrauen*, Gleichstellung, Queer\nbestehend aus 8 Bezirksverordneten (3 CDU, 2 Grüne, 2 SPD, 1 FDP) und 4 \nBürgerdeputierten (2 CDU, 1 Grüne, 1 SPD)\nPartizipation und Integration\nbestehend aus 9 Bezirksverordneten (4 CDU, 2 Grüne, 2 SPD, 1 FDP) und 6 \nBürgerdeputierten",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "681/VI",
@@ -24082,7 +24651,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: In der Lorenzstraße sind verschiedene Maßnahmen zur Erhöhung der Verkehrssicherheit vorge-\nsehen. Zur Umsetzung des bereits angeordneten Fußgängerüberweges über die Lorenzstraße in \nHöhe Lorenzstraße 59A wurde im Herbst 2023 mit der Senatsverkehrsverwaltung eine Kooperati-\nonsvereinbarung abgeschlossen, der zufolge die Senatsverkehrsverwaltung diesen Fußgänger-\nüberweg planen und bauen wird. Nach Auskunft der Senatsverkehrsverwaltung wird diese Maß-\nnahme frühestens Mitte 2025 umgesetzt. \nDes Weiteren sind folgende Maßnahmen geplant: eine Verlängerung des Tempo-30-Bereichs in Richtung der Kreuzung Lankwitzer Str. (bis \nHöhe Hausnummer 61) mit dem Zusatz Mo.-Fr. 6-18 h Ein Tempo-30-Schild (VZ 274-30) an der Einmündung Lankwitzer Str./Lorenzstraße in \nRichtung Jägerstraße mit dem Zusatz Mo.-Fr. 6-18 h Ein Überholverbot (VZ 276) für Kraftfahrzeuge aller Art vor dem FGÜ um das Überholen \ndes haltenden Busses zu unterbinden Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "682/VI",
@@ -24132,7 +24702,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Da die Senatsverkehrsverwaltung für den Bau von LZA zuständig ist habe ich am 18.11.2024 \nHerrn Staatssekretär Wieczorek angeschrieben und diesen Beschluss mit der Bitte um Prüfung \nweitergeleitet. Mit Schreiben vom 12.02.2025 teilte Herr Wieczorek für die Senatsverwaltung für \nMobilität, Verkehr, Klimaschutz und Umwelt mit, dass die Erforderlichkeit zur Neueinrichtung einer \nLZA in der Potsdamer Chaussee/Kurstraße im Rahmen einer Petitionsanfrage im letzten Jahr \nüberprüft wurde. Dabei hätten die durchgeführten Untersuchungen ergeben, dass die verkehrli-\nchen Rahmenbedingungen, insbesondere die Verkehrssituation und Unfallstatistik nicht die erfor-\nderlichen Kriterien für die Einrichtung einer LZA erfüllten.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "683/VI",
@@ -24181,7 +24752,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich mit einem Schreiben im Oktober 2024 an die zuständige Senats-\nverwaltung für Mobilität, Verkehr, Klimaschutz gewendet und um die Prüfung und Errichtung \neines Trinkbrunnens am Kranoldplatz gebeten. Dabei wurde vor allem auf die immer stärkere \nHitzebelastung und die notwendigen Klimaanpassungsmaßnahmen im Bereich des Hitze-\nschutzes verwiesen. Die Senatsverwaltung teilte in einem Schreiben aus dem Februar 2025 \nmit, dass das Interesse an der Errichtung weiterer Trinkbrunnen begrüßt wird, wegen der \nangespannten Haushaltslage allerdings ein Neubau von Trinkbrunnen im Jahr 2025 im Auf-\ntrag des Landes nicht möglich sei. Dafür werden 2025 erhebliche Mittel für die Sicherstellung \ndes Betriebs und der Wartung der bestehenden Trinkbrunnen bereitgestellt. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "684/VI",
@@ -24285,7 +24857,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, zusätzlich zur Gedenktafel an der Außenfassade des \nZehlendorfer Rathauses eine Gedenktafel in Erinnerung an 1933 abgesetzte und verfolgte \nKommunalpolitiker*innen aus Steglitz und Zehlendorf zu erarbeiten und diese im \nInnenbereich des Eingangsbereichs des Rathauses Zehlendorf zu installieren. Soweit \nmöglich, sollen die Namen, die Lebensdaten und die letzte Parteizugehörigkeit der \nabgesetzten und verfolgten Kommunalpolitiker*innen genannt werden. Eine Grundlage für \ndiese Gedenkarbeit bietet die Ausstellung „Abgesägt. Im Nationalsozialismus verfolgte \nKommunalpolitikerinnen und -politiker in Steglitz und Zehlendorf 1933-1945“ und das \nanlässlich der Ausstellung recherchierte Archivmaterial. Das Wirken des Stadtverordneten \nWILHELM PIECK (KPD) soll auf der Gedenktafel ausdrücklich kritisch kontextualisiert \nwerden, sofern das Bezirksamt beabsichtigt, ihn zu erwähnen. Die Nennung von Wilhelm \nPieck in diesem Kontext soll explizit keiner Ehrung entsprechen. Zur Einweihung der \nGedenktafel könnte die Ausstellung „Abgesägt“ für einige Wochen erneut im Rathaus \nZehlendorf gezeigt werden.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "685/VI",
@@ -24343,7 +24916,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung bittet den Vorstand der BVV, die Barrierefreiheit des \nLivestreams herzustellen. Wünschenswert wäre dabei eine Lösung mit Untertiteln.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "686/VI",
@@ -24403,7 +24977,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die GB infraVelo GmbH bereitet derzeit im Auftrag der Senatsverkehrsverwaltung die Ausschrei-\nbung für die Radverkehrsanlagen in der Thielallee zwischen Unter den Eichen und Habelschwerd-\nter Allee vor. Es wird angestrebt, mit den Arbeiten im Juni 2025 zu beginnen. Nach Sanierungsar-\nbeiten der Asphaltdeckschicht wird beidseitig ein 2,50 m breiter Radfahrstreifen markiert. Es werden zusätzliche Parkplätze in der Straße Unter den Eichen an der Ecke Thielallee in beiden \nFahrtrichtungen geschaffen. Diese Parkplätze sollen voraussichtlich vor der Umsetzung der Rad-\nstreifen in der Thielallee markiert werden. Die Parkplätze werden als Schrägparkplätze angeord-\nnet. Vor der Pizzeria „Villa Toskana“ in der Thielallee wird im Unterstreifen eine Lieferzone einge-\nrichtet, ebenso auf der anderen Seite der Thielallee vor dem Ärztehaus. Die dortigen Laternenla-\ndepunkte entfallen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "688/VI",
@@ -24439,7 +25014,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas BVV-Büro wird ersucht, innerhalb von 14 Tagen nach BVV-Sitzungen den vollständigen \nAudiomitschnitt den Fraktionen und fraktionslosen Verordneten zur Verfügung zu stellen.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
-    }
+    },
+    null
   ],
   [
     "689/VI",
@@ -24463,7 +25039,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nIn Korrektur des BVV-Beschlusses 656/VI vom 18.09.2024 zur Drs. 1105/VI „Sondermittel \nder BVV für das Sinfonieorchester Steglitz e.V.“ wird dem Sinfonieorchester Steglitz e.V. für \ndie \nDurchführung \nvon \nKonzerten \naus \nSondermitteln \nder \nBVV \n2024/2025 \nin \nzuwendungsrechtlich gebotener Aufteilung ein Betrag bis zur Höhe von\n3.000 € (statt 600 €) \nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n16.10.2024",
       "beschlussdatum": "16.10.2024"
-    }
+    },
+    null
   ],
   [
     "690/VI",
@@ -24534,7 +25111,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Sijbrandij",
       "antwort": "Hierzu wird berichtet: Der Fachbereich Kultur stellt den Stolpersteininitiativen des Bezirkes auf Nachfrage die im Rah-\nmen der Realisierung der Ausstellung und der Publikation „Abgesägt. Im Nationalsozialismus ver-\nfolgte Kommunalpolitikerinnen und -politiker in Steglitz und Zehlendorf 1933-1945“ gewonnenen \nErkenntnisse und Informationen sehr gerne zur Verfügung und unterstützt auf diese Weise die in-\nhaltliche Erarbeitung etwaiger Stolperstein-Biographien. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "691/VI",
@@ -24596,7 +25174,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Kooperation mit den zuständigen Verwaltungsstellen und in \nKooperation mit Künstler*innen für die Zeit ab 2026, für den Fall, dass nur die Betonpfeiler \nder ehemaligen A104 am Breitenbachplatz ohne Fahrbahn längerfristig stehen werden, \ndurch „temporäre Kunst am Betonpfeiler“ (ähnlich wie am „Bierpinsel“) für optische \nAufwertung und künstlerische Anregungen im Kiez zu sorgen.\nBezirksverordnetenvorsteher\n16.10.2024",
       "beschlussdatum": "16.10.2024"
-    }
+    },
+    null
   ],
   [
     "693/VI",
@@ -24638,7 +25217,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der Fachbereich Grünflächen hat den Schließdienst beauftragt, die Öffnungszeiten am Bolzplatz \nim Ringelsteinweg den Öffnungszeiten des Bolzplatzes in der Paulsen-/Herderstraße anzupassen. Es ist vorgesehen, dass auch der Bolzplatz im Ringelsteinweg ab dem 01.04.2025 sonntags von \n09:00 – 13:00 Uhr und von 15:00 bis 20:00 Uhr geöffnet wird. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "694/VI",
@@ -24677,7 +25257,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob ein Wochenmarkt am Platz des 4. Juli \nregelmäßig stattfinden kann und welche Auswirkungen auf andere Märkte im Bezirk zu \nerwarten sind. Bei positiver Prüfung möge das Amt mit regionalen Markthändlern in Kontakt \ntreten, um den Wochenmarkt zu initiieren.\nBezirksverordnetenvorsteher\n16.10.2024",
       "beschlussdatum": "16.10.2024"
-    }
+    },
+    null
   ],
   [
     "696/VI",
@@ -24727,7 +25308,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Prüfung der Nutzungsmöglichkeiten für das Grundstück Birkbuschstraße 41/42 hat ergeben, \ndass mit dem bestehenden Planungsrecht grundsätzliche Ausnahmen der Nutzungen, welche über \ndie Art „Arbeitsgebiet“ hinaus gehen, nicht erteilt werden können. Eine kulturelle Nutzung hingegen \nkönnte, mindestens zeitlich befristet, befreit werden. Entsprechende Konzepte des Eigentümers \nliegen dazu noch nicht vor. Zudem ist ein Großteil des Gebäudekomplexes denkmalgeschützt und \nauch hier wird von Seiten des Bezirksamts, abhängig vom Nutzungskonzept, nicht abgewichen. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "697/VI",
@@ -24777,7 +25359,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Prüfung der Nutzungsmöglichkeiten für das Grundstück Birkbuschstraße 41/42 hat ergeben, \ndass mit dem bestehenden Planungsrecht grundsätzliche Ausnahmen der Nutzungen, welche über \ndie Art „Arbeitsgebiet“ hinaus gehen nicht erteilt werden können. Ein Großteil des \nGebäudekomplexes ist denkmalgeschützt und auch hier wird von Seiten des Bezirksamts, \nabhängig vom Nutzungskonzept, nicht abgewichen. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "698/VI",
@@ -24821,7 +25404,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Aus Sicht des Amtes für Soziales ist zunächst festzustellen, dass im Bezirk aktuell Unterbringungska-\npazitäten für obdachlose Menschen zur Verfügung stehen. Die Versorgung obdachloser Personen \nerfolgt dabei im Rahmen der bestehenden Zuständigkeiten und unter Berücksichtigung der jeweils \nverfügbaren Kapazitäten sowie der individuellen Bedarfslage. Soweit weitere Standorte oder Einrichtungen für eine Nutzung als Unterkunft in Betracht kommen, \nwird deren Eignung im Rahmen der bestehenden rechtlichen und tatsächlichen Möglichkeiten ge-\nprüft. Voraussetzung hierfür ist insbesondere, dass die jeweiligen Objekte die Mindestanforderungen \nan eine Unterbringung erfüllen, bauordnungsrechtlich nutzbar sind und die einschlägigen brand-\nschutz-, sicherheits- und sonstigen rechtlichen Vorgaben eingehalten werden können. Nur wenn diese \nVoraussetzungen vorliegen, kommt eine Nutzung als Unterkunft in Betracht. Der Begriff der „Anlaufpunkte“ bedarf aus fachlicher Sicht einer näheren Konkretisierung. Soweit \nhierunter niedrigschwellige Beratungs-, Aufenthalts- oder Unterstützungsangebote für obdachlose \nMenschen verstanden werden, werden entsprechende Möglichkeiten im Rahmen der vorhandenen Strukturen und Handlungsspielräume berücksichtigt. Das Angebot eines zusätzlichen Standorts ent-\nlang der S-Bahnlinie S1 besteht jedoch nicht. Das Amt für Soziales nutzt vorhandene Handlungsspielräume, um geeignete Unterstützungs- und Un-\nterbringungsangebote für obdachlose Menschen sicherzustellen. Dazu müssen Flächen oder Räum-\nlichkeiten für den gewünschten Zweck geeignet und die Finanzierung der geplanten Projekte gesi-\nchert sein. Immer müssen auch die Mindeststandards für Obdachlosenunterkünfte (Wohnheime, Pen-\nsionen, Wohnungen und Appartements) gesichert sein. So muss u.a. die Unterkunft den in Berlin gel-\ntenden bau- und gesundheitsrechtlichen Vorschriften – unter besonderer Berücksichtigung der Be-\nlange des vorbeugenden Brandschutzes – entsprechen, Kellerräume, Ladenwohnungen und Läden \ndürfen nicht als Wohn- und Schlafräume genutzt werden. Zudem sind Höchstbelegungszahlen pro \nZimmer zu berücksichtigen und entsprechende Nebenräume und –flächen (z.B. Toiletten, Küchen, \nGemeinschaftsräume, Waschräume…) müssen zur Verfügung stehen. Weiterhin ist eine Finanzierung \nnotwendig, die im Bezirkshaushalt nicht hinterlegt ist. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "700/VI",
@@ -24838,7 +25422,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "13.11.2024",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "703/VI",
@@ -24968,7 +25553,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, spätestens mit dem „neuen Rathaus Zehlendorf“ die \nErrichtung eines zentralen Archivs für alle nicht mehr benötigten Verwaltungsvorgänge im \nBezirk zu erwägen.\nBezirksverordnetenvorsteher\n13.11.2024",
       "beschlussdatum": "13.11.2024"
-    }
+    },
+    null
   ],
   [
     "704/VI",
@@ -25014,7 +25600,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob auf den städtischen Friedhöfen zusätzlich zur \nHausmülltonne und zur Grünschnitttonne für den anfallenden Verpackungsmüll gelbe \nTonnen aufgestellt werden können. Vorab soll auf einem Friedhof ein Modellprojekt \ndurchgeführt werden.\nBezirksverordnetenvorsteher\n13.11.2024",
       "beschlussdatum": "13.11.2024"
-    }
+    },
+    null
   ],
   [
     "705/VI",
@@ -25062,7 +25649,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Der alte Trinkbrunnen konnte aus technischen Gründen nicht repariert werden. Die für die Trink-\nwasserbrunnen in Berlin zuständigen Berliner Wasserbetriebe haben direkt am oberen Ende der \nTreppe zum See einen barrierefreien Trinkwasserbrunnen eingerichtet. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "707/VI",
@@ -25100,7 +25688,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass ein \nGeländer an der Treppe zum Buschgraben auf der Höhe Neuruppiner/Ludwigsfelder Straße \nangebracht wird.\nBezirksverordnetenvorsteher\n13.11.2024",
       "beschlussdatum": "13.11.2024"
-    }
+    },
+    null
   ],
   [
     "708/VI",
@@ -25146,7 +25735,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, eine Grünfläche im Bezirk nach der einstigen Staatsministerin \nHildegard Hamm-Brücher zu benennen. \nBezirksverordnetenvorsteher\n13.11.2024",
       "beschlussdatum": "13.11.2024"
-    }
+    },
+    null
   ],
   [
     "709/VI",
@@ -25172,7 +25762,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellv. Bürgerdeputierter im Ausschuss für Grünanlagen, Natur Umwelt wird\nJan Hortig\nabberufen.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "710/VI",
@@ -25198,7 +25789,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellv. Bürgerdeputierter im Ausschuss für Grünanlagen, Natur, Umwelt wird\nDaniel Janke\ngewählt. \nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "711/VI",
@@ -25214,7 +25806,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "712/VI",
@@ -25231,7 +25824,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "11.12.2024",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "713/VI",
@@ -25255,7 +25849,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Berliner Ruder-Club e.V. wird für die Anschaffung eines Renn-Doppelzweier aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n4.724 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "714/VI",
@@ -25272,7 +25867,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "11.12.2024",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "715/VI",
@@ -25364,7 +25960,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, auf der Grundlage des jeweils aktuellen Sachstandes – \nmodellhaft in den Ämtern - Arbeitsprozesse zu identifizieren, bei denen der Einsatz \n„künstlicher Intelligenz“ mittel- und langfristig zu einer Entlastung des Ressourcenbedarfs \nführt. Nach Identifikation der Arbeitsprozesse möge das Amt diese auch definieren, damit KI \nentsprechend einen Einsatz findet. Der BVV ist alle 6 Monate zum Sachstand im \nzuständigen Ausschuss für Verwaltungsmodernisierung zu berichten.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "716/VI",
@@ -25449,7 +26046,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Hierzu wird berichtet: Unsere Musikschule verfügt weiterhin im berlinweiten Vergleich über sehr wenig eigene Flächen: \nLediglich 32 % des Unterrichts können in eigenen Räumlichkeiten durchgeführt werden (Mittelwert \nBerlin 60%). Dagegen steht ein sehr hoher Anteil (48 %) der Nachnutzung von Schulräumen. Für \ndie Organisation der Nachnutzung steht die Musikschule bereits in einem engen und ständigen \nAustausch mit dem Schulamt, um möglichst optimal freie Kapazitäten nutzen zu können. Die Nutzung von Räumen in weiteren bezirklichen Einrichtungen wird in jedem möglichen Einzel-\nfall geprüft. In der Regel bestehen hier aber enge Grenzen in der Praktikabilität. Für die Durchfüh-\nrung von Musikschulunterricht sind eine Reihe von Faktoren unabdingbar: mit dem Unterrichtsan-\ngebot kompatible Zeitfenster, garantierte Nutzungszeiten während der Schulzeit in Verbindung mit \nkeinem Nutzungsbedarf in den Ferien, problemlose Zugänglichkeit für Lehrkräfte und Schülerinnen \nund Schüler, gute Verkehrsanbindung und eine entsprechende Ausstattung (Instrumente). In der \nRegel stehen freie Kapazitäten nur punktuell zur Verfügung. Der organisatorische Aufwand der \nUnterrichtsverlagerung insbesondere auch für Lehrkräfte ist hier unverhältnismäßig hoch. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "717/VI",
@@ -25513,7 +26111,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, ein Handlungskonzept zu erarbeiten zum Umgang mit \nObdachlosen im Bezirk. Dieses soll für die Mitarbeitenden in den betreffenden Ämtern als \nGrundlage für den ämterübergreifenden Umgang mit der Thematik dienen. Konkret soll \ndieses Konzept Folgendes beinhalten:\n• Beschreibung und Frequenz der aufsuchenden Hilfe der Sozialarbeitenden sowie \nStraßensozialarbeitenden von Sozialamt und freien Trägern\n• Beschreibung der Zusammenarbeit des Sozialamtes mit den anderen betroffenen Ämtern \nsowie BSR und BVG\n• Beschreibung unfreiwilliger und „freiwilliger“ Obdachlosigkeit und dessen Umgang\n• Beschreibung der Umstände und durch das Sozialamt zu erfüllenden Voraussetzungen \n(inklusive Dokumentation), unter denen eine Verdrängung Obdachloser durch das \nOrdnungsamt aus definierten Bereichen notwendig werden kann.\nDas entsprechende Konzept soll nach der Erarbeitung durch das Amt zur Beschlussfassung \nan die zuständigen Ausschüsse überwiesen werden, wobei der Sozialausschuss \nfederführend sein soll. Im Anschluss soll das Konzept durch das Bezirksamt in einen \nöffentlichen Leitfaden überführt werden. Mit diesem soll Bürger*innen ein Überblick über den \nrechtlichen Rahmen, Angebote im Bezirk sowie Ansprechpersonen für Obdachlose gegeben \nwerden und über einen adäquaten Umgang mit Obdachlosen im Alltag aufgeklärt werden. \nKonkret soll dieser Leitfaden dann zudem folgende Punkte umfassen:\n• Rechtliche Situation nach dem Sozialgesetzbuch sowie dem ASOG\n• Darstellung der Notunterkünfte nach Art und Ausstattung (auch digital)\n• Darstellung der weiteren Unterstützungsangebote durch das Bezirksamt.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "718/VI",
@@ -25569,7 +26168,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Abstimmung mit der Schule in der Claszeile auf Höhe der \nEmil-Molt-Schule auf je 30 Meter im Abstand von 30 Metern zur Adolfstraße morgens von 7 \nbis 9 Uhr auf beiden Straßenseiten der Schule ein Halteverbot anzuordnen.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "721/VI",
@@ -25619,7 +26219,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Das Sportamt hat alle Sportvereine aus Steglitz-Zehlendorf Anfang 2025 entsprechend \nüber das Bundes-Förderprogramm des Bundesamtes für Migration und Flüchtlinge in-\nformiert und unterstützt die Vereine bei aufkommenden Rückfragen. Der Landessportbund Berlin fungiert Ansprechpartner zum Förderprogramm und ist \nüber die folgende E-Mail zu erreichen: ids@lsb-berlin.de Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "722/VI",
@@ -25663,7 +26264,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass \ndiese eine Verlängerung und Harmonisierung der Grünphasen vornehmen lassen, um die \nSicherheit zur Überquerung der Fußgängerampel an der Pfaueninselchaussee am \nSeniorenheim zu gewährleisten.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "723/VI",
@@ -25722,7 +26324,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass im \nBereich S-Bahnhof Lichterfelde-Süd/Endhaltestelle M 85 eine öffentliche Toilette eingerichtet \nwird.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "726/VI",
@@ -25766,7 +26369,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, an der \nSpanischen Allee in Nähe zur Rehwiese schrittweise die Infrastruktur zu verbessern, indem \nin diesem Bereich Toiletten errichtet werden, Müllentsorgung möglich wird und Fahrrad- bzw. \nRollerabstellmöglichkeiten geschaffen werden.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "727/VI",
@@ -25812,7 +26416,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, wie unser Standesamt an der Dorfaue möglichst so \nbarrierefrei gestaltet werden kann, dass auch Menschen mit Mobilitätseinschränkungen an \neiner Zeremonie dem Anlass angemessen teilnehmen können.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "728/VI",
@@ -25864,7 +26469,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, eine Arbeitsgruppe mit überparteilicher Teilnahme \neinzuberufen, die mit der bezirklichen Frauen- und Gleichstellungsbeauftragten einen \nKonzeptentwurf für ein Frauenkompetenzzentrum erstellt, welcher anschließend dem \nAusschuss für Frauen*, Gleichstellung und Queer zur Abstimmung vorgelegt wird. Dies soll \nin Zusammenarbeit mit dem Frauenbeirat passieren.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
-    }
+    },
+    null
   ],
   [
     "729/VI",
@@ -25904,7 +26510,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die herausstehende Betonplatte wurde im Januar 2025 entfernt und die Gefahrenstelle mit Kalt-\nasphalt aufgefüllt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "731/VI",
@@ -25954,7 +26561,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Straßen- und Grünflächenamt Steglitz-Zehlendorf hat in seiner Stellungnahme im Rahmen der \nBeteiligung zum Planfeststellungsverfahren den Bedarf eines weiteren Aufzugs am südlichen \nAusgang mitgeteilt, um die barrierefreie Erreichbarkeit der U-Bahn für Personen mit \nMobilitätseinschränkungen sowie Familien mit Kindern zu vereinfachen. \nNach Aussage der BVG in der Anwohnerveranstaltung zur Verlängerung der U3 am 21. Januar 2025, \nist eine mögliche Nachrüstung des Aufzuges am südlichen Ausgang möglich. Das Land Berlin sieht \nmomentan eine Bestellung des Aufzuges nicht vor. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "732/VI",
@@ -26004,7 +26612,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: In seiner Sitzung vom 26.05.2026 hat das Bezirksamt Steglitz-Zehlendorf den Schulentwicklungs-\nplan 2024/25–2029/30 als Fortschreibung und Aktualisierung des SEP 2020/21–2029/30 be-\nschlossen. Der SEP ist ein wertvolles Werkzeug, das eine fundierte und umfassende Übersicht über die verschie-\ndenen Planungsdaten bietet und tiefgreifende Einblicke in die geplanten Maßnahmen des gesamten Schulnetzes gewährt. Eine Aktualisierung des SEP ist dann sinnvoll, wenn grundlegende Veränderun-\ngen im Schulnetz auftreten, die eine Neufassung der Lage erforderlich machen. Es hat sich gezeigt, \ndass der SEP als Instrument für kurzfristige Anpassungen nicht mehr geeignet ist. Um eine regelmä-\nßige und übersichtliche Darstellung der aktuellen Situation zu gewährleisten, wird das Monitoring \ngenutzt, das kontinuierlich weiterentwickelt wird. Die Monitoringberichte bieten eine strukturierte und \ntransparente Darstellung der Situation im Bezirk und werden jährlich auf der Website des Schul- und \nSportamtes bekanntgegeben. Der Schulentwicklungsplan wurde am 03.03.2026 im Schulausschuss vorgestellt und der Bezirks-\nschulbeirat wurde gem. § 111 Abs. 3 Nr. 2 Schulgesetz am 28.04.26 angehört. Der Schulentwicklungsplan ist als Anlage beigefügt. Maren Schellenberg",
       "erledigtvermerk": "Es wird gebeten, die Fortschreibung und Aktualisierung des Schulentwicklungsplans gem. §12 Abs. \n2 Nr. 10 Bezirksverwaltungsgesetz zu beschließen sowie den Beschluss 732/VI als erledigt zu be-\ntrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "733/VI",
@@ -26048,7 +26657,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich in den letzten Jahren kontinuierlich, auf allen Ebenen, sowohl durch die \nDezernentin als auch die Amtsleitung, für die Aufnahme aller Schulen in das Landesprogramm ein-\ngesetzt. Grundsätzlich plant die Senatsverwaltung für Bildung, Jugend und Familie einen weiteren \nAusbau der Jugendsozialarbeit an Berliner Schulen und künftig jede Berliner Schule mit einer sozi-\nalpädagogischen Fachkraft auszustatten. Dass dies kurz- bis mittelfristig nicht umgesetzt werden \nkann, ist der prekären Haushaltslage geschuldet. Aus diesem Grund kann dem Wunsch, bestehende \nSchulstationen künftig über das Landesprogramm zu finanzieren und auch noch personell aufzu-\nstocken, derzeit nicht im Ansatz entsprochen werden. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "734/VI",
@@ -26092,7 +26702,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Für das Jahr 2025 wurden vom Senat und dem Abgeordnetenhaus keine Kürzungen zu \nLasten des Bezirkshaushaltes beschlossen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "735/VI",
@@ -26162,7 +26773,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird beauftragt, Maßnahmen zu ergreifen, die den Kranoldplatz als \nwichtigen Marktstandort erhalten und gleichzeitig seine Entwicklung zu einem attraktiven \nZentrum von Lichterfelde-Ost fördern. Dabei sollen sowohl die Interessen des \nWochenmarkts ('Kranoldmarkt') als auch die Bedürfnisse der Bürger- und Anwohnerschaft \nund der Geschäftsleute von Lichterfelde mit folgenden Eckpunkten berücksichtigt werden:\nMaßnahmen zur Erhaltung des Marktes\nBei der Gestaltung des Kranoldplatzes sind die Bedürfnisse der Markthändler*innen durch \ndie zuständigen Stellen im Bezirk aufzunehmen und mit Behutsamkeit abzuwägen. Während \neiner möglichen Umgestaltungsphase des Platzes muss der Betrieb der bestehenden \nMarktstände an regulären Markttagen durch die zuständigen bezirklichen Stellen und deren \nKooperation gewährleistet sein. Dabei sind auch Abstellflächen für die Kraftfahrzeuge der \nMarkthändler*innen in unmittelbarer Laufnähe zur Marktfläche zu garantieren. Für die \nFortführung des Marktgeschehens benötigt der Markt weiterhin eine auch für schwere \nMarktfahrzeuge geeignete, große, zusammenhängende Rangierfläche. Bei einer Aufwertung \ndes Platzes durch beschattende sowie begrünende Elemente ist deren Verteilung mit \nHinblick auf den Markt ausgewogen zu entscheiden.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "736/VI",
@@ -26218,7 +26830,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie „Friedensstatue Ari hat zum 22.01.2026 einen neuen Standort im ZK/U – Zentrum für Kunst und \nUrbanistik in Moabit gefunden. Eine Aufstellung im Bezirk Steglitz-Zehlendorf ist daher nicht not-\nwendig. Siehe hierzu: \nhttps://koreaverband.de/blog/2026/01/19/wir-alle-sind-ari/ https://www.zku-berlin.org/de/satellites/friedensstatue-ari/ \nhttps://www.sovd-bbg.de/aktuelles/nachrichten/meldung/friedensstatue-ari Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "737/VI",
@@ -26244,7 +26857,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Ausschuss für Frauen*, Gleichstellung, Queer wird\nGabriele Schraudolf\nabberufen.\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "738/VI",
@@ -26270,7 +26884,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretende Bürgerdeputierte im Gesundheitsausschuss wird\nUta Bruns\ngewählt.\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "739/VI",
@@ -26294,7 +26909,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Ruderklub am Wannsee wird für die Anschaffung eines Renn-Doppelzweier aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n4.200 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "740/VI",
@@ -26362,7 +26978,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt teilt mit, dass umfassende Aufwertungsmaßnahmen am Stangenpfuhl im Jahr \n2025 stattgefunden haben. Seit Februar 2025 wurde an einer neuen Wegeverbindung entlang des \nStangenpfuhls und -grabens gearbeitet. Das Vorhaben ist Teil einer Maßnahme, die nicht nur die \nInfrastruktur verbessern, sondern auch die Naturnähe des Gebiets bewahren soll. \nDie neue Wegeverbindung verläuft in einem Bogen, um den vorhandenen Gehölzbestand mög-\nlichst wenig zu beeinträchtigen. Gezielte Biotoppflegemaßnahmen helfen, den verbleibenden Ge-\nhölzbestand zu stärken, damit langfristig artenreichere Säume entlang der Gehölzränder entste-\nhen können. Diese werden als Rückzugsorte für zahlreiche Tiere eine wichtige Funktion überneh-\nmen. \nDie Einzäunung des Gewässers wird beibehalten, um einen für alle sicheren, neuen Erholungs-\nraum zu schaffen. Die Finanzierung des Projekts erfolgte über das Programm „Sozialer Zusammenhalt – Baufonds“ \nund war mit rund 530.000 Euro veranschlagt. Es ist Teil einer umfassenden Aufwertungsmaß-\nnahme im Quartiersmanagementgebiet „Thermometersiedlung“. \nDie langfristige und qualitätvolle Unterhaltung dieser nun zusätzlich zu pflegenden Fläche steht unter \ndem Vorbehalt ausreichend vorhandener Haushaltsmittel der Grünflächenunterhaltung. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "741/VI",
@@ -26416,7 +27033,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas \nBezirksamt \nwird \nersucht, \nan \nden \nStraßeneinmündungen \nWalter-Linse-\nStraße/Drakestraße und Walter-Linse-Straße/Ringstraße Informationstafeln aufzustellen, die \nüber das Leben von Walter Linse Auskunft geben. Dabei sollen insbesondere auch \nErkenntnisse einfließen, die seine Täterschaft im Nationalsozialismus bei der Ausbeutung \nund Verfolgung jüdischer Menschen belegen.\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "742/VI",
@@ -26463,7 +27081,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass der \nbestehende Flächennutzungsplan für das Grundstück, das derzeit die Freizeitfreunde \nNikolassee zwischen den Bahntrassen am Nymphenufer nutzen, nicht geändert wird.\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "743/VI",
@@ -26505,7 +27124,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt teilt mit, dass die Umsetzung der im Beschluss gewünschten ökologischen und \noptisch ansprechenden Gestaltung nur nach verfügbaren Haushaltsmitteln und fachlicher Priori-\ntätensetzung erfolgen kann. \nDie sog. Hochbeete hinter der Bushaltestelle sind kein Teil der gewidmeten Grün- und Erho-\nlungsanlage. Dieser seitliche Streifen gehört zum gewidmeten Straßenland und stellt sog. Stra-\nßenbegleitgrün dar. Für die Unterhaltung und Pflege dieser Flächen stehen nur minimalste Mittel \nzur Verfügung, sodass mit einer Pflegeintensität von höchstens zweimal pro Jahr geplant werden \nmuss. \nDer Fachbereich Grünflächen hat eine Flächenaufbereitung intern eingeplant und auch eine ge-\neignete ökologisch sinnvolle Ansaat geprüft. Mit einer Umsetzung ist zeitnah zu rechnen. \nIm weiteren Umfeld konnten in der Vergangenheit bereits zahlreiche Blumenzwiebeln ausge-\nbracht werden, sodass bereits ein ästhetischer Frühjahrsaspekt geschaffen werden konnte. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "744/VI",
@@ -26550,7 +27170,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter/in: Bezirksstadträtin Malgorzata Sijbrandij",
       "antwort": "Hierzu wird Folgendes berichtet: \nSowohl Ruth Wendland als auch Käte Laserstein wurden von den Kolleginnen und Kollegen des \nSGA in die Benennungsliste aufgenommen. Die Wanderausstellung der Gedenkstätte Deutscher \nWiderstand war für das Jahr 2026 bereits komplett verplant und wird von Juni bis August 2027 im \nRathaus Zehlendorf zu sehen sein. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "745/VI",
@@ -26596,7 +27217,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich für einen Erhalt des Energie-Museums in Steglitz stark zu \nmachen und sich gegenüber den zuständigen Stellen und dem Senat dafür einzusetzen, \ndass alternative Räumlichkeiten geprüft werden, um die über 5000 Exponate auch zukünftig \ngemeinwohlorientiert durch den Verein „Förderkreis der Sammlung historischer Anlagenteile \nund Geräte aus der Technik der Strom- und Wärmeversorgung Berlins e.V.“ ausstellen zu \nlassen.\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "746/VI",
@@ -26641,7 +27263,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDem Ausschuss für Stadtentwicklung und Wohnen der Bezirksverordnetenversammlung Steglitz-\nZehlendorf wurde in Vorbereitung der Ausschusssitzung am 08.04.2025 alle dem Bezirksamt \nvorliegenden Unterlagen mit Datum 25.03.2025 zur Verfügung gestellt. Auch die Stellungnahmen \nder Denkmalschutzbehörden sind Bestandteil gewesen. Eine nachträgliche Einladung des \nLandesdenkmalamts wurde vom Ausschuss nicht gewünscht. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "747/VI",
@@ -26685,7 +27308,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat mit Unterstützung des Amtes für Weiterbildung und Kultur die \nmit o. g. Beschluss vorgeschlagenen Namen hinsichtlich der Umsetzbarkeit für evtl. künftige Be-\nnenungsvorhaben gemäß Berliner Straßengesetz geprüft. Im Ergebnis wird festgestellt, dass alle Namen für künftige Benennungsvorhaben im Bezirk Steglitz-\nZehlendorf rechtlich den Voraussetzungen entsprechen und überdies einen Bezug zum Bezirk ha-\nben. Somit werden die in diesem Beschluss aufgeführten Namen der bezirklichen Straßenbenennungs-\nliste hinzugefügt: Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "748/VI",
@@ -26726,7 +27350,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass die \nS-Bahn-Unterführung der Linie S 1 in der Spanischen Allee zwischen Rehwiese und Straße \nam Schlachtensee wieder hergestellt wird, so wie die DB es in einer Stellungnahme bereits \nfür 2011 zugesagt hatte (vgl. Vorlage zur Kenntnisnahme zur Drucksache 0369/III).\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "749/VI",
@@ -26772,7 +27397,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, unter welchen Bedingungen eine Öffnung einzelner \nSchulhöfe für Klein- und Grundschulkinder unter Aufsicht ihrer Eltern an Wochenenden und \nin den Ferien (insbesondere zur Winterzeit) ermöglicht und erfolgreich durchgeführt werden \nkann. Hierbei sollen sowohl eigene Erfahrungen im Bezirk miteinbezogen als sich auch an \nlaufenden Projekten anderer Städte, wie etwa Karlsruhe, orientiert werden. Zudem soll \ngeprüft werden, ob bei Schulhoföffnungen mit Stadtteilzentren, Nachbarschaftsinitiativen, der \nSchulsozialarbeit oder Elternvertretungen kooperiert werden kann.\nBezirksverordnetenvorsteher\n22.01.2025",
       "beschlussdatum": "22.01.2025"
-    }
+    },
+    null
   ],
   [
     "750/VI",
@@ -26812,7 +27438,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Straßen- und Grünflächenamt hat die rechtlichen Voraussetzungen für die Umbenennung der \nTreitschkestraße geprüft und ist zum Ergebnis gekommen, dass eine Änderung des Straßennamens \ngemäß den Ausführungsvorschriften zu § 5 des Berliner Straßengesetzes möglich ist. Um die Treitschkestraße in „Betty-Katz-Straße“ umzubenennen, wurde bereits eine bezirkliche Ab-\nfrage bei den anderen Straßen- und Grünflächenämtern vorgenommen. Die Dopplung dieses Stra-\nßennamens kann ausgeschlossen werden, somit wird das Umbenennungsverfahren im Straßen- \nund Grünflächenamt weiterverfolgt. Der Namensvorschlag „Betty Katz“ ist der Straßenbenennungsliste bereits hinzugefügt. In einem nächsten Schritt werden nun die Anwohnenden über die geplante Umbenennung und das \nweitere Procedere informiert. Sodann erfolgt die Veröffentlichung der geplanten Umbenennung im \nAmtsblatt. Nach Abwarten der Widerspruchsfrist, bzw. ggf. nach Bescheidung der Widersprüche und \nAbwarten der Klagefrist kann die Umbenennung erfolgen. Wenn es zur Umbenennung kommt, wird durch das Amt für Bürgerdienste stets gewährleistet, dass \ndie durch die Umbenennung betroffenen Anwohner unproblematisch ihre Personalausweise auch \nohne vorherige Terminvereinbarungen in den drei Bürgeramtsstandorten ändern lassen können. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "751/VI",
@@ -26835,7 +27462,8 @@ var D=[
         }
       ],
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "752/VI",
@@ -26858,7 +27486,8 @@ var D=[
         }
       ],
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "753/VI",
@@ -26944,7 +27573,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, mit dem Museumsdorf Düppel und der Senatsverwaltung für \nKultur und gesellschaftlichen Zusammenhalt in den Austausch zu gehen, um eine bessere \nSichtbarkeit des Museumsdorfs zu ermöglichen. Hierbei soll auch geprüft werden, inwiefern \nman dem Flächenbedarf des Museumsdorfs gerecht werden kann.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "754/VI",
@@ -26992,7 +27622,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in eigener Zuständigkeit oder in Kooperation mit den \nzuständigen Stellen die Sitzbank in der Schubertstraße in Lichterfelde-West zu erneuern und \neinen Mülleimer aufzustellen. Zugleich sollen bei den kürzlich aufgestellten Sitzbänken in \nLichterfelde-West sowie an der Sitzbank Ecke Brüderstraße/Kommandantenstraße \nMülleimer ergänzt werden (sofern nicht bereits in Sichtweite welche vorhanden sind).\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "755/VI",
@@ -27042,7 +27673,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas \nBezirksamt \nwird \nersucht, \nsich \nsowohl \nmit \nder \nBVG \nals \nauch \ndem \nGrundstückseigentümer neben der Bushaltestelle (Charité Benjamin Franklin Richtung \nDrakestraße) in Verbindung zu setzen und zu prüfen, wie dort die Aufstellung eines \nWartehäuschens realisiert werden kann. An dieser Bushaltestelle, die intensiv genutzt wird, \nwarten in Folge der Krankenhausnähe vor allem Besucher und Patienten, insbesondere \nältere Menschen und haben zurzeit keinerlei Sitzmöglichkeit.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "757/VI",
@@ -27092,7 +27724,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen der Deutschen Bahn dafür \neinzusetzen, dass der Müll vor dem S-Bahnhof Wannsee regelmäßig entfernt wird und \nzusätzliche Mülleimer bereitgestellt werden.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "758/VI",
@@ -27145,7 +27778,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, Maßnahmen zur Aufwertung des Vorplatzes des \nBahnhofs Wannsee gegenüber der Deutschen Bahn AG anzuregen. Insbesondere soll ein \nbesserer Ort für den Taxistand sowie eine sinnvolle Radführung durch die Bushaltestelle \ngefunden und für ausreichend sichere und überdachte Fahrradabstellmöglichkeiten neben \ndem Bahnhofsgelände gesorgt werden. Insbesondere mögen ausreichend Abfallbehälter \naufgestellt und in enger Frequenz geleert werden und der Vorplatz im Dunkeln heller \nbeleuchtet werden.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "759/VI",
@@ -27209,7 +27843,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, den bisher namenlosen Platz an Lückhoffstraße 29/Ecke \nKirchweg in Nikolassee nach der Medizinerin Elise Taube zu benennen.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "760/VI",
@@ -27259,7 +27894,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFlankierend zu den Umbaumaßnahmen der Waldparkanlagen an der Krummen Lanke und \nSchlachtensee soll ab März 2025 wieder regelmäßig die \"AG Schlachtensee/Krumme Lanke\" \nder Fraktionen der BVV Steglitz-Zehlendorf stattfinden, die vom Bezirksstadtrat für Ordnung, \nUmwelt- und Naturschutz, Straßen und Grünflächen veranstaltet wird.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "763/VI",
@@ -27311,7 +27947,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt teilt mit, dass der Einsatz von Laubbläsern und Laubsammlern immer im Sinne \nder Daseinsvorsorge und zur Gewährleistung der Verkehrssicherheit, z. B. in öffentlichen Grünan-\nlagen, auf Friedhöfen und auf Verkehrswegen im öffentlichen Interesse erfolgt. \nDie notwendigen Arbeiten zur Beseitigung von möglichen Gefahrenstellen, die durch Laub oder \nSchnittgutreste auf Wegen entstehen können, lassen sich effizient nicht ohne technische Hilfsmit-\ntel durchführen. Es gilt relativ große Mengen angefallenen Materials innerhalb kurzer Zeit sicher \nzu beherrschen. Um die Belastungen auch im Interesse der Mitarbeitenden zu reduzieren, wird bei Neuanschaffun-\ngen bereits auf reduzierte Schalldruckpegel großen Wert gelegt. Dies funktioniert jedoch nur, wenn \nbauartbedingt eine vergleichbare Leistungsfähigkeit der Geräte erreicht werden kann. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "764/VI",
@@ -27357,7 +27994,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass die \nAmpelphase für Fußgänger über die Berliner Straße (Ecke Seehofstraße) verlängert wird, \ndamit Kinder sicher zur Schule kommen und Senioren ohne Stress die Straße queren \nkönnen.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "765/VI",
@@ -27395,7 +28033,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, gemeinsam mit Eigentümern und Nutzern der an den Vorplatz \nLIO \nangrenzenden \nGrundstücke \n(Deutsche \nBahn, \nGewerbetreibende, \nGrundstücksgesellschaften) endlich für eine nunmehr geeignete Abhilfe gegen den dort \nwiederholt verstreuten Müll zu sorgen.\nBezirksverordnetenvorsteher\n19.02.2025",
       "beschlussdatum": "19.02.2025"
-    }
+    },
+    null
   ],
   [
     "766/VI",
@@ -27446,7 +28085,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDer Start der Bauarbeiten der Deutschen Bahn AG (DB AG) zur Sanierung der \nEisenbahnüberführung „Teltower Damm“ verzögert sich mindestens in das Jahr 2030. In 2026 soll \nnach Aussage der DB AG ausschließlich einer Überführung über den östlichen Fußgängertunnel, \nmeist unter laufendem Betrieb der S-Bahn, erneuert werden. Vollumfängliche Sperrungen sind \ndamit in der nächsten Zeit nicht zu erwarten. Die DB AG hat zudem zugesichert, die \nvorhergehende Errichtung der Unterführung vom Postplatz zur Machnower Straße zu prüfen. \nSenMVKU hat die Planung dafür bei der DB AG beauftragt. Mit der DB AG sind zudem \nregelmäßige Austauschtermine ämterübergreifend zum Informationsaustausch festgelegt \nworden. Die BVV und die entsprechenden Ausschüsse werden auf dem Laufenden gehalten. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "769/VI",
@@ -27472,7 +28112,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter im Schulausschuss wird\nDeniz Can Zeyrek\nabberufen.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "770/VI",
@@ -27496,7 +28137,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Ev.-Freikirchlichen Gemeinde Berlin-Steglitz wird für eine Feier zum 125jährigen \nBestehen aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n1.000 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "771/VI",
@@ -27513,7 +28155,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "19.03.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "772/VI",
@@ -27585,7 +28228,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Mit Schreiben vom 23.05.2025 an den Regierenden Bürgermeister Herrn Wegner wurde die Se-\nnatskanzlei über oben genannten BVV-Beschluss informiert und dessen Umsetzung angeregt. \nTrotz Bitte um Inkenntnissetzung über den weiteren Werdegang ging bis Stand heute keine Rück-\nmeldung im Bezirksamt ein Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "773/VI",
@@ -27665,7 +28309,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, zur Erhaltung des Tiergeheges im Gemeindepark Lankwitz die \nnotwendigen Instandhaltungsarbeiten durchzuführen.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "774/VI",
@@ -27723,7 +28368,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, wo es möglich ist, in Zusammenarbeit mit den Schulen \nRegentonnen an die Regenfallrohre anzuschließen, um mit dem gesammelten Regenwasser \ndas umliegende Grün zu bewässern. Bei der Aufstellung an den entsprechenden \nEinrichtungen sollen bereits im Vorfeld die Verantwortlichkeiten klar geregelt sein.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "775/VI",
@@ -27779,7 +28425,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich mit der BVG und dem Grundstückseigentümer der \nEisenbahnlandwirtschaft in Verbindung setzen und anzuregen, dass auch auf der südlichen \nSeite der Haltestelle am Seniorenkommunikationszentrum im Ostpreußendamm eine \nSitzbank an der Haltestelle eingerichtet wird.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "776/VI",
@@ -27829,7 +28476,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat sich in den letzten Jahren kontinuierlich, auf allen Ebenen, sowohl durch die \nDezernentin als auch die Amtsleitung, für die Aufnahme aller Schulen in das Landesprogramm ein-\ngesetzt. Grundsätzlich plant die Senatsverwaltung für Bildung, Jugend und Familie einen weiteren \nAusbau der Jugendsozialarbeit an Berliner Schulen und künftig jede Berliner Schule mit einer sozi-\nalpädagogischen Fachkraft auszustatten. Dass dies kurz- bis mittelfristig nicht umgesetzt werden \nkann, ist der prekären Haushaltslage geschuldet. Aus diesem Grund kann dem Wunsch, bestehende \nSchulstationen künftig über das Landesprogramm zu finanzieren, derzeit nicht im Ansatz entspro-\nchen werden. Hieran kann auch der Landesjugendhilfeausschuss nichts ändern. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "778/VI",
@@ -27870,7 +28518,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt unterstützt die Arbeit der Beauftragten für Menschen mit Behinderung in \nSteglitz-Zehlendorf bei den dafür zuständigen Stellen im Senat und den Berliner \nBäderbetrieben (BBB), zu einer Wiederherstellung der Zugänglichkeit des Strandbads \nWannsee im Sommer 2025 für Menschen im Rollstuhl oder Eltern mit Kinderwagen Sorge zu \ntragen.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "779/VI",
@@ -27911,7 +28560,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich an die zuständigen Stellen mit der Frage zu wenden, \nwelche Möglichkeiten es gibt, den Eingang zum Sommerbad des Insulaners barrierefrei zu \ngestalten. \nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "780/VI",
@@ -27958,7 +28608,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in Kooperation mit zuständigen Stellen, z.B. Jelbi, \nMaßnahmen zu ergreifen, um Plätze zuzuweisen und Regelungen für das ordnungsgemäße \nAbstellen der E-Roller zu treffen.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "781/VI",
@@ -28003,7 +28654,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, gemeinsam mit der Berliner Immobilienmanagement GmbH \n(BIM) Möglichkeiten für eine Kooperation bei der Green-Yard-Strategie des landeseigenen \nUnternehmens auszuloten.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "782/VI",
@@ -28051,7 +28703,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Die Malteserstraße gehört zur Begehungsklasse I der AV Straßenüberwachung und wird im \nZuge der baulichen Überwachung des öffentlichen Straßenlandes regelmäßig (zwei Mal im Mo-\nnat) begangen - § 7 Abs.2 BerlStrG i.V.m AV § 7. Schäden, welche bei den regelmäßigen Begehungen festgestellt werden, werden im Zuge der \nbaulichen Unterhaltung beseitigt. Aufgrund von Wurzelhebungen ist jedoch teilweise lediglich \neine Gefahrstellenbeseitigung mit Kaltasphalt möglich. Diese wird erfolgen. Eine ganzheitliche Sanierung der Radverkehrsanlagen des Streckenabschnitts ist aktuell finanzi-\nell nicht möglich. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "783/VI",
@@ -28097,7 +28750,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob es möglich ist, unter der Autobahnbrücke in der \nDüppelstraße in Steglitz einen großen Wohncontainer als Wärmestube für Obdachlose \naufzustellen.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "784/VI",
@@ -28137,7 +28791,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die durch entsprechende Anträge in der BVV beschlossenen \njährlichen Berichte verlässlich herzureichen. Dies sind insbesondere folgende Berichte:\n\nJährlicher Wohnungsneubaubericht (vgl. Beschluss 49 zur Drucksache 0128/IV): Auf der \nHomepage des Bezirksamts ist noch der Bericht 2020/21 zu finden.\n\nJahresbericht Rechtsamt (vgl. Beschluss 688 zur Drucksache 0908/IV): Der letzte zu \nfindende Bericht ist aus 2015 für das Jahr 2014.\n\nBericht über bezirkliche Investitionsmaßnahmen (vgl. Beschluss 497 zur Drucksache \n0707/IV): Zuletzt veröffentlicht wurde der Bericht für 2015 im Jahr 2016.\n\nJährlicher Integrationsbericht (vgl. Beschluss 930 zur Drucksache 1352/IV).\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "785/VI",
@@ -28177,7 +28832,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, vor der Kreuzung von Berliner Straße und Charlottenburger \nStraße für Fahrzeuge aus östlicher Fahrtrichtung kommend Wartelinien sowie das \nVerkehrszeichen 1012-35 (bei Rot hier halten) zu installieren, damit bei Notfällen für die \nFeuerwehr, die in der Charlottenburger Straße ihre Wache hat, freie Fahrt besteht.\nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "786/VI",
@@ -28233,7 +28889,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Die bisherige Kältehilfeeinrichtung in der Bergstraße konnte aufgrund erheblicher baulicher Mängel \nbeziehungsweise bauordnungsrechtlicher Hindernisse nicht weiter für den Betrieb der Kältehilfe ge-\nnutzt werden. Vor diesem Hintergrund hat das Amt für Soziales die Suche nach geeigneten Ersatz-\nstandorten mit Nachdruck betrieben. Ziel war es, kurzfristig Räumlichkeiten zu identifizieren, die so-\nwohl fachlich für den Betrieb einer niedrigschwelligen Kältehilfe geeignet sind als auch die bau- und \nsicherheitsrechtlichen Anforderungen erfüllen. In enger Abstimmung und mit Unterstützung der Bauaufsicht und des Hochbauamtes konnte schließ-\nlich der Standort am Steglitzer Kreisel als geeignete Alternative gewonnen werden. Dort wurde die \nKältehilfe in der Kältehilfeperiode 2025/2026 erstmals durchgeführt. Der Standort hat sich aus Sicht \ndes Amtes für Soziales bewährt. Insbesondere die zentrale Lage und die gute verkehrliche Anbin-\ndung haben dazu beigetragen, dass das Angebot für die Zielgruppe gut erreichbar war. Die Auslastung der Einrichtung war mit durchschnittlich 93 % an diesem Standort sehr gut. Dies be-\nstätigt, dass der Standort von obdachlosen Menschen angenommen wurde und den praktischen An-\nforderungen der Kältehilfe entspricht. Vor diesem Hintergrund beabsichtigt das Amt für Soziales, den \nStandort auch künftig für die Kältehilfe weiter zu nutzen, sofern die erforderlichen bauordnungsrecht-\nlichen, brandschutztechnischen, sicherheitsrelevanten Voraussetzungen erfüllt sind, bzw. weiterhin si-\nchergestellt werden können. Vor diesem Hintergrund begrüßt das Bezirksamt, wenn der Standort auch künftig für die Kältehilfe \ngenützt würde, sofern die hierfür erforderlichen bauordnungsrechtlichen, sicherheitsrelevanten und \norganisatorischen Voraussetzungen weiterhin erfüllt sind. Eine dauerhafte Nutzung setzt insbesondere \nvoraus, dass sämtliche brandschutz-, bau- und sicherheitsrechtlichen Anforderungen eingehalten \nwerden und der Betrieb verlässlich organisiert werden kann. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "787/VI",
@@ -28289,7 +28946,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Zusammenarbeit mit den anderen Berliner Bezirken eine \numsetzbare Lösung zu erarbeiten, die illegal aufgehängten gewerblichen Plakate effizient zu \nentfernen. \nBezirksverordnetenvorsteher\n19.03.2025",
       "beschlussdatum": "19.03.2025"
-    }
+    },
+    null
   ],
   [
     "788/VI",
@@ -28318,7 +28976,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf bekennt sich zur Bedeutung des \nhistorischen Jubiläums „650 Jahre Dahlem“ und unterstützt dessen angemessene \nWürdigung als identitätsstiftendes Ereignis für den Bezirk. Zur Durchführung der geplanten \nFeierlichkeiten auf dem Gelände der Domäne Dahlem am 20. Juli 2025 wird der Stiftung \nDomäne Dahlem eine finanzielle Förderung in Höhe von bis zu 4.100 € aus Sondermitteln \nder BVV bereitgestellt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "789/VI",
@@ -28344,7 +29003,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Gesundheitsausschuss wird\nSabine Baierl-Johna\nabberufen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "790/VI",
@@ -28370,7 +29030,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Gesundheitsausschuss wird\nIrmgard Lohbreier\ngewählt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "791/VI",
@@ -28396,7 +29057,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretende Bürgerdeputierte im Ausschuss für Bildung und Kultur wird\nSilke Lambeck\ngewählt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "792/VI",
@@ -28413,7 +29075,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "14.05.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "793/VI",
@@ -28430,7 +29093,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "14.05.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "794/VI",
@@ -28447,7 +29111,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "14.05.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "795/VI",
@@ -28470,7 +29135,8 @@ var D=[
         }
       ],
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "796/VI",
@@ -28494,7 +29160,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Heimatverein Steglitz e.V. wird für die Projektunterstützung \"Der bewegte Bezirk\" aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n3.500 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "797/VI",
@@ -28518,7 +29185,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Initiative für Hochbegabung e.V. wird für die Einrichtung eines Makerspace-Raumes aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n5.000 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "798/VI",
@@ -28542,7 +29210,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Katholischen Kirchengemeinde Heilige Familie Lichterfelde wird für die Herbstfahrt 2025 \naus Sondermitteln der BVV ein Betrag bis zur Höhe von\n2.800 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "799/VI",
@@ -28568,7 +29237,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, Hinweisschilder zu öffentlich zugänglichen Toiletten im \nStadtpark Steglitz aufstellen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "800/VI",
@@ -28597,7 +29267,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen und der Deutschen Bahn \n(DB) dafür einzusetzen, dass der Zugang zum S-Bahnhof Wannsee von Seiten der \nNibelungenstraße barrierefrei (u.a. rollstuhlgerecht) hergerichtet wird.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "801/VI",
@@ -28661,7 +29332,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung ändert die Geschäftsordnung wie folgt:\nNEU § 8a - Gruppen und Fraktionslose\n(1) Zwei Bezirksverordnete, die derselben Partei oder Wählergemeinschaft angehören oder \nauf demselben Wahlvorschlag gewählt wurden, können eine Gruppe bilden.\n(2) Gruppen sind berechtigt, in sechs Ausschüssen mit Rede- und Antragsrecht, jedoch ohne \nStimmrecht teilzunehmen.\n(3) Einzelne Verordnete sind berechtigt, in zwei Ausschüssen mit Rede- und Antragsrecht, \njedoch ohne Stimmrecht, teilzunehmen.\n(4) Absatz 2 und 3 gelten nicht für den Jugendhilfeausschuss.\n§ 12 - Ausschussmitglieder\n(1) Die Verteilung der stimmberechtigten Bezirksverordneten und Bürgerdeputierten (BD) in \nden Ausschüssen bestimmt die BVV auf Grund der Mehrheits- und Stärkeverhältnisse der \nFraktionen. Dabei findet das Hare/Niemeyer-Verfahren Anwendung, soweit die BVV nichts \nAbweichendes beschließt. Eine im Zeitpunkt der Bestimmung in der Versammlung \nvorhandene Mehrheit einer Fraktion/Koalition oder Zählgemeinschaft von Fraktionen muss \nsich dabei ebenfalls in jedem Ausschuss ergeben. Jeder Fraktion steht mindestens ein Sitz \nin jedem Ausschuss im Rahmen der Aufteilung der Gesamtmitglieder nach Hare/Niemeyer \nzu.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "802/VI",
@@ -28725,7 +29397,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Geschäftsordnung der BVV wird im § 25 wie folgt ergänzt:\n(4) Der Ausschuss für Eingaben und Beschwerden prüft eingereichte Vorhabenvorschläge, \ndie gemäß der Leitlinien für Bürger*innenbeteiligung aus der Bevölkerung kommen, \nhinsichtlich Inhalt und formaler Zulässigkeit. Die Fraktionen können im Konsens beschließen, \ndiese an das Bezirksamt direkt weiterzuleiten. Möchten eine oder mehrere Fraktionen diesen \nVorhabenvorschlag für eine Fachberatung aufgreifen, geht dieser als ihr Antrag in den \nGeschäftsgang. Sofern es keinen Konsens gibt und keine Fraktion den Vorschlag aufnimmt, \ngilt dieser als abgelehnt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "803/VI",
@@ -28785,7 +29458,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich (ggf. in Zusammenarbeit mit anderen Stellen wie etwa der \nS-Bahn Berlin GmbH) um mehr sichere Radabstellanlagen rund um das Rathaus Lankwitz \nzu bemühen. Zugleich sollen „Radleichen“, die Fahrradbügel belegen, konsequent entfernt \nwerden.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "804/VI",
@@ -28851,7 +29525,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, mit dem Bezirksamt von Neukölln und den weiteren \nzuständigen Akteur*innen in den Austausch zu gehen, um eine Umsetzung des Neuköllner \nModells im Bezirk zu prüfen, welches in Neukölln bereits seit mehreren Jahren ohne Klage \nerfolgreich umgesetzt wird. Hierbei soll geprüft werden, ob bei Wohnbauvorhaben im Bezirk, \ndie im Geltungsbereich von Bebauungsplänen, insbesondere des Baunutzungsplanes, liegen \nund deren geplante bauliche Dichte um mindestens 1.000 Quadratmeter überschreiten, nur \ndann zu erteilen, wenn sich der Vorhabenträger im Rahmen eines städtebaulichen Vertrages \nverpflichtet, einen Anteil von 30 % der über den Baunutzungsplan bzw. einen anderen \ngeltenden Bebauungsplan hinaus ermöglichten Geschossfläche als mietpreis- und \nbelegungsgebundenen Wohnraum zu errichten, soweit städtebaulich vertretbar.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "806/VI",
@@ -28905,7 +29580,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in der Theklastraße nach Ende der Baumaßnahmen \nMaßnahmen im Sinne der Verkehrssicherheit umzusetzen, wie z.B. eine Änderung der \nParkregelung.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "807/VI",
@@ -28961,7 +29637,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, die \nVideoüberwachung in den Zugängen des Bahnhofs zu ergänzen. Ferner wird das \nBezirksamt ersucht, sich bei den zuständigen Stellen auch für die ausreichende Beleuchtung \ndes Weges am S-Bahnhof Nikolassee einzusetzen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "808/VI",
@@ -29023,7 +29700,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, den Gehweg in der Kirchstraße vor dem Rathaus Zehlendorf in \neinen sicheren Zustand zu versetzen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "810/VI",
@@ -29094,7 +29772,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, in Kooperation mit Expert*innen z.B der Technischen \nUniversität (TU) oder Green City Solutions entweder an einer bezirklichen Schule, die an \neiner Fassadenbegrünung Interesse zeigt (z.B. einer der Klimaschulen), oder an einem \nanderen geeigneten bezirklichen Gebäude, ein Modellprojekt für eine Fassadenbegrünung \nzu initiieren und zu fördern. Dabei ist insbesondere zu prüfen, ob die Umsetzung und Pflege \ngewährleistet werden können.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "811/VI",
@@ -29152,7 +29831,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die Sicherheit der Nutzenden des Saaleckplatzes zu \ngewährleisten, dafür sollten Querungshilfen geprüft werden.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "812/VI",
@@ -29208,7 +29888,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Treppe im Park zwischen Sedanstraße und Klingsorstraße \ninstand zu setzen. Die Treppensteine weisen sehr starke Verschleißerscheinungen auf. \nAußerdem sollte auch gleich der anschließende Gehweg überprüft und ggf. instand gesetzt \nwerden.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "813/VI",
@@ -29264,7 +29945,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, den bisher unbenannten Platz (an dem sich der Brunnen \nbefindet) an der Hauptallee des Stadtparks Steglitz den Namen des Künstlers Heinrich \nHarder zu geben. Die Benennung erfolgt ausnahmsweise, da grundsätzlich in Grünflächen \ndes Bezirks keine Teilflächen benannt werden.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "814/VI",
@@ -29314,7 +29996,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt Steglitz-Zehlendorf kommt nach genauerer Prüfung der Örtlichkeit und des Na-\nmensvorschlages zum Ergebnis, dass eine Benennung des bislang unbenannten Platzes zwi-\nschen Sven-Hedin-Straße, Forststraße und Fürstenstraße nach der Person Elfriede Hengsten-\nberg möglich ist. Der Person Elfriede Hengstenberg kann aufgrund ihrer Verdienste als Pädagogin eine Ehrung \ndurch eine Straßen- oder Platzbenennung zu Teil werden. Der örtliche Bezug ist ebenfalls gege-\nben, da Frau Hengstenberg in Zehlendorf geboren wurde und später als Lehrerin viele Jahre im \nBezirk Zehlendorf gelebt und gewirkt hat. \nDa die straßenrechtlichen Voraussetzungen für die Benennung gegeben sind, wurde die Benen-\nnung der o. g. Platzfläche nach Elfriede Hengstenberg am 12.09.2025 umgesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "818/VI",
@@ -29360,7 +30043,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas \nBezirksamt \nwird \nersucht, \nsich \ndafür \neinzusetzen, \ndie \nUmbenennung \nder \nTreitschkestraße in Betty-Katz-Straße im Rahmen eines Kunstprojektes sichtbar zu machen. \nDabei soll die benachbarte Kopernikus-Oberschule, deren Schülerinnen und Schüler sich \naktiv an der Namensfindung beteiligt haben, sowie die Dunant-Grundschule einbezogen \nwerden. Bei der feierlichen Einweihung sollten auch die Verwandten von Betty Katz \neingeladen werden. Zudem sollte die Umbenennung öffentlichkeitswirksam begleitet werden, \nz.B. im Rahmen eines Straßenfestes für die Bürgerinnen und Bürger. Die Stele, welche \nbisher die Kontexte des “Berliner Antisemitismusstreits” darstellt, soll um eine Darstellung zur \nHistorie und den Hintergründen der Umbenennung erweitert werden, im Zweifel durch die \nAusstellung einer zusätzlichen Stele. Für die Finanzierung können sowohl Spenden (bspw. \nder Gewerbetreibenden) oder auch Stiftungen um Unterstützung gebeten werden.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "819/VI",
@@ -29401,7 +30085,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, einen Platz in Lichterfelde-Süd (Thermometersiedlung) nach \nJürgen Bischof zu benennen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "820/VI",
@@ -29451,7 +30136,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nAm 11. Juni 2025 fand auf Einladung der Initiative Haus Wolfenstein (IHW) und des Bezirksamts \nSteglitz-Zehlendorf anlässlich des 30jährigen Bestehens der Spiegelwand am Hermann-Ehlers-\nPlatz eine gut besuchte Veranstaltung statt. Es gab mehrere Redebeiträge auch von Schülerinnen \nder Fichtenberg-Oberschule. Die Veranstaltung wurde musikalisch begleitet. Anschließend wurde \neine Besichtigung des Gebäudes der ehemaligen Synagoge angeboten. \nIn einer Pressemitteilung vom 30.05.2025 wurde zuvor auf die Veranstaltung aufmerksam gemacht. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "821/VI",
@@ -29500,7 +30186,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt Steglitz-Zehlendorf von Berlin hat auf der Internetseite der Beauftragten für Klima-\nschutz unter Klimaschutztipps den CO2-Rechner des Umweltbundesamtes sowie spezifische Emis-\nsionsermittlungsrechner für Veranstaltungen und für Kultureinrichtungen verlinkt. https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/beauftragte/klimaschutz/kli-\nmaschutztipps-1548734. \nIm Rahmen der Bildungsarbeit wurde der CO2-Rechner bereits im Kurs „klimafit“ bei der VHS \nSteglitz-Zehlendorf eingesetzt (https://www.berlin.de/ba-steglitz-zehlendorf/aktuelles/pressemit-\nteilungen/2024/pressemitteilung.1409016). Die Möglichkeiten der Nutzung des CO₂-Rechners im Zusammenhang mit dem Aufbau eines kom-\nmunalen Klimafonds bzw. Spendentopf wurden geprüft. Im Ergebnis der Prüfung ist die Einrichtung \neines kommunalen Klimafonds bzw. Spendentopfs derzeit nicht möglich. Für eine rechtssichere Ein-\nrichtung wäre ein sehr konkreter und eindeutig abgegrenzter Verwendungszweck erforderlich; der \nim Beschluss benannte Zweck ist hierfür zu allgemein gefasst. Ohne eine klare Zweckbindung kön-\nnen eingehende Mittel nicht ordnungsgemäß eingesetzt werden. Zudem unterliegen Spendengel-\nder dem kommunalen Haushaltsrecht und sind mit erhöhten Verwaltungs- und Nachweispflichten verbunden, die personell derzeit nicht abbildbar sind. Gleichzeitig sind Höhe und Verlässlichkeit \nmöglicher Spendeneinnahmen nicht abschätzbar, sodass eine verlässliche Maßnahmenplanung \nnicht möglich ist. Vor diesem Hintergrund ist das Kosten-Nutzen-Verhältnis angesichts des erhebli-\nchen bürokratischen Aufwands derzeit als negativ anzusehen. Zukünftig wird jedoch bei der Projek-\ntarbeit geprüft, ob ein gezieltes Sponsoring sinnvoll und umsetzbar ist. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "822/VI",
@@ -29540,7 +30227,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen für ein Pilotprojekt für das \nSammeln von Altspeiseölen aus Privathaushalten einzusetzen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "823/VI",
@@ -29586,7 +30274,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, seinen zweijährlichen Bezirkskulturbericht, den es ohnehin für \ndie Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt erarbeitet, regelmäßig \nzweijährlich im Ausschuss für Bildung und Kultur vorzustellen und den Fraktionen vorab \nauch schriftlich zukommen zu lassen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "824/VI",
@@ -29626,7 +30315,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird angeregt, in seine Jahresplanung für literarische und sonstige \nKulturveranstaltungen das Projekt „Literatur gegen Antisemitismus“ einzugliedern.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "825/VI",
@@ -29671,7 +30361,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt hat diesen Beschluss an die BVG mit der Bitte um Prüfung weitergeleitet. Mit \nSchreiben vom 01.08.2025 teilt die BVG mit: „Vielen Dank für die Übermittlung des Beschlusses 825/VI vom 14.05.2025, zu dem Sie eine Stel-\nlungnahme der BVG erbaten. Hierzu kann ich Ihnen mitteilen, dass das Angebot der BVG grundsätzlich an der Fahrgastnach-\nfrage ausgerichtet ist. In der Nachtverkehrszeit ist die Nachfrage insbesondere in den Außenbe-\nzirken derart schwach, dass dort nur ein grundlegendes ÖPNV-Angebot möglich ist. Die Standards \nfür Bedienung und Erschließung orientieren sich dabei an den Vorgaben des Nahverkehrsplanes \nBerlin. Trotz des herausragenden nächtlichen ÖPNV-Angebotes gibt es in der Stadt zahlreiche \nGebiete, die nicht mit dem ÖPNV erschlossen sind. In einigen Stadtrandlagen gibt es Gebiete, die \nzumindest im Stundentakt erschlossen sind. Dazu gehören auch Teile von Wannsee. Die BVG ist bemüht, in enger Abstimmung mit dem Aufgabenträger beim Land Berlin, das nächt-\nliche Angebot weiter zu verbessern und bestehende Erschließungslücken zu beseitigen. Die aktu-\nell im Bereich Wannsee verkehrende Nachtbuslinie N16 wird von den Verkehrsbetrieben in Pots-\ndam (ViP) betrieben. Hier ist daher zudem der Aufgabenträger der Stadt Potsdam einzubinden. \nDie nicht erschlossenen Gebiete Heckeshorn, Wannsee – Wilhelmplatz/Chausseestr., Kohlhasen-\nbrück und Steinstücken, gehören mit ca. 3.600 Einwohnenden im berlinweiten Vergleich nicht zu \nden Gebieten mit hoher Dringlichkeit für eine Angebotsverbesserung. Berlinweit gibt es Gebiete \nmit Erschließungsdefiziten und deutlich mehr betroffenen Einwohnenden, die zunächst versorgt \nwerden müssten. \nDie derzeit bestehenden betrieblichen Rahmenbedingungen, insbesondere der Fahrpersonalman-\ngel, lassen leider derzeit keine Mehrleistungen zu. Wir hoffen jedoch in den nächsten Jahren wie-\nder mit den zuständigen Aufgabenträgern zusätzliche nächtliche Angebote abstimmen zu können. 2 \nEine zusätzliche Bedienung von Heckeshorn würde den Einsatz eines zusätzlichen Umlaufes und \ndamit eine Verdopplung der Betriebskosten für die Verkehrsbetriebe in Potsdam bedeuten. Wir bitten um Verständnis, dass wir aufgrund der oben angeführten Lage, dem Wunsch der BVV \nnicht nachkommen können. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "826/VI",
@@ -29709,7 +30400,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, die Straßenpoller in der Von-Luck-Straße in Nikolassee (im \nBereich vor dem Parkgrünstreifen/Weg) entweder zu entfernen oder so umzugestalten bzw. \nkenntlich zu machen, dass sie keine Gefahr mehr für Pkw- und Fahrradfahrer darstellen. Zur \nSicherung des Zugangs gibt es heutzutage zeitgemäßere und sicherere Lösungen.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "827/VI",
@@ -29751,7 +30443,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, einen Kriterienkatalog für die Werbung an Baugerüsten \neinzuführen, um sowohl das öffentliche Interesse als auch die Interessen von Mieter*innen \nzu gewährleisten. Als Kriterien für die Genehmigung von Werbeflächen an Baugerüsten \nkönnten u.a. gelten:\n\nBaugerüste dürfen für Werbeanlagen nur genutzt werden, solange Bauarbeiten am \nGebäude durchgeführt werden, für die eine Staubschutzplane erforderlich ist.\n\nBaugerüste dürfen für Werbeanlagen höchstens für die Dauer von sechs Monaten genutzt \nwerden. Der Zeitraum von sechs Monaten beginnt mit der Anbringung der ersten \nWerbeanlage. Zwischenzeitliche Werbefreiheit führt nicht zu einer Unterbrechung des \nZeitraums.\n\nWiederholte Gerüstwerbung am selben Objekt ist innerhalb von fünf Jahren nach Ende \neines vorausgegangen Werbezeitraums grundsätzlich nicht genehmigungsfähig.\n\nZur Wahrung der gesunden Wohnverhältnisse ist Baugerüstwerbung i.d.R. nicht vor \nWohngebäuden oder Gebäuden, die dem Wohnen dienen (z.B. Unterkünfte für \nGeflüchtete) zulässig, es sei denn, es wird nachgewiesen, dass eine Verdunklung von \nAufenthaltsräumen ausgeschlossen ist und von der genutzten Schutzplane keine \nvermeidbaren Belästigungen ausgehen.\n\nDie Werbung soll maximal 25 % - 30 % der Gerüstfläche beanspruchen.\n\nIn städtebaulichen Erhaltungsgebieten ist Gerüstwerbung grundsätzlich unzulässig.\n\nWeitere Vorgaben sollen sich am Kriterienkatalog für Baugerüstwerbung des \nBezirksamtes Charlottenburg - Wilmersdorf von März 2023 orientieren.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "828/VI",
@@ -29793,7 +30486,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt Steglitz-Zehlendorf von Berlin ermöglicht den Kolleginnen und Kollegen in Koope-\nration mit der LADS Akademie sowie der Verwaltungsakademie die Teilnahme an den folgenden \nSchwerpunktseminaren: Antisemitismus Inhalt: In welchen Formen tritt uns Antisemitismus heute entgegen? Welche Mecha-\nnismen und Funktionen liegen ihm zugrunde? Wie erleben Jüdinnen und Juden den Antisemitismus \nund die Auswirkungen des Nahostkonflikts in Deutschland? Wie kann ich im (beruflichen) Alltag auf \nantisemitische Vorfälle reagieren? In welchen Formen tritt uns Antisemitismus heute entgegen? Wel-\nche Mechanismen und Funktionen liegen ihm zugrunde? Wie erleben Jüdinnen und Juden den An-\ntisemitismus und die Auswirkungen des Nahostkonflikts in Deutschland? Wie kann ich im (berufli-\nchen) Alltag auf antisemitische Vorfälle reagieren? Antisemitismusprävention – Antisemitismus begegnen Inhalt: Kennen der Grundlagen des Antisemi-\ntismusverständnisses und des Berliner Landeskonzepts zur Weiterentwicklung der Antisemitismus-\nPrävention. Verstehen der Herausforderungen des Themas Antisemitismus im Verwaltungskontext in \nEinzelfall- und Querschnittsperspektive. Können die unterschiedlichen Ebenen des Verwaltungshan-\ndelns in Bezug auf Antisemitismus in Beziehung setzen und für die eigene Arbeit nutzen. Beide Angebote können von allen Beschäftigten genutzt werden. Zudem bietet das Bezirksamt im \nRahmen des politischen Bildungsprogramms Führungen über den jüdischen Friedhof Weißensee \nund den Besuch der Holocaust-Gedenkstätte an. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "829/VI",
@@ -29851,7 +30545,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, auf Grundlage der vorgelegten Handlungsstrategie von \nkollektiv stadtsucht GmbH und unter Beteiligung von Kindern und Jugendlichen ein Kinder- \nund Jugendbeteiligungsgremium für den Bezirk einzurichten. Das im Rahmen von Wahlen \ngebildete Gremium soll an die Bezirksverordnetenversammlung und ihre Strukturen \nangebunden werden. Die genaue Form – ob Beirat, Forum oder Parlament – soll in enger \nAbstimmung mit Kindern und Jugendlichen festgelegt werden. Bei der Beteiligung der Kinder \nund Jugendlichen während der Erarbeitung des Kinder- und Jugendbeteiligungsgremiums \nsowie dessen Zusammensetzung soll die Vielfalt der Kinder und Jugendlichen abgebildet \nwerden. Die unterschiedlichen Bedarfe müssen beachtet und die Kinder und Jugendlichen \nentsprechend eingebunden werden. \nDer Prozess soll entsprechend den Qualitätsstandards der Kinder- und Jugendbeteiligung \n(herausgegeben vom Bundesministerium für Familie, Senioren, Frauen und Jugend) \ndurchgeführt und begleitet werden. Über den Erarbeitungsstand des Beteiligungsprozesses \nund die Einrichtung eines Kinder- und Jugendbeteiligungsgremiums berichtet die Verwaltung \nfortwährend schriftlich im Rahmen des Berichts der Verwaltung dem Jugendhilfeausschuss.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
-    }
+    },
+    null
   ],
   [
     "831//VI",
@@ -29896,7 +30591,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt wurde, mit Datum 06. \nNovember 2025, um Stellungnahme gebeten. Folgendes wurde vom zuständigen Staatssekretär \nmitgeteilt: \n„Die Verlängerung der U3 über den Mexikoplatz hinaus nach Düppel zur Stammbahn ist \nBestandteil der aktuellen Berliner Richtlinien der Regierungspolitik. Die Fortschreibung des \nNahverkehrsplans 2024-2028 befindet sich aktuell in der Finalisierung und wird auch diese \nMaßnahme im gesamtstädtischen Kontext bewerten. Mögliche Synergieeffekte aus der \nReaktivierung der Potsdamer Stammbahn werden hierbei in die Bewertung einfließen.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "832/VI",
@@ -29920,7 +30616,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt des Bürgerdeputierten im Ausschuss für Haushalt, \nPersonal, Europa, Klima\nAndre Kindler\ngemäß § 24 Abs. 1 c BezVG (Wegfall der Voraussetzungen) mit Wirkung vom 22.05.2025 \nals beendet anzusehen ist.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "833/VI",
@@ -29937,7 +30634,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "18.06.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "834/VI",
@@ -29961,7 +30659,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Berlin-Brandenburgischen Gesellschaft für Geschichte der Medizin e.V. wird für eine \nInformationstafel zum ehemaligen US-Army-Bahnsteig aus Sondermitteln der BVV ein \nBetrag bis zur Höhe von\n1.600 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "835/VI",
@@ -29990,7 +30689,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Parlamentarischen Ferien der Bezirksverordnetenversammlung Steglitz-Zehlendorf \ndauern vom 28.07.2025 bis einschließlich 29.08.2025.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "836/VI",
@@ -30032,7 +30732,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, spätestens bei der Neugestaltung des Hermann-Ehlers-Platzes \nin geeigneter Weise einen Raum rund um die Spiegelwand festzulegen und zu \nkennzeichnen, der nicht von Wochenmärkten/Flohmärkten etc. genutzt werden darf.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "837/VI",
@@ -30072,7 +30773,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in Absprache mit der Initiative KZ-Außenlager Lichterfelde e.V. \ndie Oberfläche der „Säule der Gefangenen“ nebst der Metallkette zu reinigen und ggf. mit \neiner \nunsichtbaren \nSchutzschicht \nzu \nversehen, \num \nsie \nvor \nVerwitterung \nund \nUmwelteinwirkungen (Luftschadstoffe) zu schützen.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "839/VI",
@@ -30122,7 +30824,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Sijbrandij",
       "antwort": "Hierzu wird berichtet: \nDer Fachbereich Kultur hat einen kurzen Text erarbeitet, der vom Ausschuss für Bildung und Kultur \nim Juli 2025 abgenommen und anschließend vom Straßen- und Grünflächenamt – rechtzeitig zur \nGedenkfeier am 7. Oktober 2025 – in Form einer Gedenktafel am Platzschild des Sderot-Platzes \ninstalliert wurde. Der Text lautet wie folgt: Steglitz-Zehlendorf gedenkt der über 1200 Opfer des Terrorangriffes auf Israel vom 7. Oktober \n2023. Allein in unserer Partnerstadt Sderot kamen auch mehr als 50 Zivilpersonen, darunter \nFrauen und Kinder, ums Leben. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "840/VI",
@@ -30160,7 +30863,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die Einrichtung eines Zebrastreifens auf der Straße „Am \nHeckeshorn“ zwischen den Bushaltestellen „Am Löwen“ und der „Wannseeschule“ zu prüfen.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "841/VI",
@@ -30201,7 +30905,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich mit den zuständigen Stellen dafür einzusetzen, dass auf \nder Kreuzung Sundgauer Straße/Berliner Straße jeweils für links in die Berliner Straße \nabbiegende Fahrzeuge im Kreuzungsbereich eine Markierung der einzuhaltenden Fahrspur \nerfolgt. Im Zusammenhang mit dieser Maßnahme sollen im Kreuzungsbereich die \nRadwegfurten farblich markiert werden.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "842/VI",
@@ -30240,7 +30945,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen für ein Verkehrskonzept für \ndie Zeit der Sperrung der A115 sowie des Kreuzes Spanische Allee einzusetzen. Dieses soll \nMaßnahmen \nwie \nEinbahnstraßenregelungen \noder \nBeschränkungen \nfür \nbestimmte \nFahrzeuggewichte beinhalten und zum Ziel haben, das Wohngebiet Nikolassee und seine \nAnwohner bestmöglich vor Ausweichverkehr zu schützen und zu entlasten. Das Konzept soll \nauch den Anbietern von Navigations- und Verkehrs-Apps zur Berücksichtigung mitgeteilt \nwerden.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "843/VI",
@@ -30281,7 +30987,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter/in: Bezirksstadträtin Malgorzata Sijbrandij",
       "antwort": "Hierzu wird Folgendes berichtet: \nDie Stele wurde am 7. Mai 2026 vor dem Gemeindehaus in der Albrechtstraße 81A in Steglitz \neingeweiht. Neben BStR’in Sijbrandij sprachen die Superintendentin des Kirchenkreises Steglitz \nChrista Olearius, Pfarrer Sven Grebenstein und die Autorin Dr. Christiane Scheidemann. Wir bitten, den Beschluss damit als erledigt zu betrachten. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "844/VI",
@@ -30324,7 +31031,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Die Frauenbeauftragte des Bezirkes hat zur Umsetzung des Beschlusses ab Juli 2025 Kon-\ntakt mit zwei Verbänden aufgenommen um mögliche Kooperationen zu erfragen. Die Bä-\ncker-Innung mit Sitz in Steglitz hatte zunächst Interesse an einer Kooperation geäußert. \nLeider hat sich dieses trotz mehrerer Kontaktanfragen nicht konkretisiert. Ohne Koordina-\ntion durch die Innung ist das Projekt nicht umsetzbar. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "nicht-umsetzbar"
   ],
   [
     "845/VI",
@@ -30350,7 +31058,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Bezirksbürgermeister des Bezirks Steglitz-Zehlendorf von Berlin wird \nHerr Tim Richter\ngewählt. \nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
-    }
+    },
+    null
   ],
   [
     "847/VI",
@@ -30374,7 +31083,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt der Bürgerdeputierten im Ausschuss für Gebäude, \nWirtschaft, Inklusion, Verwaltungsmodernisierung, Digitalisierung\nAstrid Gottwald\ngemäß § 24 Abs. 1 a BezVG (durch Verzicht) mit Wirkung vom 20.06.2025 als beendet \nanzusehen ist.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "848/VI",
@@ -30400,7 +31110,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 3. stellvertretender Bürgerdeputierter im Ausschuss für Stadtentwicklung und Wohnen \nwird\nPaul Neumeier\ngewählt. \nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "849/VI",
@@ -30426,7 +31137,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 3. stellvertretender Bürgerdeputierter im Ausschuss für Mobilität, Verkehr, Ordnung wird\nTobias Zeller\ngewählt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "850/VI",
@@ -30450,7 +31162,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFür den Schiedsamtsbezirk 1 wird\nHeike van Laak\nals Schiedsperson gewählt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "851/VI",
@@ -30474,7 +31187,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFür den Schiedsamtsbezirk 2 wird\nHolger Eisenhardt\nals Schiedsperson gewählt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "852/VI",
@@ -30498,7 +31212,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFür den Schiedsamtsbezirk 3 wird\nKatja Issig\nals Schiedsperson gewählt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "853/VI",
@@ -30522,7 +31237,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFür frei werdende Schiedsamtsbezirke werden\n1) Kai Schultze\n2) Harald Rüdiger\nals Nachrücker gewählt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "854/VI",
@@ -30546,7 +31262,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Bürgerinitiative Blumenkiez e.V. wird für das musikalische Rahmenprogramm des \nKiezfestes aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n250 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "855/VI",
@@ -30570,7 +31287,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Schenk doch mal ein Lächeln e.V. wird für die Wunschbaumaktion aus Sondermitteln \nder BVV ein Betrag bis zur Höhe von\n4.200 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "856/VI",
@@ -30638,7 +31356,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, dass am Vorplatz des S-Bahnhofs Lankwitz - auf der Seite \nzum Rathaus Lankwitz - die Rasenfläche entsprechend der finanziellen Gegebenheiten \nbiodivers und klimaresilient aufgewertet werden soll. Auch für das defekte Tiergartengitter \nsoll eine Lösung gefunden werden. \nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "857/VI",
@@ -30700,7 +31419,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, einen Schloßstraßen-Gipfel ins Leben zu rufen, der sich gezielt \nmit Maßnahmen zur Stärkung des lokalen Einzelhandels und der Wirtschaft entlang der \nSchloßstraße und den Seitenstraßen beschäftigt. Der Gipfel soll in enger Abstimmung mit \nfolgenden Akteuren stattfinden:\n1) Vertreterinnen und Vertreter des Bezirksamtes (Wirtschaftsförderung, Stadtplanung und \nStraßen- und Grünflächenamt),\n2) ansässige Gewerbetreibende, Einzelhändler und Zentren,\n3) relevante Wirtschaftsverbände und Initiativen,\n4) Bezirksverordnete.\nZiele des Schloßstraßen-Gipfels:\n\nEntwicklung von Konzepten zur Stärkung der Schloßstraße als attraktiven und \nwettbewerbsfähigen Einzelhandels- und Wirtschaftsstandort.\n\nMaßnahmen zur Unterstützung der ansässigen Unternehmen, insbesondere zur \nFörderung der lokalen Kaufkraftbindung und zur Reduzierung von Leerständen.\n\nVerbesserung der Aufenthaltsqualität und der Zugänglichkeit der Schloßstraße für \nunterschiedliche Zielgruppen.\n\nAbstimmung und gezielte Nutzung von Fördermitteln des Landes Berlin und des Bezirks \nzur Unterstützung des Einzelhandels und zur Aufwertung der Schloßstraße.\n\nGeeignete Maßnahmen der Öffentlichkeitsarbeit entwickeln, um Anwohnerinnen und \nAnwohner sowie die ansässigen Gewerbetreibenden über die Projektschritte und \ngeplanten Maßnahmen laufend zu informieren\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "858/VI",
@@ -30766,7 +31486,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, nach eigenen Möglichkeiten zwei feste Stellen für die \nVerfolgung von Mietpreisüberhöhungen (§ 5 WiStG) einzurichten und sich gegenüber dem \nBerliner Senat für die sofortige und dauerhafte Finanzierung dieser einzusetzen. \nZudem soll der Bezirk der berlinweiten AG Mietpreisüberhöhung beitreten und sich dort für \ndie Finanzierung von Personal durch den Senat, die Übernahme etwaiger Prozesskosten \ndurch den Senat, sowie die Erarbeitung eines digitalen und einheitlichen Verfahrens durch \nSenat und Bezirke mit folgenden Punkten einsetzen:\n\nEine einheitliche Homepage für die Bezirke mit Informationen über Mietpreisüberhöhung \nund Mietwucher, den Verweis auf den Mietspiegelrechner des Senates zur eigenen \nVorabprüfung und ein Formular für die Meldung von Verdachtsfällen nach dem Vorbild \nvon Frankfurt am Main.\n\nEin einheitliches Erst-Anschreiben an Personen, die einen Verdachtsfall gemeldet haben, \nwelches ein Problembewusstsein und den Willen, Mietpreisüberhöhungen zu verfolgen, \nausdrückt, wertschätzend und verständlich formuliert ist sowie darstellt, welche \nInformationen in welcher Form von den Mieter*innen gebraucht werden und für die \nErörterung des weiteren Vorgehens ein persönliches Gespräch anbietet und eine \nTelefonnummer für Rückfragen beinhaltet.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "861/VI",
@@ -30824,7 +31545,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, das Engagement der Bürgerschaft für die bezirkliche \nErinnerungskultur bei der Recherche und Verlegung von Stolpersteinen zu würdigen. \nZusammen \nmit \nengagierten \nLaienforscherinen \nund \n–forschern, \nden \nbeteiligten \nKirchenkreisen in Steglitz-Zehlendorf, dem Runden Tisch Regionalgeschichte und Schulen \nmöge das Bezirksamt prüfen, wie die Sicherung von privaten Quellen, die nicht über andere \nöffentliche Archive zugänglich sind, für die Zukunft gewährleistet werden kann. Denkbar \nwäre die Unterbringung von Recherchematerial in den Stadtbibliotheken des Bezirks, wo sie \nfür Schülerinnen und Schüler sowie interessierte Bürgerinnen und Bürger zugänglich wären. \nDiesbezüglich möge das Bezirksamt prüfen, welche archivrechtlichen Einschränkungen es \nggf. gibt und wie hoch der finanzielle sowie personelle Bedarf des Amtes zur Bereitstellung \ndes privaten Forschungsmaterials in der Stadtbibliothek wären. Der BVV ist binnen 6 \nMonaten im zuständigen Ausschuss für Bildung und Kultur zu berichten.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "863/VI",
@@ -30877,7 +31599,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in Zusammenarbeit mit den zuständigen Senatsverwaltungen \nsowie lokalen Schwimmvereinen und Bildungseinrichtungen ein Konzept zur Verbesserung \nder Schwimminfrastruktur im Bezirk Steglitz-Zehlendorf mit Blick auf die Gesunderhaltung \nvon Kindern und Jugendlichen zu erarbeiten, um die Qualitätssicherung, Planung und \nKoordination im öffentlichen Gesundheitssektor auf diesem Querschnittsgebiet auszubauen \nund nachhaltig zu sichern. Das Konzept soll gesundheitsförderliche Veränderungsprozesse \nin den Blick nehmen, insbesondere:\n1) Bedarfsermittlung: Eine aktuelle Analyse der Versorgungslage mit Schwimmflächen im \nBezirk, \nunter \nBerücksichtigung \nder \nBevölkerungsentwicklung, \ngesundheitlichen \nAnforderungen und kinder- bzw. jugendbezogenen Anforderungen.\n2) Ausbau und Sanierung:\n\nPrüfung und Förderung der Sanierung bestehender, sanierungsbedürftiger Schul- und \nVereinsbäder gemeinsam mit den beteiligten Fachämtern\n\nIdentifikation \nsogenannter \n“weißer” \nFlächen \nohne \nentsprechende \nGesundheitsangebote für Kinder und Jugendliche im Bezirk.\n3) Zusätzliche Schwimmzeiten für Schulen und Kitas: Ausbau der Nutzungszeiten für den \nSchulschwimmunterricht in bestehenden Bädern, insbesondere auch in Randzeiten und in \nFerienzeiten.\n4) Kooperation mit Vereinen und Initiativen:\n\nFörderung von Schwimmkursen für Kinder ab vier Jahren sowie von kostenlosen oder \nsozial gestaffelten Schwimmangeboten in den Schulferien.\n\nUnterstützung von Programmen für Jugendliche mit Nachholbedarf beim Erwerb der \nSchwimmfähigkeit.\n5) Mobile Schwimmlösungen prüfen: Einsatz temporärer mobiler Schwimmcontainer (z.B. in \nSchulhöfen) zur kurzfristigen Schaffung von Gesundheits- und Lernorten.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "864/VI",
@@ -30919,7 +31642,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass hinter \nder Fußgängerampel an der Haltestelle Scharfestraße in Fahrtrichtung Teltower Damm die \nHalteverbotszone so gesichert wird, dass dort nicht weiterhin unerlaubt Fahrzeuge abgestellt \nwerden können.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "865/VI",
@@ -30966,7 +31690,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAn der Kreuzung Achensee Weg/Lichterfelder Ring soll ein Zebrastreifen eingerichtet \nwerden, um allen Menschen einen sicheren Übergang über die Straße zu ermöglichen. \nDabei ist mit Zeitdruck zu agieren, da mit dem Bauen für Lichterfelde-Süd ein mehrfacher \nVerkehr von LKWs und sonstigen Fahrzeugen zu erwarten ist.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "867/VI",
@@ -31013,7 +31738,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, wie für die Schülerinnen und Schüler sowie das \nKollegium und sämtliche Mitarbeitende Maßnahmen für den Schutz der Schulgemeinschaft \nvor der starken Hitzeeinwirkung im Sommer ergriffen werden können. Diese sollen sich \nschwerpunktmäßig auf die Außenflächen beziehen; die ungefähren Kosten sind anzugeben.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "868/VI",
@@ -31059,7 +31785,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, Projekte zur Stärkung des queeren Lebens im Bezirk zu \nidentifizieren bzw. zu entwickeln und sie zur Finanzierung durch entsprechende \nFörderprogramme des Senats anzumelden.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "869/VI",
@@ -31107,7 +31834,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in der Ringstraße zwischen Drakestraße und Karwendelstraße \ndas Baumscheibenparken bzw. Parken auf unversiegelten Flächen im Nahbereich von \nBäumen durch geeignete Maßnahmen einzuschränken.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "870/VI",
@@ -31159,7 +31887,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, in Zusammenarbeit mit dem Bezirkssportbund, dem \nLandessportbund, Sportvereinen und Akteur*innen der Zivilgesellschaft einen Fachtag zu \nveranstalten, um die Bedarfe queerer Menschen einerseits, aber auch der Sportvereine \nandererseits zu klären und erste Lösungsvorschläge zu entwickeln. Maßnahmen könnten \nz.B. Informationsmaterialien für Vereine, Beratungsangebote für queere Jugendliche und \nErwachsene, Bereitstellung von sicheren Räumen für queere Menschen für Austausch und \nEmpowerment oder auch die Entwicklung einer Ombudsstruktur sein, die bei queer- und \ntrans*feindlicher Diskriminierung in Vereinen helfen kann. Auch die Akquise von \nentsprechenden Drittmitteln soll geprüft werden.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "871/VI",
@@ -31201,7 +31930,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
-    }
+    },
+    null
   ],
   [
     "872/VI",
@@ -31269,7 +31999,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht,\n1) das bezirkliche Wohnraumbündnis (Beschluss 135/VI) Steglitz-Zehlendorf um das \nThemenfeld „Eigenbedarfskündigungen“ zu erweitern,\n2) eine niedrigschwellige, bezirkliche Informations- und Beratungsstruktur für Mieter, die von \nEigenbedarfskündigungen bedroht oder betroffen sind, gemeinsam mit den bestehenden \nAngeboten auszubauen,\n3) geeignete Partner aus Mieterberatung, Anwaltschaft, Wohnungswirtschaft und Verwaltung \nzur aktiven Mitarbeit im Bündnis zu gewinnen.\nStellv. Bezirksverordnetenvorsteher\n24.09.2025",
       "beschlussdatum": "24.09.2025"
-    }
+    },
+    null
   ],
   [
     "873/VI",
@@ -31328,7 +32059,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, umgehend \nan allen Schulen des Bezirks eine Amokalarm-Übung unter Beteiligung von Schulleitung, \nLehrkräften und Schulsozialarbeitern und in Zusammenarbeit mit der Polizei einzuführen, um \npädagogisches Personal zu schulen und die technische Funktionsfähigkeit sicherzustellen. \nDiese Übungen sollen protokolliert, dem Bezirksamt und den zuständigen Stellen geschickt \nund dort ausgewertet werden. Bei den Übungen sollen nach Möglichkeit Wartungsfirmen \neingebunden werden, so dass technische Defekte umgehend behoben werden können. \nEbenso sollen auch andere bauliche Mängel, die der Sicherheit von Schülern und \nLehrpersonal entgegenstehen (z.B. defekte Türschließsysteme), dem Bezirksamt gemeldet \nund durch dieses schnellstmöglich behoben werden. Anhand der Auswertung des \nBezirksamtes sollen die Übungen mindestens einmal pro Schuljahr wiederholt werden.\nStellv. Bezirksverordnetenvorsteher\n24.09.2025",
       "beschlussdatum": "24.09.2025"
-    }
+    },
+    null
   ],
   [
     "874/VI",
@@ -31356,7 +32088,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Schulausschuss wird\nMarnie Ernst\nabberufen.\nStellv. Bezirksverordnetenvorsteher\n24.09.2025",
       "beschlussdatum": "24.09.2025"
-    }
+    },
+    null
   ],
   [
     "875/VI",
@@ -31373,7 +32106,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "24.09.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "876/VI",
@@ -31397,7 +32131,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem TuS Lichterfelde von 1887 e.V.wird für ein Wettkampf-Trampolin aus Sondermitteln der \nBVV ein Betrag bis zur Höhe von\n6.500 €\nzur Verfügung gestellt.\nStellv. Bezirksverordnetenvorsteher\n24.09.2025",
       "beschlussdatum": "24.09.2025"
-    }
+    },
+    null
   ],
   [
     "877/VI",
@@ -31427,7 +32162,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt hat am 07.10.2025 um 12:00 Uhr am Sderotplatz in Zehlendorf anlässlich des 07. \nOktobers 2023 mit einer öffentlichen Schweigeminute den Opfern und Angehörigen des Angriffes \nauf Israel gedacht. Eingeladen waren AkteurInnen und Organisationen im Bezirksamt und der Po-\nlitik sowie die Öffentlichkeit durch eine Pressemitteilung. Am Rathaus Zehlendorf waren die israeli-\nsche Flagge sowie die Flaggen von Sderot und Kiriat Bialik gehisst. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "878/VI",
@@ -31474,7 +32210,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, inwieweit in Grünflächen/Parks Outdoor-Fitness-\nAnlagen analog der Anlage auf dem Campus der Freien Universität Berlin in den nächsten 4 \nJahren errichtet werden können.\nStellv. Bezirksverordnetenvorsteher\n24.09.2025",
       "beschlussdatum": "24.09.2025"
-    }
+    },
+    null
   ],
   [
     "879/VI",
@@ -31490,7 +32227,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "beschlussdatum": "24.09.2025"
-    }
+    },
+    null
   ],
   [
     "880/VI",
@@ -31506,7 +32244,8 @@ var D=[
       "parties": [],
       "beratungsfolge": [],
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "881/VI",
@@ -31570,7 +32309,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Das Bezirksamt hat den Beschluss der BVV aufgegriffen und die Suche nach einem geeigneten \nStandort für die bezirkliche Kältehilfe mit Nachdruck betrieben. Die Kältehilfeeinrichtung in der Bergstraße konnte aufgrund erheblicher baulicher Mängel bezie-\nhungsweise bauordnungsrechtlicher Hindernisse nicht weiter für diesen Zweck genutzt werden. Vor \ndiesem Hintergrund war es erforderlich, kurzfristig alternative geeignete Räumlichkeiten zu identifi-\nzieren, die sowohl den fachlichen Anforderungen der Kältehilfe als auch den bau- und sicherheits-\nrechtlichen Vorgaben entsprechen. In enger Abstimmung und mit Unterstützung der Bauaufsicht und des Hochbauamts konnte hierfür der \nStandort am Steglitzer Kreisel, Kuhligkshofstraße 5, 12165 Berlin, gewonnen werden. Dort wurde die \nKältehilfe in der Periode 2025/2026 erstmals durchgeführt. Der Standort hat sich aus Sicht des Am-\ntes für Soziales als sehr geeignet erwiesen. Insbesondere die zentrale Lage und die gute verkehrliche \nAnbindung sind für die Erreichbarkeit durch obdachlose Menschen von erheblichem Vorteil. Auch die tatsächliche Inanspruchnahme bestätigt die Eignung des Standortes. Die Auslastung der \nKältehilfeeinrichtung war insgesamt mit einer durchschnittlichen Auslastung von 93 % sehr gut. Dies \nzeigt, dass das Angebot von der Zielgruppe angenommen wurde und der Standort den praktischen \nAnforderungen der Kältehilfe gerecht wird. Vor diesem Hintergrund begrüßt das Bezirksamt, wenn der Standort auch künftig für die Kältehilfe \ngenützt würde, sofern die hierfür erforderlichen bauordnungsrechtlichen, sicherheitsrelevanten und \norganisatorischen Voraussetzungen weiterhin erfüllt sind. Eine dauerhafte Nutzung setzt insbesondere \nvoraus, dass sämtliche brandschutz-, bau- und sicherheitsrechtlichen Anforderungen eingehalten \nwerden und der Betrieb verlässlich organisiert werden kann. Die ergänzend im Beschluss angesprochene Prüfung ungenutzter Flächen und Gebäude im Umfeld \nDahlemer Dreieck, Unter den Eichen, Thielallee und Boetticherstraße werden im Rahmen der fachli-\nchen und organisatorischen Möglichkeiten berücksichtigt. Dabei ist jedoch zu beachten, dass eine \nNutzung für die Kältehilfe regelmäßig nur dann in Betracht kommt, wenn die jeweiligen Flächen oder \nGebäude kurzfristig verfügbar, baulich geeignet, genehmigungsfähig und für den konkreten Betrieb \neiner niedrigschwelligen Kältehilfeeinrichtung sicher nutzbar sind. Das Amt für Soziales wird die weitere Entwicklung de",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "laufender-prozess"
   ],
   [
     "882/VI",
@@ -31620,7 +32360,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Vorsteher der BVV wird gebeten, Maßnahmen zur besseren Bewerbung des \nLivestreams der BVV-Sitzungen zu ergreifen.\nFolgende Maßnahmen könnten dabei umgesetzt werden:\n\nErstellung und Verteilung von Flyern mit QR-Code an die Fraktionen, Gruppen und \nEinzelverordneten,\n\nAushänge in und um die Rathäuser,\n\nes soll eine Anfrage an den zuständigen Redakteur des Gazette Verbrauchermagazins \ngestellt werden, ob kostenfreie Hinweise auf den Livestream der BVV auf der \nentsprechenden Themenseite veröffentlicht werden können,\n\ndeutlicherer Hinweis auf der Homepage des Bezirksamts sowie prominentere Platzierung \nauf der BVV-Unterseite,\n\nVeröffentlichung von Beiträgen in Kooperation mit dem Bezirksamt über dessen Social-\nMedia-Kanäle (Facebook, Instagram, YouTube).\nStellv. Bezirksverordnetenvorsteher\n24.09.2025",
       "beschlussdatum": "24.09.2025"
-    }
+    },
+    null
   ],
   [
     "883/VI",
@@ -31646,7 +32387,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Gesundheitsausschuss wird\nImke Decius\nabberufen.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "884/VI",
@@ -31672,7 +32414,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Gesundheitsausschuss wird\nDr. Christine Wagner\ngewählt.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "885/VI",
@@ -31696,7 +32439,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDr. Monika Zimmermann wird für den Druck eines Buches über das Haus der Familie \nGembus aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n3.000 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "886/VI",
@@ -31725,7 +32469,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, wahlweise im Heinrich-Laehr-Park oder im Schönow-Park \neine bezirkliche Gedenkstele für Heinrich und Maria Laehr aufzustellen. Mit den \nentsprechenden Stellen und Akteur*innen, beispielsweise der Evangelischen Kirche oder der \nDiakonie, soll ebenfalls auch zukünftig die regelmäßige Pflege des Familiengrabs im \nSchönow-Park sichergestellt werden.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "887/VI",
@@ -31754,7 +32499,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich gegenüber den zuständigen Stellen dafür einzusetzen, \ndass der Kinobetrieb des Capitol Dahlem auch bei einer Abgabe des Grundstücks durch die \nFU gesichert wird und die so genannte Blätterlaube erhalten bleibt.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "888/VI",
@@ -31820,7 +32566,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, auf dem 1937 von den Nationalsozialisten benannten Sven-\nHedin-Platz eine Informationstafel über das Leben und Wirken der Widerstandkämpferin \nElse Niewiera aufzustellen. Erwähnt werden sollen darauf unter anderem Sven Hedins \nBegeisterung für das Dritte Reich und Adolf Hitler im Kontrast zum Widerstand von Else \nNiewiera.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "889/VI",
@@ -31874,7 +32621,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber den zuständigen Stellen dafür einzusetzen, \ndass in folgenden Bereichen für Verbesserungen gesorgt wird:\n\nZu verfügen, dass auf den Rad- und Fußwegen zu sorgen keine Baumaterialien und \nBauzäunen gelagert werden und die Wege regelmäßiger und gründlicher gereinigt \nwerden. Ganz grundsätzlich sind die Wege so anzulegen, dass diese auch von Menschen \nmit Beeinträchtigung und mit dem Kinderwagen uneingeschränkt genutzt werden können.\n\nDie Beeinträchtigungen der ansässigen Gewerbetreibenden etwas gemildert werden, \nindem Kurzzeitparkplätze und Lieferzonen in den Nebenstraßen eingerichtet werden.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "890/VI",
@@ -31926,7 +32674,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass der \nZugang zum S-Bahnhof Nikolassee (vor allem zur S 1) von Seiten des Hohenzollernplatzes \nbarrierefrei (u.a. rollstuhlgerecht) hergerichtet wird.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "892/VI",
@@ -31966,7 +32715,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, den Bordstein am Übergang Lindenfelser Weg über den \nQuermatenweg zur Krummen Lanke abzusenken, um einen besseren Zugang für \nmobilitätseingeschränkte Personen zur Krummen Lanke herzustellen.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "893/VI",
@@ -32007,7 +32757,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass längs \nder zukünftigen Trasse der ausgebauten Anhalter-Bahn in Lankwitz Räume für vertikalen \nGartenbau zwecks Urban Gardening Projekten entstehen.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "894/VI",
@@ -32050,7 +32801,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDie Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt wurde, mit Datum 06. \nNovember 2025, um Stellungnahme gebeten. Folgendes teilte der zuständige Staatssekretär mit: \n„Die Verlängerung der U9 nach Lankwitz wird im Zuge der Fortschreibung des Nahverkehrsplans \nbewertet. Ich bedanke mich für Ihr vertiefendes Gesprächsangebot. Eine weitere Verlängerung in \nRichtung Marienfelde und Teltow-Fläming ist derzeit unrealistisch. Bitte haben Sie Verständnis, \ndass ich aufgrund des laufenden Verfahrens zur Fortschreibung des Nahverkehrsplans sowie der \nlaufenden Aufstellung zum Doppelhaushalt 2026/2027 aktuell keine weiteren Angaben machen \nkann. Die Bezirke werden im Rahmen der Fortschreibung des Nahverkehrsplans bei Vorliegen des \nEntwurfs beteiligt.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "895/VI",
@@ -32076,7 +32828,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur Bezirksstadträtin von Berlin Steglitz-Zehlendorf wird\nMalgorzata Sijbrandij \ngewählt.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
-    }
+    },
+    null
   ],
   [
     "898/VI",
@@ -32100,7 +32853,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nEs wird festgestellt, dass das Amt der stellvertretenden Bürgerdeputierten im Ausschuss für \nBildung und Kultur\nMalgorzata Sijbrandij\ngemäß § 24 Abs. 1 c BezVG (Wegfall der Voraussetzungen) mit Wirkung vom 15.10.2025 \nals beendet anzusehen ist.\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "899/V",
@@ -32126,7 +32880,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierter im Ausschuss für Haushalt, Personal, Europa, Klima wird \nDr. Khalil Dindarian\nabberufen.\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "900/VI",
@@ -32152,7 +32907,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Ausschuss für Haushalt, Personal, Europa, Klima wird \nBarbara Baumbach\ngewählt. \nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "901/VI",
@@ -32178,7 +32934,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Schulausschuss wird\nFikriye Aras\ngewählt. \nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "902/VI",
@@ -32204,7 +32961,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Ausschuss für Soziales, Pflege, Arbeit, Senior*innen \nwird\nDina Balsha\ngewählt. \nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "903/VI",
@@ -32230,7 +32988,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 3. stellvertretende Bürgerdeputierte im Ausschuss für Gebäude, Wirtschaft, Inklusion, \nVerwaltungsmodernisierung, Digitalisierung wird\nClaudia Hamboch\ngewählt. \nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "904/VI",
@@ -32247,7 +33006,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "12.11.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "905/VI",
@@ -32276,7 +33036,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, künftig wieder Waldkiefern zu pflanzen bzw. deren Aufwuchs in \nParkanlagen zu fördern. Es wird ferner gebeten, sich dazu der wissenschaftlichen Expertise \nvon anerkannten Natur- und Umweltschutzorganisationen zu bedienen.\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "906/VI",
@@ -32305,7 +33066,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Ausstellung „Der Mensch dahinter“ der „Initiative für \nRespekt und Toleranz“ auch in Steglitz-Zehlendorf, z.B. in Bibliotheken oder öffentlichen \nRäumen, zu zeigen.\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "907/VI",
@@ -32334,7 +33096,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich bei den zuständigen Stellen dafür einzusetzen, dass \ndie vom Verkehrsverbund Berlin-Brandenburg (VBB) zum 1. Januar 2026 vorgesehene \nAbschaffung der Tarifzone BC rückgängig gemacht wird.\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "908/VI",
@@ -32366,7 +33129,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Sijbrandij",
       "antwort": "Hierzu wird berichtet: Gemäß Bezirksamtsbeschluss vom 20.01.2026 (Beschluss-Nummer: 27/2026) wurden die folgen-\nden Projektanmeldungen fristgerecht beim Bundesprogramm „Sanierung kommunaler Sportstät-\nten“ für den Bezirk Steglitz-Zehlendorf eingereicht: 1. Gymnastikhalle, Mühlenstraße 70, 12247 Berlin; Ersatzneubau Gymnastikhalle (4,216 Mio. €). 2. Ernst-Reuter-Sportanlage, Onkel-Tom-Straße 40, 14169 Berlin Ersatzneubau Umkleidegebäude, (1,919 Mio. €). 3. Sportanlage Kreuznacher Str. (Schildhornstr.), Kreuznacher Straße 29-44, 14197 Berlin; Umgestaltung der Sportanlage (Erweiterung der Kapazitäten für den Trainings- und Spiel-\nbetrieb, Reduzierung der Unterdeckung von ungedeckten Sportanlagen) (5 Mio. €). Über die Projektauswahl und Berücksichtigung einer Förderung entscheidet der Haushaltsausschuss \ndes Deutschen Bundestags. Wir bitten, den Beschluss damit als erledigt zu betrachten. Tim Richter",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "910/VI",
@@ -32424,7 +33188,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Geschäftsordnung der Bezirksverordnetenversammlung wird wie folgt geändert:\nIn \n§ \n16 \nwird \nein \nneuer \nAbsatz \n(7) \nergänzt: \n„Die \nFachausschüsse \nder \nBezirksverordnetenversammlung können ebenfalls als Antragsteller fungieren, sofern der \nAusschuss mit einfacher Mehrheit einen solchen Ausschussantrag beschließt. Absätze (1)-\n(4) gelten entsprechend. Als Antragsstellende im Sinne von Absatz (4) und (6) gilt eine durch \nden Ausschuss mit einfacher Mehrheit eingesetzte Ombudsperson aus dem Kreise der im \nAusschuss vertretenen Bezirksverordneten. Über das Zurückziehen eines Ausschussantrags \nentscheidet der Ausschuss mit Mehrheit. Absatz (5) gilt nicht. Im Übrigen gelten alle \nRegelungen der Geschäftsordnung zu Anträgen, sofern nicht anders beschrieben.“\nIn § 17 wird ein neuer Absatz (7) ergänzt: „Änderungsanträge zu Ausschussanträgen nach \n§16 Absatz (7) müssen in jedem Fall von der BVV abgestimmt werden.“\nIn § 20 Absatz (1) wird ergänzt: „Ausschussanträge nach §16 Absatz (7) können \nausschließlich auf Beschluss der BVV in den antragstellenden Ausschuss zurück überwiesen \nwerden. Eine Vertagung der Beratung im antragstellenden Ausschuss ist dann grundsätzlich \nnur mit einfacher Mehrheit möglich.“\nIn § 41 Absatz (2) wird ergänzt: „Bei Ausschussanträgen nach §16 Absatz (7) entscheidet \ndie BVV.“\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "911/VI",
@@ -32478,7 +33243,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDas Bezirksamt dankt der BVV für die Unterstützung in der ablehnenden Haltung gegenüber der \nAusweisung von Flächen für Windkraftanlagen im Bereich des Grunewalds. \nFolgende (hier gekürzte) Ausführungen wurden seitens des Bezirksamts gegenüber der \nSenatsverwaltung für Stadtentwicklung, Bauen und Wohnen im Rahmen der ersten Beteiligung zur \nÄnderung des Flächennutzungsplans im Juli 2025 abgegeben: \nIm Vergleich zu den großzügig ausgewiesenen Potenzialflächen der Voruntersuchung sind dies nun \nvergleichsweise kleine Flächen. Trotzdem gilt natürlich auch für diese, dass eine Eignung aufgrund \nder Bedeutung der Fläche an sich in ihrer Eigenschaft als Erholungs- und Freizeitraum grundsätzlich \nnicht gegeben ist. Der Grunewald in Gesamtheit ist mit seiner Nutzung nicht nur als forstwirtschaftlich relevant zu \nsehen, sondern insbesondere mit seiner Nutzung als Erholungs- und Freizeitraum zu betrachten. \nDies gilt nicht nur für die betroffenen anliegenden Bezirke, sondern stadtweit. Eine Waldfläche in \neinem Stadtstaat ist grundsätzlich anders zu betrachten als Waldflächen in Flächenländern. \nInsbesondere im Kontext der Wohnungsbauziele für die Gesamtstadt und die angestrebten \nNachverdichtungsziele erhöht sich die Notwendigkeit, zusammenhängende Grün- und \nLandschaftsbereiche (hier der Grunewald) von baulichen Anlagen freizuhalten und die \nErholungsfunktion zu sichern. \nAuch aus Sicht des Umwelt- und Naturschutzes ist das vorgesehene Gebiet grundsätzlich für eine \nWindenergienutzung nicht geeignet. Gründe hierfür sind: - \nWidersprüche und Zielkonflikte mit anderen übergeordneten Plänen und \nProgrammen \n(Landschaftsprogramm, \nStadtentwicklungsplan- Klima \n2.0, \nLandesentwicklungsplan der Hauptstadtregion) \n- \nLandschaftsschutzgebiet \n(LSG \nGrunewald \n– \nSchutzgebietsverordnung \nGrunewald) \n- \nSchutz- und Erholungswald (LWaldG) \n- \nVorkommen von gesetzlich geschützten Biotopen (gemäß § 30 BNatSchG) \n- \nErheblichen Beeinträchtigungen auf das umliegende FFH-Gebiet Grunewald \n(Umgebungsschutz) \nIn die Beurteilung fließen dabei nicht nur die konkret für Windräder in Anspruch genommene Fläche \nein, sondern auch die damit einhergehenden Folgen, da zur Aufstellung von Windrädern z.B. die \nHerstellung diesbezüglich geeigneter Anlagen zur technischen und verkehrlichen Er-schließung als \nnachteilige Störung mit betrachtet werden muss. \nAuch bei weiteren Beteiligungsschritten wird sich das Bezirksamt identisch verhalten. \nEs wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "915/VI",
@@ -32504,7 +33270,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, die weitere Beratung des Bauvorhabens Inselstraße 32 a \n(Schwanenwerder), insbesondere in den Ausschüssen für Stadtentwicklung und Wohnen \nsowie für Grünanlagen, Natur, Umwelt, in öffentlicher Sitzung durchzuführen.\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "916/VI",
@@ -32562,7 +33329,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung ersucht das BVV-Büro, dass der Audiomitschnitt der \nBezirksverordnetenversammlung für den internen Gebrauch der Bezirksverordneten online \nabrufbar ist. Hierbei sollen nach Möglichkeit die einzelnen Tagesordnungspunkte einfach zu \nfinden oder aufzurufen sein.\nBezirksverordnetenvorsteher\n12.11.2025",
       "beschlussdatum": "12.11.2025"
-    }
+    },
+    null
   ],
   [
     "917/VI",
@@ -32588,7 +33356,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter im Gesundheitsausschuss wird\nConstantin Andree \nabberufen. \nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "918/VI",
@@ -32614,7 +33383,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretender Bürgerdeputierter im Ausschuss für Bildung und Kultur wird\nKorkmaz Özman\ngewählt. \nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "919/VI",
@@ -32640,7 +33410,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls Bürgerdeputierte im Schulausschuss wird\nAnja Sokoll\ngewählt.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "920/VI",
@@ -32666,7 +33437,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls stellvertretende Bürgerdeputierte im Schulausschuss wird\nUlrike Glorius\ngewählt.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "921/VI",
@@ -32683,7 +33455,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "10.12.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "922/VI",
@@ -32700,7 +33473,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "10.12.2025",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "923/VI",
@@ -32729,7 +33503,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass \nrechtzeitig zur Fertigstellung des IV. Bauabschnitts bzw. zur Eröffnung der Schule im \nBaugebiet „Neu-Lichterfelde“ auch der bereits vorhandene südliche Ausgang des S-\nBahnhofs Lichterfelde-Süd zum Baugebiet geöffnet wird.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "924/VI",
@@ -32788,7 +33563,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, für Besucher und Mitarbeiter die gefahrlose Erreichbarkeit der \nGalerie Bastian in der Taylorstraße zu ermöglichen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "925/VI",
@@ -32852,7 +33628,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich gegenüber der Senatsverwaltung für Stadtentwicklung \nBauen und Wohnen an einigen Stellung für eine die Verfahren präzisierende Überarbeitung \nder \nAV-Genehmigungskriterien \nsoziale \nErhaltungsgebiete \n– \nMilieuschutzgebiete \n– \neinzusetzen:\n1) Zur Herstellung von zusätzlichen Wohnungen soll der Abriss des Dachstuhls nur \ngenehmigt werden, sofern dies der Schaffung von zusätzlichem Wohnraum dient. Die \nbestehenden Wohnungen sollen während der Bauarbeiten bewohnbar bleiben. Sofern \nletzteres nicht gewährleistet werden kann, sollte die Maßnahme nur erfolgen, sofern die \nbetroffenen Bestandsmieter ausdrücklich einverstanden sind.\n2) Grundrissänderungen sowie eine Wohnungsteilung können dann genehmigungsfähig \nsein, wenn die Mieter ausgezogen oder verstorben sind und die Wohnung nicht mehr \nbewohnt wird oder wenn diese Teilung von den betroffenen Mietern ausdrücklich \ngewünscht ist. In diesem Fall sollte die Wohnung auch während der Bauzeit möglichst \nbewohnbar bleiben.\n3) Die Errichtung eines Aufzuges kann nach den bisherigen Kriterien aus 2.4 AV weiterhin \ngrundsätzlich genehmigungsfähig bleiben. Sofern die mehrheitliche Zustimmung der \nMieter*innen ausdrücklich vorliegt und der entsprechende Bedarf belegt ist, soll bei der \nBeurteilung der Verdrängungsgefahr für die vorhandene Wohnbevölkerung die",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "927/VI",
@@ -32902,7 +33679,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sich bei der zuständigen Senatsverwaltung dafür \neinzusetzen, dass in Erwartung der Ergebnisse des zwischen der Hauptverwaltung und den \nBezirken laufenden Prozesses zur bezirksübergreifenden Zielvereinbarung für die Ämter für \nSoziales zur Konsolidierung und Steuerung der Personalsituation sowie der Transferkosten \nin Schlüsselbereichen materieller Hilfen (nachfolgend: „Zielvereinbarung Soziales“) Vorsorge \nfür die bedarfsgerechte Ausstattung der Ämter für Soziales im kommenden Haushalts- und \nStellenplan geschaffen wird.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "928/VI",
@@ -32955,7 +33733,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die Aufenthaltsqualität in der Schloßstraße insbesondere um \nden Imbiss „Bratpfanne“ mit zusätzlichen Sitzmöglichkeiten zu erhöhen und den Bürgerinnen \nund Bürgern sowie Besucherinnen und Besucher einen Ort der Erholung und Begegnung zu \nschaffen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "929/VI",
@@ -33011,7 +33790,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich an die entsprechenden Stellen zu wenden, um den \nGedenkort zu Ehren der stalinistischen Opfer des 17. Juni 1953 in der Potsdamer Chaussee \nin Zehlendorf umgehend in einen würdevollen, der historischen Bedeutung angemessenen \nZustand zu bringen und regelmäßig zu pflegen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "930/VI",
@@ -33061,7 +33841,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die bisher unbenannte Promenade am U-Bahngraben \nzwischen Clayallee/Ecke Ihnestraße nach Nora Schimming-Chase zu benennen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "931/VI",
@@ -33111,7 +33892,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sich bei den zuständigen Stellen dafür einzusetzen, dass \ndie Bushaltestelle „Ludwigsfelder Straße“ in „Museumsdorf Düppel“ umbenannt wird.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "932/VI",
@@ -33162,7 +33944,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt möge prüfen, ob nach Abschluss der Entsiegelungsmaßnahmen am Platz \ndes 4. Juli eine größtmögliche Anzahl an Parkplätzen in Schrägrichtung (in Fahrtrichtung \nOsteweg an der neuen Grünanlage) angeordnet werden könnten. Bei positiver Prüfung \nmöge das Bezirksamt die Parkplätze so anordnen. \nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "933/VI",
@@ -33220,7 +34003,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, gemäß dem Landesgleichberechtigungsgesetz Berlin \n(LGBG) zeitnah die Koordinierungsstelle nach §21 I i.v.m. §18 II bis IV LGBG einzurichten.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "934/VI",
@@ -33279,7 +34063,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in den Bereichen der Grünanlagen, wo keine ausreichende \nTrinkwasserversorgung \ndurch \nTeiche, \nGräben, \nBrunnen \ngewährleistet \nist, \nkleine \nWassertränken im Rahmen von Patenschaften für Tiere aufzustellen. Ferner wird das \nBezirksamt gebeten, Freizeiteinrichtungen und Schulen gezielt darauf anzusprechen, bei \nihren Flächen ebenfalls so zu verfahren und für die Thematik zu sensibilisieren.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "935/VI",
@@ -33329,7 +34114,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich dafür einzusetzen, das gefährliche Überqueren über den \nMittelstreifen am S-Bahnhof Wannsee zu unterbinden. Die Zaunanlage soll umgehend \nwieder instandgesetzt werden. (Ggf. ist eine Erhöhung des Zaunes zu prüfen.) Auch soll mit \nden zuständigen Stellen (u.a. Deutsche Bahn) geprüft werden, wie im Bereich des Bahnhofs \n(u.a. \nVorplatz, \nUntergeschoss) \ndie \nBeschilderung \ndes \nTunnels \n(Unterquerung \nKronprinzessinnenweg) verbessert werden kann.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "936/VI",
@@ -33379,7 +34165,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nAm 11.02.2025 wurde die Bundeszentrale für Kinder- und Jugendmedienschutz (BzKJ) um die \nDurchführung eines Prüfverfahrens zu den beiden oben genannten Liedern gebeten. Die betreffen-\nden Lieder wurden bereits auf mehreren Streaming-Plattformen entfernt; eine Indizierung durch die \nBzKJ erfolgte jedoch nicht. \nGrund hierfür ist, dass die BzKJ für eine Indizierung jeweils einen direkten Link zum betreffenden \nInhalt benötigt. Da die Lieder unter veränderten Links erneut hochgeladen werden können, ist eine \nmehrfach wiederholte Einreichung durch das Jugendamt nicht leistbar. Die BzKJ selbst führt keine \neigenständige Recherche nach URL-Adressen zu den jeweiligen Inhalten durch. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "938/VI",
@@ -33425,7 +34212,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, mit den zuständigen Stellen und interessierten Künstlern in \nAustausch zu treten, um ähnlich dem Vorbild der über zehn Unterführungen hinter dem \nMannheimer Barock-Schloss in den Unterführungen am Zehlendorfer Kleeblatt eine \nsogenannte Legalfläche im öffentlichen Raum für Graffitikünstler und ihre Urban Art als \ntemporäre Kunst zur Verfügung zu stellen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "939/VI",
@@ -33471,7 +34259,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass die \ngesperrten Straßenpumpen doch teilweise für Bewässerungsmaßnahmen zugänglich \ngemacht werden können. Ferner wird das Bezirksamt gebeten, sich gegenüber der \nzuständigen Senatsverwaltung weiter dafür einzusetzen, dass die in deren Zuständigkeit \nbefindlichen defekten Landesbrunnen sukzessive wieder instandgesetzt werden. \nWeiterhin wird das Bezirksamt gebeten, sich bei den zuständigen Stellen dafür einzusetzen, \ndass an geeigneten Stellen temporär Bewässerungswagen bzw. -tanks abgestellt werden \nkönnen, um den Bürgerinnen und Bürgern zu ermöglichen, das darin befindliche Wasser zur \nBewässerung des Stadtgrüns zu nutzen. Weiterhin ist zu prüfen, welche Pumpen im \nRahmen des Katastrophenschutzes als Trinkwasserpumpanlagen hergerichtet werden \nkönnen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "940/VI",
@@ -33510,7 +34299,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen für die Umsetzung \ngeeigneter Maßnahmen einzusetzen, die den neu entstandenen Angstraum am S-Bahnhof \nRathaus Steglitz entschärfen. Dabei ist insbesondere für eine gute Beleuchtung zu sorgen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "941/VI",
@@ -33557,7 +34347,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen dafür einzusetzen, dass die \nGitter zwischen den Brückenpfeilern wieder hergestellt bzw. ersetzt werden.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "942/VI",
@@ -33603,7 +34394,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei der Regenwasseragentur und dem Bezirksamt \nFriedrichshain-Kreuzberg \nnach \ndem \nKonzept \nder \nRegenwasserbank \nund \nden \nentsprechenden Förderungsmöglichkeiten zu erkundigen. Ferner wird es gebeten, sich dafür \neinzusetzen, dass modellhaft an einer oder an zwei geeigneten Stellen Regenwasserbänke \naufgestellt werden, wenn es gelingt eine entsprechende Förderung zu akquirieren, um es \nden Bürgerinnen und Bürgern zu erleichtern, das stadtweite Grün zu bewässern. Die Pflege \nlässt sich über Patenschaften gewährleisten.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "943/VI",
@@ -33642,7 +34434,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, den Senat bzw. das Abgeordnetenhaus von Berlin \naufzufordern, den barrierefreien Mobilitätsservice der BVG (Rufbus Muva) finanziell so \nauszustatten, dass das Angebot über den kommenden Jahreswechsel dauerhaft fortgesetzt \nwerden kann.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "945/VI",
@@ -33682,7 +34475,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber den zuständigen Stellen dafür einzusetzen, die \nUmzäunung des Oberstufenzentrums Bürowirtschaft 1 in der Steglitzer Florastraße insofern \nanzupassen, dass der Zaun in der Alsenstraße bündig mit der Außenmauer geschlossen \nwird. Anschließend soll eine Entsiegelung dieser Fläche geprüft werden.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "946/VI",
@@ -33724,7 +34518,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt Steglitz-Zehlendorf hat Annemarie Wolff in die Straßenbenennungsliste aufge-\nnommen. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "948/VI",
@@ -33762,7 +34557,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber der Deutschen Telekom dafür einzusetzen, \nden Fernmeldeturm Berlin-Schäferberg am Tag des offenen Denkmals für den \nBesucherverkehr zugänglich zu machen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "950/VI",
@@ -33806,7 +34602,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: \nDer Beschluss der BVV Steglitz-Zehlendorf wurde am 18.12.2025 an die Senatsverwaltung für In-\nneres und Sport übermittelt. Mit Schreiben vom 30.12.2025 antwortete die Senatsverwaltung für Inneres und Sport: „Das neue Schutzraumkonzept des Bundes ist noch nicht beschlossen. Gleichwohl sammeln wir für \neine Liste von identifizierten Objekten, die sich für eine Nutzung als „sichere Zufluchtsorte“ für die \nBevölkerung eignen. Die Liste wird dem Bund übermittelt, sobald die Kriterien für öffentliche Zufluchtsräume mit dem \nneuen Schutzraumkonzept festgelegt sind. Im Rahmen dieser Erfassung von geeigneten Objekten sind wir bereits mit der BVG im Gespräch \nzu einer möglichen Nutzung von U-Bahnhöfen. \nIn diesem Zusammenhang wird der Vorschlag aus der BVV Steglitz-Zehlendorf mit der BVG be-\nsprochen werden und eine mögliche Nutzung der zurzeit ungenutzten Tunnelröhren geprüft.“ Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "951/VI",
@@ -33846,7 +34643,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in eigener Verantwortung dafür Sorge zu tragen oder sich bei \nden zuständigen Stellen dafür einzusetzen, dass die Sicherheit auf dem Fahrradweg \nunmittelbar hinter der Bushaltestelle Steglitzer Damm/Halskestraße (in Richtung Rathaus \nSteglitz) an der Auffahrt zum Parkplatz entlang des Steglitzer Damms durch geeignete \nMaßnahmen verbessert wird. Diese könnten beispielsweise in einer Verbesserung der \nSichtachse auf den hinter der Bushaltestelle entlanggeführten Fahrradweg oder in einer \nfarblichen Markierung des Fahrradwegs direkt vor der Auffahrt liegen.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "952/VI",
@@ -33890,7 +34688,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Seit 2024 existiert der Azubi-Express im Bezirk Steglitz-Zehlendorf mit dem Ziel, das Schülerinnen \nund Schüler regionale Unternehmen kennenzulernen, Informationen zu Praktika und Berufsausbil-\ndungen erhalten, direkte Kontakte knüpfen und wenn möglich, sich auch direkt vor Ort bewerben \nkönnen. Ausgehend vom Standort der Jugendberufsagentur werden verschiedene lokale Unterneh-\nmen im Bezirk angefahren und die Schülerinnen und Schüler erhalten die Möglichkeit, vor Ort direkt mit den Unternehmen ins Gespräch zu kommen und sich die Betriebe für Ausbildungsstellen oder \nPraktika anzuschauen. In 2024 konnten bereits erste direkte Vereinbarungen für Praktika und Ausbildungsplätze getroffen \nwerden. In 2025 fanden dann bereits zwei Projekttage mit je einem Bus statt (26 Plätze pro Tag). \nAuch hier konnten direkt Vereinbarungen zwischen den Schülerinnen und Schülern und den Unter-\nnehmen getroffen werden. In 2026 ist die Fortführung des Projekts, im ähnlichen Umfang, bereits \ndurch die Förderung von SenASGIVA genehmigt. \nZusätzliche Beratungsangebote zur Berufsorientierung gibt es unter anderem durch die Jugend-\nberufsagentur und den Träger Check-Up. Durch die immer bessere Vernetzung der Akteure und \nden unterschiedlichen Maßnahmen, wird eine immer größer werdende Zielgruppe der Schülerinnen \nund Schülern mit direktem Einblick in die Arbeitswelt erreicht. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "953/VI",
@@ -33930,7 +34729,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob die Hinweise im Bürgeramt mehrsprachig \n(Englisch und in Blindenschrift) verfasst werden können, und zu klären, ob weitere Sprachen \nnotwendig sind. Dem zuständigen Ausschuss ist nach 6 Monaten zu berichten.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "954/VI",
@@ -33959,7 +34759,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass im \nRahmen des Schienenersatzverkehrs für die U9 dieser durch die Schloßstraße geleitet oder \ndie Schloßstraße auf andere Weise effizient bis an die Endstation der U9 angebunden wird.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
-    }
+    },
+    null
   ],
   [
     "956/VI",
@@ -34003,7 +34804,8 @@ var D=[
       "antwort": "Hierzu wird berichtet: Das Bezirksamt Steglitz-Zehlendorf hat Joseph Baby und Gustav von Lutzki in die Straßenbe-\nnennungsliste aufgenommen. \nZum letzten Absatz des Beschlusses wird mitgeteilt, dass gemäß der Ausführungsvorschriften zu \n§ 5 des Berliner Straßengesetzes (AV Benennung) 1 (3) c Frauen bei der Benennung nach Per-\nsonennahmen verstärkt Berücksichtigung finden sollen. Diese wird im Bezirk Steglitz-Zehlendorf \nberücksichtigt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "957/VI",
@@ -34020,7 +34822,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "21.01.2026",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "958/VI",
@@ -34094,7 +34897,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nIn der Schloßstraße soll durch die zuständige Stelle ein Parkleitsystem über eine App \neingerichtet werden, um den Suchverkehr nach einem Parkplatz besser zu lenken und \nAutofahrer über alle Parkmöglichkeiten zu informieren. \nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
-    }
+    },
+    null
   ],
   [
     "960/VI",
@@ -34150,7 +34954,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sich bei den Berliner Wasserbetrieben dafür einzusetzen, \neinen öffentlichen Trinkbrunnen im Bereich des Markusplatzes in Steglitz zu errichten, sofern \nhierfür die finanziellen Mittel zur Verfügung stehen.\nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
-    }
+    },
+    null
   ],
   [
     "961/VI",
@@ -34208,7 +35013,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob im westlichen Teil des Bezirks Steglitz-\nZehlendorf \n(beispielsweise \nim \nRathaus \nWannsee) \neine \nAußenstelle \nfür \ndie \nJugendkunstschule eröffnet werden kann. \nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
-    }
+    },
+    null
   ],
   [
     "962/VI",
@@ -34254,7 +35060,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Plattform der Raumübersicht für Ehrenamtliche und \ngemeinnützige Organisationen stärker bekannt zu machen und im Bezirk aktiv dafür zu \nwerben. Auf der Website http://berlin.de gibt es eine zentrale Suchmöglichkeit für Räume, die \nvon Ehrenamtlichen und gemeinnützigen Organisationen genutzt werden können.\nhttps://www.berlin.de/buergeraktiv/unterstuetzung/raumuebersicht/#simplesearch_form\nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
-    }
+    },
+    null
   ],
   [
     "963/VI",
@@ -34292,7 +35099,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sich bei den zuständigen Stellen dafür einzusetzen, an \nder A 115 (AVUS) während der Bauarbeiten im Bereich Kreuz Zehlendorf und Spanische \nAllee Lärmmessungen durchzuführen, damit für die zu Beginn der Baumaßnahmen \nangekündigten Lärmschutzmaßnahmen belastbares Datenmaterial vorliegt.\nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
-    }
+    },
+    null
   ],
   [
     "964/VI",
@@ -34330,7 +35138,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in verschiedenen Einrichtungen in Steglitz-Zehlendorf eine \nBrillenbox ähnlich wie der in Charlottenburg-Wilmersdorf im Zeitraum vom 10.02. bis \n09.07.2025, in der ungenutzte Sehhilfen gespendet werden konnten, aufzustellen.\nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
-    }
+    },
+    null
   ],
   [
     "965/VI",
@@ -34370,7 +35179,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung regt an, dass das Bezirksamt zwecks regelmäßiger \nReinigung Patenschaften für Parkbänke im Bezirk auslobt.\nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
-    }
+    },
+    null
   ],
   [
     "967/VI",
@@ -34427,7 +35237,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, unter der S-Bahnbrücke Schlachtensee an der Seite mit den \nLaternen eine Jelbi-Station einzurichten.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "968/VI",
@@ -34477,7 +35288,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, wirksame Maßnahmen zu ergreifen, um das rechtswidrige \nRadfahren auf dem Gehweg vor dem Rathaus Zehlendorf zu unterbinden und damit die \nSicherheit der Fußgänger zu gewährleisten. \nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "969/VI",
@@ -34529,7 +35341,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, über das Kulturamt ein Programm zu starten, innerhalb dessen \nKünstlerinnen und Künstler sich melden können, die Schenkungen von Kunstwerken bzw. \nInstallationen für den öffentlichen Raum zur Verfügung stellen möchten.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "971/VI",
@@ -34587,7 +35400,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, das Parkläuferprogramm im Stadtpark Steglitz sowie an \nSchlachtensee und Krumme Lanke im bisherigen Umfang zu erhalten. Die hierzu vom Senat \nzugewiesenen Mittel sollen hierfür verwendet werden.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "972/VI",
@@ -34631,7 +35445,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, den Abschnitt der Potsdamer Chaussee zwischen \nIsoldestraße und Stahnsdorfer Damm in der Nähe der Bushaltestelle Nibelungenstraße für \nausschließlich Pkw Parken auszuweisen.\nDazu soll ein Parkplatzschild mit dem Zusatzzeichen „Pkw“ (Zeichen 314) aufgestellt \nwerden, um klarzustellen, dass die dortigen Stellplätze ausschließlich Pkwen vorbehalten \nsind. Dadurch wird verhindert, dass Wohnmobile oder Anhänger diese Flächen blockieren, \nobwohl weiterhin andere geeignete Abstellmöglichkeiten für diese Fahrzeuge bestehen.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "973/VI",
@@ -34675,7 +35490,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass am \nauslaufenden Parkstreifen in Höhe der Albrechtstraße 92 (Richtung Rathaus Steglitz) ein \nabsolutes Halteverbotsschild in Fahrtrichtung der sich schmälernden Parkfläche aufgestellt \nwird.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "974/VI",
@@ -34719,7 +35535,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, inwieweit der Mittelstreifen unter den Bahnbrücken \nB1 Ecke Kronprinzenweg rechtssicher für Pendler und ihre Autos genutzt werden kann.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "975/VI",
@@ -34763,7 +35580,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, inwieweit der Mittelstreifen unter den Bahnbrücken \nB1 Ecke Kronprinzenweg rechtssicher für Pendler und ihre Autos genutzt werden kann.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "976/VI",
@@ -34809,7 +35627,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in eigener Verantwortung dafür Sorge zu tragen oder sich bei \nden zuständigen Stellen dafür einzusetzen, dass die Einmündung des Fahrradwegs auf den \nSteglitzer Damm kurz vor der Bushaltestelle Liebenowzeile (in Richtung S-Bahnhof \nSüdende) \ndurch \nAufstellen \neiner \nFahrbahnverschwenkung \n(ähnlich \nzur \nFahrradwegeinmündung \nhinter \nder \nBushaltstelle \nSteglitzer \nDamm/Halskestraße \nin \nentgegengesetzter Richtung) abgesichert wird.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "978/VI",
@@ -34849,7 +35668,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob an komplett umzäunten Liegenschaften des \nBezirks (z.B. bei Schulen, Kitas oder Jugendfreizeiteinrichtungen) sogenannte Igeltunnel \ngeschaffen werden können.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "979/VI",
@@ -34888,7 +35708,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, mit den Reinigungsfirmen erneut ins Gespräch zu gehen und \nsie auf die vertragliche Mülltrennungspflicht hinzuweisen und dies zu kontrollieren.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "981/VI",
@@ -34927,7 +35748,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, im öffentlichen Bereich von Ladesäulen die dafür zuständigen \nKontrollen zu verstärken, um die Lademöglichkeiten z.B. im Bereich der Schloßstraße für \nElektrofahrzeuge frei zu halten.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "982/VI",
@@ -34967,7 +35789,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, in welchen Wohnstraßen mit hohem Parkdruck \nsowie regelmäßigem Liefer- und Ver- und Entsorgungsverkehr Ladezonen mit dem \nVerkehrszeichen 230 (\"Ladebereich\") zeitlich befristet von 8-16 Uhr eingerichtet werden \nkönnen. Besonderes Augenmerk soll dabei auf folgende Bereiche gelegt werden:\n•\nStraßen mit hoher Bebauungsdichte,\n•\nStraßen mit einer älter werdenden Anwohnerschaft, in denen das kurzfristige Halten \nfür Pflege- und Unterstützungsdienste, Ein- und Aussteigen oder Ausladen von Einkäufen \nnotwendig ist,\n•\nBereiche, in denen regelmäßig Sichtachsen durch haltende Lieferfahrzeuge verstellt \noder Straßen blockiert werden,\n•\nStraßen rund um S-Bahnhöfe wie dem Bahnhof Wannsee (Park & Ride-Gebiet).\nDie Ladezonen sollen so ausgestaltet werden, dass das Be- und Entladen für alle \nVerkehrsteilnehmenden und auch größere Fahrzeuge, wie Müllwagen, möglich ist, sofern \ndies ohne Verzögerung geschieht. Die Gültigkeit der Ladezonen soll auf die \nHauptnutzungszeiten mit erhöhtem Parkdruck, z.B. von 8 Uhr bis 16 Uhr in Gebieten, in \ndenen viele Pendelnde parken, beschränkt werden. Pilothaft könnte dies im Umfeld der \nLepsiusstraße in Steglitz umgesetzt werden.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "983/VI",
@@ -35006,7 +35829,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob in Ortsteilen mit erhöhtem Parkdruck in \nRücksprache mit privaten Einzelhändlern Parkplätze nachts offen gehalten und \nAnwohnenden zur Verfügung gestellt werden können.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "984/VI",
@@ -35046,7 +35870,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Querungsmöglichkeiten für Fußgänger*innen an der Sven-\nHedin-Straße in Höhe Plüschowstraße beispielsweise durch eine Gehwegvorstreckung zu \nverbessern, um eine sichere Anbindung der Sportflächen zu ermöglichen. Insbesondere im \nKurvenbereich ist die Sicht zu verbessern. Zudem soll im Umfeld der Sportanlagen Parken \nnur für Pkw angeordnet werden.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "985/VI",
@@ -35087,7 +35912,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in allen publikumsnahen Einrichtungen des Bezirks, wie \nRathäusern, \nBürger*innenämtern, \nStadtteilzentren, \nBibliotheken \nund \nbezirklichen \nVeranstaltungsorten, Organspendeausweise und Informationsmaterial des Bundesinstituts \nfür Öffentliche Gesundheit (BIÖG) gut sichtbar auszulegen. Auf der bezirklichen Internetseite \nwird neutral über die freiwillige Organ- und Gewebespende und den Organspendeausweis \ninformiert. Die Möglichkeit der Online-Eintragung in das Organspende-Register ist \nhervorzuheben und durch einen QR-Code zu verlinken. Zudem informiert das Bezirksamt \njährlich zum Tag der Organspende (erster Samstag im Juni) über seine Social-Media-\nKanäle.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "986/VI",
@@ -35127,7 +35953,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen erneut für die Errichtung \neiner Lichtsignalanlage mit Bedarfsschaltung auf der Potsdamer Straße in Höhe \nFürstenstraße einzusetzen.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
-    }
+    },
+    null
   ],
   [
     "987/VI",
@@ -35173,7 +36000,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, unverzüglich den BVV-Beschluss 717/VI (Drs. 0994/VI) \n„Handlungskonzept Obdachlosigkeit“ umzusetzen. Der zuständige Stadtrat hat der BVV \numgehend Auskunft darüber zu geben:\n1) Aus welchen Gründen der o.g. Beschluss vom 11. Dezember 2024 nicht umgesetzt \nwurde.\n2) Welche Schritte zur Erarbeitung eines Handlungskonzeptes mit entsprechendem \nLeitfaden seit der Beschlussfassung bisher ausgeführt wurden.\n3) Aus welchen Gründen weder die Ausschüsse, noch die BVV über den Stand der Dinge \ninformiert wurden.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "988/VI",
@@ -35184,7 +36012,8 @@ var D=[
     "entfällt",
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9798",
     "Bezirksverordnetenversammlung",
-    {}
+    {},
+    null
   ],
   [
     "989/VI",
@@ -35208,7 +36037,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem ANASA e.V. wird für die Anschaffung/Herstellung eines mobilen Bühnenbilds aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n1.900 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "990/VI",
@@ -35232,7 +36062,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Berliner Yacht-Club e.V. wird für die Anschaffung eines gebrauchten Segelboots aus \nSondermitteln der BVV ein Betrag bis zur Höhe von\n3.500 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "991/VI",
@@ -35249,7 +36080,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "18.03.2026",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "992/VI",
@@ -35319,7 +36151,8 @@ var D=[
       "antwort": "Hierzu wird Folgendes berichtet: Die Ämter des Bezirksamtes sind über den Beschluss informiert, ebenso wurden die Senatsverwal-\ntung für Kultur und Gleichstellung sowie die anderen 11 Bezirksämter von dem BVV-Beschluss in \nKenntnis gesetzt. Es wird gebeten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "993/VI",
@@ -35471,7 +36304,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, alle erforderlichen Schritte zu ergreifen, um die Zukunft der \nInsel \nLindwerder \nals \nöffentlich \nzugängliches \nNaherholungs-, \nGastronomie- \nund \nWassersportziel zu sichern. Hierzu gehört insbesondere:\n\ndie Prüfung, wie und unter welchen Bedingungen weiterhin gastronomische Angebote auf \nder Insel ermöglicht werden können,\n\ndie Prüfung, ob und inwieweit Fördermittel für die notwendige Sanierung des Gasthauses \ngenutzt werden können,\n\ndass Lindwerder auch weiterhin als gesicherter Standort für den ansässigen Wassersport \nerhalten bleibt. \nDem \nAusschuss \nfür \nGebäude, \nWirtschaft, \nInklusion, \nVerwaltungsmodernisierung, \nDigitalisierung ist nach sechs Monaten zu berichten.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "995/VI",
@@ -35539,7 +36373,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich zunächst bei den zuständigen Stellen dafür einzusetzen, \ndass im Jenbacher Weg hinsichtlich der Flächen, die bis Anfang August 2025 als Parkplätze \ngenutzt wurden, der ursprüngliche Zustand wieder hergestellt wird. Ansonsten ist wie folgt zu \nverfahren:\n1) Bei der Berliner Stadtgüter GmbH (BSG) zu ermitteln, ob und zu welchen Konditionen \neine Verpachtung dieser Flächen an den Bezirk weiterhin möglich ist.\n2) Bei den Anwohnern, einschließlich den Kleingärtnern, zu ermitteln, in welchem Umfang \nInteresse an einer entgeltlichen Anpachtung von Flächen zur Nutzung als Kfz-Stellplatz \nbesteht.\n3) Für benötigte Flächen einen Antrag auf Waldumwandlung stellen und nach einem \npositiven Abschluss des Verfahrens die Flächen von der BSG zu pachten, um diese \nsodann an die Anwohner/Kleingärtner weiter zu verpachten.\n4) Zu überwachen, ob es in den Jahren 2026 und 2027 durch den Wegfall von Parkplätzen \nim Jenbacher Weg in den angrenzenden Straßen - Schütte-Lanz-Straße, Achenseeweg, \nStanzer Zeile, Sondershauser Straße - zu einer erhöhten Park- und Verkehrsbelastung \nkommt und das Ergebnis dem zuständigen Ausschuss der BVV mitzuteilen.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "996/VI",
@@ -35589,7 +36424,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, gegenüber der Sundgauer Straße 109 mindestens einen \nVerkehrsspiegel aufzustellen. Auf der Höhe Sundgauer Straße 109 befinden sich zwei \nParkplätze. Beim Verlassen der Parkplätze ist die Sicht in den fließenden Verkehr sehr stark \neingeschränkt, sodass gegenüber aufgestellte Spiegel zur Verkehrssicherheit beitragen \nwürden.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "998/VI",
@@ -35629,7 +36465,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, in allen Kabinen von Damen-Toiletten des Bezirksamts mit \nPublikumsverkehr den mehrsprachigen Abreißzettel “Hilfetelefon Gewalt gegen Frauen“ des \nBundesamts für Familie und zivilgesellschaftliche Aufgaben aufzuhängen. Neben \nbezirklichen Einrichtungen sollen geförderte Einrichtungen zu dieser Maßnahme ermutigt \nwerden. Des Weiteren ist zu prüfen, inwieweit auch in den Toilettenräumen von Männern \nHilfsangebote für Gewalt gegen Männer angebracht werden können. Hierbei kann sich an \ndem „Hilfetelefon – Gewalt gegen Männer“ orientiert werden.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "999/VI",
@@ -35685,7 +36522,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, den bisher namenlosen Platz an der Ecke Borussenstraße/Am \nBeelitzhof/Münchowstraße in Helene-Stöcker-Platz zu benennen. Zur Einweihung soll der \nPlatz eine Gedenktafel sowie eine neue Sitzbank und einen Abfallbehälter erhalten. Das \nGrünflächenamt soll den Platz fortan regelmäßig pflegen.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1000/VI",
@@ -35736,7 +36574,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich bei den zuständigen Stellen für die Einführung von \nTempo 30 auf der gesamten Lorenzstraße zu den Schul- und Hortzeiten einzusetzen und zu \nprüfen, ob durch Querungshilfen die Übergänge auf der Kreuzung Lorenzstraße/Jägerstraße \nsicherer gestaltet werden können.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1001/VI",
@@ -35786,7 +36625,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, am 7. Oktober jährlich die israelische Flagge zu hissen und um \n12 Uhr eine öffentliche Schweigeminute abzuhalten, zu der alle Bürgerinnen und Bürger \neingeladen sind, um der Opfer des Anschlags auf Israel vom 7. Oktober 2023 zu gedenken.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1002/VI",
@@ -35830,7 +36670,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, vor dem ehemaligen Wohnhaus von Hannah Arendt in der \nOpitzstraße 6 eine Gedenk- und Informationsstele zu errichten, die Auskunft über das Leben \nund Wirken dieser bedeutenden politischen Theoretikerin gibt.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1003/VI",
@@ -35880,7 +36721,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, das Denkmal für die gefallenen Soldaten des 1. Weltkriegs \n(1914-1918) auf dem ehemaligen Dahlemer Dorfanger, Kreuzung Königin-Luise-Straße/Ecke \nPacelli- und Thielallee, in einen würdevollen, die Zeiten überdauernden Zustand, unter \nEinbeziehung des gesamten Grünflächenareals, zu bringen.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1004/VI",
@@ -35925,7 +36767,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, im öffentlichen Bereich bei längst beendeten Baustellen dafür \nzu sorgen, dass hier rasch Straßenbaugitter, dazu passende Füße, Barken und \nBlinkleuchten, abgeräumt werden. Steglitz-Zehlendorfer Straßen und Bürgersteige sind kein \nkostenloser Lagerraum.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1005/VI",
@@ -35971,7 +36814,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, wie an der B 1 in der Berliner Straße – Abschnitt \nHausnummern 8 bis 14 – die Sicherheit für die Grundschulkinder der St.-Ursula-Schule \nverbessert werden kann und ob beispielsweise ein Dialogdisplay, das auf die Schulkinder \nund die Geschwindigkeit der Auto-, Motorrad-, LKW- und Busfahrer hinweist, sensibilisieren \nkann. Dem zuständigen Ausschuss ist innerhalb von 6 Monaten zu berichten.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1007/VI",
@@ -36011,7 +36855,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, wie die Beleuchtungssituation auf dem Asternplatz \nverbessert werden kann.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1010/VI",
@@ -36055,7 +36900,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt möge an die zuständigen Stellen herantreten, um zu erreichen, dass der S-\nBahnbetrieb \n(Bahnhofsbeleuchtung, \nStellwerksbetrieb) \nunabhängig \nvom \nsonstigen \nStromnetz gewährleistet ist.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1011/VI",
@@ -36093,7 +36939,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, Vorsorge dafür zu treffen, dass zumindest für das Rathaus \nZehlendorf bei einer etwaigen Unterbrechung der öffentlichen Stromversorgung weiterhin \neine Stromversorgung sichergestellt ist.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1012/VI",
@@ -36133,7 +36980,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, zusammen mit den zuständigen Stellen (z.B. auch dortige \nHausverwaltung) zu prüfen, ob und wie die Gedenktafel für Moritz Feidt im Eingangsbereich \ndes Hauses Schloßstraße 97 gereinigt und ggf. durch hellere Hervorhebung der Schrift \nbesser sichtbar gemacht werden kann.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1013/VI",
@@ -36173,7 +37021,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nFemizide sind Ausdruck einer tief verankerten strukturellen Gewalt gegen Frauen. Sie stellen \nein gesellschaftliches Problem dar, das tödlich endet und das entschlossenes Handeln auf \nallen politischen und gesellschaftlichen Ebenen erfordert.\nDie Bezirksverordnetenversammlung Steglitz-Zehlendorf erklärt: Steglitz-Zehlendorf darf kein \nOrt sein, an dem Gewalt gegen Frauen hingenommen wird. Jede Frau hat ein Recht auf \nSchutz, Sicherheit und ein Leben in Freiheit – überall und jederzeit.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1015/VI",
@@ -36217,7 +37066,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob ein Online-Angebot eingerichtet werden kann, in \ndem \nBürger*innen \nniedrigschwellig \nleerstehende \nGewerbeflächen \nmelden \nkönnen. \nGleichzeitig sollen sich Gewerbetreibende, Handwerker*innen oder Akteur*innen der \nZivilgesellschaft \nRaumbedarf \nin \neinem \nsolchen \nPortal \nanmelden \nkönnen. \nAuch \nEigentümer*innen sollen Leerstände dort eintragen können. Ziel soll sein, leerstehende \nGewerbeflächen zeitnah wieder vermietet zu bekommen und Dauerleerstand zu vermeiden. \nEine solche Plattform soll zunächst für eine Pilotphase von zwei Jahren getestet und bei \nerfolgreicher Implementierung verstetigt werden. Zur Finanzierung soll das Einwerben von \nFördermitteln geprüft werden. Ebenfalls geprüft werden soll eine Kooperation mit anderen \nBerliner Bezirken bzw. anderen Kommunen.\nDem zuständigen Fachausschuss der BVV soll regelmäßig Bericht erstattet werden.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1017/VI",
@@ -36267,7 +37117,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, an der Ecke Am Hegewinkel/Carpinusweg auf der dem \nCarpinusweg gegenüberliegenden Seite (Wilma-Rudolph-Schule) zwei Bänke aufzustellen.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
-    }
+    },
+    null
   ],
   [
     "1019/VI",
@@ -36294,7 +37145,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht,\n1) eine bezirkliche Spendenaktion „Wasser für Obdachlose\" analog zur erfolgreichen \nKaffeewette in Berlin zu etablieren und diese jährlich in den Sommermonaten (Juni bis \nAugust) durchzuführen,\n2) als Ziel der Aktion die Sammlung von mindestens 1.000 Flaschen Mineralwasser (stilles \nund kohlensäurehaltiges Wasser, jeweils 0,7-1,5 Liter) festzulegen,\n3) Sammelstellen in beiden Rathäusern (Zehlendorf und Steglitz) sowie in weiteren \nöffentlichen Einrichtungen des Bezirks einzurichten,\n4) die gesammelten Wasserflaschen an lokale Kältehilfe- und Obdachloseneinrichtungen im \nBezirk zu verteilen, insbesondere an die Milaa gGmbH für die „Aktion WarmesEssen\" in \nder Paulus-Kirche Zehlendorf und an den DRK Obdachbus im Bezirk,\n5) lokale Einzelhändler, Getränkehersteller und Unternehmen als Kooperationspartner zu \ngewinnen, die bei Erreichen des Sammelziels eine zusätzliche Geldspende für die \nObdachlosenhilfe im Bezirk bereitstellen,\n6) die Aktion durch geeignete Öffentlichkeitsarbeit in Pressemitteilungen, auf der \nBezirkswebsite und in sozialen Medien bekannt zu machen und Bürgerinnen und Bürger \nzur Teilnahme aufzurufen.\nBezirksverordnetenvorsteher\n22.04.2026",
       "beschlussdatum": "22.04.2026"
-    }
+    },
+    null
   ],
   [
     "1020/VI",
@@ -36352,7 +37204,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, mit welchen Maßnahmen der Durchgangsverkehr \ngerade vor der Kita reduziert werden kann.\nBezirksverordnetenvorsteher\n22.04.2026",
       "beschlussdatum": "22.04.2026"
-    }
+    },
+    null
   ],
   [
     "1021/VI",
@@ -36398,7 +37251,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in der Nähe des Eingangsbereichs der Kleinen Anna-\nEssinger-Schule in der Straße Am Rohrgarten ein zeitlich begrenztes absolutes Halteverbot \nmit Ausnahme für den Fahrdienst anzuordnen und ein Dialogdisplay in der Lissabonallee in \nHöhe der Einmündung Lindenthaler Allee aufzustellen.\nBezirksverordnetenvorsteher\n22.04.2026",
       "beschlussdatum": "22.04.2026"
-    }
+    },
+    null
   ],
   [
     "1022/VI",
@@ -36436,7 +37290,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich mit den jeweiligen Betreibern in Verbindung zu setzen, \num folgende Maßnahmen zu prüfen und umzusetzen:\n1) Das ohnehin nicht mehr funktionierende, vormals öffentliche Telefon zeitnah abzubauen. \n2) Den verschmutzten Briefkasten am Bahnhof bei der Deutschen Post zu melden und eine \nzeitnahe Reinigung anzufordern.\n3) Die Bahnhofsuhr so instand zu setzen, dass diese dauerhaft dem Bürger anzeigt, dass \ndie Stunde geschlagen hat.\n4) Verschmutzte Straßen-, Gebots- und Verbotsschilder zu reinigen.\nBezirksverordnetenvorsteher\n22.04.2026",
       "beschlussdatum": "22.04.2026"
-    }
+    },
+    null
   ],
   [
     "1023/VI",
@@ -36474,7 +37329,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die Deutschen Bahn als Eigentümerin aufzufordern, die \nBodenreinigung im Vorraum des S-Bahnhofs Wannsee sowie in den Zugangsbereichen zu \nden Bahnsteigen zu verbessern. Dabei soll insbesondere sichergestellt werden, dass \ngeeignete Reinigungstechniken und ausreichend frisches Wasser eingesetzt werden, um \neine gründliche und hygienische Reinigung zu gewährleisten.\nBezirksverordnetenvorsteher\n22.04.2026",
       "beschlussdatum": "22.04.2026"
-    }
+    },
+    null
   ],
   [
     "1024/VI",
@@ -36512,7 +37368,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert zu prüfen, inwieweit am Ausgang Dreillindenstraße des \nS-Bahnhofs Wannsee eine zusätzliche Beleuchtung installiert werden kann. Ziel ist es, \nsowohl die objektive Sicherheit als auch das subjektive Sicherheitsgefühl zu erhöhen. Dabei \nsollte auch der unbeleuchtete Fahrradstellplatz am Ausgang berücksichtigt werden, da eine \nhelle, aktive Beleuchtung das Risiko von Fahrraddiebstählen deutlich verringert. Außerdem \nsollte der Fußweg von der Dreilindenstraße zur Potsdamer Chaussee mit hellem Split \naufgeschüttet werden, um die Begehbarkeit zu verbessern und insbesondere im Winter die \nRutschgefahr zu reduzieren. \nBezirksverordnetenvorsteher\n22.04.2026",
       "beschlussdatum": "22.04.2026"
-    }
+    },
+    null
   ],
   [
     "1025/VI",
@@ -36558,7 +37415,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nIn § 14 wird ein neuer Absatz 6a eingefügt: „Das Kinder- und Jugendparlament Steglitz-\nZehlendorf ist zu allen öffentlichen Sitzungen unter Beifügung der Tagesordnung und der \nBeratungsunterlagen einzuladen. Der/dem BV ist die jeweilige Vertretung durch den \nVorstand oder die Geschäftsstelle des Kinder- und Jugendparlaments zu bezeichnen_._“\nIn § 14 wird ein neuer Absatz 6b eingefügt: “Sofern Anträge des Kinder- und \nJugendparlaments durch den Ausschuss oder die BVV abgelehnt werden, sind die Gründe in \nder Beschlussempfehlung des Ausschusses bzw. im Protokoll der BVV in für junge \nMenschen möglichst verständlicher Sprache festzuhalten. Wird als Ablehnungsgrund tätiges \nVerwaltungshandeln festgestellt, ist die Dokumentation des Verwaltungshandelns des \nBezirksamtes \nder \nBeschlussempfehlung \nanzufügen. \nDie \nentsprechenden \nBeratungsvorgänge sind der Kinder- und Jugendvertretung zuzuleiten.”\nIn § 14 Absatz 7 Satz 3 wird hinter „Seniorenvertretung“ ergänzt: „und dem/der Vertreter/in \ndes Kinder- und Jugendparlaments“.\nIn § 16 wird ein neuer Absatz 4 eingefügt (die Nummer der nachfolgenden Absätze wird \nentsprechend angepasst): „Das Kinder- und Jugendparlament hat das Recht, Anträge mit \nkommunalpolitischem Bezug in die BVV einzubringen. Absatz 1 gilt entsprechend. Diese \nAnträge werden der/dem BV zugeleitet, die/der die Anträge auf die Tagesordnung der \nnächsten BVV setzt. § 20 Abs. 1 und 2 gelten entsprechend. Anträge ohne",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "1026/VI",
@@ -36604,7 +37462,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, ein Kinder- und Jugendparlament für den Bezirk Steglitz-\nZehlendorf einzurichten. Das Kinder- und Jugendparlament soll sich aus Vertreter*innen der \nbezirklichen \nSchulen \nund \nSchulen \nin \nfreier \nTrägerschaft \nsowie \nder \nJugendfreizeiteinrichtungen zusammensetzen, wobei jede Schule und jede Einrichtung eine \nvon vornherein begrenzte Anzahl junger Menschen unter 21 Jahren entsenden können soll. \nDie Zahl der gewählten Vertreter*innen je Schule und Einrichtung muss dabei eine \nausgewogene Zusammensetzung des Kinder- und Jugendparlaments sicherstellen. Die \nVertreter*innen sind von den Schüler*innen der jeweiligen Schule bzw. den regelmäßigen \nBesucher*innen der Jugendfreizeiteinrichtungen in direkter und geheimer Wahl zu \nbestimmen. \nDas Kinder- und Jugendparlament soll sich eine Geschäftsordnung geben, in der es \nEinzelheiten zum Wahl- und Entsendungsprozess festlegt. In dieser soll es auch über seine \nArbeitsweise eigenständig entscheiden. Darüber hinaus sollen demokratische, den Zielen \ndes Grundgesetzes verpflichtete Jugendorganisationen und -verbände ohne darüber \nhinausgehende politische Bekenntnisse im Bezirk sowie Jugendgruppen der bezirklichen \nSportvereine einbezogen werden, um eine Beteiligung an den Wahlen zu ermöglichen. Die \nVorgaben \nfür \nSchulen \nund \nJugendfreizeiteinrichtungen \ngelten \nentsprechend. \nVoraussetzungen für die Beteiligung sind durch die Geschäftsordnung des Kinder- und \nJugendparlamentes festzulegen, wobei eine ausgewogene Vertretung der verschiedenen \nOrganisationen und eine möglichst gleichmäßige Abbildung der Ortsteile zu gewährleisten \nist.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "1027/VI",
@@ -36660,7 +37519,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Wolzogenstraße wird ab sofort in Erinnerung an ihr literarisches Wirken „Caroline von \nWolzogen“ gewidmet.\nDie Erläuterungstafeln unter den Straßenschildern sind durch das Bezirksamt zeitnah \nauszutauschen bzw. neu anzubringen.\nBezirksverordnetenvorsteher\n22.04.2026",
       "beschlussdatum": "22.04.2026"
-    }
+    },
+    null
   ],
   [
     "1028/VI",
@@ -36684,7 +37544,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Royal Rangers-Stamm 590 wird für die Anschaffung einer Jurte aus Sondermitteln der \nBVV ein Betrag bis zur Höhe von\n1.350 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1029/VI",
@@ -36708,7 +37569,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Brains and Bridges - Knowledge connects e.V wird für die Durchführung des Projekts \n„Kunst gegen Mauern“ aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n4.250 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1030/VI",
@@ -36732,7 +37594,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Vajswerk e.V wird für die Durchführung des Theaterprojekts „Lotte und Käthe \nLaserstein“ aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n6.000 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1031/VI",
@@ -36756,7 +37619,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bildung und Gesellschaft e.V. wird für die Anschaffung von Förderboxen Mathematik \nund Deutsch aus Sondermitteln der BVV ein Betrag bis zur Höhe von\n1.100 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1032/VI",
@@ -36773,7 +37637,8 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "20.05.2026",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "1033/VI",
@@ -36802,7 +37667,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich erneut und nachdrücklich bei den zuständigen Stellen \ndafür einzusetzen, dass die Areale rund um die Unterstützungskonstruktion unter der \nAutobahnbrücke der A 103 am Rathaus Steglitz jetzt zeitnah und künftig in regelmäßigen \nAbständen gereinigt werden.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1035/VI",
@@ -36882,7 +37748,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht,\n1) nach der anstehenden Stellenerweiterung des bezirklichen Katastrophenschutzes bis zum \n31.12.2026 in Zusammenarbeit mit dem Senat ein Planspiel oder vergleichbare \nÜbungsformate zur Stärkung der bezirklichen Resilienz gegen hybride Bedrohungen zu \nkonzipieren und durchzuführen, \n2) hierfür mit Hilfe des Katastrophenschutzes relevante bezirkliche und übergeordnete \nAkteure einzubeziehen, \n3) externe Expertise zur professionellen Durchführung der Übung hinzuzuziehen, \n4) die \nBezirksverordnetenversammlung \nbinnen \n6 \nMonaten \nnach \nAbschluss \ndes \nÜbungsformates über die Ergebnisse und abgeleiteten Maßnahmen zur Verbesserung \nder bezirklichen Resilienz zu informieren; sicherheitsrelevante Übungsergebnisse können \nin nichtöffentlicher Sitzung behandelt werden. \nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1036/VI",
@@ -36968,7 +37835,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert zu prüfen, ob die Errichtung eines Parkhauses in \nLeichtbauweise am S-Bahnhof Wannsee städtebaulich möglich ist und welche Änderungen \nvorgenommen werden müssen. Hierbei sollen insbesondere Gespräche mit der Deutschen \nBahn aufgenommen werden. Das Parkhaus soll neben Stellplätzen für Pkw im Erdgeschoss \nauch sichere Abstellmöglichkeiten für Fahrräder bieten, insbesondere für hochwertige \nFahrräder und E-Bikes. Es soll zudem geprüft werden, ob das Grundstück an einen privaten \nDienstleister verpachtet werden kann, der den Bau sowie den Betrieb des Parkhauses \nübernimmt.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1038/VI",
@@ -37030,7 +37898,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sich bei den zuständigen Stellen dafür einzusetzen, dass \nauf der Breisgauer Straße in Schlachtensee dauerhaft ein Zebrastreifen südlich der S-Bahn-\nUnterführung - in der Nähe der Einmündung der Altvaterstraße - angelegt wird. Zudem soll \nsich bei den zuständigen Stellen dafür eingesetzt werden, dass an der Ausfahrt vom \nParkplatz „REWE“ in die Breisgauer Straße ein Stop-Schild bzw. ein anderer geeigneter \nHinweis angebracht wird, der darauf hinweist, dass der vom Parkplatz ausfahrende Verkehr \nkeine Vorfahrt hat.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1039/VI",
@@ -37075,7 +37944,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, das Pilotprojekt des Senates Wahlpflichtfach „Retten und \nSchützen“ gegenüber den Schulen im Bezirk zu bewerben und in Zusammenarbeit mit dem \nSenat auch in Steglitz-Zehlendorf auf eine Einführung hinzuwirken. Das Bezirksamt möge \ndazu nicht nur den Urheber, die Berliner Feuerwehr, sondern auch die lokalen Gliederungen \nder Blaulichtorganisationen, wie beispielsweise das THW einbinden.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1040/VI",
@@ -37128,7 +37998,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, im Bereich bzw. im näheren Umfeld des Flensburger Löwen \neinen Boule-Platz einzurichten.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1041/VI",
@@ -37178,7 +38049,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich in der Thielallee auf Höhe des Corrensplatzes (ggf. in \nZusammenarbeit mit den zuständigen Stellen) für einen durchgehenden befestigten Fußweg \neinzusetzen.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1043/VI",
@@ -37230,7 +38102,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, gemeinsam mit den Verantwortlichen der Steglitzer \nFestwoche dafür Sorge zu tragen, dass mehr Möglichkeiten zur ordnungsgemäßen \nEntsorgung von Zigaretten geschaffen werden.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1044/VI",
@@ -37282,7 +38155,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich beim Senat von Berlin dafür einzusetzen oder in eigener \nZuständigkeit sicherzustellen, dass das folgende Sofortprogramm für eine krisenfeste und \nresiliente Energieversorgung in Steglitz-Zehlendorf und Berlin umgesetzt wird.\n\nZentrale Energie-Krisenkoordination einrichten\nEs \nsoll \nein \ndauerhaft \narbeitsfähiger \nKrisenstab \ngeschaffen \nwerden, \nin \ndem \nVerantwortlichkeiten \nvon \nNetzbetreibern, \nEinsatzkräften, \nBezirken \nund \nSenat \nzusammenlaufen und der klare Zuständigkeiten definiert.\n\nBezirke verbindlich vorbereiten\nJeder Bezirk soll geprüfte Blackout-Notfallpläne vorhalten, mit Notanlaufstellen, \nWärmestuben, Notstromversorgung und zusätzlicher Unterstützung für vulnerable \nGruppen. Hilfe darf kein Zufall sein. Ziel soll es sein, innerhalb von drei Stunden nach \nFeststellung des Ausfalls alle Kernstrukturen einsatzfähig zu haben.\n\nNotstrom-Pool aufbauen\nAuf Landesebene soll ein zentraler Pool mobiler Notstromaggregate aufgebaut werden, \npriorisiert für Krankenhäuser, Pflegeeinrichtungen, Wasserwerke, Leitstellen und \nMobilfunkstandorte. Wartung, Standortplanung und betriebsfertige Reservebestände sind \nzentral zu koordinieren.\n\nKrisenkommunikation sicherstellen\nSchnelle, transparente und informative Krisenkommunikation soll auch offline, über \npriorisierten Rundfunk, lokale Informationspunkte und deutliche Aushänge in den Kiezen \ngewährleistet werden. Transparente Information schafft Vertrauen. Diese Anlaufstellen \nsollen fester Bestandteil des kommunalen Alltagswissens sein.\n\nOrganisierte Hilfe klug nutzen\nRessourcen von Freiwilligennetzwerken, Reservisten, Bundeswehrangehörigen und \nkirchlichen Strukturen dürfen nicht ungenutzt bleiben. Im Rahmen der zentralen \nKrisenkoordination soll organisatorische sowie rechtliche Klarheit gewährleistet und der \nzielgerichtete Einsatz aller Hilfsmittel sichergestellt werden.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "1045/VI",
@@ -37334,7 +38208,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDer Bezirk Steglitz-Zehlendorf wird aufgefordert, dass alle öffentlichen wie auch privaten \nEinrichtungen, die der kritischen Infrastruktur zuzurechnen sind, ihre elektrischen \nHausanschlüsse dahingehend vorbereiten, dass sie im Falle eines Stromausfalls ohne \nZeitverlust an mobile Notstromaggregate angeschlossen werden können, sofern sie nicht \nüber \nfestverbaute \nNotstromaggregate \nverfügen \n(z.B. \nKrankenhäuser). \nZu \ndiesen \nEinrichtungen zählen u.a. öffentliche Verwaltungsgebäude, Alten- und Pflegeheime, \nMedizinische Einrichtungen, Kitas, Schulen, Supermärkte, Baumärkte und weitere zu \ndefinierenden Einrichtungen. Die Hausanschlüsse sind so zu gestalten, dass\n\neine Netztrennung per Schalthandlung möglich ist\n\nden einfachen Anschluss der Notstromversorgung ermöglicht, ggf. außerhalb des \nGebäudes – unwesentliche Verbraucher ggf. abgetrennt werden können\n\ndie benötigte Notstromleistung bekannt ist\n\nder Aufstellort der Notstromaggregate definiert ist.\n\nEntsprechende Hinweise sind in einem Notfallplan zu dokumentieren, der auch \nInformationen enthält, wo die passenden Notstromaggregate beschafft werden können.\nDie genannte Vorbereitung ist für öffentliche Gebäude verpflichtend und für private \nEinrichtungen empfohlen.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1049/VI",
@@ -37381,7 +38256,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie Bezirksverordnetenversammlung dankt allen Hilfsorganisationen und allen Helfern für \nihren großartigen Einsatz während des Stromausfalls und bittet darüber hinaus das \nBezirksamt, diese auch entsprechend zu würdigen.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1050/VI",
@@ -37425,7 +38301,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Widerstandsakteurin, Pädagogin, Sozialistin und Enkelin \nvon Gustav Lilienthal, Anna Sabine Halle, in die bezirkliche Straßenbenennungsliste \naufzunehmen. Die damit verbundene Ehrung von Anna Sabine Halle soll auch stellvertretend \nfür ihre Eltern Olga und Gerhard Halle verstanden werden.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1053/VI",
@@ -37478,7 +38355,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber dem Land Berlin und bei den zuständigen \nStellen im Rahmen eines geeigneten Förderprogramms dafür einzusetzen, dass das \nsogenannte Lern- und Therapiebad PrimaVita-Bad am Teltower Damm in die Förderung \neinbezogen wird.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1054/VI",
@@ -37528,7 +38406,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nMaren Schellenberg",
       "antwort": "Hierzu wird Folgendes berichtet: Die Feier zur Einweihung der umgestalteten Ronnebypromenade fand am 22. Mai 2026 um 15 Uhr \nvor Ort statt. Eingeladen waren neben einer Delegation aus Ronneby auch politische VerteterInnen \naus dem Bezirk, die Sportvereine sowie Bürgerinnen und Bürger. Neben Musikalischen Darbietun-\ngen der Leo-Borchard Musikschule berichtete die Landschaftsarchitektin Frau Hutter von den Bau-\narbeiten und bot eine Führung zur Anlage an. Interessierte konnten außerdem mit dem Schiff „MS \nMoby Dick“ eine Wannseefahrt unternehmen. Die neugestaltete große Freifläche eignet sich, um \nkleine Veranstaltungen durchzuführen, diese werden bei Antrag wohlwollend durch das Straßen- \nund Grünflächenamt geprüft. Maren Schellenberg",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    "vollstaendig-umgesetzt"
   ],
   [
     "1059/VI",
@@ -37539,7 +38418,8 @@ var D=[
     "offen",
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9797",
     "Ordnung, Umwelt- und Naturschutz, Straßen und Grünflächen",
-    {}
+    {},
+    null
   ],
   [
     "1060/VI",
@@ -37580,7 +38460,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, auf den Asphalt im Nieritzweg „Achtung 30km/h“ und „Achtung \nKinder“ aufzubringen, um den dortigen Schulweg zu sichern.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1061/VI",
@@ -37618,7 +38499,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen und ggf. gleich umzusetzen, ob ein Stoppschild \n(Zeichen 206 StVO) in der Gutzmannstraße an der Einmündung zur Machnower Straße \nsowie an der Straße Am Buschgrabenweg, insbesondere vor dem dort verlaufenden Geh- \nund Radweg errichtet werden kann.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1062/V",
@@ -37659,7 +38541,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert, sich bei den zuständigen Stellen dafür einzusetzen, dass \nsich die Planungen für die zukünftige Nutzung des Geländes des ehemaligen Tanklagers \nLankwitz prioritär auf den Wohnungsbau konzentrieren. Höchstens 30 Prozent der Fläche \nsollen für die Entwicklung von Gewerbebetrieben beachtet werden.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ],
   [
     "1064/VI",
@@ -37715,7 +38598,8 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich für die folgenden Anliegen bei den zuständigen Stellen \neinzusetzen, soweit es diese, wozu es hierdurch ersucht wird, nicht selbst umsetzen kann:\n1) Schulische Präventionsarbeit verbindlich zu stärken:\n\nEinführung regelmäßiger Workshops und Projekttage zum Thema Antisemitismus und \nIsraelfeindlichkeit in Kooperation mit anerkannten Trägern und Experten.\n\nVerpflichtende Fortbildungen für Lehrkräfte und Sozialarbeitende mindestens einmal \njährlich.\n\nSystematische Erhebung und Evaluation bestehender schulischer Angebote zur \nAntisemitismusprävention.\n1) Digitale Präventionsarbeit auszubauen:\n\nEntwicklung und Umsetzung bezirkseigener Online-Präventionskampagnen gegen \nAntisemitismus in Kooperation mit Fachstellen und Medienpädagogen.\n\nUnterstützung von Jugendzentren bei der digitalen Aufklärungsarbeit, etwa durch \nWorkshops zur Medienkompetenz und zum Erkennen von Hassinhalten im Netz.\n\nFörderung von Projekten, die gezielt Jugendliche als Multiplikator*innen in sozialen \nMedien einbinden.\n2) Verbindliche Strukturen für den Umgang mit Vorfällen zu schaffen:\n\nEtablierung eines bezirksweiten Meldesystems für antisemitische Vorfälle an Schulen \nund in Jugendeinrichtungen.\n\nEinrichtung eines bezirklichen Krisenteams, das Einrichtungen im Umgang mit \nantisemitischen Vorfällen unterstützt und Handlungssicherheit gibt.",
       "erledigtkategorien": "keine-antwort"
-    }
+    },
+    null
   ],
   [
     "1066/VI",
@@ -37744,895 +38628,9 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich mit Nachdruck für die schnellstmögliche Sanierung des \nStadtbads Lankwitz einzusetzen und ein weiteres Anwachsen des Investitionsstaus sowie \neine dadurch bedingte Schließung zu verhindern. Den Berliner Bäderbetrieben ist mit \nNachdruck zu verdeutlichen, dass Steglitz-Zehlendorf keinen Verlust weiterer öffentlicher \nSchwimmflächen verkraften kann, da dies vor allem zu Lasten der Jugend und der \nSportvereine geht.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
-    }
+    },
+    null
   ]
-];
-var E=[
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "nicht-umsetzbar",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "teilweise-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "nicht-umsetzbar",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "nicht-umsetzbar",
-  null,
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "nicht-umsetzbar",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "sonstiges-unklar",
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  "sonstiges-unklar",
-  "nicht-umsetzbar",
-  null,
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "bereits-gaengige-praxis",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "laufender-prozess",
-  null,
-  "bereits-gaengige-praxis",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "sonstiges-unklar",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "nicht-umsetzbar",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "nicht-umsetzbar",
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "keine-zustaendigkeit",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  "laufender-prozess",
-  "nicht-umsetzbar",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "sonstiges-unklar",
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "sonstiges-unklar",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "nicht-umsetzbar",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "nicht-umsetzbar",
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "nicht-umsetzbar",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  "nicht-umsetzbar",
-  "nicht-umsetzbar",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  "sonstiges-unklar",
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "laufender-prozess",
-  "nicht-umsetzbar",
-  "nicht-umsetzbar",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  "keine-zustaendigkeit",
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "laufender-prozess",
-  "nicht-umsetzbar",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "sonstiges-unklar",
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "nicht-umsetzbar",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  "nicht-umsetzbar",
-  null,
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  "nicht-umsetzbar",
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "vollstaendig-umgesetzt",
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  "laufender-prozess",
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  null,
-  "nicht-umsetzbar",
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "nicht-umsetzbar",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  "nicht-umsetzbar",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  "laufender-prozess",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  "vollstaendig-umgesetzt",
-  null,
-  null,
-  null,
-  null,
-  null,
-  null
 ];
 var Z={
   "OrdUmNatSGA": {
