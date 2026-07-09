@@ -165,14 +165,13 @@
 
   /* Erledigt subcategory badges */
   .ekat-badge{display:inline-block;padding:2px 7px;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:0;margin-top:3px;}
-  .ekat-umgesetzt_vollstaendig{background:#e8f5e9;color:#1b5e20;border:1.5px solid #2e7d32;}
-  .ekat-umgesetzt_teilweise{background:#fff8e1;color:#795548;border:1.5px solid #a1887f;}
-  .ekat-prozess_eingeleitet{background:#e3f2fd;color:#0d47a1;border:1.5px solid #1565c0;}
-  .ekat-weitergeleitet_keine_zustaendigkeit{background:#fce4ec;color:#880e4f;border:1.5px solid #c2185b;}
-  .ekat-gespraech_ohne_ergebnis{background:#fff3e0;color:#bf360c;border:1.5px solid #e64a19;}
-  .ekat-rechtlich_nicht_umsetzbar{background:#efebe9;color:#4e342e;border:1.5px solid #6d4c41;}
-  .ekat-nur_information_bereitgestellt{background:#e8eaf6;color:#1a237e;border:1.5px solid #283593;}
-  .ekat-keine_antwort{background:#f5f5f5;color:#616161;border:1.5px solid #9e9e9e;}
+  .ekat-vollstaendig-umgesetzt{background:#e8f5e9;color:#1b5e20;border:1.5px solid #2e7d32;}
+  .ekat-teilweise-umgesetzt{background:#fff8e1;color:#795548;border:1.5px solid #a1887f;}
+  .ekat-laufender-prozess{background:#e3f2fd;color:#0d47a1;border:1.5px solid #1565c0;}
+  .ekat-keine-zustaendigkeit{background:#fce4ec;color:#880e4f;border:1.5px solid #c2185b;}
+  .ekat-nicht-umsetzbar{background:#efebe9;color:#4e342e;border:1.5px solid #6d4c41;}
+  .ekat-bereits-gaengige-praxis{background:#e8eaf6;color:#1a237e;border:1.5px solid #283593;}
+  .ekat-sonstiges-unklar{background:#f5f5f5;color:#616161;border:1.5px solid #9e9e9e;}
 </style>
 </head>
 <body>
@@ -198,14 +197,13 @@
     <select id="ss">
       <option value="">Alle Status</option>
       <option value="erledigt">✓ Erledigt (alle)</option>
-      <option value="ekat:umgesetzt_vollstaendig">  └ Vollständig umgesetzt</option>
-      <option value="ekat:umgesetzt_teilweise">  └ Teilweise umgesetzt</option>
-      <option value="ekat:prozess_eingeleitet">  └ Prozess eingeleitet</option>
-      <option value="ekat:weitergeleitet_keine_zustaendigkeit">  └ Weitergeleitet</option>
-      <option value="ekat:gespraech_ohne_ergebnis">  └ Gespräch ohne Ergebnis</option>
-      <option value="ekat:rechtlich_nicht_umsetzbar">  └ Nicht umsetzbar</option>
-      <option value="ekat:nur_information_bereitgestellt">  └ Nur Information</option>
-      <option value="ekat:keine_antwort">  └ Keine Antwort</option>
+      <option value="ekat:vollstaendig-umgesetzt">  └ Vollständig umgesetzt</option>
+      <option value="ekat:teilweise-umgesetzt">  └ Teilweise umgesetzt</option>
+      <option value="ekat:laufender-prozess">  └ Laufender Prozess</option>
+      <option value="ekat:keine-zustaendigkeit">  └ Keine Zuständigkeit</option>
+      <option value="ekat:nicht-umsetzbar">  └ Nicht umsetzbar</option>
+      <option value="ekat:bereits-gaengige-praxis">  └ Bereits gängige Praxis</option>
+      <option value="ekat:sonstiges-unklar">  └ Sonstiges/Unklar</option>
       <option value="offen">◎ Offen</option>
       <option value="zwischenbericht">~ Zwischenbericht</option>
     </select>
@@ -254,13 +252,16 @@
 </div>
 <script src="data.js"></script>
 <script>
-var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{}};});
-var EKAT_LABELS={"umgesetzt_vollstaendig": "✓ Vollständig umgesetzt", "umgesetzt_teilweise": "◑ Teilweise umgesetzt", "prozess_eingeleitet": "⟳ Prozess eingeleitet", "weitergeleitet_keine_zustaendigkeit": "→ Weitergeleitet", "gespraech_ohne_ergebnis": "◌ Gespräch ohne Ergebnis", "rechtlich_nicht_umsetzbar": "✕ Nicht umsetzbar", "nur_information_bereitgestellt": "ℹ Nur Information", "keine_antwort": "? Keine Antwort"};
+// ZUST_ALIAS: normalize raw Zuständigkeit codes that vary in casing in the source data
+// (e.g. some rows use "BiKuSpo" instead of the canonical "BikuSpo") so the Zuständigkeit
+// filter dropdown matches every row.
+var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
+var DATA=D.map(function(r,idx){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:E[idx]||""};});
+var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar"};
 function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;return '<div class="ekat-badge ekat-'+ekat+'">'+e(lbl)+'</div>';}
-DATA.forEach(function(b){b.ekat=(b.s&&b.s.erledigt_kategorie)||EKAT[b.ds]||"";});
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
-function iA(b){if(b.status==="entfaellt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
-var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',entfaellt:'<span class="badge bf">– Entfällt</span>',zwischenbericht:'<span class="badge bz">~ Zwischenbericht</span>'};
+function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
+var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',"entfällt":'<span class="badge bf">– Entfällt</span>',zwischenbericht:'<span class="badge bz">~ Zwischenbericht</span>'};
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
 var view="table",filt=[],activeParties=new Set(),showA=false;
@@ -444,7 +445,7 @@ function openD(idx){
     h+='<div class="ms"><div class="ms-title">Antwort des Bezirksamts</div>';
     if(s.berichterstatter){h+='<div style="font-size:11px;color:var(--mid);margin-bottom:8px">Berichterstatter: '+e(s.berichterstatter)+'</div>';}
     h+='<div class="at-box">'+e(cleanText(s.antwort))+'</div>';
-    if(s.erledigt_vermerk){h+='<div class="ev-box">'+e(s.erledigt_vermerk)+'</div>';}
+    if(s.erledigtvermerk){h+='<div class="ev-box">'+e(cleanText(s.erledigtvermerk))+'</div>';}
     h+='</div>';
   }
 
