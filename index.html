@@ -86,7 +86,7 @@
   .rz{font-size:12px;}
   .rz-sub{font-size:10px;color:var(--mid);margin-top:2px;font-weight:600;}
   .rs{display:flex;align-items:flex-start;padding-top:12px;}
-  .badge{display:inline-block;max-width:100%;min-width:0;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1.5px solid currentColor;overflow-wrap:anywhere;word-break:break-word;}
+  .badge{display:inline-block;max-width:100%;min-width:0;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1.5px solid currentColor;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
   .be{color:var(--green);}.bo{color:var(--blue);}.ba{color:var(--red);}.bf{color:#bbb;}.bz{color:var(--purple);}
   .nr{padding:60px 0;text-align:center;font-size:1.4rem;font-weight:800;color:#ccc;}
   /* TIMELINE */
@@ -151,8 +151,9 @@
     .masthead-inner{grid-template-columns:1fr;}
     .stat-grid{grid-template-columns:repeat(4,1fr);}
     .stat-box{padding:7px 5px;}
-    .th,.row{grid-template-columns:50px 1fr 100px;}
+    .th,.row{grid-template-columns:38px 1fr 165px;}
     .th>span:nth-child(2),.th>span:nth-child(4),.rd,.rz{display:none;}
+    .b-icon{display:none;}
     .main{padding:0 12px 40px;}
     .pb-section .inner{grid-template-columns:1fr;gap:10px;}
     .mm{grid-template-columns:1fr 1fr;}
@@ -164,7 +165,7 @@
   }
 
   /* Erledigt subcategory badges */
-  .ekat-badge{display:inline-block;max-width:100%;min-width:0;padding:2px 7px;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:0;margin-top:3px;overflow-wrap:anywhere;word-break:break-word;}
+  .ekat-badge{display:inline-block;max-width:100%;min-width:0;padding:2px 7px;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:0;margin-top:3px;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
   .ekat-vollstaendig-umgesetzt{background:#e8f5e9;color:#1b5e20;border:1.5px solid #2e7d32;}
   .ekat-teilweise-umgesetzt{background:#fff8e1;color:#795548;border:1.5px solid #a1887f;}
   .ekat-laufender-prozess{background:#e3f2fd;color:#0d47a1;border:1.5px solid #1565c0;}
@@ -258,10 +259,11 @@
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
 var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
 var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar"};
-function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;return '<div class="ekat-badge ekat-'+ekat+'">'+e(lbl)+'</div>';}
+function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;var icon=lbl.charAt(0),txt=lbl.slice(1).trim();return '<div class="ekat-badge ekat-'+ekat+'"><span class="b-icon">'+e(icon)+' </span>'+e(txt)+'</div>';}
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
-var BD={erledigt:'<span class="badge be">✓ Erledigt</span>',offen:'<span class="badge bo">◎ Offen</span>',"entfällt":'<span class="badge bf">– Entfällt</span>',"Zwischenbericht":'<span class="badge bz">~ Zwischenbericht</span>'};
+var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎",text:"Offen"},"entfällt":{cls:"bf",icon:"–",text:"Entfällt"},"Zwischenbericht":{cls:"bz",icon:"~",text:"Zwischenbericht"}};
+function statusBadge(status){var info=BD[status];if(!info)return "";return '<span class="badge '+info.cls+'"><span class="b-icon">'+e(info.icon)+' </span>'+e(info.text)+'</span>';}
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
 var view="table",filt=[],activeParties=new Set(),showA=false;
@@ -364,7 +366,7 @@ function rT(){
       +'<div class="rd">'+dh+'</div>'
       +'<div class="rb">'+e(b.betreff)+'</div>'
       +'<div class="rz"><div>'+e(b.zf)+'</div>'+(zi.stadtrat?'<div class="rz-sub">'+e(zi.stadtrat)+'</div>':"")+'</div>'
-      +'<div class="rs" style="flex-direction:column;align-items:flex-start;gap:3px;">'+(BD[b.status]||"")+(b.status==="erledigt"?ekatBadge(b.ekat):"")+'</div>'
+      +'<div class="rs" style="flex-direction:column;align-items:flex-start;gap:3px;">'+statusBadge(b.status)+(b.status==="erledigt"?ekatBadge(b.ekat):"")+'</div>'
       +'</div>';
   }
   document.getElementById("tb").innerHTML=h;
@@ -383,7 +385,7 @@ function rTL(){
         var lk=b.url?'<a class="tl-lnk" href="'+e(b.url)+'" target="_blank" rel="noopener">Drucksache</a>':"";;
         h+='<div class="tle '+b.status+'">'
           +'<div class="tle-t" onclick="openD('+idx+')">'+e(b.betreff)+'</div>'
-          +'<div class="tle-m">'+e(b.nr)+' · '+e(b.zf)+' · '+(BD[b.status]||"")+(lk?" · "+lk:"")+'</div>'
+          +'<div class="tle-m">'+e(b.nr)+' · '+e(b.zf)+' · '+statusBadge(b.status)+(lk?" · "+lk:"")+'</div>'
           +'</div>';
       });
       h+='</div></div>';
@@ -408,7 +410,7 @@ function openD(idx){
 
   var h='<div class="mm">';
   h+='<div class="mm-i"><div class="mm-k">Datum</div><div class="mm-v">'+e(b.datum)+'</div></div>';
-  h+='<div class="mm-i"><div class="mm-k">Sachstand</div><div class="mm-v">'+(BD[b.status]||e(b.status))+(b.status==="erledigt"&&b.ekat?'<br>'+ekatBadge(b.ekat):"")+'</div></div>';
+  h+='<div class="mm-i"><div class="mm-k">Sachstand</div><div class="mm-v">'+(statusBadge(b.status)||e(b.status))+(b.status==="erledigt"&&b.ekat?'<br>'+ekatBadge(b.ekat):"")+'</div></div>';
   h+='<div class="mm-i"><div class="mm-k">Zuständigkeit</div><div class="mm-v">'+e(b.zf)+'</div>'+(zi.stadtrat?'<div class="mm-s">'+e(zi.stadtrat)+'</div>':"")+'</div>';
   h+='</div>';
 
