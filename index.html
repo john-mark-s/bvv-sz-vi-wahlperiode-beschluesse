@@ -73,9 +73,9 @@
   }
   .main{max-width:1200px;margin:0 auto;padding:0 24px 60px;}
   .tv{display:block;}.tv.hidden{display:none;}
-  .th{display:grid;grid-template-columns:70px 120px 1fr 220px 120px;padding:10px 0;border-bottom:2px solid var(--dark);font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--mid);background:#f5f5f5;position:sticky;top:48px;z-index:40;}
+  .th{display:grid;grid-template-columns:70px 120px 1fr 200px 200px;padding:10px 0;border-bottom:2px solid var(--dark);font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--mid);background:#f5f5f5;position:sticky;top:48px;z-index:40;}
   .th>span{padding:0 8px;}
-  .row{display:grid;grid-template-columns:70px 120px 1fr 220px 120px;border-bottom:1px solid var(--border);cursor:pointer;background:var(--paper);transition:background .1s;align-items:start;}
+  .row{display:grid;grid-template-columns:70px 120px 1fr 200px 200px;border-bottom:1px solid var(--border);cursor:pointer;background:var(--paper);transition:background .1s;align-items:start;}
   .row:hover{background:#fdf5f5;}
   .row>*{padding:11px 8px;font-size:13px;line-height:1.4;}
   .rn{font-size:11px;font-weight:600;color:var(--mid);}
@@ -86,7 +86,7 @@
   .rz{font-size:12px;}
   .rz-sub{font-size:10px;color:var(--mid);margin-top:2px;font-weight:600;}
   .rs{display:flex;align-items:flex-start;padding-top:12px;}
-  .badge{display:inline-block;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1.5px solid currentColor;}
+  .badge{display:inline-block;max-width:100%;min-width:0;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1.5px solid currentColor;overflow-wrap:anywhere;word-break:break-word;}
   .be{color:var(--green);}.bo{color:var(--blue);}.ba{color:var(--red);}.bf{color:#bbb;}.bz{color:var(--purple);}
   .nr{padding:60px 0;text-align:center;font-size:1.4rem;font-weight:800;color:#ccc;}
   /* TIMELINE */
@@ -164,7 +164,7 @@
   }
 
   /* Erledigt subcategory badges */
-  .ekat-badge{display:inline-block;padding:2px 7px;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:0;margin-top:3px;}
+  .ekat-badge{display:inline-block;max-width:100%;min-width:0;padding:2px 7px;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:0;margin-top:3px;overflow-wrap:anywhere;word-break:break-word;}
   .ekat-vollstaendig-umgesetzt{background:#e8f5e9;color:#1b5e20;border:1.5px solid #2e7d32;}
   .ekat-teilweise-umgesetzt{background:#fff8e1;color:#795548;border:1.5px solid #a1887f;}
   .ekat-laufender-prozess{background:#e3f2fd;color:#0d47a1;border:1.5px solid #1565c0;}
