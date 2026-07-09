@@ -15,7 +15,7 @@
   .masthead{background:var(--paper);border-bottom:4px solid var(--red);}
   .masthead-inner{max-width:1200px;margin:0 auto;padding:20px 24px 16px;display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end;}
   .site-tag{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:6px;}
-  .masthead-title{font-size:clamp(1.4rem,3vw,2.2rem);font-weight:800;line-height:1.05;letter-spacing:-.02em;}
+  .masthead-title{font-size:clamp(1.1rem,1.4vw + 0.7rem,1.65rem);font-weight:800;line-height:1.05;letter-spacing:-.02em;white-space:nowrap;}
   .masthead-sub{font-size:14px;color:var(--mid);margin-top:6px;}
   .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);border:2px solid var(--dark);}
   .stat-box{padding:12px 16px;text-align:center;border-right:2px solid var(--dark);background:var(--paper);}
@@ -256,7 +256,7 @@
 // (e.g. some rows use "BiKuSpo" instead of the canonical "BikuSpo") so the Zuständigkeit
 // filter dropdown matches every row.
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
-var DATA=D.map(function(r,idx){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:E[idx]||""};});
+var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
 var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar"};
 function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;return '<div class="ekat-badge ekat-'+ekat+'">'+e(lbl)+'</div>';}
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
