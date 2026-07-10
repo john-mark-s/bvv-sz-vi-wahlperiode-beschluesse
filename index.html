@@ -254,16 +254,23 @@
 </div>
 <script src="data.js"></script>
 <script>
+// ZUST_ALIAS: normalize raw Zuständigkeit codes that vary in casing in the source data
+// (e.g. some rows use "BiKuSpo" instead of the canonical "BikuSpo") so the Zuständigkeit
+// filter dropdown matches every row.
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
 var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
 var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar"};
 function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;var icon=lbl.charAt(0),txt=lbl.slice(1).trim();return '<div class="ekat-badge ekat-'+ekat+'"><span class="b-icon">'+e(icon)+' </span>'+e(txt)+'</div>';}
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
-var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎",text:"Offen"},"entfällt":{cls:"bf",icon:"–",text:"Entfällt"},"Zwischenbericht":{cls:"bz",icon:"~",text:"Zwischenbericht"}};
+var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎",text:"Offen"},"entfällt":{cls:"bf",icon:"–",text:"Entfällt"},"Zwischenbericht":{cls:"bz",icon:"~",text:"Zwischenbericht"},"abgelehnt":{cls:"ba",icon:"✕",text:"Abgelehnt"}};
 function statusBadge(status){var info=BD[status];if(!info)return "";return '<span class="badge '+info.cls+'"><span class="b-icon">'+e(info.icon)+' </span>'+e(info.text)+'</span>';}
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
+// The source data's "parties" array is always alphabetically sorted (CDU, FDP, Grüne,
+// Linke, SPD...), but the human-written "initiator" text lists them in the actual
+// document order (e.g. "CDU-, GRÜNE-, SPD- und FDP-Fraktion"). Reorder the chips to
+// match that text instead of showing them alphabetically.
 var PARTY_TOKEN={CDU:"CDU",SPD:"SPD","Grüne":"GRÜNE",FDP:"FDP",Linke:"Links",AfD:"AfD",Fraktionslose:"Fraktionslose"};
 function orderPartiesByInitiator(parties,initiator){
   if(!parties||parties.length<2||!initiator)return parties;
@@ -407,15 +414,39 @@ function rTL(){
 
 function cleanText(s){
   return s
-    .replace(/(\w)-\s*\n\s*/g,'$1')        // rejoin hyphenated breaks: "Immobi-\nlien" → "Immobilien"
-    .replace(/([^\n])\n([^\n])/g,'$1 $2')  // single newline between text → space
-    .replace(/[ \t]{2,}/g,' ')              // collapse multiple spaces
-    .replace(/\n{3,}/g,'\n\n');            // max 2 consecutive newlines
+    // 1. rejoin hyphenated line-wraps: "Immobi-\nlien" → "Immobilien"
+    .replace(/(\w)-[ \t]*\n[ \t]*/g,'$1')
+    // 2. strip standalone PDF page-number artifacts: a lone digit 2-9 stranded between
+    //    the end of one sentence and the start of the next. Guarded with negative
+    //    lookbehinds so legal citations / measurements (Abs. 3, § 22 Abs. 7, ca. 4
+    //    Stunden, max. 3 Meter, …) are never touched.
+    .replace(/(?<!\bAbs\.)(?<!\bNr\.)(?<!\bca\.)(?<!\bmax\.)(?<!\bmin\.)(?<!\bArt\.)(?<!\bBst\.)(?<!\blit\.)(?<!\bvgl\.)(?<!\bbzw\.)(?<!\bggf\.)(?<!\bRn\.)(?<!\bZiff\.)(?<!\bB\.)(?<=[a-zäöüß][.!?])[ \t]+\n?[ \t]*[2-9][ \t]+\n?[ \t]*(?=[A-ZÄÖÜ][a-zäöüßA-ZÄÖÜ])/g,' ')
+    // 3. normalize bullet markers so each list item starts on its own line. The PDF
+    //    scrape rendered bullets as "•" or an inline lowercase "o " before a capitalized
+    //    item; unify both to "\n• ".
+    .replace(/\n?[ \t]*•[ \t]*\n?[ \t]*/g,'\n• ')
+    .replace(/(?:^|[ \t\n])o[ \t]+(?=[A-ZÄÖÜ„])/g,'\n• ')
+    // 4. single newline between text → space (line-wrap join), but preserve breaks that
+    //    precede a blank line (paragraph) or a bullet.
+    .replace(/([^\n])\n(?![\n•])([^\n])/g,'$1 $2')
+    // 5. collapse multiple spaces
+    .replace(/[ \t]{2,}/g,' ')
+    // 6. max 2 consecutive newlines
+    .replace(/\n{3,}/g,'\n\n')
+    // 7. trim trailing spaces before newlines
+    .replace(/[ \t]+\n/g,'\n')
+    .trim();
 }
+// Source data always stores berichterstatter as "2. Berichterstatter(...): Name" even
+// though there is only ever one reporter shown. Strip that numbered-label prefix so it
+// isn't duplicated after our own "Berichterstatter: " label in the modal.
 function cleanBerichterstatter(s){
   if(!s) return s;
   return s.replace(/^\s*\d+\.\s*Berichterstatter(?:\/in|:in|in)?:\s*/i,'').trim();
 }
+// Matches a still-embedded "erledigt" closing sentence (+ optional signature) at the
+// very end of an Antwort, e.g. "Wir bitten, den Beschluss damit als erledigt zu
+// betrachten. Maren Schellenberg".
 var CLOSE_RE=/\s*((?:Wir bitten|Es wird gebeten),?\s*(?:den Beschluss|die Beschlüsse|ihn)?\s*(?:damit|daher)?\s*als erledigt\s*(?:zu betrachten|anzusehen)\.)\s*([A-ZÄÖÜ][A-Za-zÄÖÜäöüß.\-]*(?:\s+[A-ZÄÖÜ][A-Za-zÄÖÜäöüß.\-]*){0,3})?\s*$/;
 // The scraped "Antwort" text and the separately-extracted "erledigtvermerk" sentence
 // were split inconsistently at the source:
