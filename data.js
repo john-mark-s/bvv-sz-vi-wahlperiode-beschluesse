@@ -47882,7 +47882,7 @@ var Z={
     "full": "Stadtentwicklung",
     "stadtrat": "Michael Karnetzki (SPD)"
   },
-  "BSoz": {
+  "BüSoz": {
     "full": "Bürgerdienste und Soziales",
     "stadtrat": "Tim Richter (CDU)"
   },
