@@ -616,6 +616,33 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "23/VI",
+    "0057/VI",
+    "19.01.2022",
+    "Gesund ohne Zwang",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8181",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.01.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/003/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.01.2022",
+      "beschlussdatum": "19.01.2022"
+    },
+    null
+  ],
+  [
     "24/VI",
     "0079/VI",
     "23.02.2022",
@@ -996,6 +1023,45 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "36/VI",
+    "0027/VI",
+    "23.02.2022",
+    "Erhalt Kiosk S-Bahnhof Lichterfelde-West",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8151",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "08.12.2021",
+          "gremium": "BVV",
+          "sitzung": "BVV/002/2021",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.02.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/001/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n23.02.2022",
+      "beschlussdatum": "23.02.2022"
+    },
+    null
   ],
   [
     "37/VI",
@@ -1379,6 +1445,45 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "48/VI",
+    "0120/VI",
+    "27.04.2022",
+    "Nur Bares ist Wahres! Anerkennungszulage im Gesundheitsamt",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8244",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.03.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/005/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.04.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/008/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n27.04.2022",
+      "beschlussdatum": "27.04.2022"
+    },
+    null
+  ],
+  [
     "49/VI",
     "0128/VI",
     "27.04.2022",
@@ -1711,6 +1816,69 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, alle Möglichkeiten für eine Wiedernutzung des Kiosks an der \nRehwiese mit den zuständigen Stellen unter Einbeziehung der Anwohner, die sich hierfür \neinsetzen, zu prüfen und der BVV über das Ergebnis zu berichten.\nBezirksverordnetenvorsteher\n18.05.2022",
+      "beschlussdatum": "18.05.2022"
+    },
+    null
+  ],
+  [
+    "56/VI",
+    "0048/VI",
+    "18.05.2022",
+    "Ein brauchbares Politikinformationssystem für Steglitz-Zehlendorf zur Verfügung stellen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8172",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.01.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/003/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "16.02.2022",
+          "gremium": "GO",
+          "sitzung": "GO/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.03.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/001/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "30.03.2022",
+          "gremium": "GO",
+          "sitzung": "GO/002/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "20.04.2022",
+          "gremium": "GO",
+          "sitzung": "GO/003/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.05.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/009/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.05.2022",
       "beschlussdatum": "18.05.2022"
     },
     null
@@ -2230,6 +2398,57 @@ var D=[
     null
   ],
   [
+    "67/VI",
+    "0040/VI",
+    "18.05.2022",
+    "Marchandstraße",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8164",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.01.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/003/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.02.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.03.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/002/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.05.2022",
+      "beschlussdatum": "18.05.2022"
+    },
+    null
+  ],
+  [
     "68/VI",
     "0054/VI",
     "18.05.2022",
@@ -2467,6 +2686,70 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "sonstiges-unklar"
+  ],
+  [
+    "72/VI",
+    "0103/VI",
+    "22.06.2022",
+    "Unterstützungsmöglichkeiten für Partnerstadt Charkiw",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8227",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.03.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.03.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.04.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "05.05.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/009/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n22.06.2022",
+      "beschlussdatum": "22.06.2022",
+      "erledigtkategorien": "keine-antwort"
+    },
+    null
   ],
   [
     "73/VI",
@@ -3225,6 +3508,58 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Protokolle der Bezirksamtssitzungen umfassend auf der \nWebsite des Bezirks zu veröffentlichen. Hierzu gehören insbesondere die Tagesordnung, \nBerichte der Abteilungen, allgemeine Beschlüsse und Beschlüsse zu BVV-Anträgen \n(Kenntnisnahmen). Personalangelegenheiten sind davon ausgenommen. \nBezirksverordnetenvorsteher\n22.06.2022",
       "beschlussdatum": "22.06.2022"
+    },
+    null
+  ],
+  [
+    "89/VI",
+    "0089/VI",
+    "22.06.2022",
+    "Bahnhofsvorplatz Lichterfelde-West: Gesamtkonzept unter Bürger:innenbeteiligung erarbeiten, Kiosk erhalten, Autoverkehr reduzieren",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8213",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.03.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/002/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/004/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n22.06.2022",
+      "beschlussdatum": "22.06.2022",
+      "erledigtkategorien": "keine-antwort"
     },
     null
   ],
@@ -4132,6 +4467,46 @@ var D=[
     null
   ],
   [
+    "109/VI",
+    "0209/VI",
+    "22.06.2022",
+    "Segregation der Sozialwohnungen im Neubaugebiet Lichterfelde-Süd vermeiden",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8333",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "14.06.2022",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/005/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n22.06.2022",
+      "beschlussdatum": "22.06.2022",
+      "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
     "110/VI",
     "0220/VI",
     "22.06.2022",
@@ -4326,6 +4701,147 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "114/VI",
+    "0135/VI",
+    "22.06.2022",
+    "Platz schaffen für Ukraine-Flüchtlinge",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8259",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.03.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/005/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "06.04.2022",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.05.2022",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/002/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n22.06.2022",
+      "beschlussdatum": "22.06.2022"
+    },
+    null
+  ],
+  [
+    "115/VI",
+    "0168/VI",
+    "22.06.2022",
+    "Umsetzung des Berliner Modells der kooperativen Baulandentwicklung beim Neubaugebiet Lichterfelde-Süd",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8292",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.05.2022",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/004/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n22.06.2022",
+      "beschlussdatum": "22.06.2022"
+    },
+    null
+  ],
+  [
+    "116/VI",
+    "0154/VI",
+    "22.06.2022",
+    "Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 2,7 Millionen € für den Bezirk",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8278",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "05.05.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/009/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "09.06.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/010/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n22.06.2022",
+      "beschlussdatum": "22.06.2022"
+    },
+    null
+  ],
+  [
     "117/VI",
     "0258/VI",
     "14.09.2022",
@@ -4363,6 +4879,39 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "118/VI",
+    "0268/VI",
+    "14.09.2022",
+    "Muthesius-Steig",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8392",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
   ],
   [
     "119/VI",
@@ -4590,6 +5139,69 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "128/VI",
+    "0091/VI",
+    "14.09.2022",
+    "Pflegebedürftige Menschen haben ein Recht auf Mobilität: Umgebung der Residenz Dahlem an den Mobilitätsanforderungen der Bewohner:innen ausrichten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8215",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "22.03.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "31.03.2022",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "21.04.2022",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/002/2022",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "24.05.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/002/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "30.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/005/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
+  ],
+  [
     "129/VI",
     "0096/VI",
     "14.09.2022",
@@ -4722,6 +5334,144 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "131/VI",
+    "0104/VI",
+    "14.09.2022",
+    "Zusammenarbeit mit dem „Stadtteilzentrum Steglitz e.V.“ suspendieren",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8228",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "01.03.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.03.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/002/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "06.04.2022",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.05.2022",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/002/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.06.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/010/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.09.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/011/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
+  ],
+  [
+    "132/VI",
+    "0105/VI",
+    "14.09.2022",
+    "Zuverlässigkeitsprüfung des „Stadtteilzentrum Steglitz e.V.“ durch die Senatssozialverwaltung begleiten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8229",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "01.03.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.03.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/002/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "06.04.2022",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.05.2022",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/002/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.06.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/010/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.09.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/011/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
   ],
   [
     "133/VI",
@@ -5422,6 +6172,57 @@ var D=[
     null
   ],
   [
+    "144/VI",
+    "0177/VI",
+    "14.09.2022",
+    "E-Bus 284",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8301",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/005/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
+  ],
+  [
     "145/VI",
     "0187/VI",
     "14.09.2022",
@@ -5768,6 +6569,147 @@ var D=[
       "erledigtkategorien": "nur-information-bereitgestellt"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "152/VI",
+    "0262/VI",
+    "14.09.2022",
+    "Städtebauliche Prüfung neuen Baulands",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8386",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "06.09.2022",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
+  ],
+  [
+    "153/VI",
+    "0052/VI",
+    "14.09.2022",
+    "Position des Bezirksamts zur Umsetzung des MobG im Bezirk Steglitz-Zehlendorf klarstellen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8176",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.01.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/003/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.02.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/001/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.03.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/002/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/003/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
+  ],
+  [
+    "154/VI",
+    "0233/VI",
+    "14.09.2022",
+    "Mut und Hoffnung: Friedenstauben-Fahne neben Ukraine-Fahne hissen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8357",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "08.06.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/004/2022",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.09.2022",
+      "beschlussdatum": "14.09.2022"
+    },
+    null
   ],
   [
     "155/VI",
@@ -6145,6 +7087,69 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob gemeinsam mit den zuständigen Stellen \nstadtplanerisch die Ansiedlung eines Campus für Digitalfirmen in Steglitz-Zehlendorf \ninsbesondere auch aus dem Start-up-Bereich vorangetrieben und sodann ausgewiesen \nwerden kann, so dass interessierten Firmen ein Ansiedlungsangebot gemacht werden kann. \nDer BVV ist binnen Jahresfrist qualifiziert zu berichten. \nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
+  ],
+  [
+    "165/VI",
+    "0090/VI",
+    "12.10.2022",
+    "Verkehrssicherheit entlang der Königstraße (B1) in Wannsee erhöhen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8214",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.03.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/002/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.09.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
       "beschlussdatum": "12.10.2022"
     },
     null
@@ -6587,6 +7592,96 @@ var D=[
     null
   ],
   [
+    "174/VI",
+    "0263/VI",
+    "12.10.2022",
+    "Bäderbuseinsatz mit Badesaison in Einklang bringen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8387",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "30.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.09.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
+  ],
+  [
+    "175/VI",
+    "0264/VI",
+    "12.10.2022",
+    "Keine Straßenumbenennung gegen den Bürgerwillen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8388",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.06.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/008/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "31.08.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/005/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "29.09.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/013/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
+  ],
+  [
     "176/VI",
     "0265/VI",
     "12.10.2022",
@@ -6720,6 +7815,45 @@ var D=[
     null
   ],
   [
+    "179/VI",
+    "0297/VI",
+    "12.10.2022",
+    "B-Plan 6-30 Lichterfelde-Süd – wenn schon versiegeln, dann sozial ausgewogen!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8421",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "04.10.2022",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/007/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
+  ],
+  [
     "180/VI",
     "0315/VI",
     "12.10.2022",
@@ -6843,6 +7977,120 @@ var D=[
     "nicht-umsetzbar"
   ],
   [
+    "183/VI",
+    "0208/VI",
+    "12.10.2022",
+    "Bedarfsanmeldung Rekommunalisierung Schulreinigung in Steglitz-Zehlendorf",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8332",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "28.06.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "20.09.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/004/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "29.09.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/013/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
+  ],
+  [
+    "184/VI",
+    "0100/VI",
+    "12.10.2022",
+    "Weiterhin ein Durchfahrtsverbot für LKW über 7,5 t im Nieritzweg",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8224",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.03.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/002/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/005/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
+  ],
+  [
     "185/VI",
     "0270/VI",
     "12.10.2022",
@@ -6890,6 +8138,96 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "186/VI",
+    "0210/VI",
+    "12.10.2022",
+    "Geisterhaus Gardeschützenweg 3 bewohnbar machen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8334",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "29.06.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "21.09.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/004/2022",
+          "erledigungsart": "mit Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "29.09.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/013/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
+  ],
+  [
+    "187/VI",
+    "0320/VI",
+    "12.10.2022",
+    "Bürgerwille respektieren!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8444",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "28.09.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.10.2022",
+      "beschlussdatum": "12.10.2022"
+    },
+    null
   ],
   [
     "188/VI",
@@ -7154,6 +8492,63 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "196/VI",
+    "0161/VI",
+    "09.11.2022",
+    "Seniorengerechte Parkbänke",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8285",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "16.06.2022",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/004/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "15.09.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "13.10.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/007/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n09.11.2022",
+      "beschlussdatum": "09.11.2022"
+    },
+    null
+  ],
+  [
     "197/VI",
     "0178/VI",
     "09.11.2022",
@@ -7206,6 +8601,69 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, ein Konzept zur Speicherung und Nutzung von Regenwasser \nzu erarbeiten. Hierbei sind geeignete öffentliche Gebäude und Flächen auszuwählen, auf \ndenen Regenwasserspeicher (Zisternen) errichtet werden können und die den Revieren des \nGrünflächenamtes zugeordnet werden können. Ziel ist, den Bedarf an Gießwasser durch die \neinzelnen Reviere des Grünflächenamtes künftig auch durch die Speicherung von \nRegenwasser zu decken.\nBezirksverordnetenvorsteher\n09.11.2022",
+      "beschlussdatum": "09.11.2022"
+    },
+    null
+  ],
+  [
+    "198/VI",
+    "0182/VI",
+    "09.11.2022",
+    "Zivilschutz prüfen und stärken",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8306",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "05.05.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/009/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "09.06.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/010/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.09.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/011/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.09.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/013/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.10.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/014/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
     },
     null
@@ -7264,6 +8722,81 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "200/VI",
+    "0207/VI",
+    "09.11.2022",
+    "Kinder- und Jugendparlament initiieren!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8331",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.06.2022",
+          "gremium": "Sch",
+          "sitzung": "Sch/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.06.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.08.2022",
+          "gremium": "Sch",
+          "sitzung": "Sch/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "20.09.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.09.2022",
+          "gremium": "Sch",
+          "sitzung": "Sch/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.10.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "27.10.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/014/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n09.11.2022",
+      "beschlussdatum": "09.11.2022"
+    },
+    null
   ],
   [
     "201/VI",
@@ -7554,6 +9087,51 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "206/VI",
+    "0296/VI",
+    "09.11.2022",
+    "Lichterfelde-Süd – den Kindern gute Bedingungen!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8420",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "27.09.2022",
+          "gremium": "Sch",
+          "sitzung": "Sch/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "01.11.2022",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/008/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n09.11.2022",
+      "beschlussdatum": "09.11.2022"
+    },
+    null
+  ],
+  [
     "207/VI",
     "0318/VI",
     "09.11.2022",
@@ -7739,6 +9317,84 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, über seine Website auf Informationsseiten zum Thema \nRegenwasserbewirtschaftung hinzuweisen, wie beispielsweise https://www.bwb.de/de/ \nregenwasser.php \nund \nhttps://www.berlin.de/sen/uvk/umwelt/wasser-und-\ngeologie/regenwasser/regenwasserbewirtschaftung/ \n,damit \nEigentümer*innen \nund \nWohnungsbaugesellschaften sich über Möglichkeiten der Regenwasserbewirtschaftung \n(beispielsweise durch Regentonnen, Gründächer, Sickerschächte, Rigolen oder Zisternen) \nbeim \nNeubau \nund \nim \nBestand \ninformieren \nkönnen \nund \nauf \ndas \nfinanzielle \nEinsparungspotenzial hinsichtlich der Niederschlagswassergebühr hingewiesen werden. \nAuch sollen mögliche Umsetzungsstrategien aufgezeigt sowie auf Genehmigungsverfahren \nund Fördermittel hingewiesen werden. \nBezirksverordnetenvorsteher\n09.11.2022",
+      "beschlussdatum": "09.11.2022"
+    },
+    null
+  ],
+  [
+    "211/VI",
+    "0346/VI",
+    "09.11.2022",
+    "Königsberger Straße: Zeiten für Busspur ausweiten – insbesondere auch für die Sicherheit und den Komfort von Radfahrer*innen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8470",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "20.10.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/007/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n09.11.2022",
+      "beschlussdatum": "09.11.2022"
+    },
+    null
+  ],
+  [
+    "212/VI",
+    "0353/VI",
+    "09.11.2022",
+    "Straßenumbenennungen nur bei Rechtssicherheit",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8477",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "20.10.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/007/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n09.11.2022",
       "beschlussdatum": "09.11.2022"
     },
     null
@@ -7994,6 +9650,120 @@ var D=[
     null
   ],
   [
+    "218/VI",
+    "0179/VI",
+    "29.11.2022",
+    "Gefahrenstellen für Sehbehinderte beseitigen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8303",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "16.06.2022",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/004/2022",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "18.10.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "15.11.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "29.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/012/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n29.11.2022",
+      "beschlussdatum": "29.11.2022"
+    },
+    null
+  ],
+  [
+    "219/VI",
+    "0298/VI",
+    "29.11.2022",
+    "Einbürgerungsfeiern",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8422",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.09.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "19.10.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "16.11.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "29.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/012/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n29.11.2022",
+      "beschlussdatum": "29.11.2022"
+    },
+    null
+  ],
+  [
     "220/VI",
     "0307/VI",
     "29.11.2022",
@@ -8047,6 +9817,51 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "221/VI",
+    "0311/VI",
+    "29.11.2022",
+    "Kastanienbäume",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8435",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.10.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.11.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/008/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "29.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/012/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n29.11.2022",
+      "beschlussdatum": "29.11.2022"
+    },
+    null
   ],
   [
     "222/VI",
@@ -8537,6 +10352,45 @@ var D=[
     null
   ],
   [
+    "234/VI",
+    "0395/VI",
+    "29.11.2022",
+    "Massiven Wohnungsleerstand in Steglitz-Zehlendorf transparent erfassen und konsequent ahnden",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8519",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "16.11.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "29.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/012/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n29.11.2022",
+      "beschlussdatum": "29.11.2022"
+    },
+    null
+  ],
+  [
     "235/VI",
     "0251/VI",
     "07.12.2022",
@@ -8773,6 +10627,144 @@ var D=[
     "keine-zustaendigkeit"
   ],
   [
+    "240/VI",
+    "0166/VI",
+    "07.12.2022",
+    "Das Bezirksamt soll die Beschlüsse der BVV hinsichtlich Hinweistafeln am Hindenburgdamm, Weddigenweg und der Gallwitzallee umsetzen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8290",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "08.06.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "31.08.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.09.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/006/2022",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "27.10.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/014/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.11.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/015/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n07.12.2022",
+      "beschlussdatum": "07.12.2022"
+    },
+    null
+  ],
+  [
+    "241/VI",
+    "0215/VI",
+    "07.12.2022",
+    "Geschichte greifbar machen - sichtbare Auseinandersetzung mit kritischen Straßennamen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8339",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.05.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/007/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "02.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.06.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/005/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "31.08.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.09.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.10.2022",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/007/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.11.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/015/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n07.12.2022",
+      "beschlussdatum": "07.12.2022"
+    },
+    null
+  ],
+  [
     "242/VI",
     "0245/VI",
     "07.12.2022",
@@ -8984,6 +10976,57 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt möge sich bei den zuständigen Stellen dafür einsetzen, dass vor \nSenioreneinrichtungen, wie vor Schulen üblich, Tempo 30 angeordnet werden soll. \nAußerdem soll unter Einbeziehung der Behindertenbeauftragten angeordnet werden, dass \nvor Senioreneinrichtungen die Bordsteine abgesenkt werden.\nBezirksverordnetenvorsteher\n07.12.2022",
+      "beschlussdatum": "07.12.2022"
+    },
+    null
+  ],
+  [
+    "245/VI",
+    "0299/VI",
+    "07.12.2022",
+    "Renaturierung des Waldsees",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8423",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.10.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.11.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/008/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.11.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/015/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n07.12.2022",
       "beschlussdatum": "07.12.2022"
     },
     null
@@ -9505,6 +11548,57 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "256/VI",
+    "0292/VI",
+    "07.12.2022",
+    "Neubaugebiet Lichterfelde-Süd – Platz für eine zweite Gemeinschaftsschule",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8416",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "27.09.2022",
+          "gremium": "Sch",
+          "sitzung": "Sch/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "01.11.2022",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/008/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n07.12.2022",
+      "beschlussdatum": "07.12.2022"
+    },
+    null
+  ],
+  [
     "257/VI",
     "0438/VI",
     "07.12.2022",
@@ -9643,6 +11737,57 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich gegenüber der Deutschen Bahn dafür einzusetzen, \neine Informationsveranstaltung für alle Betroffenen und Beteiligten des Bauprojekts \n„Stammbahn“, welches im Rahmen des Infrastrukturprojekts „i2030“ verwirklicht werden soll, \nzu initiieren, um insbesondere über den Lärmschutz und etwaige weitere Probleme zu \ninformieren. Die Informationsveranstaltung soll als Grundlage dienen, um bei fortschreitender \nPlanung die Bürgerinnen und Bürger bspw. über einen Runden Tisch bei der \nLösungsfindung einzubeziehen.\nBezirksverordnetenvorsteher\n18.01.2023",
+      "beschlussdatum": "18.01.2023"
+    },
+    null
+  ],
+  [
+    "261/VI",
+    "0301/VI",
+    "18.01.2023",
+    "Modernisierung WC-Anlage und Imbissbetrieb am Wannseeanleger/Ronnebypromenade",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8425",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.10.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.11.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.12.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/009/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.01.2023",
       "beschlussdatum": "18.01.2023"
     },
     null
@@ -9947,6 +12092,57 @@ var D=[
     null
   ],
   [
+    "268/VI",
+    "0357/VI",
+    "18.01.2023",
+    "Landschaftspark Glienicke",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8481",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.11.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.12.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/009/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.01.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/016/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.01.2023",
+      "beschlussdatum": "18.01.2023"
+    },
+    null
+  ],
+  [
     "269/VI",
     "0422/VI",
     "18.01.2023",
@@ -10148,6 +12344,81 @@ var D=[
       "initiator": "Bezirksamt",
       "parties": [],
       "beratungsfolge": [],
+      "beschlussdatum": "16.03.2023"
+    },
+    null
+  ],
+  [
+    "277/VI",
+    "0136/VI",
+    "16.03.2023",
+    "Leerstand Eisenbahnersiedlung aufheben",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8260",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.03.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/005/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "06.04.2022",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/001/2022",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "25.05.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/002/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.06.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "21.09.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "19.10.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "16.11.2022",
+          "gremium": "Büd",
+          "sitzung": "Büd/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.01.2023",
+          "gremium": "Büd",
+          "sitzung": "Büd/007/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.03.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/015/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.03.2023",
       "beschlussdatum": "16.03.2023"
     },
     null
@@ -11437,6 +13708,114 @@ var D=[
     null
   ],
   [
+    "316/VI",
+    "0594/VI",
+    "24.05.2023",
+    "Vattenfall Windbaum als Pilotprojekt",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8718",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n24.05.2023",
+      "beschlussdatum": "24.05.2023"
+    },
+    null
+  ],
+  [
+    "317/VI",
+    "0165/VI",
+    "24.05.2023",
+    "Baumfällung durch Baumaßnahmen – Information und Erfassung",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8289",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "27.04.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/006/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "19.05.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "23.06.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "15.09.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "13.10.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.11.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.12.2022",
+          "gremium": "GNU",
+          "sitzung": "GNU/009/2022",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "07.02.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "16.05.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/012/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n24.05.2023",
+      "beschlussdatum": "24.05.2023"
+    },
+    null
+  ],
+  [
     "318/VI",
     "0347/VI",
     "24.05.2023",
@@ -11969,6 +14348,57 @@ var D=[
     null
   ],
   [
+    "328/VI",
+    "0411/VI",
+    "24.05.2023",
+    "Resolution: Für ein solidarisches Steglitz-Zehlendorf – Gegen vorsätzliche Gefährdung von Menschenleben",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8535",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "05.01.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/016/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n24.05.2023",
+      "beschlussdatum": "24.05.2023"
+    },
+    null
+  ],
+  [
     "329/VI",
     "0529/VI",
     "24.05.2023",
@@ -12009,6 +14439,51 @@ var D=[
       "beschlussdatum": "24.05.2023",
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
+    "330/VI",
+    "0447/VI",
+    "24.05.2023",
+    "Ressourcen schonen – unsinnige Papierverschwendung stoppen!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8571",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "05.01.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/016/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n24.05.2023",
+      "beschlussdatum": "24.05.2023"
     },
     null
   ],
@@ -12534,6 +15009,75 @@ var D=[
     null
   ],
   [
+    "348/VI",
+    "0394/VI",
+    "21.06.2023",
+    "Einrichtung einer Koordinierungsstelle gegen Kinderarmut",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8518",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "09.11.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/011/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.12.2022",
+          "gremium": "JHA",
+          "sitzung": "JHA/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.01.2023",
+          "gremium": "JHA",
+          "sitzung": "JHA/009/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "21.03.2023",
+          "gremium": "JHA",
+          "sitzung": "JHA/010/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2023",
+          "gremium": "JHA",
+          "sitzung": "JHA/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.06.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/018/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
     "349/VI",
     "0440/VI",
     "21.06.2023",
@@ -12593,6 +15137,171 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "350/VI",
+    "0441/VI",
+    "21.06.2023",
+    "Milieuschutzgebiete ausweiten - Beauftragung von Feinscreenings für weitere Milieuschutzverdachtsgebiete",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8565",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.01.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/010/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.02.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.06.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/018/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
+    "351/VI",
+    "0442/VI",
+    "21.06.2023",
+    "Milieuschutzgebiete ausweiten - Beauftragung von Feinscreenings in Südende",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8566",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.01.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/010/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.02.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.06.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/018/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
+    "352/VI",
+    "0451/VI",
+    "21.06.2023",
+    "Julius-Stern-Platz benennen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8575",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "07.12.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/013/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "04.01.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/009/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.05.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/010/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.06.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
   ],
   [
     "353/VI",
@@ -12748,6 +15457,51 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die bezirkseigenen LKW mit Abbiegeassistenten auszurüsten \nbzw. ggf. nachzurüsten und hierfür möglichst Fördermittel in Anspruch zu nehmen.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
+    "356/VI",
+    "0477/VI",
+    "21.06.2023",
+    "Check für Personalbedarf in Bezirksamtsvorlagen für Umsetzung von BVV-Beschlüssen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8601",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.06.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/018/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
     },
     null
@@ -13346,6 +16100,33 @@ var D=[
     null
   ],
   [
+    "369/VI",
+    "0645/VI",
+    "21.06.2023",
+    "Schwimmhalle am Teltower Damm erhalten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8769",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
     "370/VI",
     "0618/VI",
     "21.06.2023",
@@ -13395,6 +16176,207 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Vorsteher der Bezirksverordnetenversammlung Steglitz-Zehlendorf \nwird\nSören Grawert\ngewählt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
+    "372/VI",
+    "0088/VI",
+    "21.06.2023",
+    "Havelchaussee – Durchgangsverkehr schnellstmöglich beenden",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8212",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "23.02.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/004/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.03.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/002/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.05.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/003/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/004/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.06.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.09.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "20.10.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/007/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "17.11.2022",
+          "gremium": "MVO",
+          "sitzung": "MVO/008/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.01.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/009/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.04.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.06.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/018/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
+    "373/VI",
+    "0488/VI",
+    "21.06.2023",
+    "Nachnutzung des Mäusebunkers: ein neuer Sozial-Raum für Steglitz-Zehlendorf!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8612",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.02.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "16.05.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/012/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "08.06.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/018/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
+      "beschlussdatum": "21.06.2023"
+    },
+    null
+  ],
+  [
+    "374/VI",
+    "0503/VI",
+    "21.06.2023",
+    "Unter den Eichen: Schnellere Busse, weniger Stau – der Umwelt zu liebe",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8627",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.01.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/009/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.04.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.06.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/012/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.06.2023",
       "beschlussdatum": "21.06.2023"
     },
     null
@@ -14411,6 +17393,51 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "401/VI",
+    "0545/VI",
+    "20.09.2023",
+    "Pizzamülleimer - großräumige Mülleimer als Pilotprojekt an Müllbrennpunkten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8669",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.04.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/016/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.05.2023",
+          "gremium": "GNU",
+          "sitzung": "GNU/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.06.2023",
+          "gremium": "GNU",
+          "sitzung": "GNU/012/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.09.2023",
+      "beschlussdatum": "20.09.2023"
+    },
+    null
+  ],
+  [
     "402/VI",
     "0578/VI",
     "20.09.2023",
@@ -14452,6 +17479,51 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "nicht-umsetzbar"
+  ],
+  [
+    "403/VI",
+    "0580/VI",
+    "20.09.2023",
+    "Asyl für Meerjungfrauen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8704",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "06.06.2023",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/009/2023",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "30.08.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/012/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.09.2023",
+      "beschlussdatum": "20.09.2023"
+    },
+    null
   ],
   [
     "404/VI",
@@ -14929,6 +18001,219 @@ var D=[
     null
   ],
   [
+    "414/VI",
+    "0284/VI",
+    "20.09.2023",
+    "Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 2,7 Mio. €",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8408",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.09.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/009/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "18.10.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/005/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "15.11.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/006/2022",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.11.2022",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/015/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "05.01.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/016/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.05.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/017/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "08.06.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/018/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "31.08.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/019/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.09.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/025/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.09.2023",
+      "beschlussdatum": "20.09.2023"
+    },
+    null
+  ],
+  [
+    "415/VI",
+    "0508/VI",
+    "20.09.2023",
+    "Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 7,2 Millionen € für",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8632",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.04.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/016/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/008/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/009/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "31.08.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/019/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.09.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/025/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.09.2023",
+      "beschlussdatum": "20.09.2023"
+    },
+    null
+  ],
+  [
+    "416/VI",
+    "0349/VI",
+    "20.09.2023",
+    "Rekommunalisierung auch des Pforten- und Reinigungsdienstes",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8473",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.10.2022",
+          "gremium": "BVV",
+          "sitzung": "BVV/010/2022",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "15.11.2022",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/006/2022",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.01.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/007/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/008/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/009/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "31.08.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/019/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.09.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/025/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.09.2023",
+      "beschlussdatum": "20.09.2023"
+    },
+    null
+  ],
+  [
     "417/VI",
     "0484/VI",
     "20.09.2023",
@@ -15305,6 +18590,51 @@ var D=[
     null
   ],
   [
+    "423/VI",
+    "0626/VI",
+    "20.09.2023",
+    "Die im Jahr 2022 und 2023 durch den alten Senat beschlossene Stellenverteilung im Bezirksamt korrigieren",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8750",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "31.08.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/019/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.09.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/025/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.09.2023",
+      "beschlussdatum": "20.09.2023"
+    },
+    null
+  ],
+  [
     "424/VI",
     "0641/VI",
     "20.09.2023",
@@ -15647,6 +18977,57 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, die Schulwegsicherheit im Umfeld der Grundschule am \nKarpfenteich weiter zu fördern und in eigener Zuständigkeit zu prüfen oder durch die \nzuständigen Behörden prüfen zu lassen, ob die nachfolgenden Maßnahmen umsetzbar sind:\n\nZebrastreifen zum Überqueren des Oberhofer Weges in Höhe der Geraer Straße, in der \nGeraer Straße selbst und auf dem Lichterfelder Ring in Höhe des Achenseeweges, \n\nversetztes Parken auf dem Achenseeweg, \n\nZur \nVermeidung \ndes \nrechtswidrigen \nParkens \nim \nKreuzungsbereich \nOberhofer \nWeg/Hildburghauser Straße regelmäßige Kontrollen durch das Ordnungsamt/Aufstellen \nvon Poller,\n\nVerkürzung der Rotphase für Fußgänger bei der Bedarfs-LZA vor der Schule \ninsbesondere in der Zeit von 8:00 Uhr bis 8:20 Uhr und 13:45 bis 14:00 Uhr,\n\neine Öffnung der Scheelestraße (Einbahnstraße) für den Radverkehr in beide Richtungen. \nBezirksverordnetenvorsteher\n18.10.2023",
+      "beschlussdatum": "18.10.2023"
+    },
+    null
+  ],
+  [
+    "432/VI",
+    "0596/VI",
+    "18.10.2023",
+    "Umweltschutz: Schlangenbader Tunnel wieder öffnen – bis neues Verkehrskonzept umgesetzt ist",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8720",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.06.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/013/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.09.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/014/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "28.09.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/015/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.10.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/020/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.10.2023",
       "beschlussdatum": "18.10.2023"
     },
     null
@@ -16143,6 +19524,198 @@ var D=[
     "laufender-prozess"
   ],
   [
+    "444/VI",
+    "0693/VI",
+    "18.10.2023",
+    "Thielallee: Verkehrsraum sinnvoll nutzen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8817",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "28.09.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/015/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.10.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/020/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.10.2023",
+      "beschlussdatum": "18.10.2023"
+    },
+    null
+  ],
+  [
+    "445/VI",
+    "0471/VI",
+    "18.10.2023",
+    "Wohnortnahe Bank-Filialen erhalten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8595",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/008/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/009/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.10.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/020/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.10.2023",
+      "beschlussdatum": "18.10.2023"
+    },
+    null
+  ],
+  [
+    "446/VI",
+    "0479/VI",
+    "18.10.2023",
+    "Post- und Finanzdienstleistungen wohnortnah erhalten!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8603",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/008/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/009/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.10.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/020/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.10.2023",
+      "beschlussdatum": "18.10.2023"
+    },
+    null
+  ],
+  [
+    "447/VI",
+    "0544/VI",
+    "18.10.2023",
+    "Öffnungszeiten Postfilialen an Sonnabenden sicherstellen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8668",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.04.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/016/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/008/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/009/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.10.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/020/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.10.2023",
+      "beschlussdatum": "18.10.2023"
+    },
+    null
+  ],
+  [
     "448/VI",
     "0612/VI",
     "18.10.2023",
@@ -16364,6 +19937,57 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "15.11.2023",
       "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
+    "456/VI",
+    "0490/VI",
+    "15.11.2023",
+    "Hilfen absichern, Träger der Wohnungslosenhilfe unterstützen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8614",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Linksfraktion",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.01.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/014/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "09.02.2023",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/009/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.05.2023",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/010/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.10.2023",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "15.11.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/021/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n15.11.2023",
+      "beschlussdatum": "15.11.2023"
     },
     null
   ],
@@ -16629,6 +20253,51 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "462/VI",
+    "0648/VI",
+    "15.11.2023",
+    "Pilotprojekt Tiny Forests für Steglitz-Zehlendorf",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8772",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.09.2023",
+          "gremium": "GNU",
+          "sitzung": "GNU/013/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "19.10.2023",
+          "gremium": "GNU",
+          "sitzung": "GNU/014/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "15.11.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/021/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n15.11.2023",
+      "beschlussdatum": "15.11.2023"
+    },
+    null
   ],
   [
     "463/VI",
@@ -17290,6 +20959,57 @@ var D=[
     null
   ],
   [
+    "479/VI",
+    "0677/VI",
+    "13.12.2023",
+    "Kriterien im Milieuschutz",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8803",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.10.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/015/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.11.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/016/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "05.12.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/017/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.12.2023",
+      "beschlussdatum": "13.12.2023"
+    },
+    null
+  ],
+  [
     "480/VI",
     "0680/VI",
     "13.12.2023",
@@ -17398,6 +21118,90 @@ var D=[
     "laufender-prozess"
   ],
   [
+    "482/VI",
+    "0694/VI",
+    "13.12.2023",
+    "Reaktivierung des „Gabenzaunes“",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8818",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.11.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.12.2023",
+      "beschlussdatum": "13.12.2023"
+    },
+    null
+  ],
+  [
+    "483/VI",
+    "0715/VI",
+    "13.12.2023",
+    "Personalausweisautomat auch für das Bürger*innenamt Zehlendorf",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8839",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.10.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/020/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "22.11.2023",
+          "gremium": "Büd",
+          "sitzung": "Büd/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "30.11.2023",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/028/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.12.2023",
+      "beschlussdatum": "13.12.2023"
+    },
+    null
+  ],
+  [
     "484/VI",
     "0725/VI",
     "13.12.2023",
@@ -17493,6 +21297,51 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "laufender-prozess"
+  ],
+  [
+    "486/VI",
+    "0732/VI",
+    "13.12.2023",
+    "Asyl für Turnvater Jahn",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8856",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.10.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/020/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "01.11.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/014/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.11.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/015/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.12.2023",
+      "beschlussdatum": "13.12.2023"
+    },
+    null
   ],
   [
     "487/VI",
@@ -17662,6 +21511,69 @@ var D=[
     null
   ],
   [
+    "491/VI",
+    "0599/VI",
+    "13.12.2023",
+    "Keine Ehre für Kurt von Schleicher",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8723",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.06.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.08.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/012/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.10.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/013/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.11.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/014/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.11.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/015/2023",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.12.2023",
+      "beschlussdatum": "13.12.2023"
+    },
+    null
+  ],
+  [
     "492/VI",
     "0744/VI",
     "17.01.2024",
@@ -17776,6 +21688,51 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber den zuständigen Stellen und insbesondere der \nBVG dafür einzusetzen, dass geprüft wird, dass die Ronnebypromenade vom Bahnhof \nWannsee aus ohne größere Umwege barrierefrei mit einem Aufzug zu erreichen ist.\nBezirksverordnetenvorsteher\n17.01.2024",
+      "beschlussdatum": "17.01.2024"
+    },
+    null
+  ],
+  [
+    "494/VI",
+    "0747/VI",
+    "17.01.2024",
+    "Die notwendigen Klimaziele im Bezirk erreichen: Einen eigenständigen Klimaausschuss unter Einbeziehung der Einwohner*innen und des gesamten Bezirksamtes einrichten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8871",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "15.11.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/021/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "06.12.2023",
+          "gremium": "GO",
+          "sitzung": "GO/012/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.01.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/029/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.01.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/023/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.01.2024",
       "beschlussdatum": "17.01.2024"
     },
     null
@@ -17986,6 +21943,108 @@ var D=[
     null
   ],
   [
+    "501/VI",
+    "0670/VI",
+    "17.01.2024",
+    "Nach Worten nun Taten - Frauenbeirat endlich ins Leben rufen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8794",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "31.10.2023",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/010/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.11.2023",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.01.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/029/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.01.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/023/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.01.2024",
+      "beschlussdatum": "17.01.2024"
+    },
+    null
+  ],
+  [
+    "502/VI",
+    "0671/VI",
+    "17.01.2024",
+    "Volle Transparenz herstellen - Videos der BVV-Sitzungen für alle Bürger*innen online stellen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8795",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "11.10.2023",
+          "gremium": "GO",
+          "sitzung": "GO/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "06.12.2023",
+          "gremium": "GO",
+          "sitzung": "GO/012/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.01.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/029/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.01.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/023/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.01.2024",
+      "beschlussdatum": "17.01.2024"
+    },
+    null
+  ],
+  [
     "503/VI",
     "0868/VI",
     "21.02.2024",
@@ -18108,6 +22167,69 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "506/VI",
+    "0646/VI",
+    "21.02.2024",
+    "Milieuschutz braucht Mitwirkung - Milieuschutzbeirat in Steglitz-Zehlendorf initiieren",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8770",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.06.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/018/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "12.09.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/014/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.10.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/015/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.11.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/016/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "05.12.2023",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/017/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "13.02.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/019/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.02.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/024/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.02.2024",
+      "beschlussdatum": "21.02.2024"
+    },
+    null
   ],
   [
     "507/VI",
@@ -18501,6 +22623,45 @@ var D=[
     null
   ],
   [
+    "515/VI",
+    "0799/VI",
+    "21.02.2024",
+    "Verlängerung Tempo 30 auf der gesamten Finckensteinallee und ggf. Mühlenstraße",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8923",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "01.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.02.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/024/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.02.2024",
+      "beschlussdatum": "21.02.2024"
+    },
+    null
+  ],
+  [
     "516/VI",
     "0804/VI",
     "21.02.2024",
@@ -18640,6 +22801,90 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "nicht-umsetzbar"
+  ],
+  [
+    "519/VI",
+    "0755/VI",
+    "21.02.2024",
+    "Queere Aufklärung für Flüchtlinge",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8879",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "15.11.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/021/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "28.11.2023",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/011/2023",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.01.2024",
+          "gremium": "ParInt",
+          "sitzung": "ParInt/013/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.02.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/024/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.02.2024",
+      "beschlussdatum": "21.02.2024"
+    },
+    null
+  ],
+  [
+    "520/VI",
+    "0794/VI",
+    "21.02.2024",
+    "Dialogdisplay für die Moltkebrücke",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8918",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "01.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.02.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/024/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.02.2024",
+      "beschlussdatum": "21.02.2024"
+    },
+    null
   ],
   [
     "521/VI",
@@ -19261,6 +23506,51 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "536/VI",
+    "0806/VI",
+    "20.03.2024",
+    "Friedhofskultur: Würdigung und Respekt unserer Toten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8930",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.01.2024",
+          "gremium": "GNU",
+          "sitzung": "GNU/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.03.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/030/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.03.2024",
+      "beschlussdatum": "20.03.2024"
+    },
+    null
+  ],
+  [
     "537/VI",
     "0808/VI",
     "20.03.2024",
@@ -19354,6 +23644,45 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "539/VI",
+    "0833/VI",
+    "20.03.2024",
+    "FU: Übungsleiter für Sportvereine gewinnen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8957",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.01.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/023/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "22.02.2024",
+          "gremium": "Sport",
+          "sitzung": "Sport/016/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.03.2024",
+      "beschlussdatum": "20.03.2024"
+    },
+    null
   ],
   [
     "540/VI",
@@ -19551,6 +23880,108 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAls 2. stellvertretende Bürgerdeputierte im Ausschuss für Frauen*, Gleichstellung, Queer \nwird\nKim Alexandra Trau\ngewählt.\nBezirksverordnetenvorsteher\n17.04.2024",
+      "beschlussdatum": "17.04.2024"
+    },
+    null
+  ],
+  [
+    "547/VI",
+    "0676/VI",
+    "17.04.2024",
+    "Inklusionssportplanung für und mit den Nutzern",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8802",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.09.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/019/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.11.2023",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.01.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/012/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.02.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/013/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "21.03.2024",
+          "gremium": "Sport",
+          "sitzung": "Sport/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.04.2024",
+      "beschlussdatum": "17.04.2024"
+    },
+    null
+  ],
+  [
+    "548/VI",
+    "0801/VI",
+    "17.04.2024",
+    "Wohnen ist Daseinsvorsorge: Mietwucher verfolgen, ahnden, stoppen!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8925",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.02.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/019/2024",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "27.03.2024",
+          "gremium": "Büd",
+          "sitzung": "Büd/013/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.04.2024",
       "beschlussdatum": "17.04.2024"
     },
     null
@@ -20072,6 +24503,120 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "560/VI",
+    "0774/VI",
+    "22.05.2024",
+    "E-Wasser-Shuttles für den ÖPNV",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8898",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "15.11.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/021/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "23.11.2023",
+          "gremium": "MVO",
+          "sitzung": "MVO/016/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/017/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
+      "beschlussdatum": "22.05.2024"
+    },
+    null
+  ],
+  [
+    "561/VI",
+    "0776/VI",
+    "22.05.2024",
+    "Stele für Erich Fellgiebel",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8900",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "15.11.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/021/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "29.11.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/015/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.01.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/016/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "06.03.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/017/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.05.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/018/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
+      "beschlussdatum": "22.05.2024"
+    },
+    null
+  ],
+  [
     "562/VI",
     "0796/VI",
     "22.05.2024",
@@ -20379,6 +24924,45 @@ var D=[
     "laufender-prozess"
   ],
   [
+    "568/VI",
+    "0912/VI",
+    "22.05.2024",
+    "Pilotprojekt „00-Toleranz für Toiletten-Vandalismus“",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9036",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.05.2024",
+          "gremium": "Sch",
+          "sitzung": "Sch/016/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
+      "beschlussdatum": "22.05.2024"
+    },
+    null
+  ],
+  [
     "569/VI",
     "0918/VI",
     "22.05.2024",
@@ -20456,6 +25040,51 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem Bezirksamt wird empfohlen, sich gegenüber den zuständigen Stellen dafür einzusetzen, \ndass beim Ausbau der U3 zum Mexikoplatz Infrastruktur zur Reinigung des in den Waldsee \ngeleiteten Straßenabwassers mitgedacht wird. Beispielsweise zur Absetzung von \nSedimenten/Schlamm.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
+      "beschlussdatum": "22.05.2024"
+    },
+    null
+  ],
+  [
+    "571/VI",
+    "0937/VI",
+    "22.05.2024",
+    "Ungenehmigte Ferienwohnungen in Steglitz-Zehlendorf aufspüren und wieder dem Wohnungsmarkt zuführen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9061",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.04.2024",
+          "gremium": "Büd",
+          "sitzung": "Büd/014/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "02.05.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/031/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nStellv. Bezirksverordnetenvorsteher\n22.05.2024",
       "beschlussdatum": "22.05.2024"
     },
     null
@@ -20833,6 +25462,69 @@ var D=[
     null
   ],
   [
+    "583/VI",
+    "0805/VI",
+    "19.06.2024",
+    "Sderot-Platz: Märchen-Brunnen herrichten als Friedens- und Freiheitssymbol",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8929",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.01.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/016/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "01.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/017/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "06.06.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/032/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
+  ],
+  [
     "584/VI",
     "0839/VI",
     "19.06.2024",
@@ -20894,6 +25586,57 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "585/VI",
+    "0854/VI",
+    "19.06.2024",
+    "Schwerpunktkontrollen von Radfahrern",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8978",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.02.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/024/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "29.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
   ],
   [
     "586/VI",
@@ -21115,6 +25858,57 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "590/VI",
+    "0864/VI",
+    "19.06.2024",
+    "Den Widerstandskämpfer Dr. Franz Hering (1902–1990) in die bezirkliche Straßenbenennungsliste aufnehmen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8988",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.02.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/024/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "06.03.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/017/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.05.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "05.06.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/019/2024",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
+  ],
+  [
     "591/VI",
     "0872/VI",
     "19.06.2024",
@@ -21273,6 +26067,96 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "594/VI",
+    "0897/VI",
+    "19.06.2024",
+    "Buslinie 285",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9021",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
+  ],
+  [
+    "595/VI",
+    "0913/VI",
+    "19.06.2024",
+    "Würdigung des Hitler-Attentäters Oberst Claus Schenk Graf von Stauffenberg zum 80. Jahrestag des Attentats am 20. Juli 2024",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9037",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "08.05.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/018/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "06.06.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/032/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
   ],
   [
     "596/VI",
@@ -21533,6 +26417,84 @@ var D=[
     null
   ],
   [
+    "601/VI",
+    "0956/VI",
+    "19.06.2024",
+    "Dank den Schülern und Unternehmen, die aktiv die Umwelt durch Baumpflanzung schützen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9080",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "23.05.2024",
+          "gremium": "GNU",
+          "sitzung": "GNU/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
+  ],
+  [
+    "602/VI",
+    "0957/VI",
+    "19.06.2024",
+    "Rhododendron vor dem Rathaus",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9081",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "23.05.2024",
+          "gremium": "GNU",
+          "sitzung": "GNU/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
+  ],
+  [
     "603/VI",
     "0991/VI",
     "19.06.2024",
@@ -21659,6 +26621,100 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Beschlüsse aus vorigen Wahlperioden in 2024 als VzK \noder als Zwischenbericht vorzulegen. Weiterhin sollen regelmäßig in den BVVen vor der \nSommerpause und vor den Weihnachtsferien entsprechende Vorlagen zur Kenntnisnahme \nerstellt und der BVV zur Kenntnis gegeben werden.\nBezirksverordnetenvorsteher\n19.06.2024",
+      "beschlussdatum": "19.06.2024"
+    },
+    null
+  ],
+  [
+    "606/VI",
+    "0587/VI",
+    "19.06.2024",
+    "Die Ehrung deutscher Kolonialverbrechen endlich beenden und Lans-, Iltis- und Takustraße umbenenne",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8711",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD- und GRÜNE-Fraktion",
+      "parties": [
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "24.05.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/017/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.06.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/011/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.08.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/012/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.10.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/013/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.11.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/014/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.11.2023",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/015/2023",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "17.01.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/023/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "06.03.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/017/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.05.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "05.06.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/019/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.06.2024",
       "beschlussdatum": "19.06.2024"
     },
     null
@@ -21918,6 +26974,75 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDem vom Großbrandereignis in Lichterfelde am 03.05.2024 betroffenen Rumpelbasar \nZehlendorf e.V. soll die zügige Wiederaufnahme des Betriebs ermöglicht werden. Zu diesem \nZweck wird aus Sondermitteln der BVV ein Betrag bis zur Höhe von \n10.000 €\nzur Verfügung gestellt.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024"
+    },
+    null
+  ],
+  [
+    "617/VI",
+    "0792/VI",
+    "17.07.2024",
+    "Ämterübergreifende Initiative zum Umgang mit Obdachlosigkeit fortführen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8916",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.12.2023",
+          "gremium": "BVV",
+          "sitzung": "BVV/022/2023",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "01.02.2024",
+          "gremium": "Ges",
+          "sitzung": "Ges/014/2024",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "01.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/017/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.05.2024",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/016/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "13.06.2024",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
     },
     null
@@ -22231,6 +27356,57 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "623/VI",
+    "0898/VI",
+    "17.07.2024",
+    "Illegalen Werbekärtchen an Pkw den Kampf ansagen!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9022",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024"
+    },
+    null
+  ],
+  [
     "624/VI",
     "0908/VI",
     "17.07.2024",
@@ -22334,6 +27510,108 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDie BVV Steglitz-Zehlendorf dankt den Schüler*innen im Bezirk, die in den letzten Wochen \nfür Frieden, Freiheit und Demokratie demonstriert haben. Die Schüler*innen in unserem \nBezirk sollen wissen: Die BVV verteidigt gemeinsam mit ihnen das Recht auf freie \nMeinungsäußerung.\nDie Angriffe der AfD auf einzelne Schulleitungen sowie das offensichtliche Filmen einer \nSchüler*innendemonstration in der Schloßstraße durch mehrere Vertreter*innen der AfD \nSteglitz-Zehlendorf wertet die BVV als Einschüchterungsversuch seitens der AfD gegenüber \nmissliebigen Meinungen. Dass die AfD nicht davor zurückschreckt, Kinder und Jugendliche \nins Visier zu nehmen, macht ihre Handlungen besonders verachtenswert.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024"
+    },
+    null
+  ],
+  [
+    "626/VI",
+    "0910/VI",
+    "17.07.2024",
+    "Ohne Elterntaxis gibt's ein Gutti – Augsburg macht es vor",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9034",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.05.2024",
+          "gremium": "Sch",
+          "sitzung": "Sch/016/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024"
+    },
+    null
+  ],
+  [
+    "627/VI",
+    "0911/VI",
+    "17.07.2024",
+    "Friedvolles miteinander: Fahrradverkehrskontrollen an Bushaltestellen durchführen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9035",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "AfD-Fraktion",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.07.2024",
       "beschlussdatum": "17.07.2024"
     },
     null
@@ -22553,6 +27831,57 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "laufender-prozess"
+  ],
+  [
+    "632/VI",
+    "0936/VI",
+    "17.07.2024",
+    "Bezeichnung des U-Bahnhofes Oskar-Helene-Heim mit dem Zusatz Clayallee ergänzen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9060",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024"
+    },
+    null
   ],
   [
     "633/VI",
@@ -23471,6 +28800,306 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "652/VI",
+    "0906/VI",
+    "17.07.2024",
+    "Baustellenchaos am Steglitzer Kreisel nicht länger zu Lasten von Nutzer*innen des ÖPNV sowie Radfahrer*innen und Fußgänger*innen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9030",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024"
+    },
+    null
+  ],
+  [
+    "653/VI",
+    "0973/VI",
+    "17.07.2024",
+    "Runder Tisch „Hilfe für obdachlose Menschen in Steglitz-Zehlendorf“",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9097",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.06.2024",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "04.07.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/033/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024"
+    },
+    null
+  ],
+  [
+    "654/VI",
+    "0853/VI",
+    "18.09.2024",
+    "Lebendiger Kranold-Markt-Platz",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8977",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Bürgerinnen und Bürger",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "21.02.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/024/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "29.02.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.03.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.03.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/014/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "09.04.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/021/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "23.04.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/015/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.05.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/022/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.05.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/016/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.06.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.06.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.07.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.09.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/034/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.09.2024",
+      "beschlussdatum": "18.09.2024"
+    },
+    null
+  ],
+  [
+    "655/VI",
+    "0935/VI",
+    "18.09.2024",
+    "Kranoldmarkt erhalten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9059",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Bürgerinnen und Bürger",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "23.04.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/015/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.05.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/022/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.05.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/016/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.06.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.06.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/017/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "09.07.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.09.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/034/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.09.2024",
+      "beschlussdatum": "18.09.2024"
+    },
+    null
+  ],
+  [
     "656/VI",
     "1105/VI",
     "18.09.2024",
@@ -23510,6 +29139,31 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "18.09.2024",
       "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
+    "658/VI",
+    "1102/VI",
+    "18.09.2024",
+    "Fünf weitere Worte für die Inklusion",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9226",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.09.2024",
+      "beschlussdatum": "18.09.2024"
     },
     null
   ],
@@ -23816,6 +29470,63 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, aufbauend auf der Studie von Prof. Thomas Brechenmacher \n(Universität Potsdam) sämtliche im Bezirk vorliegenden Akten bezüglich des Grundstücks \nKohlhasenbrücker Straße 40 in einer Übersicht zu erfassen und diese aktuell zu halten, \ndamit eine vollumfassende Aufarbeitung durch externe Forschungsstellen erfolgen kann.\nBezirksverordnetenvorsteher\n18.09.2024",
+      "beschlussdatum": "18.09.2024"
+    },
+    null
+  ],
+  [
+    "663/VI",
+    "0907/VI",
+    "18.09.2024",
+    "Für die Vision Zero und gegen die Wiedereinführung von Tempo 50 in der Albrechtstraße und Leonorenstraße",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9031",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "20.03.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/025/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.04.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.07.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/022/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
     },
     null
@@ -24150,6 +29861,63 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die zuständigen Stellen (Berliner Forsten, Senatsverwaltung) \nzu bitten, dass diese prüfen, ob neben der Kohlhasenbrücker Straße zwischen Alsenbrücke \nund Stadtgrenze befestigte Radwege angelegt werden können.\nBezirksverordnetenvorsteher\n18.09.2024",
+      "beschlussdatum": "18.09.2024"
+    },
+    null
+  ],
+  [
+    "670/VI",
+    "0981/VI",
+    "18.09.2024",
+    "Wappen des Bezirkes auf dem neu gestalteten Hermann-Ehlers-Platz",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9105",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.07.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/022/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.09.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/034/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.09.2024",
       "beschlussdatum": "18.09.2024"
     },
     null
@@ -24518,6 +30286,49 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "nicht-umsetzbar"
+  ],
+  [
+    "678/VI",
+    "1033/VI",
+    "18.09.2024",
+    "Illegale Werbung im Bezirk konsequent unterbinden",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9157",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.07.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/022/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.09.2024",
+      "beschlussdatum": "18.09.2024"
+    },
+    null
   ],
   [
     "679/VI",
@@ -24981,6 +30792,63 @@ var D=[
     "laufender-prozess"
   ],
   [
+    "687/VI",
+    "0995/VI",
+    "18.09.2024",
+    "Keine Großwindanlagen in Steglitz-Zehlendorf",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9079",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD-, GRÜNE- und FDP- Fraktion",
+      "parties": [
+        "FDP",
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "14.05.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/022/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.06.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "09.07.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/024/2024",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, zu prüfen, ob auch in unserem Bezirk die Voraussetzungen \nzur Genehmigung von Kleinwindkraftanlagen auf Dächern vorliegen. Falls die Prüfung positiv \nausfällt, wird das Bezirksamt gebeten, dies in geeigneter Weise bekannt zu geben und die \nentsprechenden Baugenehmigungen für Kleinwindkraftanlagen auf Antrag zu erteilen und \nbestehende Hürden für deren Errichtung abzubauen.\nBezirksverordnetenvorsteher\n17.07.2024",
+      "beschlussdatum": "17.07.2024",
+      "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Patrick Steinhoff",
+      "antwort": "Hierzu wird berichtet: Die Berliner Stadtwerke haben im Auftrag des Landes Berlin Untersuchungen zu \nKleinwindkraftanlagen durchgeführt. Die Kleinwindkraftanlagen wurden in einer Testanlage \ngebaut, mussten aber nach einem Jahr abgebaut werden, da der Windertrag deutlich geringer \nwar als geplant. Des Weiteren gab es Schwingungen, die in das Gebäude eingedrungen sind. \nNach Aussage der Berliner Stadtwerke werden Kleinwindkraftanlagen nicht geplant, da sie sich \nwirtschaftlich nicht darstellen lassen. \nDer Bezirk hat keine Ressourcen um proaktiv zu prüfen. Das Planungsrecht ist vorrangig zu \nbetrachten. Die Handreichung liegt vor und bei Anträgen wird je nach Situation positiv oder \nnegativ beschieden. \nKleinwindkraftanlagen sind verfahrensfrei bis zu 10 Meter Höhe gemessen von der \nGeländeoberfläche bis zum höchsten Punkt der vom Rotor bestrichenen Fläche, \nRotordurchmesser von max. 3 Meter (§61(1)3.c) BauOBln). Es wird gebeten",
+      "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
+      "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
     "688/VI",
     "1030/VI",
     "18.09.2024",
@@ -25178,6 +31046,63 @@ var D=[
     null
   ],
   [
+    "692/VI",
+    "0975/VI",
+    "16.10.2024",
+    "Parken am Teltower Damm wieder ermöglichen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9099",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "30.05.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.07.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/022/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.09.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/023/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.10.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/031/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.10.2024",
+      "beschlussdatum": "16.10.2024"
+    },
+    null
+  ],
+  [
     "693/VI",
     "1023/VI",
     "16.10.2024",
@@ -25256,6 +31181,49 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, ob ein Wochenmarkt am Platz des 4. Juli \nregelmäßig stattfinden kann und welche Auswirkungen auf andere Märkte im Bezirk zu \nerwarten sind. Bei positiver Prüfung möge das Amt mit regionalen Markthändlern in Kontakt \ntreten, um den Wochenmarkt zu initiieren.\nBezirksverordnetenvorsteher\n16.10.2024",
+      "beschlussdatum": "16.10.2024"
+    },
+    null
+  ],
+  [
+    "695/VI",
+    "1052/VI",
+    "16.10.2024",
+    "Ausbreitung Hybrid-Luzerne: Müssen jetzt dringend handeln",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9176",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Döhnert",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "Ges",
+          "sitzung": "Ges/018/2024",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "19.09.2024",
+          "gremium": "GNU",
+          "sitzung": "GNU/023/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.10.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/031/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.10.2024",
       "beschlussdatum": "16.10.2024"
     },
     null
@@ -25408,6 +31376,43 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "699/VI",
+    "1103/VI",
+    "16.10.2024",
+    "Stadtplanerische Konzepte, die die Mieten- und Klimakrise anerkennen statt Deals mit Investor*innen zu Lasten von günstigen Mietwohnungen und Naturflächen!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9227",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "08.10.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/027/2024",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "16.10.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/031/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.10.2024",
+      "beschlussdatum": "16.10.2024"
+    },
+    null
+  ],
+  [
     "700/VI",
     "1157/VI",
     "13.11.2024",
@@ -25422,6 +31427,142 @@ var D=[
       "beratungsfolge": [],
       "beschlussdatum": "13.11.2024",
       "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
+    "701/VI",
+    "0938/VI",
+    "13.11.2024",
+    "Bildende Kunst im Rathaus Zehlendorf – höchste Zeit für ein Update",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9062",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Fraktionslose",
+      "parties": [
+        "Fraktionslose"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.04.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/026/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "23.04.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/015/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.05.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/018/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.05.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/016/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.06.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/019/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.06.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "03.07.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/020/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "09.07.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "04.09.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/021/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "31.10.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/035/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "13.11.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/032/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.11.2024",
+      "beschlussdatum": "13.11.2024"
+    },
+    null
+  ],
+  [
+    "702/VI",
+    "0969/VI",
+    "13.11.2024",
+    "Grauwasserrecycling im Bezirk verbindlich einführen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9093",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "22.05.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/027/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.06.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/017/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.09.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/018/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "31.10.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/035/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "13.11.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/032/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.11.2024",
+      "beschlussdatum": "13.11.2024"
     },
     null
   ],
@@ -25651,6 +31792,49 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "706/VI",
+    "1074/VI",
+    "13.11.2024",
+    "Spielplatz in der Straße zum Löwen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9198",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "19.09.2024",
+          "gremium": "GNU",
+          "sitzung": "GNU/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "17.10.2024",
+          "gremium": "GNU",
+          "sitzung": "GNU/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "13.11.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/032/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n13.11.2024",
+      "beschlussdatum": "13.11.2024"
+    },
+    null
   ],
   [
     "707/VI",
@@ -26172,6 +32356,104 @@ var D=[
     null
   ],
   [
+    "719/VI",
+    "1031/VI",
+    "11.12.2024",
+    "Die BVV Steglitz-Zehlendorf fordert weiterhin eine Busvorrangspur auf dem Hindenburgdamm",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9155",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.09.2024",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/018/2024",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.12.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/033/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n11.12.2024",
+      "beschlussdatum": "11.12.2024"
+    },
+    null
+  ],
+  [
+    "720/VI",
+    "1032/VI",
+    "11.12.2024",
+    "Endlich ein Gehweg für die Goerzallee",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9156",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "19.06.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/028/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "27.06.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/021/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.07.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/022/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.09.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.12.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/033/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n11.12.2024",
+      "beschlussdatum": "11.12.2024"
+    },
+    null
+  ],
+  [
     "721/VI",
     "1039/VI",
     "11.12.2024",
@@ -26323,6 +32605,100 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich bei den zuständigen Stellen dafür einzusetzen, dass im \nBereich S-Bahnhof Lichterfelde-Süd/Endhaltestelle M 85 eine öffentliche Toilette eingerichtet \nwird.\nBezirksverordnetenvorsteher\n11.12.2024",
+      "beschlussdatum": "11.12.2024"
+    },
+    null
+  ],
+  [
+    "724/VI",
+    "1075/VI",
+    "11.12.2024",
+    "Sondermittel der BVV besser bewerben",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9199",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "05.09.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/034/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "31.10.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/035/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "28.11.2024",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/036/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.12.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/033/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n11.12.2024",
+      "beschlussdatum": "11.12.2024"
+    },
+    null
+  ],
+  [
+    "725/VI",
+    "1077/VI",
+    "11.12.2024",
+    "Spiegelwand auf dem Hermann-Ehlers-Platz antisemitisch beschmiert: Gegenmaßnahmen ergreifen!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9201",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "17.07.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/029/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.09.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.12.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/033/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n11.12.2024",
       "beschlussdatum": "11.12.2024"
     },
     null
@@ -26512,6 +32888,43 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "730/VI",
+    "1139/VI",
+    "11.12.2024",
+    "Platz vor der Schwartzschen Villa von der BSR reinigen lassen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9263",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "16.10.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/031/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.12.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/033/2024",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n11.12.2024",
+      "beschlussdatum": "11.12.2024"
+    },
+    null
   ],
   [
     "731/VI",
@@ -27677,6 +34090,57 @@ var D=[
     null
   ],
   [
+    "756/VI",
+    "1115/VI",
+    "19.02.2025",
+    "Verkehr flüssiger gestalten - Fußgängerbedarfsampel Birkbusch-/ Sedanstraße jetzt!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9239",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.09.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.02.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/035/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.02.2025",
+      "beschlussdatum": "19.02.2025"
+    },
+    null
+  ],
+  [
     "757/VI",
     "1116/VI",
     "19.02.2025",
@@ -27898,6 +34362,96 @@ var D=[
     null
   ],
   [
+    "761/VI",
+    "1133/VI",
+    "19.02.2025",
+    "Flexible Verkehrsflächen stärken - Verkehrsbeziehungen für Sicherheits- und Rettungskräfte sicherstellen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9257",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.10.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/031/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.02.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/035/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.02.2025",
+      "beschlussdatum": "19.02.2025"
+    },
+    null
+  ],
+  [
+    "762/VI",
+    "1134/VI",
+    "19.02.2025",
+    "Parkregelung Holbeinstraße",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9258",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.10.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/031/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "14.11.2024",
+          "gremium": "GNU",
+          "sitzung": "GNU/025/2024",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.02.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/035/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.02.2025",
+      "beschlussdatum": "19.02.2025"
+    },
+    null
+  ],
+  [
     "763/VI",
     "1175/VI",
     "19.02.2025",
@@ -28087,6 +34641,83 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "767/VI",
+    "1218/VI",
+    "19.02.2025",
+    "Öffentliche Toiletten im LiO auch am Sonntag",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9342",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "11.12.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/033/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "28.01.2025",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/020/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.02.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/035/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.02.2025",
+      "beschlussdatum": "19.02.2025"
+    },
+    null
+  ],
+  [
+    "768/VI",
+    "1242/VI",
+    "19.02.2025",
+    "Böllerverbot",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9366",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD- und GRÜNE-Fraktion",
+      "parties": [
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.01.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/034/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.02.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/035/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.02.2025",
+      "beschlussdatum": "19.02.2025"
+    },
+    null
   ],
   [
     "769/VI",
@@ -28478,6 +35109,57 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "laufender-prozess"
+  ],
+  [
+    "777/VI",
+    "1163/VI",
+    "19.03.2025",
+    "Huckelpiste Zinsweilerweg wieder zu einer Straße machen und Belag dringend erneuern",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9287",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.11.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/032/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "06.03.2025",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/038/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.03.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/036/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n19.03.2025",
+      "beschlussdatum": "19.03.2025"
+    },
+    null
   ],
   [
     "778/VI",
@@ -29529,6 +36211,73 @@ var D=[
     null
   ],
   [
+    "805/VI",
+    "1137/VI",
+    "14.05.2025",
+    "Bedarfsgerechten Wohnraum bei Nachverdichtungsvorhaben sicherstellen – \"Neuköllner Modell für kiezverträglichen Wohnungsbau\" in Steglitz-Zehlendorf umsetzen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9261",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "16.10.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/031/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "05.11.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/028/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "03.12.2024",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/029/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "14.01.2025",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/030/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.02.2025",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/031/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.03.2025",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/032/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.04.2025",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/033/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.05.2025",
+      "beschlussdatum": "14.05.2025"
+    },
+    null
+  ],
+  [
     "806/VI",
     "1140/VI",
     "14.05.2025",
@@ -29699,6 +36448,63 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, den Gehweg in der Kirchstraße vor dem Rathaus Zehlendorf in \neinen sicheren Zustand zu versetzen.\nBezirksverordnetenvorsteher\n14.05.2025",
+      "beschlussdatum": "14.05.2025"
+    },
+    null
+  ],
+  [
+    "809/VI",
+    "1172/VI",
+    "14.05.2025",
+    "Bauarbeiten A115",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9296",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "13.11.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/032/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "21.11.2024",
+          "gremium": "MVO",
+          "sitzung": "MVO/024/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.02.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/026/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "03.04.2025",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/039/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.05.2025",
       "beschlussdatum": "14.05.2025"
     },
     null
@@ -29998,6 +36804,147 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "815/VI",
+    "1217/VI",
+    "14.05.2025",
+    "Den Südwesten bei der Verkehrswende nicht komplett abhängen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9341",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "11.12.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/033/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.02.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/026/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.03.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/027/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.05.2025",
+      "beschlussdatum": "14.05.2025"
+    },
+    null
+  ],
+  [
+    "816/VI",
+    "1233/VI",
+    "14.05.2025",
+    "Verkehrssicherheit in der Lichterfelder Karwendelstraße erhöhen, Verkehrslärm reduzieren",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9357",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "22.01.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/034/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "30.01.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/025/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.02.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/026/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.03.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/027/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.05.2025",
+      "beschlussdatum": "14.05.2025"
+    },
+    null
+  ],
+  [
+    "817/VI",
+    "1239/VI",
+    "14.05.2025",
+    "Unterstützung für alternative Standorte der Ausstellung \"The Vicious Circle\" im Bezirk",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9363",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Döhnert",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "22.01.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/034/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.02.2025",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/021/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.03.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/025/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.05.2025",
+      "beschlussdatum": "14.05.2025"
+    },
+    null
   ],
   [
     "818/VI",
@@ -30549,6 +37496,52 @@ var D=[
     null
   ],
   [
+    "830/VI",
+    "1237/VI",
+    "14.05.2025",
+    "Digitale Workflows für die BVV",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9361",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "FDP- und GRÜNE-Fraktion",
+      "parties": [
+        "FDP",
+        "Grüne"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.01.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/034/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "12.02.2025",
+          "gremium": "GO",
+          "sitzung": "GO/018/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.04.2025",
+          "gremium": "GO",
+          "sitzung": "GO/019/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n14.05.2025",
+      "beschlussdatum": "14.05.2025"
+    },
+    null
+  ],
+  [
     "831//VI",
     "1282/VI",
     "14.05.2025",
@@ -30772,6 +37765,52 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, in Absprache mit der Initiative KZ-Außenlager Lichterfelde e.V. \ndie Oberfläche der „Säule der Gefangenen“ nebst der Metallkette zu reinigen und ggf. mit \neiner \nunsichtbaren \nSchutzschicht \nzu \nversehen, \num \nsie \nvor \nVerwitterung \nund \nUmwelteinwirkungen (Luftschadstoffe) zu schützen.\nBezirksverordnetenvorsteher\n18.06.2025",
+      "beschlussdatum": "18.06.2025"
+    },
+    null
+  ],
+  [
+    "838/VI",
+    "1294/VI",
+    "18.06.2025",
+    "Verkehrsschild Parken abordnen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9418",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD- und GRÜNE-Fraktion",
+      "parties": [
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.03.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/036/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "27.03.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/027/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.05.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/028/2025",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "18.06.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/038/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
     },
     null
@@ -31057,6 +38096,73 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZum stellvertretenden Bezirksbürgermeister des Bezirks Steglitz-Zehlendorf von Berlin wird \nHerr Tim Richter\ngewählt. \nBezirksverordnetenvorsteher\n18.06.2025",
+      "beschlussdatum": "18.06.2025"
+    },
+    null
+  ],
+  [
+    "846/VI",
+    "1101/VI",
+    "18.06.2025",
+    "Ein neuer Name für die Eduard-Spranger-Promenade",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9225",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "18.09.2024",
+          "gremium": "BVV",
+          "sitzung": "BVV/030/2024",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "02.10.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/022/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.11.2024",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/023/2024",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "08.01.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/024/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "05.03.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/025/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.04.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/026/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "15.05.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/030/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.06.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/038/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.06.2025",
       "beschlussdatum": "18.06.2025"
     },
     null
@@ -31490,6 +38596,114 @@ var D=[
     null
   ],
   [
+    "859/VI",
+    "1277/VI",
+    "16.07.2025",
+    "Informationstafel zu Ehren Joachim Tiburtius an der Joachim-Tiburtius-Brücke",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9401",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.03.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/036/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "02.04.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/026/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.04.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/027/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.06.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/028/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.07.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/029/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.07.2025",
+      "beschlussdatum": "16.07.2025"
+    },
+    null
+  ],
+  [
+    "860/VI",
+    "1279/VI",
+    "16.07.2025",
+    "Entlastung des Parkraums in der Chausseestraße während der Baumaßnahmen – Einbindung der Geschäftsleute und Anpassung der Busführung",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9403",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "19.03.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/036/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "27.03.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/027/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.05.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/028/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.06.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/029/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.07.2025",
+      "beschlussdatum": "16.07.2025"
+    },
+    null
+  ],
+  [
     "861/VI",
     "1283/VI",
     "16.07.2025",
@@ -31544,6 +38758,45 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, das Engagement der Bürgerschaft für die bezirkliche \nErinnerungskultur bei der Recherche und Verlegung von Stolpersteinen zu würdigen. \nZusammen \nmit \nengagierten \nLaienforscherinen \nund \n–forschern, \nden \nbeteiligten \nKirchenkreisen in Steglitz-Zehlendorf, dem Runden Tisch Regionalgeschichte und Schulen \nmöge das Bezirksamt prüfen, wie die Sicherung von privaten Quellen, die nicht über andere \nöffentliche Archive zugänglich sind, für die Zukunft gewährleistet werden kann. Denkbar \nwäre die Unterbringung von Recherchematerial in den Stadtbibliotheken des Bezirks, wo sie \nfür Schülerinnen und Schüler sowie interessierte Bürgerinnen und Bürger zugänglich wären. \nDiesbezüglich möge das Bezirksamt prüfen, welche archivrechtlichen Einschränkungen es \nggf. gibt und wie hoch der finanzielle sowie personelle Bedarf des Amtes zur Bereitstellung \ndes privaten Forschungsmaterials in der Stadtbibliothek wären. Der BVV ist binnen 6 \nMonaten im zuständigen Ausschuss für Bildung und Kultur zu berichten.\nBezirksverordnetenvorsteher\n16.07.2025",
+      "beschlussdatum": "16.07.2025"
+    },
+    null
+  ],
+  [
+    "862/VI",
+    "1325/VI",
+    "16.07.2025",
+    "Prüfung der Eignung des LeAn®-Systems für das vorausschauende Leerstands- und Ansiedlungsmanagement von Gewerbeimmobilien im Bezirk Steglitz-Zehlendorf",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9449",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.06.2025",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/024/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
     },
     null
@@ -31689,6 +38942,43 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nAn der Kreuzung Achensee Weg/Lichterfelder Ring soll ein Zebrastreifen eingerichtet \nwerden, um allen Menschen einen sicheren Übergang über die Straße zu ermöglichen. \nDabei ist mit Zeitdruck zu agieren, da mit dem Bauen für Lichterfelde-Süd ein mehrfacher \nVerkehr von LKWs und sonstigen Fahrzeugen zu erwarten ist.\nBezirksverordnetenvorsteher\n16.07.2025",
+      "beschlussdatum": "16.07.2025"
+    },
+    null
+  ],
+  [
+    "866/VI",
+    "1349/VI",
+    "16.07.2025",
+    "Aufenthaltsqualität auf der Schloßstraße verbessern – Springbrunnen auf dem Franz-Amrehn-Platz instandsetzen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9473",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Graffstädt",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "19.06.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/031/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n16.07.2025",
       "beschlussdatum": "16.07.2025"
     },
     null
@@ -32678,6 +39968,63 @@ var D=[
     null
   ],
   [
+    "891/VI",
+    "1391/VI",
+    "15.10.2025",
+    "Unser vielfältiges Steglitz-Zehlendorf stärken – Antidiskriminierungs-, Queer- und Diversitybeauftragte*n einrichten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9515",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD-Fraktion",
+      "parties": [
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.06.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/038/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "01.07.2025",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/021/2025",
+          "erledigungsart": "mit Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "04.09.2025",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/042/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.09.2025",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/048/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.10.2025",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/049/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "15.10.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/041/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n15.10.2025",
+      "beschlussdatum": "15.10.2025"
+    },
+    null
+  ],
+  [
     "892/VI",
     "1417/VI",
     "15.10.2025",
@@ -32827,6 +40174,85 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nZur Bezirksstadträtin von Berlin Steglitz-Zehlendorf wird\nMalgorzata Sijbrandij \ngewählt.\nBezirksverordnetenvorsteher\n15.10.2025",
+      "beschlussdatum": "15.10.2025"
+    },
+    null
+  ],
+  [
+    "896/VI",
+    "1415/VI",
+    "15.10.2025",
+    "Kraftfahrstraße auf der Tiburtiusbrücke umwandeln und wichtige Achse für den Fuß- und Radverkehr zwischen Schildhornstraße und Filandastraße ermöglichen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9539",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.09.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/030/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "15.10.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/041/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n15.10.2025",
+      "beschlussdatum": "15.10.2025"
+    },
+    null
+  ],
+  [
+    "897/VI",
+    "1428/VI",
+    "15.10.2025",
+    "Steglitz-Zehlendorf darf nicht abgehängt werden – öffentliches Leihradsystem erhalten!",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9552",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD- und GRÜNE-Fraktion",
+      "parties": [
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.09.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/030/2025",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "15.10.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/041/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n15.10.2025",
       "beschlussdatum": "15.10.2025"
     },
     null
@@ -33133,6 +40559,61 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "909/VI",
+    "1275/VI",
+    "12.11.2025",
+    "Weil es leider notwendig ist: Unterausschuss „Versorgung von Menschen ohne Obdach in Steglitz- Zehlendorf“ einrichten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9399",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "19.03.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/036/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.04.2025",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/024/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "12.06.2025",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/025/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "10.07.2025",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/026/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "08.10.2025",
+          "gremium": "GO",
+          "sitzung": "GO/022/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.11.2025",
+      "beschlussdatum": "12.11.2025"
+    },
+    null
+  ],
+  [
     "910/VI",
     "1292/VI",
     "12.11.2025",
@@ -33245,6 +40726,123 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "912/VI",
+    "1430/VI",
+    "12.11.2025",
+    "Kleine Handgriffe zur Pflege des Hermann-Ehlers-Platzes",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9554",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "16.10.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/033/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.11.2025",
+      "beschlussdatum": "12.11.2025"
+    },
+    null
+  ],
+  [
+    "913/VI",
+    "1431/VI",
+    "12.11.2025",
+    "Schön machen zur Eröffnung der Promenade Anlegestelle Wannsee",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9555",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "16.10.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/033/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.11.2025",
+      "beschlussdatum": "12.11.2025"
+    },
+    null
+  ],
+  [
+    "914/VI",
+    "1432/VI",
+    "12.11.2025",
+    "Sicherung des Uferstreifens an Schlachtensee und Krumme Lanke",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9556",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "16.10.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/033/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n12.11.2025",
+      "beschlussdatum": "12.11.2025"
+    },
+    null
   ],
   [
     "915/VI",
@@ -33628,6 +41226,63 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten, sich gegenüber der Senatsverwaltung für Stadtentwicklung \nBauen und Wohnen an einigen Stellung für eine die Verfahren präzisierende Überarbeitung \nder \nAV-Genehmigungskriterien \nsoziale \nErhaltungsgebiete \n– \nMilieuschutzgebiete \n– \neinzusetzen:\n1) Zur Herstellung von zusätzlichen Wohnungen soll der Abriss des Dachstuhls nur \ngenehmigt werden, sofern dies der Schaffung von zusätzlichem Wohnraum dient. Die \nbestehenden Wohnungen sollen während der Bauarbeiten bewohnbar bleiben. Sofern \nletzteres nicht gewährleistet werden kann, sollte die Maßnahme nur erfolgen, sofern die \nbetroffenen Bestandsmieter ausdrücklich einverstanden sind.\n2) Grundrissänderungen sowie eine Wohnungsteilung können dann genehmigungsfähig \nsein, wenn die Mieter ausgezogen oder verstorben sind und die Wohnung nicht mehr \nbewohnt wird oder wenn diese Teilung von den betroffenen Mietern ausdrücklich \ngewünscht ist. In diesem Fall sollte die Wohnung auch während der Bauzeit möglichst \nbewohnbar bleiben.\n3) Die Errichtung eines Aufzuges kann nach den bisherigen Kriterien aus 2.4 AV weiterhin \ngrundsätzlich genehmigungsfähig bleiben. Sofern die mehrheitliche Zustimmung der \nMieter*innen ausdrücklich vorliegt und der entsprechende Bedarf belegt ist, soll bei der \nBeurteilung der Verdrängungsgefahr für die vorhandene Wohnbevölkerung die",
       "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
+    "926/VI",
+    "1324/VI",
+    "10.12.2025",
+    "Vorgehen gegen das illegale Abstellen von Werbe-Anhängern auf der B1 in Richtung Glienicker Brücke/Potsdam",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9448",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "22.05.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/028/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.06.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/029/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.09.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/030/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "20.11.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/031/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n10.12.2025",
+      "beschlussdatum": "10.12.2025"
     },
     null
   ],
@@ -34169,6 +41824,51 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "937/VI",
+    "1414/VI",
+    "10.12.2025",
+    "Kiezgießkannen für alle",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9538",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "25.09.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/030/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "27.11.2025",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/050/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n10.12.2025",
+      "beschlussdatum": "10.12.2025"
+    },
+    null
+  ],
+  [
     "938/VI",
     "1418/VI",
     "10.12.2025",
@@ -34438,6 +42138,45 @@ var D=[
     null
   ],
   [
+    "944/VI",
+    "1482/VI",
+    "10.12.2025",
+    "City-Toilette für den Harry-Breslau-Park",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9606",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "15.10.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/041/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.11.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/034/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n10.12.2025",
+      "beschlussdatum": "10.12.2025"
+    },
+    null
+  ],
+  [
     "945/VI",
     "1485/VI",
     "10.12.2025",
@@ -34522,6 +42261,45 @@ var D=[
     "vollstaendig-umgesetzt"
   ],
   [
+    "947/VI",
+    "1504/VI",
+    "10.12.2025",
+    "Aufgrund von Lärm und Luftverschmutzung und zur Sicherheit schwacher Verkehrsteilnehmer*innen: Durchgehend Tempo30 in der Schildhornstraße",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9628",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "20.11.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/031/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n10.12.2025",
+      "beschlussdatum": "10.12.2025"
+    },
+    null
+  ],
+  [
     "948/VI",
     "1525/VI",
     "10.12.2025",
@@ -34556,6 +42334,46 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich gegenüber der Deutschen Telekom dafür einzusetzen, \nden Fernmeldeturm Berlin-Schäferberg am Tag des offenen Denkmals für den \nBesucherverkehr zugänglich zu machen.\nBezirksverordnetenvorsteher\n10.12.2025",
+      "beschlussdatum": "10.12.2025"
+    },
+    null
+  ],
+  [
+    "949/VI",
+    "1529/VI",
+    "10.12.2025",
+    "Onkel-Toms-Hütte kontextualisieren",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9653",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "FDP- und GRÜNE-Fraktion",
+      "parties": [
+        "FDP",
+        "Grüne"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.11.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/031/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n10.12.2025",
       "beschlussdatum": "10.12.2025"
     },
     null
@@ -34763,6 +42581,57 @@ var D=[
     null
   ],
   [
+    "955/VI",
+    "1416/VI",
+    "10.12.2025",
+    "Bezahlbarer Wohnraum und Natur statt Waldrodungen ohne Sozialwohnungen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9540",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "16.07.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/039/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "07.10.2025",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/037/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.11.2025",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/038/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.12.2025",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/039/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n10.12.2025",
+      "beschlussdatum": "10.12.2025"
+    },
+    null
+  ],
+  [
     "956/VI",
     "1476/VI",
     "10.12.2025",
@@ -34896,6 +42765,75 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nIn der Schloßstraße soll durch die zuständige Stelle ein Parkleitsystem über eine App \neingerichtet werden, um den Suchverkehr nach einem Parkplatz besser zu lenken und \nAutofahrer über alle Parkmöglichkeiten zu informieren. \nBezirksverordnetenvorsteher\n21.01.2026",
+      "beschlussdatum": "21.01.2026"
+    },
+    null
+  ],
+  [
+    "959/VI",
+    "1367/VI",
+    "21.01.2026",
+    "Sohnreystraße umbenennen – keine Ehrung für Nationalsozialisten in Steglitz",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9491",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.06.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/038/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.06.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/029/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "02.07.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/029/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "25.09.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/030/2025",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "01.10.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/030/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.11.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/031/2025",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "08.01.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/051/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n21.01.2026",
       "beschlussdatum": "21.01.2026"
     },
     null
@@ -35183,6 +43121,73 @@ var D=[
     null
   ],
   [
+    "966/VI",
+    "1339/VI",
+    "18.02.2026",
+    "Grillen für alle – mindestens zwei nichtkommerzielle Grillflächen für den Bezirk",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9463",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "BV Dr. Egginger-Gonzalez, BV Gruner",
+      "parties": [],
+      "beratungsfolge": [
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "19.06.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/031/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "17.07.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/032/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "09.10.2025",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/027/2025",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "18.11.2025",
+          "gremium": "JHA",
+          "sitzung": "JHA/030/2025",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "11.12.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/035/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "22.01.2026",
+          "gremium": "GNU",
+          "sitzung": "GNU/036/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.02.2026",
+      "beschlussdatum": "18.02.2026"
+    },
+    null
+  ],
+  [
     "967/VI",
     "1388/VI",
     "18.02.2026",
@@ -35340,6 +43345,51 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, über das Kulturamt ein Programm zu starten, innerhalb dessen \nKünstlerinnen und Künstler sich melden können, die Schenkungen von Kunstwerken bzw. \nInstallationen für den öffentlichen Raum zur Verfügung stellen möchten.\nBezirksverordnetenvorsteher\n18.02.2026",
+      "beschlussdatum": "18.02.2026"
+    },
+    null
+  ],
+  [
+    "970/VI",
+    "1442/VI",
+    "18.02.2026",
+    "Sicherheit auch für Radfahrer*innen am Geisterhaus Gardeschützenweg 3",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9566",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "24.09.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/040/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "20.11.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/031/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.01.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/032/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
     },
     null
@@ -35631,6 +43681,52 @@ var D=[
     null
   ],
   [
+    "977/VI",
+    "1535/VI",
+    "18.02.2026",
+    "Abstimmboxen für Zigarettenstummel in Lichterfelde-West",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9659",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "GRÜNE- und SPD-Fraktion",
+      "parties": [
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "20.11.2025",
+          "gremium": "MVO",
+          "sitzung": "MVO/031/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "29.01.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/032/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.02.2026",
+      "beschlussdatum": "18.02.2026"
+    },
+    null
+  ],
+  [
     "978/VI",
     "1539/VI",
     "18.02.2026",
@@ -35707,6 +43803,45 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, mit den Reinigungsfirmen erneut ins Gespräch zu gehen und \nsie auf die vertragliche Mülltrennungspflicht hinzuweisen und dies zu kontrollieren.\nBezirksverordnetenvorsteher\n18.02.2026",
+      "beschlussdatum": "18.02.2026"
+    },
+    null
+  ],
+  [
+    "980/VI",
+    "1554/VI",
+    "18.02.2026",
+    "Biodiversität auch bei Schmuckbeeten sicherstellen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9678",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "22.01.2026",
+          "gremium": "GNU",
+          "sitzung": "GNU/036/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.02.2026",
       "beschlussdatum": "18.02.2026"
     },
     null
@@ -36308,6 +44443,57 @@ var D=[
     null
   ],
   [
+    "994/VI",
+    "1441/VI",
+    "18.03.2026",
+    "Kein Verkauf des Bierpinsels",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9565",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "24.09.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/040/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "18.11.2025",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/025/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.01.2026",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/026/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.03.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/053/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
     "995/VI",
     "1445/VI",
     "18.03.2026",
@@ -36423,6 +44609,63 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, gegenüber der Sundgauer Straße 109 mindestens einen \nVerkehrsspiegel aufzustellen. Auf der Höhe Sundgauer Straße 109 befinden sich zwei \nParkplätze. Beim Verlassen der Parkplätze ist die Sicht in den fließenden Verkehr sehr stark \neingeschränkt, sodass gegenüber aufgestellte Spiegel zur Verkehrssicherheit beitragen \nwürden.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
+    "997/VI",
+    "1470/VI",
+    "18.03.2026",
+    "Begrünung durch Pflanzung von Brombeerbüschen zum Schutz der Grünanlage an der Wannseebrücke und der Fläche unterhalb der Wannseebrücke",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9594",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "15.10.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/041/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "13.11.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/034/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.12.2025",
+          "gremium": "GNU",
+          "sitzung": "GNU/035/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "15.01.2026",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/029/2026",
+          "erledigungsart": "erledigt"
+        },
+        {
+          "datum": "19.02.2026",
+          "gremium": "GNU",
+          "sitzung": "GNU/037/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
     },
     null
@@ -36818,6 +45061,45 @@ var D=[
     null
   ],
   [
+    "1006/VI",
+    "1589/VI",
+    "18.03.2026",
+    "Vom Blackout geschädigte Unternehmen nicht alleine lassen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9713",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.02.2026",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/027/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
     "1007/VI",
     "1598/VI",
     "18.03.2026",
@@ -36854,6 +45136,98 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird gebeten zu prüfen, wie die Beleuchtungssituation auf dem Asternplatz \nverbessert werden kann.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
+    "1008/VI",
+    "1603/VI",
+    "18.03.2026",
+    "Würdigung von Baumscheibenpatenschaften",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9727",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "FDP-, GRÜNE- und SPD- Fraktion",
+      "parties": [
+        "FDP",
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "29.01.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/032/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.02.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/033/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
+    "1009/VI",
+    "1604/VI",
+    "18.03.2026",
+    "Menschlichkeit zuerst – humanity first",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9728",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.02.2026",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/027/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.03.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/053/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
     },
     null
@@ -37025,6 +45399,63 @@ var D=[
     null
   ],
   [
+    "1014/VI",
+    "1322/VI",
+    "18.03.2026",
+    "Meldung leerstehender Gewerbeimmobilien",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9446",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "CDU-Fraktion",
+      "parties": [
+        "CDU"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.06.2025",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/024/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.11.2025",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/025/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "27.01.2026",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/026/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
     "1015/VI",
     "1501/VI",
     "18.03.2026",
@@ -37065,6 +45496,51 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht zu prüfen, ob ein Online-Angebot eingerichtet werden kann, in \ndem \nBürger*innen \nniedrigschwellig \nleerstehende \nGewerbeflächen \nmelden \nkönnen. \nGleichzeitig sollen sich Gewerbetreibende, Handwerker*innen oder Akteur*innen der \nZivilgesellschaft \nRaumbedarf \nin \neinem \nsolchen \nPortal \nanmelden \nkönnen. \nAuch \nEigentümer*innen sollen Leerstände dort eintragen können. Ziel soll sein, leerstehende \nGewerbeflächen zeitnah wieder vermietet zu bekommen und Dauerleerstand zu vermeiden. \nEine solche Plattform soll zunächst für eine Pilotphase von zwei Jahren getestet und bei \nerfolgreicher Implementierung verstetigt werden. Zur Finanzierung soll das Einwerben von \nFördermitteln geprüft werden. Ebenfalls geprüft werden soll eine Kooperation mit anderen \nBerliner Bezirken bzw. anderen Kommunen.\nDem zuständigen Fachausschuss der BVV soll regelmäßig Bericht erstattet werden.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
+    "1016/VI",
+    "1502/VI",
+    "18.03.2026",
+    "Keine Unterbrechung des Livestreams bei Sitzungen der Bezirksverordnetenversammlung",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9626",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "14.01.2026",
+          "gremium": "GO",
+          "sitzung": "GO/023/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
     },
     null
@@ -37116,6 +45592,51 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, an der Ecke Am Hegewinkel/Carpinusweg auf der dem \nCarpinusweg gegenüberliegenden Seite (Wilma-Rudolph-Schule) zwei Bänke aufzustellen.\nBezirksverordnetenvorsteher\n18.03.2026",
+      "beschlussdatum": "18.03.2026"
+    },
+    null
+  ],
+  [
+    "1018/VI",
+    "1552/VI",
+    "18.03.2026",
+    "Die Bezirksverordnetenversammlung Steglitz-Zehlendorf bürger*innenfreundlicher gestalten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9676",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "10.12.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/043/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "14.01.2026",
+          "gremium": "GO",
+          "sitzung": "GO/023/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "11.02.2026",
+          "gremium": "GO",
+          "sitzung": "GO/024/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n18.03.2026",
       "beschlussdatum": "18.03.2026"
     },
     null
@@ -37671,6 +46192,70 @@ var D=[
     null
   ],
   [
+    "1034/VI",
+    "1352/VI",
+    "20.05.2026",
+    "Erarbeitung einer Strategie zur Sensibilisierung der Arbeitgeber*innen für Menschen in der Menopause",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9476",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD- und GRÜNE-Fraktion",
+      "parties": [
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "14.05.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/037/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "03.06.2025",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/020/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "01.07.2025",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/021/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.09.2025",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/022/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "03.03.2026",
+          "gremium": "FrGlQ",
+          "sitzung": "FrGlQ/023/2026",
+          "erledigungsart": "mit Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
     "1035/VI",
     "1412/VI",
     "20.05.2026",
@@ -37834,6 +46419,63 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird aufgefordert zu prüfen, ob die Errichtung eines Parkhauses in \nLeichtbauweise am S-Bahnhof Wannsee städtebaulich möglich ist und welche Änderungen \nvorgenommen werden müssen. Hierbei sollen insbesondere Gespräche mit der Deutschen \nBahn aufgenommen werden. Das Parkhaus soll neben Stellplätzen für Pkw im Erdgeschoss \nauch sichere Abstellmöglichkeiten für Fahrräder bieten, insbesondere für hochwertige \nFahrräder und E-Bikes. Es soll zudem geprüft werden, ob das Grundstück an einen privaten \nDienstleister verpachtet werden kann, der den Bau sowie den Betrieb des Parkhauses \nübernimmt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1037/VI",
+    "1506/VI",
+    "20.05.2026",
+    "Informationstafel zum „Stein des 30. Hartung“ und zum Fruchtbarkeitsschrein von Volkmar Haase",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9630",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "12.11.2025",
+          "gremium": "BVV",
+          "sitzung": "BVV/042/2025",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.11.2025",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/031/2025",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "07.01.2026",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/032/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "04.03.2026",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/033/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "06.05.2026",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/034/2026",
+          "erledigungsart": "mit Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
     },
     null
@@ -38053,6 +46695,59 @@ var D=[
     null
   ],
   [
+    "1042/VI",
+    "1599/VI",
+    "20.05.2026",
+    "Einrichtung eines Auszubildenden-Dorfes in Steglitz-Zehlendorf",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9723",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "FDP-, GRÜNE- und SPD- Fraktion",
+      "parties": [
+        "FDP",
+        "Grüne",
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "10.02.2026",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/041/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "24.02.2026",
+          "gremium": "JHA",
+          "sitzung": "JHA/032/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
     "1043/VI",
     "1600/VI",
     "20.05.2026",
@@ -38212,6 +46907,165 @@ var D=[
     null
   ],
   [
+    "1046/VI",
+    "1605/VI",
+    "20.05.2026",
+    "Technologie erleben – Messebesuch Hannover für Schulen und Jugendgruppen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9729",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.02.2026",
+          "gremium": "JHA",
+          "sitzung": "JHA/032/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "05.05.2026",
+          "gremium": "Sch",
+          "sitzung": "Sch/030/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1047/VI",
+    "1606/VI",
+    "20.05.2026",
+    "Standort Stadtbad Steglitz für soziale Zwecke erweitern",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9730",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "19.02.2026",
+          "gremium": "Sport",
+          "sitzung": "Sport/027/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "24.02.2026",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/027/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.02.2026",
+          "gremium": "JHA",
+          "sitzung": "JHA/032/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "12.03.2026",
+          "gremium": "SozPAS",
+          "sitzung": "SozPAS/030/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "19.03.2026",
+          "gremium": "Sport",
+          "sitzung": "Sport/028/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1048/VI",
+    "1607/VI",
+    "20.05.2026",
+    "Jugendliche erarbeiten Nutzungskonzept für Bierpinsel",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9731",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe AfD",
+      "parties": [
+        "AfD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "21.01.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/044/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "24.02.2026",
+          "gremium": "JHA",
+          "sitzung": "JHA/032/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
     "1049/VI",
     "1608/VI",
     "20.05.2026",
@@ -38300,6 +47154,108 @@ var D=[
         }
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, die Widerstandsakteurin, Pädagogin, Sozialistin und Enkelin \nvon Gustav Lilienthal, Anna Sabine Halle, in die bezirkliche Straßenbenennungsliste \naufzunehmen. Die damit verbundene Ehrung von Anna Sabine Halle soll auch stellvertretend \nfür ihre Eltern Olga und Gerhard Halle verstanden werden.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1051/VI",
+    "1628/VI",
+    "20.05.2026",
+    "Kaulbachstraße in Lankwitz in Fahrradstraße umwandeln",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9752",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.02.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/033/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.03.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/034/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1052/VI",
+    "1630/VI",
+    "20.05.2026",
+    "Gesamte BVV in die weitere Entwicklung des ehemaligen „Pop Inns\" in der Ahornstraße 15 einbeziehen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9754",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "04.03.2026",
+          "gremium": "BiKu",
+          "sitzung": "BiKu/033/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "24.03.2026",
+          "gremium": "JHA",
+          "sitzung": "JHA/033/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "ohne Änderungen im Ausschuss beschlossen"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
       "beschlussdatum": "20.05.2026"
     },
     null
@@ -38408,6 +47364,199 @@ var D=[
       "erledigtkategorien": "keine-antwort"
     },
     "vollstaendig-umgesetzt"
+  ],
+  [
+    "1055/VI",
+    "1638/VI",
+    "20.05.2026",
+    "RB37 verlängern für attraktive Umsteigemöglichkeiten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9762",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "GRÜNE- und FDP-Fraktion",
+      "parties": [
+        "FDP",
+        "Grüne"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.02.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/045/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.02.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/033/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "26.03.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/034/2026",
+          "erledigungsart": "vertagt"
+        },
+        {
+          "datum": "30.04.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/035/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1056/VI",
+    "1662/VI",
+    "20.05.2026",
+    "Räume für alle – Aufenthalt im öffentlichen Raum ohne Konsumzwang sicherstellen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9786",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "SPD-Fraktion",
+      "parties": [
+        "SPD"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "23.04.2026",
+          "gremium": "GNU",
+          "sitzung": "GNU/039/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1057/VI",
+    "1665/VI",
+    "20.05.2026",
+    "Gehwegparken an der Haltestelle Appenzeller Straße unterbinden",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9789",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "26.03.2026",
+          "gremium": "MVO",
+          "sitzung": "MVO/034/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
+    "1058/VI",
+    "1666/VI",
+    "20.05.2026",
+    "Seminare „How-to Bezirksamt\" anbieten",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9790",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "Gruppe Die Linke",
+      "parties": [
+        "Linke"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "15.04.2026",
+          "gremium": "GO",
+          "sitzung": "GO/025/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "28.04.2026",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/029/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
   ],
   [
     "1059/VI",
@@ -38545,6 +47694,45 @@ var D=[
     null
   ],
   [
+    "1063/VI",
+    "1693/VI",
+    "20.05.2026",
+    "Festlegung der Erhaltungsgebiete Gasbeleuchtung zeitgemäß anpassen",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9817",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "FDP-Fraktion",
+      "parties": [
+        "FDP"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "22.04.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/047/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "12.05.2026",
+          "gremium": "StaplWo",
+          "sitzung": "StaplWo/044/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
+    },
+    null
+  ],
+  [
     "1064/VI",
     "1407/VI",
     "20.05.2026",
@@ -38598,6 +47786,51 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen:\nDas Bezirksamt wird ersucht, sich für die folgenden Anliegen bei den zuständigen Stellen \neinzusetzen, soweit es diese, wozu es hierdurch ersucht wird, nicht selbst umsetzen kann:\n1) Schulische Präventionsarbeit verbindlich zu stärken:\n\nEinführung regelmäßiger Workshops und Projekttage zum Thema Antisemitismus und \nIsraelfeindlichkeit in Kooperation mit anerkannten Trägern und Experten.\n\nVerpflichtende Fortbildungen für Lehrkräfte und Sozialarbeitende mindestens einmal \njährlich.\n\nSystematische Erhebung und Evaluation bestehender schulischer Angebote zur \nAntisemitismusprävention.\n1) Digitale Präventionsarbeit auszubauen:\n\nEntwicklung und Umsetzung bezirkseigener Online-Präventionskampagnen gegen \nAntisemitismus in Kooperation mit Fachstellen und Medienpädagogen.\n\nUnterstützung von Jugendzentren bei der digitalen Aufklärungsarbeit, etwa durch \nWorkshops zur Medienkompetenz und zum Erkennen von Hassinhalten im Netz.\n\nFörderung von Projekten, die gezielt Jugendliche als Multiplikator*innen in sozialen \nMedien einbinden.\n2) Verbindliche Strukturen für den Umgang mit Vorfällen zu schaffen:\n\nEtablierung eines bezirksweiten Meldesystems für antisemitische Vorfälle an Schulen \nund in Jugendeinrichtungen.\n\nEinrichtung eines bezirklichen Krisenteams, das Einrichtungen im Umgang mit \nantisemitischen Vorfällen unterstützt und Handlungssicherheit gibt.",
       "erledigtkategorien": "keine-antwort"
+    },
+    null
+  ],
+  [
+    "1065/VI",
+    "1659/VI",
+    "20.05.2026",
+    "Stromunabhängige bzw. stromarme Heizsysteme bei der Sanierung von Gebäuden mit Bedeutung für den Katastrophenschutz",
+    "BVV",
+    "abgelehnt",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9783",
+    "Bezirksverordnetenversammlung",
+    {
+      "initiator": "FDP-Fraktion",
+      "parties": [
+        "FDP"
+      ],
+      "beratungsfolge": [
+        {
+          "datum": "18.03.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/046/2026",
+          "erledigungsart": "überwiesen"
+        },
+        {
+          "datum": "28.04.2026",
+          "gremium": "GWIVD",
+          "sitzung": "GWIVD/029/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "07.05.2026",
+          "gremium": "HHPEK",
+          "sitzung": "HHPEK/054/2026",
+          "erledigungsart": "im Ausschuss abgelehnt"
+        },
+        {
+          "datum": "20.05.2026",
+          "gremium": "BVV",
+          "sitzung": "BVV/048/2026",
+          "erledigungsart": "in der BVV abgelehnt"
+        }
+      ],
+      "beschlusstext": "Die BVV hat beschlossen:\nDer Antrag ist abgelehnt.\nBezirksverordnetenvorsteher\n20.05.2026",
+      "beschlussdatum": "20.05.2026"
     },
     null
   ],
