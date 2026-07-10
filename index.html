@@ -140,7 +140,7 @@
   .chip-SPD{color:#fff;background:#c0392b;border-color:#c0392b;}
   .chip-Grune{color:#fff;background:#27ae60;border-color:#27ae60;}
   .chip-FDP{color:#1a1a1a;background:#f1c40f;border-color:#f1c40f;}
-  .chip-Linke{color:#fff;background:#8e44ad;border-color:#8e44ad;}
+  .chip-Linke{color:#fff;background:#be3075;border-color:#be3075;}
   .chip-AfD{color:#fff;background:#2980b9;border-color:#2980b9;}
   .chip-Fraktionslose{color:#fff;background:#7f8c8d;border-color:#7f8c8d;}
   .ev-box{font-size:12px;font-style:italic;color:var(--green);background:#f0f7f0;padding:10px 14px;border-left:3px solid var(--green);margin-top:8px;}
@@ -207,6 +207,7 @@
       <option value="ekat:sonstiges-unklar">  └ Sonstiges/Unklar</option>
       <option value="offen">◎ Offen</option>
       <option value="Zwischenbericht">~ Zwischenbericht</option>
+      <option value="abgelehnt">✗ Abgelehnt</option>
     </select>
     <select id="sz">
       <option value="">Alle Bereiche</option>
@@ -226,7 +227,7 @@
         <label class="pd-option"><input type="checkbox" value="SPD" onchange="onPartyChange()"><span class="pd-dot" style="background:#c0392b"></span>SPD</label>
         <label class="pd-option"><input type="checkbox" value="Grüne" onchange="onPartyChange()"><span class="pd-dot" style="background:#27ae60"></span>Grüne</label>
         <label class="pd-option"><input type="checkbox" value="FDP" onchange="onPartyChange()"><span class="pd-dot" style="background:#f1c40f"></span>FDP</label>
-        <label class="pd-option"><input type="checkbox" value="Linke" onchange="onPartyChange()"><span class="pd-dot" style="background:#8e44ad"></span>Linke</label>
+        <label class="pd-option"><input type="checkbox" value="Linke" onchange="onPartyChange()"><span class="pd-dot" style="background:#be3075"></span>Linke</label>
         <label class="pd-option"><input type="checkbox" value="AfD" onchange="onPartyChange()"><span class="pd-dot" style="background:#2980b9"></span>AfD</label>
         <label class="pd-option"><input type="checkbox" value="Fraktionslose" onchange="onPartyChange()"><span class="pd-dot" style="background:#7f8c8d"></span>Fraktionslose</label>
         <div class="pd-sep"></div>
@@ -266,12 +267,28 @@ var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎
 function statusBadge(status){var info=BD[status];if(!info)return "";return '<span class="badge '+info.cls+'"><span class="b-icon">'+e(info.icon)+' </span>'+e(info.text)+'</span>';}
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
-var view="table",filt=[],activeParties=new Set(),showA=false;
+// The source data's "parties" array is always alphabetically sorted (CDU, FDP, Grüne,
+// Linke, SPD...), but the human-written "initiator" text lists them in the actual
+// document order (e.g. "CDU-, GRÜNE-, SPD- und FDP-Fraktion"). Reorder the chips to
+// match that text instead of showing them alphabetically.
+var PARTY_TOKEN={CDU:"CDU",SPD:"SPD","Grüne":"GRÜNE",FDP:"FDP",Linke:"Links",AfD:"AfD",Fraktionslose:"Fraktionslose"};
+function orderPartiesByInitiator(parties,initiator){
+  if(!parties||parties.length<2||!initiator)return parties;
+  var lower=initiator.toLowerCase();
+  return parties.map(function(p,i){return {p:p,i:i};}).sort(function(a,b){
+    var ta=(PARTY_TOKEN[a.p]||a.p).toLowerCase(),tb=(PARTY_TOKEN[b.p]||b.p).toLowerCase();
+    var ia=lower.indexOf(ta);if(ia<0)ia=9999;
+    var ib=lower.indexOf(tb);if(ib<0)ib=9999;
+    if(ia!==ib)return ia-ib;
+    return a.i-b.i; // stable fallback for parties not found in the text
+  }).map(function(x){return x.p;});
+}
 function e(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
 function partyChips(parties){
   if(!parties||!parties.length)return "";
   return parties.map(function(p){return '<span class="init-chip '+(PC[p]||"")+'">'+e(p)+'</span>';}).join("");
 }
+var view="table",filt=[],activeParties=new Set(),showA=false;
 
 // Party dropdown-checkbox logic
 function togglePD(ev){
@@ -402,6 +419,38 @@ function cleanText(s){
     .replace(/[ \t]{2,}/g,' ')              // collapse multiple spaces
     .replace(/\n{3,}/g,'\n\n');            // max 2 consecutive newlines
 }
+// Source data always stores berichterstatter as "2. Berichterstatter(...): Name" even
+// though there is only ever one reporter shown. Strip that numbered-label prefix so it
+// isn't duplicated after our own "Berichterstatter: " label in the modal.
+function cleanBerichterstatter(s){
+  if(!s) return s;
+  return s.replace(/^\s*\d+\.\s*Berichterstatter(?:\/in|:in|in)?:\s*/i,'').trim();
+}
+// Matches a still-embedded "erledigt" closing sentence (+ optional signature) at the
+// very end of an Antwort, e.g. "Wir bitten, den Beschluss damit als erledigt zu
+// betrachten. Maren Schellenberg".
+var CLOSE_RE=/\s*((?:Wir bitten|Es wird gebeten),?\s*(?:den Beschluss|die Beschlüsse|ihn)?\s*(?:damit|daher)?\s*als erledigt\s*(?:zu betrachten|anzusehen)\.)\s*([A-ZÄÖÜ][A-Za-zÄÖÜäöüß.\-]*(?:\s+[A-ZÄÖÜ][A-Za-zÄÖÜäöüß.\-]*){0,3})?\s*$/;
+// The scraped "Antwort" text and the separately-extracted "erledigtvermerk" sentence
+// were split inconsistently at the source:
+//  - Usually erledigtvermerk was cut out correctly, but the short anchor phrase used to
+//    find it ("Es wird gebeten" / "Wir bitten") was left dangling at the end of Antwort,
+//    duplicating the start of that sentence.
+//  - Sometimes the sentence wasn't extracted at all and sits fully inside Antwort
+//    (followed only by a signature), so erledigtvermerk is empty.
+// This normalizes both cases so the sentence appears exactly once, in its own box.
+function splitAntwortErledigt(antwort,erledigtvermerk){
+  antwort=antwort||"";
+  var m=antwort.match(CLOSE_RE);
+  if(m){
+    // Full closing sentence (± signature) still embedded at the end of Antwort - move
+    // it into its own section instead of showing it twice / only inline.
+    return {antwort:antwort.slice(0,m.index).replace(/\s+$/,''),erledigtvermerk:erledigtvermerk||m[1],signatur:erledigtvermerk?"":(m[2]||"")};
+  }
+  // Otherwise just strip a bare dangling anchor fragment ("Es wird gebeten"/"Wir
+  // bitten" with nothing after it) left at the end of Antwort - a known extraction
+  // artifact, whether or not erledigtvermerk itself made it into the source data.
+  return {antwort:antwort.replace(/\s*(?:Es wird gebeten|Wir bitten)\s*$/,''),erledigtvermerk:erledigtvermerk||"",signatur:""};
+}
 function openD(idx){
   var b=DATA[idx],s=b.s||{},zi=Z[b.zust]||{};
   var parties=s.parties||[];
@@ -416,9 +465,9 @@ function openD(idx){
 
   // Initiator with party chips
   if(parties.length||s.initiator){
-    h+='<div class="ms"><div class="ms-title">Initiator</div>';
+    h+='<div class="ms"><div class="ms-title">Aktueller Initiator</div>';
     if(parties.length){
-      h+='<div class="init-chips">'+partyChips(parties)+'</div>';
+      h+='<div class="init-chips">'+partyChips(orderPartiesByInitiator(parties,s.initiator))+'</div>';
       if(s.initiator){h+='<div style="font-size:11px;color:var(--mid);margin-top:6px">'+e(s.initiator)+'</div>';}
     } else if(s.initiator){
       h+='<span class="init-chip">'+e(s.initiator)+'</span>';
@@ -444,10 +493,11 @@ function openD(idx){
 
   // Bezirksamt response
   if(s.antwort){
+    var av=splitAntwortErledigt(s.antwort,s.erledigtvermerk);
     h+='<div class="ms"><div class="ms-title">Antwort des Bezirksamts</div>';
-    if(s.berichterstatter){h+='<div style="font-size:11px;color:var(--mid);margin-bottom:8px">Berichterstatter: '+e(s.berichterstatter)+'</div>';}
-    h+='<div class="at-box">'+e(cleanText(s.antwort))+'</div>';
-    if(s.erledigtvermerk){h+='<div class="ev-box">'+e(cleanText(s.erledigtvermerk))+'</div>';}
+    if(s.berichterstatter){h+='<div style="font-size:11px;color:var(--mid);margin-bottom:8px">Berichterstatter: '+e(cleanText(cleanBerichterstatter(s.berichterstatter)))+'</div>';}
+    h+='<div class="at-box">'+e(cleanText(av.antwort))+'</div>';
+    if(av.erledigtvermerk){h+='<div class="ev-box">'+e(cleanText(av.erledigtvermerk))+(av.signatur?' '+e(av.signatur):'')+'</div>';}
     h+='</div>';
   }
 
