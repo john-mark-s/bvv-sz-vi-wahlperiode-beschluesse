@@ -254,9 +254,6 @@
 </div>
 <script src="data.js"></script>
 <script>
-// ZUST_ALIAS: normalize raw Zuständigkeit codes that vary in casing in the source data
-// (e.g. some rows use "BiKuSpo" instead of the canonical "BikuSpo") so the Zuständigkeit
-// filter dropdown matches every row.
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
 var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
 var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar"};
@@ -267,10 +264,6 @@ var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎
 function statusBadge(status){var info=BD[status];if(!info)return "";return '<span class="badge '+info.cls+'"><span class="b-icon">'+e(info.icon)+' </span>'+e(info.text)+'</span>';}
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
-// The source data's "parties" array is always alphabetically sorted (CDU, FDP, Grüne,
-// Linke, SPD...), but the human-written "initiator" text lists them in the actual
-// document order (e.g. "CDU-, GRÜNE-, SPD- und FDP-Fraktion"). Reorder the chips to
-// match that text instead of showing them alphabetically.
 var PARTY_TOKEN={CDU:"CDU",SPD:"SPD","Grüne":"GRÜNE",FDP:"FDP",Linke:"Links",AfD:"AfD",Fraktionslose:"Fraktionslose"};
 function orderPartiesByInitiator(parties,initiator){
   if(!parties||parties.length<2||!initiator)return parties;
@@ -419,16 +412,10 @@ function cleanText(s){
     .replace(/[ \t]{2,}/g,' ')              // collapse multiple spaces
     .replace(/\n{3,}/g,'\n\n');            // max 2 consecutive newlines
 }
-// Source data always stores berichterstatter as "2. Berichterstatter(...): Name" even
-// though there is only ever one reporter shown. Strip that numbered-label prefix so it
-// isn't duplicated after our own "Berichterstatter: " label in the modal.
 function cleanBerichterstatter(s){
   if(!s) return s;
   return s.replace(/^\s*\d+\.\s*Berichterstatter(?:\/in|:in|in)?:\s*/i,'').trim();
 }
-// Matches a still-embedded "erledigt" closing sentence (+ optional signature) at the
-// very end of an Antwort, e.g. "Wir bitten, den Beschluss damit als erledigt zu
-// betrachten. Maren Schellenberg".
 var CLOSE_RE=/\s*((?:Wir bitten|Es wird gebeten),?\s*(?:den Beschluss|die Beschlüsse|ihn)?\s*(?:damit|daher)?\s*als erledigt\s*(?:zu betrachten|anzusehen)\.)\s*([A-ZÄÖÜ][A-Za-zÄÖÜäöüß.\-]*(?:\s+[A-ZÄÖÜ][A-Za-zÄÖÜäöüß.\-]*){0,3})?\s*$/;
 // The scraped "Antwort" text and the separately-extracted "erledigtvermerk" sentence
 // were split inconsistently at the source:
