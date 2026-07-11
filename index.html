@@ -89,6 +89,9 @@
   .badge{display:inline-block;max-width:100%;min-width:0;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1.5px solid currentColor;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
   .be{color:var(--green);}.bo{color:var(--blue);}.ba{color:var(--red);}.bf{color:#bbb;}.bz{color:var(--purple);}.bn{color:#888;}.bu{color:#a1887f;}
   .nr{padding:60px 0;text-align:center;font-size:1.4rem;font-weight:800;color:#ccc;}
+  .nr-hint{padding:0 20px 60px;text-align:center;font-size:13px;font-weight:400;color:var(--mid);line-height:1.6;}
+  .nr-hint-btn{display:inline-block;margin-top:8px;padding:6px 14px;background:var(--dark);color:#fff;font-size:12px;font-weight:700;cursor:pointer;}
+  .nr-hint-btn:hover{opacity:.85;}
   /* TIMELINE */
   .tlv{display:none;}.tlv.on{display:block;padding-top:24px;}
   .tly{margin-bottom:40px;}
@@ -354,11 +357,11 @@ document.addEventListener("click",function(ev){
   }
 });
 
-function gF(){
+function gF(ignoreAdmin){
   var q=document.getElementById("q").value.toLowerCase();
   var st=document.getElementById("ss").value,zust=document.getElementById("sz").value;
   return DATA.filter(function(b){
-    if(!showA&&iA(b))return false;
+    if(!ignoreAdmin&&!showA&&iA(b))return false;
     if(st){
       if(st.startsWith("ekat:")){
         var ekatVal=st.slice(5);
@@ -400,8 +403,20 @@ function render(){
   else rTL();
 }
 
+// When a filter combination matches nothing, check whether it WOULD match something if
+// the "+ Verfahren" admin filter were off — this happens a lot for categories like
+// "Bezirksamt" or "BVV-Vorstand/Vorsteher", whose records are almost entirely
+// procedural. Surface that as an actionable hint instead of a plain dead end.
+function emptyStateHTML(){
+  var h='<div class="nr">Keine Beschlüsse gefunden.</div>';
+  if(!showA&&gF(true).length>0){
+    h+='<div class="nr-hint">Es gibt passende Einträge, die durch den Verfahrensfilter ausgeblendet sind.<br>'
+      +'<span class="nr-hint-btn" onclick="toggleAdmin()">+ Verfahren anzeigen</span></div>';
+  }
+  return h;
+}
 function rT(){
-  if(!filt.length){document.getElementById("tb").innerHTML='<div class="nr">Keine Beschlüsse gefunden.</div>';return;}
+  if(!filt.length){document.getElementById("tb").innerHTML=emptyStateHTML();return;}
   var h="";
   for(var i=0;i<filt.length;i++){
     var b=filt[i],idx=DATA.indexOf(b);
@@ -438,7 +453,7 @@ function rTL(){
     });
     h+='</div>';
   });
-  document.getElementById("tlv").innerHTML=h||'<div class="nr">Keine Beschlüsse gefunden.</div>';
+  document.getElementById("tlv").innerHTML=h||emptyStateHTML();
 }
 
 function cleanText(s){
