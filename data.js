@@ -11315,7 +11315,7 @@ var D=[
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8547",
     "Bezirksverordnetenversammlung",
     {
-      "initiator": "Geschäftsordnungsausschuss Geschäftsordnung der BVV Steglitz-Zehlendorf",
+      "initiator": "Geschäftsordnungsausschuss",
       "parties": [],
       "beratungsfolge": [
         {
