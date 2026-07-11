@@ -11394,7 +11394,7 @@ var D=[
     "07.12.2022",
     "Beteiligung auf den Weg bringen – beschlossenen Einwohnerantrag umsetzen",
     "BVV",
-    "d. Amt erledigt",
+    "erledigt",
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=8375",
     "Bezirksverordnetenversammlung",
     {
@@ -11447,7 +11447,7 @@ var D=[
         "Linke"
       ]
     },
-    null
+    "sonstiges-unklar"
   ],
   [
     "236/VI",
@@ -23891,6 +23891,7 @@ var D=[
       "beschlusstext": "Die BVV hat beschlossen: Das BVV-Büro erstellt Flyer zur Auslage in Bürgerämtern, Bibliotheken, etc., die über die Existenz und Wirkungsweise der BVV informieren. Inhalt könnte z.B. sein:  Erklärung BVV  Mehrheitsverhältnisse  Ausschüsse  Sondermittel  Einwohneranfragen  Kontaktdaten/Webseite",
       "beschlussdatum": "17.01.2024",
       "berichterstatter": "2. Berichterstatter: \nBezirksverordnetenvorsteher Rögner-Francke",
+      "antwort": "Das BVV-Büro hat einen Flyer über die Bezirksverordnetenversammlung Steglitz-Zehlendorf erstellt. Darin sind die genannten Informationen enthalten. Der Flyer wird künftig beim Pförtner, im Bürgeramt etc. ausgelegt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigtkategorien": "keine-antwort",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
@@ -23900,7 +23901,7 @@ var D=[
         "SPD"
       ]
     },
-    "sonstiges-unklar"
+    "vollstaendig-umgesetzt"
   ],
   [
     "496/VI",
@@ -39408,7 +39409,7 @@ var D=[
     "14.05.2025",
     "Anpassung der Geschäftsordnung: Reihenfolge der Kleinen Anfragen",
     "BVV",
-    "BVV",
+    "erledigt",
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9162",
     "Bezirksverordnetenversammlung",
     {
@@ -39471,7 +39472,7 @@ var D=[
         "SPD"
       ]
     },
-    null
+    "bvv-erledigt"
   ],
   [
     "802/VI",
@@ -39479,7 +39480,7 @@ var D=[
     "14.05.2025",
     "Änderung/Ergänzung der GO der BVV Steglitz-Zehlendorf § 25 Eingaben und Beschwerden",
     "BVV",
-    "BVV",
+    "erledigt",
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9168",
     "Bezirksverordnetenversammlung",
     {
@@ -39540,7 +39541,7 @@ var D=[
         "SPD"
       ]
     },
-    null
+    "bvv-erledigt"
   ],
   [
     "803/VI",
@@ -43389,7 +43390,7 @@ var D=[
     "24.09.2025",
     "Liveübertragungen der BVV besser bewerben",
     "BVV",
-    "BVV",
+    "erledigt",
     "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9493",
     "Bezirksverordnetenversammlung",
     {
@@ -43436,7 +43437,7 @@ var D=[
         "Linke"
       ]
     },
-    null
+    "bvv-erledigt"
   ],
   [
     "883/VI",
