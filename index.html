@@ -87,7 +87,7 @@
   .rz-sub{font-size:10px;color:var(--mid);margin-top:2px;font-weight:600;}
   .rs{display:flex;align-items:flex-start;padding-top:12px;min-width:0;}
   .badge{display:inline-block;max-width:100%;min-width:0;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1.5px solid currentColor;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
-  .be{color:var(--green);}.bo{color:var(--blue);}.ba{color:var(--red);}.bf{color:#bbb;}.bz{color:var(--purple);}.bn{color:#888;}
+  .be{color:var(--green);}.bo{color:var(--blue);}.ba{color:var(--red);}.bf{color:#bbb;}.bz{color:var(--purple);}.bn{color:#888;}.bu{color:#a1887f;}
   .nr{padding:60px 0;text-align:center;font-size:1.4rem;font-weight:800;color:#ccc;}
   /* TIMELINE */
   .tlv{display:none;}.tlv.on{display:block;padding-top:24px;}
@@ -176,6 +176,7 @@
   .ekat-nicht-umsetzbar{color:#4e342e;}.ekat-nicht-umsetzbar .ekat-dot{background:#6d4c41;}
   .ekat-bereits-gaengige-praxis{color:#1a237e;}.ekat-bereits-gaengige-praxis .ekat-dot{background:#283593;}
   .ekat-sonstiges-unklar{color:#616161;}.ekat-sonstiges-unklar .ekat-dot{background:#9e9e9e;}
+  .ekat-bvv-erledigt{color:#37474f;}.ekat-bvv-erledigt .ekat-dot{background:#455a64;}
 </style>
 </head>
 <body>
@@ -208,9 +209,11 @@
       <option value="ekat:nicht-umsetzbar">  └ Nicht umsetzbar</option>
       <option value="ekat:bereits-gaengige-praxis">  └ Bereits gängige Praxis</option>
       <option value="ekat:sonstiges-unklar">  └ Sonstiges/Unklar</option>
+      <option value="ekat:bvv-erledigt">  └ BVV-Erledigt</option>
       <option value="offen">◎ Offen</option>
       <option value="Zwischenbericht">~ Zwischenbericht</option>
       <option value="abgelehnt">✗ Abgelehnt</option>
+      <option value="status:leer">? Status nicht verfügbar</option>
     </select>
     <select id="sz">
       <option value="">Alle Bereiche</option>
@@ -220,6 +223,7 @@
       <option value="JugGes">Jugend und Gesundheit</option>
       <option value="Stadt">Stadtentwicklung</option>
       <option value="BüSoz">Bürgerdienste und Soziales</option>
+      <option value="BVV">Bezirksverordnetenversammlung</option>
     </select>
     <div class="pd-wrap" id="pdWrap">
       <div class="pd-btn" id="pdBtn" onclick="togglePD(event)">
@@ -233,6 +237,12 @@
         <label class="pd-option"><input type="checkbox" value="Linke" onchange="onPartyChange()"><span class="pd-dot" style="background:#be3075"></span>Linke</label>
         <label class="pd-option"><input type="checkbox" value="AfD" onchange="onPartyChange()"><span class="pd-dot" style="background:#2980b9"></span>AfD</label>
         <label class="pd-option"><input type="checkbox" value="Fraktionslose" onchange="onPartyChange()"><span class="pd-dot" style="background:#7f8c8d"></span>Fraktionslose</label>
+        <div class="pd-sep"></div>
+        <label class="pd-option"><input type="checkbox" value="Bezirksamt" onchange="onPartyChange()"><span class="pd-dot" style="background:#5d4037"></span>Bezirksamt</label>
+        <label class="pd-option"><input type="checkbox" value="Bürgerinnen und Bürger" onchange="onPartyChange()"><span class="pd-dot" style="background:#00897b"></span>Bürgerinnen und Bürger</label>
+        <label class="pd-option"><input type="checkbox" value="Ausschuss" onchange="onPartyChange()"><span class="pd-dot" style="background:#8e24aa"></span>Ausschuss</label>
+        <label class="pd-option"><input type="checkbox" value="Einzelne Bezirksverordnete" onchange="onPartyChange()"><span class="pd-dot" style="background:#3949ab"></span>Einzelne Bezirksverordnete</label>
+        <label class="pd-option"><input type="checkbox" value="BVV-Vorstand/Vorsteher" onchange="onPartyChange()"><span class="pd-dot" style="background:#546e7a"></span>BVV-Vorstand/Vorsteher</label>
         <div class="pd-sep"></div>
         <div class="pd-clear" onclick="clearParties()">Alle anzeigen</div>
       </div>
@@ -262,11 +272,11 @@
 // filter dropdown matches every row.
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
 var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
-var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar"};
+var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar", "bvv-erledigt": "◆ BVV-Erledigt"};
 function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;var txt=lbl.slice(1).trim();return '<div class="ekat-sub ekat-'+ekat+'"><span class="ekat-dot"></span>'+e(txt)+'</div>';}
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
-var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎",text:"Offen"},"entfällt":{cls:"bf",icon:"–",text:"Entfällt"},"Zwischenbericht":{cls:"bz",icon:"~",text:"Zwischenbericht"},"abgelehnt":{cls:"ba",icon:"✕",text:"Abgelehnt"}};
+var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎",text:"Offen"},"entfällt":{cls:"bf",icon:"–",text:"Entfällt"},"Zwischenbericht":{cls:"bz",icon:"~",text:"Zwischenbericht"},"abgelehnt":{cls:"ba",icon:"✕",text:"Abgelehnt"},"":{cls:"bu",icon:"?",text:"Status nicht verfügbar"}};
 function statusBadge(status,neutral){var info=BD[status];if(!info)return "";var cls=neutral?"bn":info.cls;return '<span class="badge '+cls+'"><span class="b-icon">'+e(info.icon)+' </span>'+e(info.text)+'</span>';}
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
@@ -293,6 +303,19 @@ function partyChips(parties){
 }
 var view="table",filt=[],activeParties=new Set(),showA=false;
 
+// Records whose initiator isn't a Fraktion (parties=[]) still have a usable initiator
+// text (Bezirksamt, Ausschuss, individual Bezirksverordnete, Bürgerinnen und Bürger, …).
+// Derive a filterable pseudo-category from that text at render time — data.js itself
+// is never touched.
+function categorizeInitiator(initiator){
+  if(!initiator) return null;
+  if(initiator==="Bezirksamt") return "Bezirksamt";
+  if(initiator==="Bürgerinnen und Bürger") return "Bürgerinnen und Bürger";
+  if(/^BV /.test(initiator)||initiator.indexOf(", BV ")>=0) return "Einzelne Bezirksverordnete";
+  if(/ausschuss/i.test(initiator)) return "Ausschuss";
+  if(initiator==="Vorstand"||initiator==="Vorsteher") return "BVV-Vorstand/Vorsteher";
+  return null;
+}
 // Party dropdown-checkbox logic
 function togglePD(ev){
   ev.stopPropagation();
@@ -340,6 +363,8 @@ function gF(){
       if(st.startsWith("ekat:")){
         var ekatVal=st.slice(5);
         if(b.status!=="erledigt"||b.ekat!==ekatVal)return false;
+      } else if(st==="status:leer"){
+        if(b.status!=="")return false;
       } else {
         if(b.status!==st)return false;
       }
@@ -347,8 +372,9 @@ function gF(){
     if(zust&&b.zust!==zust)return false;
     if(activeParties.size>0){
       var bp=(b.s&&b.s.parties)||[];
+      var bcat=categorizeInitiator(b.s&&b.s.initiator);
       var match=false;
-      activeParties.forEach(function(p){if(bp.indexOf(p)>=0)match=true;});
+      activeParties.forEach(function(p){if(bp.indexOf(p)>=0||p===bcat)match=true;});
       if(!match)return false;
     }
     if(q){
