@@ -87,7 +87,7 @@
   .rz-sub{font-size:10px;color:var(--mid);margin-top:2px;font-weight:600;}
   .rs{display:flex;align-items:flex-start;padding-top:12px;min-width:0;}
   .badge{display:inline-block;max-width:100%;min-width:0;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1.5px solid currentColor;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
-  .be{color:var(--green);}.bo{color:var(--blue);}.ba{color:var(--red);}.bf{color:#bbb;}.bz{color:var(--purple);}
+  .be{color:var(--green);}.bo{color:var(--blue);}.ba{color:var(--red);}.bf{color:#bbb;}.bz{color:var(--purple);}.bn{color:#888;}
   .nr{padding:60px 0;text-align:center;font-size:1.4rem;font-weight:800;color:#ccc;}
   /* TIMELINE */
   .tlv{display:none;}.tlv.on{display:block;padding-top:24px;}
@@ -161,18 +161,21 @@
     .mm-i:nth-child(3){grid-column:span 2;border-top:1px solid var(--border);border-right:none;}
     .mo{padding:0;align-items:flex-start;}
     .mp{margin:0;min-height:100vh;}
+    #bT,#bA2{display:none;}
 
   }
 
-  /* Erledigt subcategory badges */
-  .ekat-badge{display:inline-block;max-width:100%;min-width:0;padding:2px 7px;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:0;margin-top:3px;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
-  .ekat-vollstaendig-umgesetzt{background:#e8f5e9;color:#1b5e20;border:1.5px solid #2e7d32;}
-  .ekat-teilweise-umgesetzt{background:#fff8e1;color:#795548;border:1.5px solid #a1887f;}
-  .ekat-laufender-prozess{background:#e3f2fd;color:#0d47a1;border:1.5px solid #1565c0;}
-  .ekat-keine-zustaendigkeit{background:#fce4ec;color:#880e4f;border:1.5px solid #c2185b;}
-  .ekat-nicht-umsetzbar{background:#efebe9;color:#4e342e;border:1.5px solid #6d4c41;}
-  .ekat-bereits-gaengige-praxis{background:#e8eaf6;color:#1a237e;border:1.5px solid #283593;}
-  .ekat-sonstiges-unklar{background:#f5f5f5;color:#616161;border:1.5px solid #9e9e9e;}
+  /* Erledigt-Ergebnis (Option B): "Erledigt" wird neutral (.bn), das Ergebnis steht als
+     farbiger Text mit Punkt darunter statt als zweites, gleichwertiges Badge. */
+  .ekat-sub{display:block;max-width:100%;min-width:0;margin-top:4px;font-size:11px;font-weight:700;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
+  .ekat-dot{display:inline-block;width:6px;height:6px;border-radius:50%;margin-right:6px;position:relative;top:-1px;}
+  .ekat-vollstaendig-umgesetzt{color:#1b5e20;}.ekat-vollstaendig-umgesetzt .ekat-dot{background:#2e7d32;}
+  .ekat-teilweise-umgesetzt{color:#795548;}.ekat-teilweise-umgesetzt .ekat-dot{background:#a1887f;}
+  .ekat-laufender-prozess{color:#0d47a1;}.ekat-laufender-prozess .ekat-dot{background:#1565c0;}
+  .ekat-keine-zustaendigkeit{color:#880e4f;}.ekat-keine-zustaendigkeit .ekat-dot{background:#c2185b;}
+  .ekat-nicht-umsetzbar{color:#4e342e;}.ekat-nicht-umsetzbar .ekat-dot{background:#6d4c41;}
+  .ekat-bereits-gaengige-praxis{color:#1a237e;}.ekat-bereits-gaengige-praxis .ekat-dot{background:#283593;}
+  .ekat-sonstiges-unklar{color:#616161;}.ekat-sonstiges-unklar .ekat-dot{background:#9e9e9e;}
 </style>
 </head>
 <body>
@@ -182,7 +185,7 @@
     <div>
       <div class="site-tag">Bezirkspolitik im Überblick</div>
       <h1 class="masthead-title">Was hat das Bezirksamt umgesetzt?</h1>
-      <p class="masthead-sub">Alle Vorgänge der VI. Wahlperiode. Erfahren Sie, wie das Bezirksamt auf Beschlüsse vorgegangen (Stand Juni 2026).</p>
+      <p class="masthead-sub">Erfahren Sie, welche Beschlüsse die BVV gefasst hat und wie das Bezirksamt damit umgegangen ist (Stand Juni 2026).</p>
     </div>
     <div class="stat-grid">
       <div class="stat-box s-e"><span class="stat-num" id="sE">—</span><span class="stat-label">Erledigt</span></div>
@@ -260,11 +263,11 @@
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
 var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
 var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar"};
-function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;var icon=lbl.charAt(0),txt=lbl.slice(1).trim();return '<div class="ekat-badge ekat-'+ekat+'"><span class="b-icon">'+e(icon)+' </span>'+e(txt)+'</div>';}
+function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;var txt=lbl.slice(1).trim();return '<div class="ekat-sub ekat-'+ekat+'"><span class="ekat-dot"></span>'+e(txt)+'</div>';}
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
 var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎",text:"Offen"},"entfällt":{cls:"bf",icon:"–",text:"Entfällt"},"Zwischenbericht":{cls:"bz",icon:"~",text:"Zwischenbericht"},"abgelehnt":{cls:"ba",icon:"✕",text:"Abgelehnt"}};
-function statusBadge(status){var info=BD[status];if(!info)return "";return '<span class="badge '+info.cls+'"><span class="b-icon">'+e(info.icon)+' </span>'+e(info.text)+'</span>';}
+function statusBadge(status,neutral){var info=BD[status];if(!info)return "";var cls=neutral?"bn":info.cls;return '<span class="badge '+cls+'"><span class="b-icon">'+e(info.icon)+' </span>'+e(info.text)+'</span>';}
 var MO=["","Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 var PC={CDU:"chip-CDU",SPD:"chip-SPD","Grüne":"chip-Grune",FDP:"chip-FDP",Linke:"chip-Linke",AfD:"chip-AfD",Fraktionslose:"chip-Fraktionslose"};
 // The source data's "parties" array is always alphabetically sorted (CDU, FDP, Grüne,
@@ -383,7 +386,7 @@ function rT(){
       +'<div class="rd">'+dh+'</div>'
       +'<div class="rb">'+e(b.betreff)+'</div>'
       +'<div class="rz"><div>'+e(b.zf)+'</div>'+(zi.stadtrat?'<div class="rz-sub">'+e(zi.stadtrat)+'</div>':"")+'</div>'
-      +'<div class="rs" style="flex-direction:column;align-items:flex-start;gap:3px;">'+statusBadge(b.status)+(b.status==="erledigt"?ekatBadge(b.ekat):"")+'</div>'
+      +'<div class="rs" style="flex-direction:column;align-items:flex-start;gap:3px;">'+statusBadge(b.status,b.status==="erledigt"&&b.ekat)+(b.status==="erledigt"?ekatBadge(b.ekat):"")+'</div>'
       +'</div>';
   }
   document.getElementById("tb").innerHTML=h;
@@ -477,7 +480,7 @@ function openD(idx){
 
   var h='<div class="mm">';
   h+='<div class="mm-i"><div class="mm-k">Datum</div><div class="mm-v">'+e(b.datum)+'</div></div>';
-  h+='<div class="mm-i"><div class="mm-k">Sachstand</div><div class="mm-v">'+(statusBadge(b.status)||e(b.status))+(b.status==="erledigt"&&b.ekat?'<br>'+ekatBadge(b.ekat):"")+'</div></div>';
+  h+='<div class="mm-i"><div class="mm-k">Sachstand</div><div class="mm-v">'+(statusBadge(b.status,b.status==="erledigt"&&b.ekat)||e(b.status))+(b.status==="erledigt"&&b.ekat?ekatBadge(b.ekat):"")+'</div></div>';
   h+='<div class="mm-i"><div class="mm-k">Zuständigkeit</div><div class="mm-v">'+e(b.zf)+'</div>'+(zi.stadtrat?'<div class="mm-s">'+e(zi.stadtrat)+'</div>':"")+'</div>';
   h+='</div>';
 
@@ -536,6 +539,17 @@ document.getElementById("q").addEventListener("input",render);
 document.getElementById("ss").addEventListener("change",render);
 document.getElementById("sz").addEventListener("change",render);
 document.addEventListener("keydown",function(ev){if(ev.key==="Escape"){closeM();document.getElementById("pdDrop").classList.remove("open");}});
+// Below 720px the Zeitstrahl/Verfahren buttons are hidden to save space in the filter
+// bar. If either was active when the viewport crosses under that width, reset them so
+// the person isn't stuck on a view/filter they no longer have a control to undo.
+var MOBILE_MQ=window.matchMedia("(max-width:720px)");
+function enforceMobileViewLimits(mq){
+  if(!mq.matches) return;
+  if(view==="timeline") switchView();
+  if(showA) toggleAdmin();
+}
+MOBILE_MQ.addEventListener("change",enforceMobileViewLimits);
+enforceMobileViewLimits(MOBILE_MQ);
 render();
 </script>
 </body>
