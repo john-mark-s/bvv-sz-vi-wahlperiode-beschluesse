@@ -285,7 +285,7 @@ var EKAT_DEFS={
 // (e.g. some rows use "BiKuSpo" instead of the canonical "BikuSpo") so the Zuständigkeit
 // filter dropdown matches every row.
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
-var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
+var DATA=D.map(function(r){var s=r[8]||{};return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:s,ekat:s.erledigte_art||r[9]||""};});
 // EKAT_DEFS (the single source of truth for every "Erledigt" subcategory) lives in a
 // <script> at the end of <head>. ekatBadge() renders straight from it, and
 // populateEkatOptions() below builds the matching filter dropdown entries — so adding a
@@ -498,9 +498,9 @@ function cleanText(s){
     //    Stunden, max. 3 Meter, …) are never touched.
     .replace(/(?<!\bAbs\.)(?<!\bNr\.)(?<!\bca\.)(?<!\bmax\.)(?<!\bmin\.)(?<!\bArt\.)(?<!\bBst\.)(?<!\blit\.)(?<!\bvgl\.)(?<!\bbzw\.)(?<!\bggf\.)(?<!\bRn\.)(?<!\bZiff\.)(?<!\bB\.)(?<=[a-zäöüß][.!?])[ \t]+\n?[ \t]*[2-9][ \t]+\n?[ \t]*(?=[A-ZÄÖÜ][a-zäöüßA-ZÄÖÜ])/g,' ')
     // 3. normalize bullet markers so each list item starts on its own line. The PDF
-    //    scrape rendered bullets as "•" or an inline lowercase "o " before a capitalized
-    //    item; unify both to "\n• ".
-    .replace(/\n?[ \t]*•[ \t]*\n?[ \t]*/g,'\n• ')
+    //    scrape rendered bullets as "•", "●", or an inline lowercase "o " before a
+    //    capitalized item; unify all three to "\n• ".
+    .replace(/\n?[ \t]*[•●][ \t]*\n?[ \t]*/g,'\n• ')
     .replace(/(?:^|[ \t\n])o[ \t]+(?=[A-ZÄÖÜ„])/g,'\n• ')
     // 4. single newline between text → space (line-wrap join), but preserve breaks that
     //    precede a blank line (paragraph) or a bullet.
