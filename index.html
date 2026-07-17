@@ -169,18 +169,35 @@
   }
 
   /* Erledigt-Ergebnis (Option B): "Erledigt" wird neutral (.bn), das Ergebnis steht als
-     farbiger Text mit Punkt darunter statt als zweites, gleichwertiges Badge. */
-  .ekat-sub{display:block;max-width:100%;min-width:0;margin-top:4px;font-size:11px;font-weight:700;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;}
-  .ekat-dot{display:inline-block;width:6px;height:6px;border-radius:50%;margin-right:6px;position:relative;top:-1px;}
-  .ekat-vollstaendig-umgesetzt{color:#1b5e20;}.ekat-vollstaendig-umgesetzt .ekat-dot{background:#2e7d32;}
-  .ekat-teilweise-umgesetzt{color:#795548;}.ekat-teilweise-umgesetzt .ekat-dot{background:#a1887f;}
-  .ekat-laufender-prozess{color:#0d47a1;}.ekat-laufender-prozess .ekat-dot{background:#1565c0;}
-  .ekat-keine-zustaendigkeit{color:#880e4f;}.ekat-keine-zustaendigkeit .ekat-dot{background:#c2185b;}
-  .ekat-nicht-umsetzbar{color:#4e342e;}.ekat-nicht-umsetzbar .ekat-dot{background:#6d4c41;}
-  .ekat-bereits-gaengige-praxis{color:#1a237e;}.ekat-bereits-gaengige-praxis .ekat-dot{background:#283593;}
-  .ekat-sonstiges-unklar{color:#616161;}.ekat-sonstiges-unklar .ekat-dot{background:#9e9e9e;}
-  .ekat-bvv-erledigt{color:#37474f;}.ekat-bvv-erledigt .ekat-dot{background:#455a64;}
+     farbiger Text mit Punkt darunter statt als zweites, gleichwertiges Badge.
+     Die Farbe kommt aus EKAT_DEFS (im Skript direkt danach) via inline --dot / --ink,
+     damit eine neue Subkategorie NUR dort ergänzt werden muss statt auch hier. */
+  .ekat-sub{display:block;max-width:100%;min-width:0;margin-top:4px;font-size:11px;font-weight:700;overflow-wrap:anywhere;word-break:break-word;-webkit-hyphens:auto;hyphens:auto;color:var(--ink,#616161);}
+  .ekat-dot{display:inline-block;width:6px;height:6px;border-radius:50%;margin-right:6px;position:relative;top:-1px;background:var(--dot,#9e9e9e);}
 </style>
+<!--
+  ═══════════════════════════════════════════════════════════════════════════
+  So fügst du eine neue "Erledigt"-Subkategorie hinzu (Sachstand-Detail):
+  Öffne das Skript direkt unterhalb dieses Kommentars und ergänze EINEN
+  Eintrag in EKAT_DEFS. Das war's — Badge-Farbe, Punkt-Farbe, Dropdown-
+  Filteroption und Anzeigetext werden daraus automatisch erzeugt. Es muss
+  NICHTS sonst im Code angepasst werden. Danach in data.js bei den
+  betroffenen Beschlüssen "erledigte_art" auf den neuen Schlüssel setzen
+  (z.B. "erledigte_art": "meine-neue-kategorie").
+  ═══════════════════════════════════════════════════════════════════════════
+-->
+<script>
+var EKAT_DEFS={
+  "vollstaendig-umgesetzt":  {icon:"✓", label:"Vollständig umgesetzt",   ink:"#1b5e20", dot:"#2e7d32"},
+  "teilweise-umgesetzt":     {icon:"◑", label:"Teilweise umgesetzt",     ink:"#795548", dot:"#a1887f"},
+  "laufender-prozess":       {icon:"⟳", label:"Laufender Prozess",       ink:"#0d47a1", dot:"#1565c0"},
+  "keine-zustaendigkeit":    {icon:"→", label:"Keine Zuständigkeit",     ink:"#880e4f", dot:"#c2185b"},
+  "nicht-umsetzbar":         {icon:"✕", label:"Nicht umsetzbar",         ink:"#4e342e", dot:"#6d4c41"},
+  "bereits-gaengige-praxis": {icon:"●", label:"Bereits gängige Praxis",  ink:"#1a237e", dot:"#283593"},
+  "sonstiges-unklar":        {icon:"?", label:"Sonstiges/Unklar",        ink:"#616161", dot:"#9e9e9e"},
+  "bvv-erledigt":            {icon:"◆", label:"BVV-Erledigt",            ink:"#37474f", dot:"#455a64"}
+};
+</script>
 </head>
 <body>
 <div class="topbar"><span>BVV Steglitz-Zehlendorf · VI. Wahlperiode 2021–2026</span><span>Stand: 16.06.2026</span></div>
@@ -205,14 +222,8 @@
     <select id="ss">
       <option value="">Alle Status</option>
       <option value="erledigt">✓ Erledigt (alle)</option>
-      <option value="ekat:vollstaendig-umgesetzt">  └ Vollständig umgesetzt</option>
-      <option value="ekat:teilweise-umgesetzt">  └ Teilweise umgesetzt</option>
-      <option value="ekat:laufender-prozess">  └ Laufender Prozess</option>
-      <option value="ekat:keine-zustaendigkeit">  └ Keine Zuständigkeit</option>
-      <option value="ekat:nicht-umsetzbar">  └ Nicht umsetzbar</option>
-      <option value="ekat:bereits-gaengige-praxis">  └ Bereits gängige Praxis</option>
-      <option value="ekat:sonstiges-unklar">  └ Sonstiges/Unklar</option>
-      <option value="ekat:bvv-erledigt">  └ BVV-Erledigt</option>
+      <!-- Die └-Optionen je Erledigt-Subkategorie werden aus EKAT_DEFS erzeugt (siehe
+           populateEkatOptions() im Hauptskript unten) - hier nichts manuell ergänzen. -->
       <option value="offen">◎ Offen</option>
       <option value="Zwischenbericht">~ Zwischenbericht</option>
       <option value="abgelehnt">✗ Abgelehnt</option>
@@ -275,8 +286,29 @@
 // filter dropdown matches every row.
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
 var DATA=D.map(function(r){return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:r[8]||{},ekat:r[9]||""};});
-var EKAT_LABELS={"vollstaendig-umgesetzt": "✓ Vollständig umgesetzt", "teilweise-umgesetzt": "◑ Teilweise umgesetzt", "laufender-prozess": "⟳ Laufender Prozess", "keine-zustaendigkeit": "→ Keine Zuständigkeit", "nicht-umsetzbar": "✕ Nicht umsetzbar", "bereits-gaengige-praxis": "● Bereits gängige Praxis", "sonstiges-unklar": "? Sonstiges/Unklar", "bvv-erledigt": "◆ BVV-Erledigt"};
-function ekatBadge(ekat){if(!ekat)return "";var lbl=EKAT_LABELS[ekat]||ekat;var txt=lbl.slice(1).trim();return '<div class="ekat-sub ekat-'+ekat+'"><span class="ekat-dot"></span>'+e(txt)+'</div>';}
+// EKAT_DEFS (the single source of truth for every "Erledigt" subcategory) lives in a
+// <script> at the end of <head>. ekatBadge() renders straight from it, and
+// populateEkatOptions() below builds the matching filter dropdown entries — so adding a
+// new subcategory only ever means editing EKAT_DEFS in one place.
+function ekatBadge(ekat){
+  if(!ekat)return "";
+  var def=EKAT_DEFS[ekat];
+  if(!def)return '<div class="ekat-sub">'+e(ekat)+'</div>'; // unknown key: still show *something* rather than silently disappear
+  return '<div class="ekat-sub" style="--ink:'+def.ink+';--dot:'+def.dot+'"><span class="ekat-dot"></span>'+e(def.label)+'</div>';
+}
+function populateEkatOptions(){
+  var sel=document.getElementById("ss");
+  var afterOpt=sel.querySelector('option[value="erledigt"]');
+  if(!afterOpt)return;
+  Object.keys(EKAT_DEFS).forEach(function(key){
+    var def=EKAT_DEFS[key];
+    var opt=document.createElement("option");
+    opt.value="ekat:"+key;
+    opt.textContent="  └ "+def.label;
+    afterOpt.insertAdjacentElement("afterend",opt);
+    afterOpt=opt; // keep insertion order matching EKAT_DEFS
+  });
+}
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
 var BD={erledigt:{cls:"be",icon:"✓",text:"Erledigt"},offen:{cls:"bo",icon:"◎",text:"Offen"},"entfällt":{cls:"bf",icon:"–",text:"Entfällt"},"Zwischenbericht":{cls:"bz",icon:"~",text:"Zwischenbericht"},"abgelehnt":{cls:"ba",icon:"✕",text:"Abgelehnt"},"":{cls:"bu",icon:"?",text:"Status nicht verfügbar"}};
@@ -591,6 +623,7 @@ function enforceMobileViewLimits(mq){
 }
 MOBILE_MQ.addEventListener("change",enforceMobileViewLimits);
 enforceMobileViewLimits(MOBILE_MQ);
+populateEkatOptions();
 render();
 </script>
 </body>
