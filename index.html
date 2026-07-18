@@ -178,12 +178,29 @@
 <!--
   ═══════════════════════════════════════════════════════════════════════════
   So fügst du eine neue "Erledigt"-Subkategorie hinzu (Sachstand-Detail):
-  Öffne das Skript direkt unterhalb dieses Kommentars und ergänze EINEN
-  Eintrag in EKAT_DEFS. Das war's — Badge-Farbe, Punkt-Farbe, Dropdown-
-  Filteroption und Anzeigetext werden daraus automatisch erzeugt. Es muss
-  NICHTS sonst im Code angepasst werden. Danach in data.js bei den
-  betroffenen Beschlüssen "erledigte_art" auf den neuen Schlüssel setzen
-  (z.B. "erledigte_art": "meine-neue-kategorie").
+
+  Es gibt zwei unabhängige Achsen, beide optional und beide per Key-Value in
+  data.js gepflegt — kein Bulk-Feld, keine Pflicht, jederzeit nachtragbar
+  ohne dass der Rest kaputtgeht:
+
+    • ERGEBNIS ("was am Ende steht"): EKAT_DEFS weiter unten.
+      → in data.js: "erledigte_art_ergebniss": "meine-neue-kategorie"
+      (Fällt mangels Eintrag automatisch auf das ältere, positionsbasierte
+      r[9]-Feld zurück, damit die 246 bereits vorhandenen Altdatensätze ohne
+      Migration weiterlaufen. r[9] selbst braucht KEINE Erweiterung mehr —
+      neue Kategorien immer nur noch über "erledigte_art_ergebniss".)
+
+    • WIE ("auf welchem Weg dahin"): WIE_DEFS weiter unten.
+      → in data.js: "erledigte_art_wie": "meine-neue-kategorie"
+      (Kein Altdaten-Fallback nötig, das Feld ist neu und wird schrittweise
+      nachgetragen.)
+
+  Für beide gilt: Eintrag in der jeweiligen DEFS-Konstante ergänzen, dann in
+  data.js beim betroffenen Beschluss den Schlüssel setzen. Badge-Farbe,
+  Punkt-Farbe, Dropdown-Filteroption (nur ERGEBNIS) und Anzeigetext werden
+  daraus automatisch erzeugt — sonst muss NICHTS im Code angepasst werden.
+  Fehlt WIE, ERGEBNIS oder beides bei einem Beschluss, wird einfach nur
+  das gezeigt, was vorhanden ist (oder gar nichts, wenn beides fehlt).
   ═══════════════════════════════════════════════════════════════════════════
 -->
 <script>
@@ -196,6 +213,16 @@ var EKAT_DEFS={
   "bereits-gaengige-praxis": {icon:"●", label:"Bereits gängige Praxis",  ink:"#1a237e", dot:"#283593"},
   "sonstiges-unklar":        {icon:"?", label:"Sonstiges/Unklar",        ink:"#616161", dot:"#9e9e9e"},
   "bvv-erledigt":            {icon:"◆", label:"BVV-Erledigt",            ink:"#37474f", dot:"#455a64"}
+};
+// WIE_DEFS: the "auf welchem Weg" companion to EKAT_DEFS above. Rendered as a prefix
+// before the Ergebnis-Label, joined with " · " (see screenshot design). Only a label is
+// needed — the dot/ink color always comes from the Ergebnis side (EKAT_DEFS) so the two
+// stay visually tied together; WIE never introduces a second color.
+var WIE_DEFS={
+  "weitergeleitet":        {label:"Weitergeleitet"},
+  "geprueft":              {label:"Geprüft"},
+  "bereits-vorhanden":     {label:"Bereits vorhanden"},
+  "falscher-ausgangspunkt":{label:"Falscher Ausgangspunkt"}
 };
 </script>
 </head>
@@ -222,8 +249,8 @@ var EKAT_DEFS={
     <select id="ss">
       <option value="">Alle Status</option>
       <option value="erledigt">✓ Erledigt (alle)</option>
-      <!-- Die └-Optionen je Erledigt-Subkategorie werden aus EKAT_DEFS erzeugt (siehe
-           populateEkatOptions() im Hauptskript unten) - hier nichts manuell ergänzen. -->
+      <!-- Die Ergebnis/Wie-Optgroups unter "Erledigt" werden aus EKAT_DEFS/WIE_DEFS erzeugt
+           (siehe populateEkatOptions() im Hauptskript unten) - hier nichts manuell ergänzen. -->
       <option value="offen">◎ Offen</option>
       <option value="Zwischenbericht">~ Zwischenbericht</option>
       <option value="abgelehnt">✗ Abgelehnt</option>
@@ -285,29 +312,49 @@ var EKAT_DEFS={
 // (e.g. some rows use "BiKuSpo" instead of the canonical "BikuSpo") so the Zuständigkeit
 // filter dropdown matches every row.
 var ZUST_ALIAS={"BiKuSpo":"BikuSpo"};
-var DATA=D.map(function(r){var s=r[8]||{};return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:s,ekat:s.erledigte_art||r[9]||""};});
-// EKAT_DEFS (the single source of truth for every "Erledigt" subcategory) lives in a
-// <script> at the end of <head>. ekatBadge() renders straight from it, and
-// populateEkatOptions() below builds the matching filter dropdown entries — so adding a
-// new subcategory only ever means editing EKAT_DEFS in one place.
-function ekatBadge(ekat){
-  if(!ekat)return "";
-  var def=EKAT_DEFS[ekat];
-  if(!def)return '<div class="ekat-sub">'+e(ekat)+'</div>'; // unknown key: still show *something* rather than silently disappear
-  return '<div class="ekat-sub" style="--ink:'+def.ink+';--dot:'+def.dot+'"><span class="ekat-dot"></span>'+e(def.label)+'</div>';
+var DATA=D.map(function(r){var s=r[8]||{};return{nr:r[0],ds:r[1],datum:r[2],betreff:r[3],zust:ZUST_ALIAS[r[4]]||r[4],status:r[5],url:r[6]||"",zf:r[7]||r[4],s:s,ekat:s.erledigte_art_ergebniss||r[9]||"",ekatWie:s.erledigte_art_wie||""};});
+// EKAT_DEFS/WIE_DEFS (the single source of truth for "Erledigt" subcategories) live in a
+// <script> at the end of <head>. ekatBadge() renders straight from them, and
+// populateEkatOptions() below builds the matching filter dropdown entries (Ergebnis
+// only) — so adding a new subcategory only ever means editing those objects in one place.
+// ekat/ekatWie are independent and both optional: either, both, or neither may be set on
+// a given Beschluss, and the badge always renders whatever is actually present.
+function ekatBadge(ekat,ekatWie){
+  var eDef=ekat?EKAT_DEFS[ekat]:null;
+  var eLabel=ekat?(eDef?eDef.label:ekat):""; // unknown key: still show *something* rather than silently disappear
+  var wDef=ekatWie?WIE_DEFS[ekatWie]:null;
+  var wLabel=ekatWie?(wDef?wDef.label:ekatWie):"";
+  if(!eLabel&&!wLabel)return "";
+  var text=[wLabel,eLabel].filter(Boolean).map(e).join(" · ");
+  var style=eDef?' style="--ink:'+eDef.ink+';--dot:'+eDef.dot+'"':""; // color always comes from Ergebnis, if present
+  return '<div class="ekat-sub"'+style+'><span class="ekat-dot"></span>'+text+'</div>';
 }
+// Builds two <optgroup>s under "Erledigt (alle)": one for EKAT_DEFS (Ergebnis), one for
+// WIE_DEFS (Wie). Kept as separate groups rather than one flat list because the two axes
+// are independent (a Beschluss can be BOTH "Weitergeleitet" AND "Vollständig umgesetzt"
+// at once) — a flat list would visually suggest they're mutually exclusive alternatives.
 function populateEkatOptions(){
   var sel=document.getElementById("ss");
   var afterOpt=sel.querySelector('option[value="erledigt"]');
   if(!afterOpt)return;
+  var ergGroup=document.createElement("optgroup");
+  ergGroup.label="Ergebnis";
   Object.keys(EKAT_DEFS).forEach(function(key){
-    var def=EKAT_DEFS[key];
     var opt=document.createElement("option");
     opt.value="ekat:"+key;
-    opt.textContent="  └ "+def.label;
-    afterOpt.insertAdjacentElement("afterend",opt);
-    afterOpt=opt; // keep insertion order matching EKAT_DEFS
+    opt.textContent=EKAT_DEFS[key].label;
+    ergGroup.appendChild(opt);
   });
+  afterOpt.insertAdjacentElement("afterend",ergGroup);
+  var wieGroup=document.createElement("optgroup");
+  wieGroup.label="Wie";
+  Object.keys(WIE_DEFS).forEach(function(key){
+    var opt=document.createElement("option");
+    opt.value="wie:"+key;
+    opt.textContent=WIE_DEFS[key].label;
+    wieGroup.appendChild(opt);
+  });
+  ergGroup.insertAdjacentElement("afterend",wieGroup);
 }
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
@@ -406,6 +453,9 @@ function gF(ignoreAdmin){
       if(st.startsWith("ekat:")){
         var ekatVal=st.slice(5);
         if(b.status!=="erledigt"||b.ekat!==ekatVal)return false;
+      } else if(st.startsWith("wie:")){
+        var wieVal=st.slice(4);
+        if(b.status!=="erledigt"||b.ekatWie!==wieVal)return false;
       } else if(st==="status:leer"){
         if(b.status!=="")return false;
       } else {
@@ -471,7 +521,7 @@ function rT(){
       +'<div class="rd">'+dh+'</div>'
       +'<div class="rb">'+e(b.betreff)+'</div>'
       +'<div class="rz"><div>'+e(b.zf)+'</div>'+(zi.stadtrat?'<div class="rz-sub">'+e(zi.stadtrat)+'</div>':"")+'</div>'
-      +'<div class="rs" style="flex-direction:column;align-items:flex-start;gap:3px;">'+statusBadge(b.status,b.status==="erledigt"&&b.ekat)+(b.status==="erledigt"?ekatBadge(b.ekat):"")+'</div>'
+      +'<div class="rs" style="flex-direction:column;align-items:flex-start;gap:3px;">'+statusBadge(b.status,b.status==="erledigt"&&(b.ekat||b.ekatWie))+(b.status==="erledigt"?ekatBadge(b.ekat,b.ekatWie):"")+'</div>'
       +'</div>';
   }
   document.getElementById("tb").innerHTML=h;
@@ -510,9 +560,10 @@ function cleanText(s){
     //    Stunden, max. 3 Meter, …) are never touched.
     .replace(/(?<!\bAbs\.)(?<!\bNr\.)(?<!\bca\.)(?<!\bmax\.)(?<!\bmin\.)(?<!\bArt\.)(?<!\bBst\.)(?<!\blit\.)(?<!\bvgl\.)(?<!\bbzw\.)(?<!\bggf\.)(?<!\bRn\.)(?<!\bZiff\.)(?<!\bB\.)(?<=[a-zäöüß][.!?])[ \t]+\n?[ \t]*[2-9][ \t]+\n?[ \t]*(?=[A-ZÄÖÜ][a-zäöüßA-ZÄÖÜ])/g,' ')
     // 3. normalize bullet markers so each list item starts on its own line. The PDF
-    //    scrape rendered bullets as "•", "●", or an inline lowercase "o " before a
-    //    capitalized item; unify all three to "\n• ".
-    .replace(/\n?[ \t]*[•●\uF0B7\uF0D8][ \t]*\n?[ \t]*/g,'\n• ')
+    //    scrape rendered bullets as "•", "●", "\uF0B7" (Wingdings/Symbol-font bullet
+    //    glyph left over from PDF text extraction, renders as invisible/blank in normal
+    //    fonts), or an inline lowercase "o " before a capitalized item; unify all to "\n• ".
+    .replace(/\n?[ \t]*[•●\uF0B7][ \t]*\n?[ \t]*/g,'\n• ')
     .replace(/(?:^|[ \t\n])o[ \t]+(?=[A-ZÄÖÜ„])/g,'\n• ')
     // 3b. lettered (a-g) and numbered (1-10) list markers, e.g. "a) der geringe
     //     Kostensatz" or "1) René Rögner-Francke". Unlike the other bullet markers,
@@ -585,7 +636,7 @@ function openD(idx){
 
   var h='<div class="mm">';
   h+='<div class="mm-i"><div class="mm-k">Datum</div><div class="mm-v">'+e(b.datum)+'</div></div>';
-  h+='<div class="mm-i"><div class="mm-k">Sachstand</div><div class="mm-v">'+(statusBadge(b.status,b.status==="erledigt"&&b.ekat)||e(b.status))+(b.status==="erledigt"&&b.ekat?ekatBadge(b.ekat):"")+'</div></div>';
+  h+='<div class="mm-i"><div class="mm-k">Sachstand</div><div class="mm-v">'+(statusBadge(b.status,b.status==="erledigt"&&(b.ekat||b.ekatWie))||e(b.status))+(b.status==="erledigt"&&(b.ekat||b.ekatWie)?ekatBadge(b.ekat,b.ekatWie):"")+'</div></div>';
   h+='<div class="mm-i"><div class="mm-k">Zuständigkeit</div><div class="mm-v">'+e(b.zf)+'</div>'+(zi.stadtrat?'<div class="mm-s">'+e(zi.stadtrat)+'</div>':"")+'</div>';
   h+='</div>';
 
