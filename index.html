@@ -421,8 +421,12 @@ function gF(ignoreAdmin){
       if(!match)return false;
     }
     if(q){
-      var sv=b.s&&b.s.beschlusstext?b.s.beschlusstext.toLowerCase():"";
-      if(b.betreff.toLowerCase().indexOf(q)===-1&&b.nr.toLowerCase().indexOf(q)===-1&&b.ds.toLowerCase().indexOf(q)===-1&&sv.indexOf(q)===-1)return false;
+      var s=b.s||{};
+      // sv bundles every free-text field worth searching beyond the row itself: the
+      // resolution text, the administration's answer, who proposed it, and the
+      // committee/session/outcome trail (beratungsfolge) it passed through.
+      var sv=(s.beschlusstext||"")+" "+(s.antwort||"")+" "+(s.initiator||"")+" "+(s.parties||[]).join(" ")+" "+(s.beratungsfolge||[]).map(function(x){return (x.gremium||"")+" "+(x.sitzung||"")+" "+(x.erledigungsart||"");}).join(" ");
+      if(b.betreff.toLowerCase().indexOf(q)===-1&&b.nr.toLowerCase().indexOf(q)===-1&&b.ds.toLowerCase().indexOf(q)===-1&&sv.toLowerCase().indexOf(q)===-1)return false;
     }
     return true;
   });
@@ -508,7 +512,7 @@ function cleanText(s){
     // 3. normalize bullet markers so each list item starts on its own line. The PDF
     //    scrape rendered bullets as "•", "●", or an inline lowercase "o " before a
     //    capitalized item; unify all three to "\n• ".
-    .replace(/\n?[ \t]*[•●][ \t]*\n?[ \t]*/g,'\n• ')
+    .replace(/\n?[ \t]*[•●\uF0B7\uF0D8][ \t]*\n?[ \t]*/g,'\n• ')
     .replace(/(?:^|[ \t\n])o[ \t]+(?=[A-ZÄÖÜ„])/g,'\n• ')
     // 3b. lettered (a-g) and numbered (1-10) list markers, e.g. "a) der geringe
     //     Kostensatz" or "1) René Rögner-Francke". Unlike the other bullet markers,
