@@ -51923,13 +51923,13 @@ var D=[
       "beschlussdatum": "20.05.2026",
       "berichterstatter": "2. Berichterstatter: \nMaren Schellenberg",
       "antwort": "Die Feier zur Einweihung der umgestalteten Ronnebypromenade fand am 22. Mai 2026 um 15 Uhr vor Ort statt. Eingeladen waren neben einer Delegation aus Ronneby auch politische VerteterInnen aus dem Bezirk, die Sportvereine sowie Bürgerinnen und Bürger. Neben Musikalischen Darbietungen der Leo-Borchard Musikschule berichtete die Landschaftsarchitektin Frau Hutter von den Bauarbeiten und bot eine Führung zur Anlage an. Interessierte konnten außerdem mit dem Schiff „MS Moby Dick“ eine Wannseefahrt unternehmen. Die neugestaltete große Freifläche eignet sich, um kleine Veranstaltungen durchzuführen, diese werden bei Antrag wohlwollend durch das Straßen- und Grünflächenamt geprüft.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "1055/VI",
