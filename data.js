@@ -33957,7 +33957,7 @@ var D=[
     "Keine Großwindanlagen in Steglitz-Zehlendorf",
     "BVV",
     "abgelehnt",
-    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9079",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9119",
     "Bezirksverordnetenversammlung",
     {
       "initiator": "SPD-, GRÜNE- und FDP- Fraktion",
@@ -48049,7 +48049,7 @@ var D=[
     "Wir sind nicht auf der Flucht: Fußgänger*innenampel Ecke Unter den Eichen/Thielallee/Dahlemer Weg für normales Gehtempo schalten",
     "OrdUmNatSGA",
     "offen",
-    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9605",
+    "https://bvv-steglitz-zehlendorf.berlin.de/pi-r/vo020_r.asp?VOLFDNR=9629",
     "Ordnung, Umwelt- und Naturschutz, Straßen und Grünflächen",
     {
       "initiator": "FDP-Fraktion",
