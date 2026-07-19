@@ -339,15 +339,6 @@ function populateEkatOptions(){
   var sel=document.getElementById("ss");
   var afterOpt=sel.querySelector('option[value="erledigt"]');
   if(!afterOpt)return;
-  var ergGroup=document.createElement("optgroup");
-  ergGroup.label="Ergebnis";
-  Object.keys(EKAT_DEFS).forEach(function(key){
-    var opt=document.createElement("option");
-    opt.value="ekat:"+key;
-    opt.textContent=EKAT_DEFS[key].label;
-    ergGroup.appendChild(opt);
-  });
-  afterOpt.insertAdjacentElement("afterend",ergGroup);
   var wieGroup=document.createElement("optgroup");
   wieGroup.label="Wie";
   Object.keys(WIE_DEFS).forEach(function(key){
@@ -356,7 +347,16 @@ function populateEkatOptions(){
     opt.textContent=WIE_DEFS[key].label;
     wieGroup.appendChild(opt);
   });
-  ergGroup.insertAdjacentElement("afterend",wieGroup);
+  afterOpt.insertAdjacentElement("afterend",wieGroup);
+  var ergGroup=document.createElement("optgroup");
+  ergGroup.label="Ergebnis";
+  Object.keys(EKAT_DEFS).forEach(function(key){
+    var opt=document.createElement("option");
+    opt.value="ekat:"+key;
+    opt.textContent=EKAT_DEFS[key].label;
+    ergGroup.appendChild(opt);
+  });
+  wieGroup.insertAdjacentElement("afterend",ergGroup);
 }
 var AK=["Wahl ","Abberufung","Neuwahl","Nachwahl","Sondermittel","Feststellung gemäß","Bildung von Aus","Weitergeltung","Zusammensetzung","Berufung ","Parlamentarische Ferien","Bezirkshaushaltsplan","Bezirkshaushaltsrechnung","Ergänzungsplan","Bebauungsplan","Genehmigung von über","Aufhebung Beschluss","Zugriff Ausschuss","Anmeldungen zum Investitions"];
 function iA(b){if(b.status==="entfällt")return true;return AK.some(function(k){return b.betreff.startsWith(k);});}
