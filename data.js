@@ -664,13 +664,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Ein Vertreter der Deutsch-Israelischen Gesellschaft e.V. (DIG), hat im Rahmen seiner Israelreise Ende letzten Jahres auch Sderot besucht und dabei im Rathaus den BVV-Beschluss Symbolisch übergeben. Leider bietet das SGB VIII keine Rechtsgrundlage, um Kinder aus anderen Ländern Erholungsmaßnahmen zu gewähren. Weiter kommt hinzu, dass zurzeit keine räumlichen Ressourcen zur Verfügung, um kurzfristig Dienste im Rahmen des internationalen Austausches anzubieten, da die bisher in diesem Rahmen genutzte Immobilie aufgrund der hohen Anzahl an Geflüchteten in unserer Stadt anderweitig genutzt wird. Sollten wieder freie Kapazitäten vorhanden sein wird geprüft, inwieweit ein internationaler Austausch stattfinden kann. Ein auf Gegenseitigkeit beruhender Austausch braucht dann allerdings eine erhebliche Vorlaufzeit, da auch auf hiesiger Seite austauschwillige Kinder und Jugendliche gefunden werden müssen, die Finanzierung von beiden Seiten sicherzustellen ist und die Inhalte des Austausches zielgruppengerecht zu organisieren sind.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umsetzbar",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "22/VI",
@@ -703,13 +703,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Böhm",
       "antwort": "Am 25.11.2022 wurde in der Dreifaltigkeitskirche in Lankwitz den einsam Verstorbenen gedacht. Im Rahmen einer überkonfessionellen Gedenkveranstaltung wurden die Namen von 339 Verstorbenen verlesen. Anteilnehmende Bürgerinnen und Bürger hatten so die Möglichkeit, den Menschen ein letztes Geleit zu geben.\n\nDie Veranstaltung wurde ausgerichtet von Bezirksamt und BVV Steglitz-Zehlendorf mit Unterstützung der Kirchenkreise Steglitz und Teltow-Zehlendorf.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "23/VI",
@@ -970,7 +970,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Fachbereich Tiefbau hat eine barrierearme Querungsmöglichkeit der Hans-Sachs-Straße auf der östlichen Seite der Baseler Straße geschaffen. Dabei wurden zum Einen die Borde der Hans-Sachs-Straße abgesenkt und zum Anderen die Fahrbahn zwischen den abgesenkten Borden asphaltiert. Die Finanzierung erfolgte aus Mitteln des Sonderprogramms für Bordabsenkungen der Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz. Der Kiosk konnte dabei erhalten bleiben.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -978,7 +979,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "32/VI",
@@ -1067,13 +1067,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Büro des Bezirksstadtrates für die Abteilung Ordnung, Straßen- und Grünflächen, Umwelt- und Naturschutz hat im ersten Quartal des Jahres 2022 Gespräche mit VertreterInnen der Interessengemeinschaft Gutzmannstraße/Leo-Baeck-Straße und der Bürgerinitiative Nachhaltiger Nieritzweg sowie der Geschäftsführung des Helios-Klinikums Emil-von-Behring geführt. In Zusammenarbeit mit diesen beiden Initiativen hat dann am 29.04.2022 in der Aula der Schweizerhof Grundschule eine Beteiligungswerkstatt stattgefunden. Die Anregungen und Ideen der teilnehmenden Bürgerschaft, der Schulen, weiterer Akteure und der Bezirksverordneten wurden aufgenommen und in der Folge von zuständigen Fachamt geprüft. Am 11.11.22 fand eine Folgeveranstaltung statt in der der Bezirksstadtrat und das Fachamt den Teilnehnenden erläutert hat, welche Maßnahmen zur Verkehrsberuhigung und Verkehrssicherung nun angestoßen werden. Für das Frühjahr 2023 ist eine weitere Veranstaltung geplant. Weitere Informationen sind auf der Plattform „Mein Berlin“ im Internet einsehbar.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "34/VI",
@@ -1161,7 +1161,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt hat am 02.09.2022 die Sondernutzungserlaubnis für den o.g. Kiosk für den Zeitraum vom 01.01.2023 bis 31.12.2025 erteilt. Der ursprüngliche Bewilligungszeitraum endet am 31.12.2022.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -1169,7 +1170,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "36/VI",
@@ -1575,7 +1575,8 @@ var D=[
       "antwortdatum": "22.08.2023",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Eine Liste mit den bekannten Namen der „Stillen Helden“ ist auf der Homepage des Kulturamts veröffentlicht und über folgenden Link online abrufbar: https://www.berlin.de/ba-steglitz-zehlendorf/auf-einen-blick/kultur/regionalgeschichte/archive/",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE- und SPD-Fraktion",
       "originalparties": [
         "Grüne",
@@ -1583,7 +1584,6 @@ var D=[
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "47/VI",
@@ -1721,7 +1721,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Michael Karnetzki",
       "antwort": "Alle drei Beschlüsse tragen denselben Titel. Nach den wortgleichen Beschlüssen 996/V und 49/VI sollen jährlich die Zahlenwerke der letzten zwei Jahre im Ausschuss berichtet werden. Dies wird in der Form umgesetzt, in der die Zahlen vorliegen. Eine Aufschlüsselung nach Ortsteilen ist nicht möglich. Der Wohnungsneubaubericht wurde, den Beschlüssen 996/V und 49/VI entsprechend, für die Jahre 2020/2021 am 04.10.22 im Ausschuss für Stadtentwicklung und Wohnen vorgelegt und unter folgendem Link online gestellt: Stadtplanung Steglitz-Zehlendorf-Berlin.de Weitere Berichte folgen im angegebenen Turnus. Der Beschluss 1039/V modifiziert die gewünschte Verfahrensweise aus dem ursprünglichen Beschluss 996/V. Das Bezirksamt versteht jedoch die erneute Beschlussfassung der ursprünglichen Antragsfassung mit Beschluss 49/VI so, dass diese Modifizierung durch die BVV in der Sache zurückgenommen wurde.",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "teilweise-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -1729,7 +1730,6 @@ var D=[
         "SPD"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "50/VI",
@@ -1762,13 +1762,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Die Aufstellung von Zeichen 283 StVO (Absolutes Haltverbot) einschließlich der Zusatzzeichen „Einsatzfahrzeuge frei“ im Bereich der DLRG Wasserrettungsstation in Höhe Königstraße 68 zum dauerhaften Abstellen von Einsatzfahrzeugen der DLRG, NEF und RTW ist mit den Bestimmungen der StVO nicht vereinbar. Die Einrichtung entsprechender Stellplätze mittels der genannten Verkehrszeichenkombination würde, in Bezug auf das Fahrzeug der DLRG und unter Berücksichtigung der Umstände, lediglich zu einer Parkplatzreservierung führen und im Ergebnis sich als nicht genehmigungsfähig darstellen. Die Königstraße ist im betreffenden Streckenabschnitt mit einem Zeichen 286 StVO (eingeschränktes Haltverbot) beschildert. Das bedeutet, dass an dieser Stelle das Ein- und Aussteigen sowie das Be- und Entladen gestattet ist. Mit Zeichen 315 StVO (Parken auf Gehwegen) ist der ruhende Verkehr vollflächig auf dem Gehweg ausgewiesen.\n\nRettungsfahrzeuge (NEF und RTW) der Berliner Feuerwehr sind gemäß § 35 StVO (Sonderrechte) im Einsatzfall von den Vorschriften der StVO ausgenommen. Diese Fahrzeuge können in den genannten Fällen ohne Weiteres innerhalb der vorhandenen eingeschränkten Haltverbots oder an anderen Stellen parken. Eine Möglichkeit zur störungsfreien Übergabe von geretteten Personen an die Rettungskräfte der BF ist somit durchgehend gewährleistet. Ein Regelungsbedarf hinsichtlich der Aufstellung der Fahrzeuge der BF besteht für diese Fahrzeuge demgemäß ohnehin nicht.\n\nBei Aufstellung des Rettungsfahrzeuges der DLRG am rechten Fahrbahnrand würde dieses den Fließverkehr behindern. Eine auf die DLRG ausgerichtete Ausweisung für den Gehweg würde eine Abweichung von den bisher im Land Berlin zugelassenen Zusatzzeichen bedeuten. Die für eine im Einzelfall erforderliche Zustimmung zuständige Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz hatte für den Fall, dass der Bezirk eine entsprechende Anfrage an diese Stelle richtet, vorab eine Ablehnung signalisiert. Aus Sicht der SenUMVK Abt. VI besteht keine Grundlage zur Genehmigung eines abweichenden Zusatzzeichens, welches lediglich die Parksituation der DLRG begünstigt. Eine Notwendigkeit zur Vornahme einer solchen Maßnahme wird anhand der dargelegten Sachlage nicht erkannt.\n\nDie Voraussetzungen zur Ausstellung einer Ausnahmegenehmigung nach § 46 StVO im Rahmen des Betriebssitzprinzips, analog der Regelungen zu einer Parkraumbewirtschaftungszone, sind hier ebenfalls nicht gegeben, da eine solche Zone an dieser Örtlichkeit nicht existiert.\n\nUm dennoch dem Anliegen der DLRG entsprechen zu können, wurde eine nichtamtliche Beschilderung für eine Parkzone vorgenommen und eine Parkfläche für Einsatzfahrzeuge der DLRG von April bis Oktober an Samstagen, Sonn- und Feiertagen eingerichtet. Das entsprechende Schild wurde aufgestellt, die Markierung des Parkplatzes ist beauftragt. Mit Schreiben vom 31.03.2023 hat sich das Präsidium der DLRG bereits für diese Maßnahme bedankt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umsetzbar",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "51/VI",
@@ -1801,13 +1801,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Fachbereich Verwaltung des SGA hat die Voraussetzungen für eine Benennung der Grünanlage an der Rothenburgstraße/Grunewaldstraße im Ortsteil Steglitz nach der ukrainischen Partnerstadt „Charkiw“ geprüft und kommt zum Ergebnis, dass eine Benennung möglich ist.\n\nDie bisher namenlose Grünanlage an der Rothenburgstraße/Grunewaldstraße erhielt am 24.10.2022 in einer öffentlichen Veranstaltung den Namen: „Charkiw Park“.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-Fraktion",
       "originalparties": [
         "Grüne"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "52/VI",
@@ -1858,13 +1858,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Richter",
       "antwort": "Der Beschluss fordert das Bezirksamt auf, alles daran zu setzen, zusätzliche Räumlichkeiten für die Kältehilfe vornehmlich in Steglitz zu identifizieren und umgehend bereitzustellen.\nBisher wurden folgende Einrichtungen durch den Bezirk genutzt:\n\n[Die Tabelle konnte an dieser Stelle nicht wiedergegeben werden. Siehe Drucksachen.]\n\nFolgende weitere Einrichtungen wurden geprüft, eine Umsetzung der Kältehilfe war aus verschiedenen Gründen jedoch nicht möglich:\n\n[Die Tabelle konnte an dieser Stelle nicht wiedergegeben werden. Siehe Drucksachen.]\n\nProbleme bei der Akquise neuer Räumlichkeiten sind vornehmlich: a) der geringe Kostensatz (aktuell 17,09 €/Platz/Nacht), mit dem die Kältehilfe finanziert wird. Dieser Betrag ermöglicht den Trägern nicht, eine Nettokaltmiete für das zu nutzende Objekt zu zahlen. Es können deshalb nicht einfach geeignete Immobilien zum Marktpreis angemietet werden, da sich die Kosten aus dem bezirklichen Haushalt nicht refinanzieren lassen. und b) die baurechtlichen Anforderungen, die an die Immobilien gestellt werden. Eine Kältehilfeeinrichtung ist baurechtlich ein Beherbergungsbetrieb, der einer Genehmigung bedarf. Die Zurverfügungstellung beliebiger freier Immobilien ist somit nicht ausreichend.\n\nAus den vorgenannten Gründen ist es bisher nicht gelungen, weitere Objekte für die Kältehilfe zugänglich zu machen. Das Sozialamt wird weiter auch proaktiv nach Kältehilfe-Plätzen bzw. geeigneten Angeboten recherchieren und auf Hinweise Dritter ebenso aktiv werden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss daher als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "53/VI",
@@ -2170,14 +2170,14 @@ var D=[
       "antwortdatum": "09.07.2024",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Der Beschluss befindet sich in der Umsetzung. Der Stelentext von Dr. Kilian Steiner wurde in der Sitzung des Ausschusses für Bildung und Kultur am 8. Juni 2024 verabschiedet, die Einweihung der Stele findet voraussichtlich am 9.9. oder am 10.9.2024 während der Internationalen Funkausstellung im Beisein der Geschäftsleitung der Loewe Technology GmbH statt.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "laufender-prozess"
   ],
   [
     "58/VI",
@@ -2232,13 +2232,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Im Rathaus Zehlendorf wurde zunächst ein Spender im Bauteil A, EG, der öffentlichen Damentoilette Anfang November 2022 installiert und entsprechend mit Menstruationsartikeln befüllt. Dieser wurde seit dem 3-mal nachgefüllt. Nach der Beendigung der Wahlvor-/ und Nachbereitungen werden 5 weitere Spender seitens der SE Facility Management angebracht werden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-Fraktion",
       "originalparties": [
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "59/VI",
@@ -2286,13 +2286,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg \nBezirksstadtrat Richter",
       "antwort": "Mit dem Eigentümer der Immobilie des ‘Bürgertreffpunkt Bahnhof Lichterfelde West‘ (Hans-Sachs-Str. 4D, 12205 Berlin) konnte im Sommer 2022 eine Verlängerung des Mietvertragsverhältnisses um weitere 10 Jahre geschlossen werden. Derzeit befindet sich die Umbauplanung (barrierefrei, inklusiv) und die Abstimmung mit dem Eigentümer, der Deutschen Bahn, den beteiligten Beauftragten und innerhalb der Fachämter in der Endphase. Die Fortführung des Bürgertreffs im „Kulturbahnhof“ ist mithin bis 2032 gesichert.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "60/VI",
@@ -2343,7 +2343,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Richter",
       "antwort": "Mit dem Beschluss wird das Bezirksamt ersucht, umgehend sämtliche Möglichkeiten der Unterbringung von Flüchtlingen aus den Kriegsgebieten der Ukraine im Bezirk zu ertüchtigen und diese niederschwellig vorzuhalten. Dabei ist auch die Ertüchtigung ehemals genutzter Einrichtungen und Gebäude zu prüfen.\n\nFolgende Unterkünfte wurden mit Stand 22.06.22 durch den Bezirk geprüft:\n\nStandort Bemerkungen Theklastr. 20, 12207 Berlin\n\nHotel Aparion, in Nutzung genommen Fischerhhüttenstr. 113, 14163 Berlin\n\nHotel Leopold, Nutzung bis 30.06.22 Albrechtstr. 81a, 12167 Berlin\n\nMarkusgemeinde, wird genutzt Königin-Luise-Str. 55, 14195 Berlin\n\nKirchengemeinde Dahlem, wird genutzt Albrechtstr. 7, 12167 Berlin\n\nWohnheim, Nutzung nicht ausschließlich durch Ukrainer*innen Grunewaldstr. 8-9, 12165 Berlin\n\nHotel Ravenna, trotz bereits erfolgter Einzüge Prüfung wegen fehlender Unterlagen noch nicht abgeschlossen\n\nWeiterhin stehen dezentrale Unterkünfte im Kirchen-Asyl, religiösen Gemeinden und sehr vielzählig in Privatunterkünften in Steglitz-Zehlendorf zur Verfügung.\n\nAktuell erfolgt die Prüfung neuer Unterkünfte im Zusammenhang mit der Ukraine durch das Landesamt für Flüchtlingsangelegenheiten Berlin (LAF), sodass uns gemeldete Unterkünfte dorthin weitergeleitet werden. Der Beschluss wird somit laufend durch Amtshandeln umgesetzt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -2351,7 +2352,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "61/VI",
@@ -2467,7 +2467,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Richter",
       "antwort": "Im Beschluss wird das Bezirksamt ersucht, die bezirkliche Kältehilfe zukunftssicher aufzustellen. Dazu sollen der Standort Bergstr. 4 und ein weiterer Standort in Steglitz (Nähe Schloßstraße) dauerhaft vorgehalten werden.\n\nZum Standort Steglitz weise ich auf folgende Probleme bei der Akquise neuer Räumlichkeiten hin.\n\nDiese sind vornehmlich: a) der geringe Kostensatz (aktuell 17,09 €/Platz/Nacht), mit dem die Kältehilfe finanziert wird. Dieser Betrag ermöglicht den Trägern nicht, eine Nettokaltmiete für das zu nutzende Objekt zu zahlen. Es können deshalb nicht einfach geeignete Immobilien zum Marktpreis angemietet werden, da sich die Kosten aus dem bezirklichen Haushalt nicht refinanzieren lassen. und b) die baurechtlichen Anforderungen, die an die Immobilien gestellt werden. Eine Kältehilfeeinrichtung ist baurechtlich ein Beherbergungsbetrieb, der einer Genehmigung bedarf. Die Zurverfügungstellung beliebiger freier Immobilien ist somit nicht ausreichend.\n\nAus den vorgenannten Gründen ist es bisher nicht gelungen, weitere Objekte für die Kältehilfe zugänglich zu machen.\n\nBezüglich des Standortes Bergstr. 4, Berlin-Wannsee ist das Amt für Soziales am Abschluss eines Erbbaurechtsvertrages für das Objekt interessiert. Folgende Schritte wurden bereits unternommen:\n\n[Die Tabelle konnte an dieser Stelle nicht wiedergegeben werden. Siehe Drucksachen.]\n\n\nWie der Darstellung zu entnehmen ist, sind als formale Voraussetzung, um einen Erbbaurechtsvertrag schließen zu können, zwingend noch die Dienstbarkeiten in der Abteilung 2 zu löschen. Bei einer Dienstbarkeit konnte bereits eine Lösung herbeigeführt werden, die zweite Dienstbarkeit befindet sich noch in Klärung, da bisher kein Rechtsnachfolger für das eingetragene Recht gefunden werden konnte. Der Austausch mit OM DR 1 zum Thema ist regelmäßig. Sobald dieser Punkt erledigt ist, kann endlich der Erbbaurechtsvertrag mit dem DRK auf Grundlage der neuen Vorschriften verhandelt werden. Dazu muss dann das jetzt veraltete Wertgutachten aktualisiert werden und die aktuellen Erbbauzinsen müssen berechnet werden. Inhalt des Erbbaurechtsvertrages wird auch die Sicherung der Kältehilfe am Standort sein.\n\nDas Bezirksamt arbeitet kontinuierlich am Thema.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -2475,7 +2476,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "63/VI",
@@ -2575,13 +2575,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Bei der Haushaltsplanung 2022/23 war zu berücksichtigen, dass der Steuerungsdienst und das Rechtsamt wieder in eigenen Kapiteln abzubilden waren (3301 & 3303). Im Gegensatz zu Kapiteln, die für inhaltlich neue Sachverhalte geschaffen werden, waren alle Einnahmen und Ausgaben dieser neuen Kapitel bis 2021 im Kapitel 3300 nachgewiesen. In Fällen, wo die bisher beim Kapitel 3300 nachgewiesenen Einnahmen und Ausgaben eindeutig einem der neuen Kapitel zuordenbar waren, wurden die entsprechenden Titel mit ihren Vergleichszahlen verlagert. In allen anderen Fällen wurden die Titel in den Kapiteln 3301 und 3303 ohne Vergleichszahlen abgebildet. Die Vergleichszahlen verblieben beim Kapitel 3300. Diese Systematik wurden in den allgemeinen Erläuterungen der drei Kapiteln dargestellt. Bei der Beratung der einzelnen Titel kam es dennoch zu häufigen Nachfragen, warum die Höhe der Ansätze teilweise erheblich von den Vergleichszahlen abwichen. Besonders auffällig war dieser Effekt bei den Personaltiteln. Das Bezirksamt wird zukünftig in vergleichbaren Fällen dezidierter auf derartige Abweichungen hinweisen und die Bezirksverordneten ggf. durch zusätzliche Unterlagen bei ihren Haushaltsberatungen unterstützen. Es wird gebeten, den Beschluss damit als erledigt anzusehen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt anzusehen.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "sonstiges-unklar"
   ],
   [
     "65/VI",
@@ -2623,13 +2623,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Michael Karnetzki",
       "antwort": "Der Bebauungsplan-Entwurf 6-30 hat in der Zeit vom 08.08.-16.09.2022 öffentlich ausgelegen. Damit wurde dem Wunsch der BVV, den Offenlegungszeitraum nach den Sommerferien auf vier Wochen auszudehnen, entsprochen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "66/VI",
@@ -2802,13 +2802,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Fachbereich Grünflächen ist für rund 270.000 Bäume im Bezirk verantwortlich. Insbesondere die Gewährleistung der Verkehrssicherheit und das Minimieren von Gefahren, welche von diesen Bäumen potentiell ausgehen könnten, stellen für alle Dienstkräfte täglich eine große Herausforderung dar. Vor dem Hintergrund steigender Belastungen (intensive Dürreschäden der Jahre 2018/ 2019/ 2020) kann der gesetzlichen Pflicht mit den zur Verfügung stehenden Ressourcen nur durch eine gezielte Gewichtung und Prioritätensetzung begegnet werden.\n\nDie lokale Verbreitung von Misteln schädigt bei Massenbefall tatsächlich die betroffenen Bäume. Im Großen und Ganzen handelt es sich jedoch um ein natürliches Phänomen. Misteln gehören zu den heimischen Pflanzen. Schnittmaßnahmen zur Beseitigung der Misteln sind abhängig davon, wo sich die Mistel angesiedelt hat. Problematisch ist, dass zur Beseitigung der Mistel die besiedelten Äste entfernt werden müssen, da die Misteln tief im Holz der Wirtsbäume wurzeln. Dies kann beim bearbeiteten Baum zu erheblichen Kronenverlusten führen. Misteln werden vom Amt nur in Kombination mit anderen Maßnahmen, wie z.B. bei einer Kronenpflege oder der Entfernung von totem Holz entfernt.\n\nAlle Dienstkräfte des Fachbereichs Grünflächen unternehmen unter entsprechender Würdigung des Verkehrssicherheitsgedankens alles fachlich Notwendige für den Erhalt des gewachsenen Baumbestandes. Insbesondere bei der Jungbaumpflege wird auf eine möglichst gute Entwicklung geachtet.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "SPD-Fraktion",
       "originalparties": [
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "69/VI",
@@ -2871,14 +2871,14 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Richter-Kotowski",
       "antwort": "Für die Erstellung einer integrierten Sportentwicklungsplanung wurden von der Senatsverwaltung für Inneres und Sport für jeden Bezirk Mittel i.H.v. 100.000,00 € bereitgestellt. Das Bezirksamt Steglitz-Zehlendorf hat das Büro „die raumplaner“ beauftragt, einen „Fachplan Sport und Bewegung“ zu erstellen.\n\nDieser Plan dient als Instrument mit qualifizierten Handlungsempfehlungen für eine bedarfsgerechte und langfristige Entwicklung von Sport- und Freizeitangeboten im Bezirk und wird laufend fortgeschrieben.\n\nEs konnten nur die landeseigenen Sport- und Spielstätten erfasst und berücksichtigt werden. Für die Erfassung der privaten Sport- und Spielstätten wurden keine Haushaltsmittel des Bezirks zur Verfügung gestellt.\n\nDer Sportentwicklungsplan für den Bezirk Steglitz-Zehlendorf wurde am 20.02.2025 im Sportausschuss präsentiert ist online auf den Seiten des Sportamtes abrufbar:\n\nhttps://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/schul-undsportamt/sport/",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE- und SPD-Fraktion",
       "originalparties": [
         "Grüne",
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "70/VI",
@@ -2933,14 +2933,14 @@ var D=[
       "antwortdatum": "19.11.2024",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Am 14.11.2024 fand im Bürgersaal Zehlendorf die erste Sitzung des Runden Tisch Regionalgeschichte als Auftaktveranstaltung mit Akteuren des Kulturamtes, Vertretern von Museen, Initiativen, Vereinen und Einzelpersonen statt.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-Fraktion",
       "originalparties": [
         "Grüne"
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "71/VI",
@@ -2998,11 +2998,11 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Böhm",
       "antwort": "Zu den drei Beschlüssen (BNr. 1047/V am 20.05.2020, BNr. 71/VI am 18.05.2022, BNr. 149/VI vom 14.09.2022) wird Folgendes berichtet: Der Bezirk Steglitz-Zehlendorf hat seit Anfang 2022 planvoll und zielgerichtet damit begonnen, Beteiligungsstrukturen für Bürger*innen des Bezirkes konzeptionell vorzubereiten und den Prozess der Erarbeitung von Beteiligungsleitlinien auf den Weg zu bringen. Hierzu wurden noch während der Haushaltssperre der ersten Jahreshälfte 2021 von Seiten der OE SPK eine Sichtung der bestehenden Beteiligungsstrukturen im Land Berlin vorgenommen. Diese erstreckte sich auf die bereits verabschiedeten Leitlinien zur Bürgerbeteiligung auf Senatsebene und in einigen Bezirken, darunter Treptow-Köpenick und Mitte. Nach Freigabe der Haushaltsmittel und anhand einer eingehenden Analyse von best practices wurde dann zum Sommer 2022 die Ausschreibung für eine externe Beratungsdienstleistung gestartet. An dessen Ende stand im September die Beauftragung des Planungsbüros AG.Urban als Dienstleister im Prozess zur Leitlinienerarbeitung. Dieser Prozess sieht im Wesentlichen folgende Meilensteine vor:\n\n1) Durchführung von Regionalwerkstätten im November 2022 an drei verschiedenen Orten und Einbeziehung der regionalen Anwohnenden zur Ideensammlung und Prioritätensetzung\n2) Komprimierung der Ergebnisse und Bereitstellung auf mein.berlin.de zwecks weiterer Kommentierung durch Interessierte\n3) Erarbeitung des Leitlinienentwurfs durch ein Begleitgremium bestehend aus Bürger*innen, organisierter Zivilgesellschaft, Verwaltung und Bezirkspolitik. \n\nEndergebnis werden voraussichtlich zum Ende des ersten Quartals 2023 die von der BVV beschlossenen Leitlinien zur Bürger:innenbeteiligung sein. \n\nInnerhalb der Leitlinien werden die Stufen der Beteiligung, der Detailgrad der Berichterstattung sowie die Rückkopplungsschleifen zwischen Verwaltung und Bürgerschaft festgelegt. Auch werden die Instrumente der Kommunikation (z.B. in Form der Vorhabenliste) verbindlich beschrieben. Explizit werden bereits bestehende Beteiligungsformen wir z.B. über  das Kinder- und Jugendbüro oder die Spielplatzkommission berücksichtigt. Mit der voraussichtlichen Verabschiedung der Leitlinien Anfang 2023 wird dann der Gesamtprozess nach nur einem Jahr abgeschlossen. \n\nIn einem nächsten Schritt wird sich dann eine Ausschreibung zur Vergabe einer Bezirklichen Anlaufstelle für Bürgerbeteiligung (BAB) als zentrale Koordinierungsstelle für Bürgerbeteiligung anschließen. Die OE SPK arbeitet bereits an den Vergabevorbereitungen. Abschließend wird ein verwaltungsinternes Umsetzungskonzept für die Leitlinien erarbeitet. Das Umsetzungskonzept soll die Setzungen und den Geist der Leitlinien in praxisnahes, rechtskonformes, kooperatives Verwaltungshandeln übersetzen und die dafür erforderlichen Rahmensetzungen schärfen. \n\nGrundsätzlich davon unabhängig ist die Frage des Aufbaus von permanenten bezirklichen Strukturen auf Stadtteilebene bzw. Ebene der Bezirksregionen (BZR). Die Bezirksregionen bzw. Stadtteile oder umgangssprachlich „Kieze“ stellen die mittlere Ebene der sozialräumlichen Planungssystematik dar. Sie umfassen in Steglitz-Zehlendorf durchschnittlich 39.000 Einwohnende (8 BZR im Bezirk). Auf dieser Ebene existieren bereits gut etablierte Vernetzungsstrukturen der Zivilgesellschaft z.B. in Form der Runden Tische oder der Stadtteilkonferenzen. Um diese „Stadtteilforen“ weiter zu stärken und besser in die bezirklichen Strukturen einzubinden, werden gemäß dem Strukturkonzept der SPK perspektivisch vier Stellen als Regionalkoordination eingerichtet. Davon ist derzeit bereits eine Stelle besetzt und eine weitere in Ausschreibung. Zwei Stellen sind noch zu schaffen. Die Regionalkoordinationen fungieren jeweils für zwei Bezirksregionen als dauerhafter Anlaufpunkt für den Kiez und die darin bestehenden Strukturen. Aufgabe ist es einerseits als Transmissionsriemen zwischen den Bürger*innen und der Verwaltung zu wirken und umgekehrt. Andererseits wird durch kiezspezifische Informationsvermittlung durch die Regionalkoordinationen auch zur Beteiligung bei Planungsvorhaben des Bezirkes im Rahmen der Leitlinien angeregt. \n\nVor diesem Hintergrund ist die Vergabe von sozialräumlichen Fördermitteln (FEIN, „Kiezkassen“ etc.) durch die Bürger*innen eine logische Konsequenz des skizzierten organisatorisch-strukturellen Aufbaus der OE SPK. Finanzielle Fördermöglichkeiten unterschiedlichster Art werden über die Regionalkoordinationen vermittelt und in einem transparenten Entscheidungsverfahren durch die Anwohnenden vergeben. Insoweit vollzieht sich der Ansatz von Partizipation und Beteiligung über verschiedene, sich gegenseitig ergänzende Zugänge und Formate. Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "Bürgerinnen und Bürger",
       "originalparties": []
     },
-    "sonstiges-unklar"
   ],
   [
     "72/VI",
@@ -3132,7 +3132,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter/in: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Der WHO-Initiative „Alternsfreundliche Stadt“ liegt ein Rahmen (WHO Age friendly cities Framework) zugrunde, der acht miteinander verbundene Lebensbereiche älterer Menschen benennt. Nach Prüfung der Bausteine, die Fundament der Initiative sind, kommen wir zu dem Ergebnis, dass ein Beitritt als Bezirk aus folgendem Grund nicht zu realisieren ist: Bereits im Bereich „Gesundheitsversorgung“ liegt die Zuständigkeit für wesentliche Elemente beim Land (Krankenhausplanung, Landespflegeplanung). Nicht die Bezirke entscheiden über die Zulassung ambulanter Pflegedienste und (teil-)stationärer Einrichtungen zur Versorgung. Sie regeln nicht das Schnittstellen-Management im Übergang zwischen stationärer und ambulanter Versorgung. Somit wäre schon der Baustein „Community and Health Care“ des WHO-Rahmens in wesentlichen Teilen nicht zu erfüllen. Auch wenn wir derzeit zu dem Schluss kommen müssen, dass wir die mit einem Beitritt verbundenen Zusagen schon aus rechtlichen Gründen nicht geben können, so ist die Vision eines altersfreundlichen Steglitz-Zehlendorfs genau die, die wir im Bezirk verfolgen.\n\nDazu arbeiten wir als Bezirk gemeinsam mit anderen Akteuren der Landesgesundheitskonferenz am Berliner Gesundheitsziel „Lebensqualität und Selbständigkeit im Alter erhalten“ sowie an der Umsetzung der seniorenpolitischen Leitlinien des Landes Berlin mit und sind Teil des Prozess 80plus der Senatspflegeverwaltung. Auch als Mitglied im Berliner Regionalverbund des Gesunde-Städte-Netzwerkes adressieren wir viele Lebensbereiche mit Bezug zur Gesundheit, wenngleich für alle Altersgruppen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umsetzbar",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -3140,7 +3141,6 @@ var D=[
         "SPD"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "74/VI",
@@ -3226,7 +3226,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Fachbereich Grünflächen teilt mit, dass ein Antrag zum „Klimasensiblen Umbau der Waldparkanlagen an der Krummen Lanke und dem Schlachtensee“ beim Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) im Bundesamt für Bauwesen und Raumordnung (BBR) gestellt wurde. Eine Förderung wurde in Aussicht gestellt. Derzeit läuft die zweite Phase des Antragsverfahrens. Das Gesamtvolumen des Projekts beläuft sich auf 2 Mio €. Wenn diese Mittel bewilligt werden, können damit sehr viele der seinerzeitigen Maßnahmenvorschläge der AG Seengebiete umgesetzt werden. Im Rahmen der Maßnahme wird die AG Seengebiete ebenso wie Anwohnende mit einbezogen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -3234,7 +3235,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "77/VI",
@@ -3267,7 +3267,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Das Bezirksamt hat den BVV-Beschluss zur Kenntnis genommen und besprochen. Das Bezirksamt wird ihn entsprechend umsetzen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -3275,7 +3276,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "78/VI",
@@ -3592,13 +3592,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Die mit dem Antrag geforderte kontrastreiche Markierung der im öffentlichen Straßenland neu zu setzenden Poller wird bereits durch das SGA praktiziert.\n\nAusnahmen bilden hierbei Bereiche im Umfeld denkmalgeschützter Gebäude, wo eine derartige farbliche Gestaltung aus Belangen des Denkmalschutzes nicht zulässig ist.\n\nDer sukzessive Austausch der bestehenden Poller ist auf Grund der erheblichen Anzahl nur mittel bzw. langfristig möglich. Hierbei setzt das SGA darauf, die Poller im Rahmen der laufenden Unterhaltung des Straßenlandes bei entsprechenden Beschädigungen gegen kontrastreiche auszutauschen.\n\nBesonders störende, schwer wahrnehmbare Poller, welche eine erhebliche Einschränkung der Barrierefreiheit für Sehbehinderte darstellen, können dem SGA über alle bekannten Zugangskanäle gemeldet werden. Das SGA wird dann bemüht sein diese entsprechend seiner finanziellen und personellen Kapazitäten auszutauschen.\n\nDieses Vorgehen ist bereits gängige Praxis. Hierzu steht das SGA regelmäßig in Kontakt mit der Beauftragten für Menschen mit Behinderung sowie dem Allgemeinen Blinden- und Sehbehindertenverein Berlin (ABSV) und betroffenen Bürgerinnen und Bürgern.\n\nEine weitergehende Einbindung dieser Gremien erscheint somit nicht erforderlich.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "SPD-Fraktion",
       "originalparties": [
         "SPD"
       ]
     },
-    "bereits-gaengige-praxis"
   ],
   [
     "84/VI",
@@ -4175,14 +4175,14 @@ var D=[
       "antwortdatum": "09.07.2024",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Das Bezirksamt hat bereits zum 1.10.2022 die Geschäftsstelle Kulturkorso durch die Aufstockung der Stelle einer Beschäftigten des Kulturamtes um eine halbes Vollzeitäquivalent (VZÄ) umsetzen können. Es ist gelungen unter der Federführung des Kulturamtes, das Netzwerk Kulturkorso nach der langen Corona-Phase wieder zu aktivieren und wichtige gemeinsame Schritte zu vollziehen:\n\n2022 \n ● Strategie-Workshop zur gemeinsamen Ausrichtung der Zusammenarbeit\n ● Einführung regelmäßiger Netzwertreffen\n ● Gemeinsames Öffentlichkeitsarbeit für ein Sommerferienprogramm der Akteure\n ● Erste größere Gemeinschaftsaktion Kulturkorso-Herbst\n\n 2023\n ●  Marketing-Workshop\n ●  Drittmittelakquise über die Wirtschaftsförderung\n ● Gemeinsame durch eine Medienagentur unterstützte Aktion „Grüne Geheimnisse entdecken“\n\nLeider musste damals die halbe Stelle separat beschrieben werden (Anforderungsprofil und Betriebliche Aufgabenkreisbeschreibung), und anschließend zur Bewertung an den Steuerungsdienst übergeben werden. Mittlerweile ist die Ausschreibung der Stelle veröffentlicht worden. Der Neustart der Geschäftsstelle wird i noch im Herbst 2024 erfolgen. Über die Arbeit der Geschäftsstelle wir nach der Besetzung im Ausschuss für Bildung und Kultur berichtet.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-Fraktion",
       "originalparties": [
         "Grüne"
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "94/VI",
@@ -4232,14 +4232,14 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Durch die Einrichtung bzw. Erweiterung der Radverkehrsanlage im Steglitzer Damm zwischen Munsterdamm und Bismarckstraße sind Be- und Entlademöglichkeiten für anliegende Geschäfte weggefallen. Als Ausgleich für diesen Wegfall ist im Ergebnis einer Ortsbesichtigung durch verschiedene Fachdienststellen vorgesehen, eine Ladezone in Höhe Steglitzer Damm 29, im Bereich der markierten Stellplätze, einzurichten. Diese Ladezone soll sich hinsichtlich der zeitlichen Beschränkung an den vorhandenen Kurzzeitparkplätzen orientieren, liegt in unmittelbarer Nähe der Hausnummern 21 und 22 und bietet mehreren sowie größeren Fahrzeugen Platz für Ladetätigkeiten.\n\nDie verkehrsrechtliche Anordnung ist bereits erfolgt. Die Maßnahme wird in absehbarer Zeit umgesetzt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE- und SPD-Fraktion",
       "originalparties": [
         "Grüne",
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "95/VI",
@@ -4705,13 +4705,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Maren Schellenberg",
       "antwort": "Die Informationen über das Förderprogramm wurden an alle Amtsleitungen mit der Bitte um Kenntnisnahme und Weiterleitung über die eigenen Verteiler verschickt. Die einzelnen Ämter müssen aufgrund eines dezentralen Fuhrparks selbst entscheiden, ob sie sich E-Lastenfahrräder über ihre Haushaltsmittel anschaffen möchten. Des Weiteren wurden die Informationen als Hinweis auf der Internetseite Umweltfreundliche Mobilität in Steglitz-Zehlendorf veröffentlicht (https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/beauftragte/klimaschutz/artikel.471144.php).",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "104/VI",
@@ -4753,13 +4753,13 @@ var D=[
       "antwortdatum": "28.04.2026",
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Tim Richter",
       "antwort": "Die Machbarkeit einer angemessenen Würdigung des ehrenamtlichen Engagements in der Flüchtlingshilfe wurde durch das Bezirksamt geprüft. In der Vergangenheit wurden hierzu verschiedene Ideen entwickelt und auf ihre Umsetzbarkeit hin untersucht. Dazu zählte unter anderem die Planung eines Sommerfestes im Botanischen Garten mit begleitenden Informationsständen, um zugleich interessierte Bürgerinnen und Bürger für ein ehrenamtliches Engagement zu gewinnen und bestehende Initiativen zu vernetzen.\n\nEine Umsetzung dieser und weiterer Ansätze konnte jedoch aufgrund der haushalterischen Lage nicht erfolgen. Zudem ergab die Prüfung möglicher Drittmittel keine tragfähigen Finanzierungsmöglichkeiten. Darüber hinaus fehlten bislang koordinierende Stellen, die eine entsprechende Planung, Durchführung und nachhaltige Begleitung solcher Formate hätten gewährleisten können.\n\nMit der inzwischen erfolgten bzw. vorgesehenen Schaffung entsprechender personeller Strukturen haben sich die Rahmenbedingungen verbessert. Die Stelle Koordination für Ehrenamt und Gesellschaftliches Engagement wurde zum 01.02.2026 besetzt, die Besetzung der Stelle Koordination, Steuerung, Weiterentwicklung und inhaltliche Begleitung der Freiwilligenagentur wird zum 01.06.2026 erfolgen.\n\nVor diesem Hintergrund wird aktuell erneut geprüft, wie eine angemessene Würdigung des ehrenamtlichen Engagements im allgemeinen Sinne unter den Bedingungen der vorläufigen Haushaltswirtschaft gestaltet werden kann. Dabei werden insbesondere die Grundsätze der Sparsamkeit und Wirtschaftlichkeit beachten und bei der Planung mit einbezogen.\n\nZur Auslotung und Festsetzung konkreter Möglichkeiten ist zudem ein Vernetzungstreffen mit den zuständigen Akteurinnen und Akteuren noch vor den Sommerferien geplant. Ziel dieses Austauschs ist es, gemeinsam tragfähige und ressourcenschonende Formen der Anerkennung und Würdigung des ehrenamtlichen Engagements zu entwickeln.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "105/VI",
@@ -4807,13 +4807,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Die Frist für eine Antragsstellung des Förderaufrufes für investive Kommunale Klimaschutz-Modellprojekte im Rahmen der Nationalen Klimaschutzinitiative (NKI) endete am 31.10.2024. Im Bewerbungszeitraum gab es kein geeignetes Projekt, welches sich für das Förderprogramm eignete.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umsetzbar",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "106/VI",
@@ -4908,14 +4908,14 @@ var D=[
       "antwortdatum": "09.07.2024",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Der Beschluss wurde zeitnah umgesetzt. Da zeitgleich der Park an der Schwartzschen Villa in Solidarität mit der Partnerstadt Charkiw nach dieser benannt werden sollte, wurde dem neuen Platzbenennungsschild ein Text im Gedenken an Boris Romantschenko hinzugefügt. Dieser lautet wie folgt: In Gedenken an die vielen Opfer des am 24. Februar 2022 begonnenen russischen Angriffskrieges gegen die Ukraine. Eines der Opfer in Charkiw war Boris Romantschenko (20.1.1926- 18.3.2022). Als Überlebender der Konzentrationslager Buchenwald, Mittelbau-Dora und Bergen-Belsen und langjähriger Vizepräsident des Internationalen Komitees Buchenwald-Dora setzte er sich jahrzehntelang für die Erinnerung an die NS-Verbrechen ein. Die Platzbenennung fand im Oktober 2022 statt.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "laufender-prozess"
   ],
   [
     "108/VI",
@@ -5209,13 +5209,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Das Bezirksamt hat sich nach Kontaktaufnahme mit dem für das Programm „Demokratie leben!“ zuständigen Bundesministerium für Familie, Senioren, Frauen und Jugend um die Aufnahme in das Programm als „Partnerschaft für Demokratie“ beworben und wird seit März 2023 als solche gefördert. Die Partnerschaft für Demokratie Steglitz-Zehlendorf hat 2023 begonnen die notwendigen Grundlagen für die Arbeit zu schaffen und konnte bereits 2024 viele Projekte fördern. Auch in der neuen Förderperiode von 2025-2032 ist Steglitz-Zehlendorf im Bundesprogramm vertreten.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "114/VI",
@@ -5406,7 +5406,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Weg, der am Grundstück Potsdamer Chaussee 49a (Wohnort der Familie Muthesius) vorbeiführt, ist gewidmetes Straßenland (Fußweg). Er beginnt an der Potsdamer Chaussee und endet am Rehsprung. Eine Skizze ist beigefügt. Gem. AV Benennung Nr. 1 Abs. 3 a ist eine Doppelbenennung in diesem Fall nicht gegeben, da die Vornamen dem Nachnamen hinzugefügt wurden. So differenziert sich der hier zu benennende Anna-und-Hermann-Muthesius-Steig von der in Steglitz befindlichen Muthesiusstraße. Die anderen Berliner Bezirke wurden formal abgefragt, ob eine Doppelbenennung vorliegen würde.\n\nAus der Sicht des Fachbereichs Kultur spricht nichts gegen eine Benennung des Weges nach Anna und Hermann-Muthesius.\n\nSomit hat der Benennungsvorgang begonnen. Im nächsten Schritt erhält der Weg eine Nummer vom Landesamt für Statistik und die Benennung wird im Amtsblatt veröffentlicht werden.\n\nZur Benennungsfeier werden selbstverständlich die Bezirksverordneten und die Mitglieder der Kirchengemeinde Nikolassee eingeladen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt anzusehen.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -5414,7 +5415,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "118/VI",
@@ -5619,13 +5619,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Büro des Bezirksstadtrats hat sich am 13.04.2023 im Sinne der Zuständigkeit an die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz gewandt und sich über die Pläne der Senatsverwaltung bzw. der Berliner Forsten im Hinblick auf die Wildschweinpopulation und das vermehrte Auftreten von Schäden an Unterstreifen und in Grünanlagen informiert.\n\nMit Schreiben vom 05.05.2023 teilt die Senatsverwaltung mit: „Die Nahrungsgrundlage durch die verhältnismäßig warmen Winter in Folge des Klimawandels und nicht zuletzt durch das aktive Füttern der Berlinerinnen und Berlinern ist für die Wildtiere ausgesprochen gut. Um eine nachhaltige Reduzierung der Wildschweinpopulation im Bezirk Steglitz-Zehlendorf und den angrenzenden Bezirken zu erreichen, werden seit Jahren immer wieder verstärkt auf der Fläche Berlins zusätzlich zu der Jagdausübung durch Jagdausübungsberechtigte der Berliner Forsten Begehungsscheininhaberinnen und –inhaber in den nahegelegenen Verwaltungsbezirken sowie im Stadtgebiet sehr engagierte Stadtjägerinnen und –jäger eingesetzt. Insbesondere, wenn Schäden, wie in Ihrem Schreiben zu Unterstreifen und in Grünanlagen dargelegt, sichtbar und angezeigt werden, erfolgt der Einsatz von Stadtjägerinnen und Stadtjäger. Darüber hinaus betreibt die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz gemeinsam mit den Berliner Forsten und dem Wildtiertelefon intensive Aufklärungsarbeit. Insbesondere wird die Bevölkerung wiederholt auf das Fütterungsverbot hingewiesen.“ Des Weiteren hat das Bezirksamt am 07.11.2023 eine Pressemitteilung zum Thema „Wildschweine füttern ist verboten“ veröffentlicht und dieser VzK beigefügt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "126/VI",
@@ -5657,7 +5657,8 @@ var D=[
       "berichterstatter": "2. Berichterstatterin: \nBezirksbürgermeisterin Maren Schellenberg",
       "antwort": "Vor dem Bauteil E wurde seitlich ein Standaschenbecher mit Bodenverankerung und hoher Kapazität (26 Liter) aufgebaut. Dabei wurden die Vorgaben des Brandschutzes hinsichtlich der Freihaltung der Fluchtwege und die Einhaltung der Dienstvereinbarung Nichtraucherschutz berücksichtigt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -5665,7 +5666,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "127/VI",
@@ -5699,7 +5699,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Maren Schellenberg",
       "antwort": "Das Bezirksamt setzt sich seit Jahren für den Erhalt der griechischen Gemeinde in der Mittelstraße ein. In Verbindung mit einem Schreiben des Griechischen Botschafters an den Regierenden Bürgermeister hat das Bezirksamt die Senatskanzlei über die problematische Situation aufgeklärt und das Schreiben der hellenischen Gemeinde an die BIM vom April 2026, welches die Wichtigkeit des Standortes für das griechische Leben in Berlin und im Bezirk Steglitz-Zehlendorf hervorhebt, beigefügt. In dem Schreiben an den Regierenden Bürgermeister machte das Bezirksamt abermals deutlich, welche Relevanz die Standorte Mittelstraße 33 und 32 für das kulturelle und religiöse griechische Leben im Bezirk haben und das sich eingesetzt werden muss, den Standort für die Diversität in der Stadt zu erhalten.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -5707,7 +5708,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "128/VI",
@@ -5840,13 +5840,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt teilt mit, dass es nunmehr gelungen ist, einen Standort am Ende der Glienicker Straße zu finden, der als genehmigungsfähig für die Aufstellung eines Glas-Containers angesehen wurde, sodass der derzeit in der Glienicker Straße / Arnold-Knobloch-Ring befindliche Container in absehbarer Zeit dorthin umgesetzt werden kann. Der neue Standort liegt in der Glienicker Straße in der Buswendekehre am Hahn-Meitner-Platz. Frühere verkehrliche Bedenken der Straßenverkehrsbehörde gegen den neuen Standort bestanden darin, dass zahlreiche Verkehrsteilnehmende mit ihren Fahrzeugen unzulässigerweise in die Buswendekehre einfahren würden, um einen kurzen Weg zum Glas-Container zu haben. Diese Bedenken wurden bei der Standort-Wahl jetzt anders bewertet. Es bleibt zwar weiterhin zu vermuten, dass künftig Personen mit dem Fahrzeug unmittelbar vor dem Container halten werden, um Glas-Gut entsorgen zu können. Dennoch ist der neue Standort als besser geeignet anzusehen, da insbesondere die Mindestentfernung zum nächstgelegenen Wohnobjekt von bislang 18 m auf jetzt über 40 m deutlich erhöht werden konnte. Der vorliegenden lärmbezogenen Beschwerden wird mit dieser Standortverlegung Rechnung getragen. Die Straßenverkehrsbehörde hat bereits die entsprechende Ausnahmegenehmigung erteilt. Sofern die Fläche in geeigneter Weise befestigt ist, kann die Umsetzung des Glas-Containers erfolgen, voraussichtlich noch im laufenden Jahr.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "130/VI",
@@ -5912,13 +5912,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Fachbereich Grünflächen teilt mit, dass er im Rahmen seiner Unterhaltungstätigkeiten die Wege auf den Friedhöfen verkehrssicher hält. Neben den Reparatur-Arbeiten durch die Mitarbeitenden des Fachbereichs Grünflächen, die fortlaufend erfolgen, werden im Jahr 2023/2024 circa 800.000 € für die Wegesanierung von überalterten Wegedecken investiert (circa 150.000 € aus dem Titel der Grünflächenunterhaltung und 650.000 € aus der Investitionsmaßnahme Wegesanierung auf den Friedhöfen). Der Pflegezustand der Wege und des Begleitgrüns, der auf allen zehn Friedhöfen existiert, ist unter Berücksichtigung des Alters und des Nutzungsdrucks auf den Friedhöfen, als gut zu bewerten. Dies gilt auch für den Friedhof Wannsee - Friedenstraße.\n\nDie Toiletten für die Besuchenden der Friedhöfe werden regelmäßig gewartet. Die Toilette auf dem Friedhof Friedenstraße, die aufgrund von Abrissarbeiten 2021/2022 temporär abgebaut werden musste und schnellstmöglich als „Öko-Toilette“ wieder in Betrieb ging, ist nach Aussage der Mitarbeitenden und des Betreibers „Eco Toiletten, stets sauber und unterliegt einem wöchentlichen Wartungs- und Reinigungszyklus.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "131/VI",
@@ -6282,14 +6282,14 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Das Wohnraumbündnis wurde durch das Bezirksamt, vertreten durch die Bereiche Stadtentwicklung, Bürgerdienste und Soziales sowie Jugend und Gesundheit erneut einberufen. Ein Auftakttermin fand am 08.Januar 2025 statt, ein weiteres Treffen am 01. Juli 2025. Vorgesehen sind im weiteren Verlauf halbjährliche Treffen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD- und GRÜNE-Fraktion",
       "originalparties": [
         "Grüne",
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "136/VI",
@@ -6446,13 +6446,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Das Bezirksamt hat im Rahmen eines Gutachtenauftrages mit Fördermitteln des Bundesministeriums für Digitales und Verkehr die Erstellung eines „Elektromobilitätskonzept 2030“ in Auftrag gegeben. Das Konzept soll aus einer Bestandsanalyse mit tatsächlichem Mobilitätsbedarf, einer Auflistung an Möglichkeiten des Ladesäuleninfrastruktur-Sharings, einem gemeinsam erarbeiteten Maßnahmenkonzept und dem tatsächlichen Umsetzungsplan bestehen.\n\nDer Gutachtenauftrag wird voraussichtlich bis Ende Juli 2024 Ergebnisse liefern, die anschließend etappenweise entsprechend umgesetzt werden. Hierin einbezogen ist auch eine mögliche Planung eines Fuhrparks für das Bezirksamt, unabhängig von einer Zuordnung der jeweiligen Ämter.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "138/VI",
@@ -6570,7 +6570,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Die im Antrag geforderte Überprüfung der Sichtbarkeit von Straßenbenennungsschildern sowie deren Reinigung bzw. Austausch bei Beschädigungen erfolgt bereits.\n\nDas im Antrag geforderte Vorgehen stellt eine gesetzliche Pflichtaufgabe im Rahmen der Straßenbaulast dar und ist übliche Verwaltungspraxis.\n\nGemäß den Ausführungsvorschriften zu § 7 des Berliner Straßengesetzes – Überwachung des baulichen Zustandes der öffentlichen Straßen Berlins – (AV Straßenüberwachung) werden die öffentlich gewidmeten Straßen regelmäßig begangen und auf etwaige Mängel / Schäden hin überprüft.\n\nZu den zu überwachenden Objekten gehört gemäß Nr. 1 Abs. 3 Bst. c.) AV Straßenüberwachung auch das Straßenzubehör, worunter die Straßenbenennungsschilder zu subsumieren sind.\n\nBei Schäden / oder im Falle der Unlesbarkeit wird der Mangel erfasst und im Rahmen der Straßenunterhaltung zeitnah durch Reinigung oder den Ersatz des Schildes behoben.\n\nHierzu sei aber angemerkt, dass die Straßen je nach Einstufung in die Begehungsklassen gemäß AV Straßenüberwachung unterschiedlich häufig begangen und auf Schäden kontrolliert werden.\n\nIn Fällen, in denen Schäden während dieses Zeitraums entstehen, bekommt das SGA nur Kenntnis von diesen Stellen, wenn entsprechende Meldungen durch die Polizei, das Ordnungsamt oder Bürgerinnen und Bürger eingehen.\n\nAuf Grund des vorgegebenen Kontrollturnus kann somit leider nicht vollständig ausgeschlossen werden, dass es vereinzelt zu Schäden im Straßenland kommt, von dem das SGA erst im Rahmen der darauffolgenden Kontrolle Kenntnis erlangt.\n\nEine Beseitigung aller auftretenden Schäden im „Echtzeitmodus“ ist jedoch bedingt durch die Größe der zu unterhaltenden Fläche schlicht nicht möglich.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -6578,7 +6579,6 @@ var D=[
         "SPD"
       ]
     },
-    "bereits-gaengige-praxis"
   ],
   [
     "140/VI",
@@ -6628,7 +6628,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "„Das Bezirksamt hat die bezirkliche Straßenbenennungsliste auf der Seite des zuständigen Straßen- und Grünflächenamt veröffentlicht: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/strassen-undgruenflaechenamt/tiefbau/artikel.313691.php Verzeichnisse bezirklicher Straßennamen sind leicht online von Anbietern aufzufinden. Verlinkungen auf Private Anbietern finden auf den Seiten des Bezirksamtes nicht statt, um keinen der Anbieter zu bevorzugen.“",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -6636,7 +6637,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "141/VI",
@@ -6699,13 +6699,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Richter-Kotowski",
       "antwort": "Das Bezirksamt Steglitz-Zehlendorf ist bei dem Neubau und Sanierung von Sportanlagen an das Planungshandbuch - Fachraum Sport des Landes Berlin gebunden. Die entsprechend angespannten Platzkapazitäten in den Sporthallen sind dem Bezirksamt bekannt. Das Sportamt befindet sich im ständigen Austausch mit den Sportvereinen in Zusammenarbeit mit den Schulsporthallen-Standorten, um die entsprechenden Platzbedarfe zu decken.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "142/VI",
@@ -7093,14 +7093,14 @@ var D=[
       "antwortdatum": "10.06.2025",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Die Volkshochschule hat in den zurückliegenden Jahren ihre Angebote in allen Kursbereichen im Programmbereich Deutsch als Fremdsprache/Deutsch als Zweitsprache (BAMF/Integrationskurse, Selbstzahlerkurse, Mutter-Kind-Kurse, Mütterkurse, Berufsorientierungskurse, Kurse für Geflüchtete, die nicht in Integrationskursen aufgenommen werden können) substanziell ausgeweitet. Vor Corona wurden bereits Angebote auf hohem Niveau gemacht (33.223 Unterrichtseinheiten). Coronabedingt mussten die Angebote im Jahr 2020 (rund 21.400 Unterrichtseinheiten) und 2021 (20.200 Unterrichtseinheiten) stark abgesenkt werden. Bereits im Jahr 2022 konnte ein höheres Niveau als vor Corona mit rund 39.000 Unterrichtseinheiten und bis Ende 2023 sogar über 42.500 Unterrichtseinheiten erreicht werden. Die Anzahl der Teilnehmenden stieg im Betrachtungszeitraum von rund 2.000 (2020) auf nahezu 6.000 (2023). Der Deutschbereich hat mittlerweile einen größeren Umfang als das offene Programm. Damit liegt die Volkshochschule, was die prozentualen Steigerungen von einem Drittel gegenüber 2019 anbelangt, im Spitzenfeld der zwölf Berliner Volkshochschulen.\n\nDies konnte nur dadurch erreicht werden, dass die digitalen Angebote deutlich ausgebaut wurden. Das Bezirksamt anerkannte den höheren Personalbedarf (mehr Stellenanteile für Programmbereichsleitung und Programmkoordination), um den Angebotsausbau in dieser Dimension zu ermöglichen.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "GRÜNE-Fraktion",
       "originalparties": [
         "Grüne"
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "149/VI",
@@ -7150,7 +7150,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Böhm",
       "antwort": "Zu den drei Beschlüssen (BNr. 1047/V am 20.05.2020, BNr. 71/VI am 18.05.2022, BNr. 149/VI vom 14.09.2022) wird Folgendes berichtet: Der Bezirk Steglitz-Zehlendorf hat seit Anfang 2022 planvoll und zielgerichtet damit begonnen, Beteiligungsstrukturen für Bürger*innen des Bezirkes konzeptionell vorzubereiten und den Prozess der Erarbeitung von Beteiligungsleitlinien auf den Weg zu bringen. Hierzu wurden noch während der Haushaltssperre der ersten Jahreshälfte 2021 von Seiten der OE SPK eine Sichtung der bestehenden Beteiligungsstrukturen im Land Berlin vorgenommen. Diese erstreckte sich auf die bereits verabschiedeten Leitlinien zur Bürgerbeteiligung auf Senatsebene und in einigen Bezirken, darunter Treptow-Köpenick und Mitte. Nach Freigabe der Haushaltsmittel und anhand einer eingehenden Analyse von best practices wurde dann zum Sommer 2022 die Ausschreibung für eine externe Beratungsdienstleistung gestartet. An dessen Ende stand im September die Beauftragung des Planungsbüros AG.Urban als Dienstleister im Prozess zur Leitlinienerarbeitung. Dieser Prozess sieht im Wesentlichen folgende Meilensteine vor:\n\n1) Durchführung von Regionalwerkstätten im November 2022 an drei verschiedenen Orten und Einbeziehung der regionalen Anwohnenden zur Ideensammlung und Prioritätensetzung\n2) Komprimierung der Ergebnisse und Bereitstellung auf mein.berlin.de zwecks weiterer Kommentierung durch Interessierte\n3) Erarbeitung des Leitlinienentwurfs durch ein Begleitgremium bestehend aus Bürger*innen, organisierter Zivilgesellschaft, Verwaltung und Bezirkspolitik. \n\nEndergebnis werden voraussichtlich zum Ende des ersten Quartals 2023 die von der BVV beschlossenen Leitlinien zur Bürger:innenbeteiligung sein.\n\nInnerhalb der Leitlinien werden die Stufen der Beteiligung, der Detailgrad der Berichterstattung sowie die Rückkopplungsschleifen zwischen Verwaltung und Bürgerschaft festgelegt. Auch werden die Instrumente der Kommunikation (z.B. in Form der Vorhabenliste) verbindlich beschrieben. Explizit werden bereits bestehende Beteiligungsformen wir z.B. über  das Kinder- und Jugendbüro oder die Spielplatzkommission berücksichtigt. Mit der voraussichtlichen Verabschiedung der Leitlinien Anfang 2023 wird dann der Gesamtprozess nach nur einem Jahr abgeschlossen.\n\nIn einem nächsten Schritt wird sich dann eine Ausschreibung zur Vergabe einer Bezirklichen Anlaufstelle für Bürgerbeteiligung (BAB) als zentrale Koordinierungsstelle für Bürgerbeteiligung anschließen. Die OE SPK arbeitet bereits an den Vergabevorbereitungen. Abschließend wird ein verwaltungsinternes Umsetzungskonzept für die Leitlinien erarbeitet. Das Umsetzungskonzept soll die Setzungen und den Geist der Leitlinien in praxisnahes, rechtskonformes, kooperatives Verwaltungshandeln übersetzen und die dafür erforderlichen Rahmensetzungen schärfen.\n\nGrundsätzlich davon unabhängig ist die Frage des Aufbaus von permanenten bezirklichen Strukturen auf Stadtteilebene bzw. Ebene der Bezirksregionen (BZR). Die Bezirksregionen bzw. Stadtteile oder umgangssprachlich „Kieze“ stellen die mittlere Ebene der sozialräumlichen Planungssystematik dar. Sie umfassen in Steglitz-Zehlendorf durchschnittlich 39.000 Einwohnende (8 BZR im Bezirk). Auf dieser Ebene existieren bereits gut etablierte Vernetzungsstrukturen der Zivilgesellschaft z.B. in Form der Runden Tische oder der Stadtteilkonferenzen. Um diese „Stadtteilforen“ weiter zu stärken und besser in die bezirklichen Strukturen einzubinden, werden gemäß dem Strukturkonzept der SPK perspektivisch vier Stellen als Regionalkoordination eingerichtet. Davon ist derzeit bereits eine Stelle besetzt und eine weitere in Ausschreibung. Zwei Stellen sind noch zu schaffen. Die Regionalkoordinationen fungieren jeweils für zwei Bezirksregionen als dauerhafter Anlaufpunkt für den Kiez und die darin bestehenden Strukturen. Aufgabe ist es einerseits als Transmissionsriemen zwischen den Bürger*innen und der Verwaltung zu wirken und umgekehrt. Andererseits wird durch kiezspezifische Informationsvermittlung durch die Regionalkoordinationen auch zur Beteiligung bei Planungsvorhaben des Bezirkes im Rahmen der Leitlinien angeregt.\n\nVor diesem Hintergrund ist die Vergabe von sozialräumlichen Fördermitteln (FEIN, „Kiezkassen“ etc.) durch die Bürger*innen eine logische Konsequenz des skizzierten organisatorisch-strukturellen Aufbaus der OE SPK. Finanzielle Fördermöglichkeiten unterschiedlichster Art werden über die Regionalkoordinationen vermittelt und in einem transparenten Entscheidungsverfahren durch die Anwohnenden vergeben. Insoweit vollzieht sich der Ansatz von Partizipation und Beteiligung über verschiedene, sich gegenseitig ergänzende Zugänge und Formate. Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -7158,7 +7159,6 @@ var D=[
         "SPD"
       ]
     },
-    "sonstiges-unklar"
   ],
   [
     "150/VI",
@@ -7615,14 +7615,14 @@ var D=[
       "antwortdatum": "10.06.2025",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "In Form eines Informationsschreibens der Grüne-, SPD- und FDP-Fraktion wurden die Anwohnenden der Treitschkestraße über die beschlossene Umbenennung informiert und dazu aufgerufen, Vorschläge für den neuen Namen einzureichen. Die Namensvorschläge wurden in der Sitzung des Ausschusses für Bildung und Kultur vom 27. November 2024 im Rathaus Steglitz öffentlich beraten und anschließend von den Mitgliedern des Ausschusses abgestimmt. In der folgenden Ausschusssitzung vom 8. Januar 2025 wurde nach erneuter Aussprache der Name Betty-Katz-Straße als neuer Name festgehalten und von der BVV am 22.01.2025 beschlossen. Die Umsetzung der Umbenennung erfolgt durch das Straßen- und Grünflächenamt.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-Fraktion",
       "originalparties": [
         "SPD"
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "159/VI",
@@ -7671,13 +7671,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Die Stelle der Bezirklichen Flüchtlingskoordinatorin konnte, nach erfolgreicher Beteiligung der Beschäftigtenvertretungen, seit dem 10.06.2023 wiederbesetzt werden.",
       "erledigtvermerk": "Es wird gebeten, die Beschlüsse als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "160/VI",
@@ -8144,15 +8144,15 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Die Schaffung digitaler Schnittstellen zwischen den Senatsverwaltungen und Bezirken liegt allgemein in der Zuständigkeit und Verantwortung der Senatskanzlei beziehungsweise bei einzelnen Fachverfahren in der der jeweiligen Senatsfachverwaltung. Für einen effizienten digitalen Informationsaustausch zwischen den Behörden sollen im Land Berlin zukünftig insbesondere die beiden IKT-Basisdienste „Digitale Akte“ und „Digitale Kooperation“ zur Verfügung stehen. Der geplante Basisdienst Digitale Kollaboration soll mehrere Funktionen bündeln und einen digitalen Austausch zwischen den Berliner Behörden ermöglichen. Vorgesehen sind unter anderem die folgenden (behördenübergreifenden) Funktionen: Dokumente teilen und gemeinsam bearbeiten, Video- und Telefonkonferenzen, Online-Chat, Umfragen, gemeinsam genutzte Kalender und Kontaktdaten.\n\nPerspektivisch sollen bei allen wesentlichen Fachverfahren im Land Berlin digitale Schnittstellen zum Basisdienst Digitale Akte geschaffen werden. Dazu laufen derzeit verschiedene Projekte für die jeweiligen Fachverfahren, das Programm ISBJ wird hierbei von der Senatsverwaltung für Bildung, Jugend und Familie betreut. Das Bezirksamt Steglitz-Zehlendorf bringt sich aktiv ein, um gemeinsam mit anderen Behörden die Anforderungen für behördenübergreifende Geschäftsgänge in der digitalen Akte oder die erforderlichen Funktionalitäten für die zukünftige Kollaborationsplattform zu identifizieren.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
         "Grüne",
         "SPD"
       ]
-    },
-    "laufender-prozess"
+    },    
   ],
   [
     "170/VI",
@@ -8268,7 +8268,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Fachbereich Grünflächen teilt mit, dass vor den genannten regelmäßigen und wichtigen Gedenkveranstaltungen seitens des Amtes generell immer im Vorfeld gereinigt und das Grün gepflegt wird.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -8276,7 +8277,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "172/VI",
@@ -8326,7 +8326,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "In Kooperation mit der Initiative „Bildungslandschaft Bäke“ und der Kita an der Bäke wurde ein Bienenfutterautomat gebaut und am 11.10.2023 an der Mauer am Eingang der Kita an der Bäke (Haydnstraße 17, 12203 Berlin) eingeweiht. Am Bienenfutterautomat kann man sich für kleines Geld ein Päckchen gebietsheimisches und bienenfreundliches Saatgut ziehen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -8334,7 +8335,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "173/VI",
@@ -8581,13 +8581,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Richter-Kotowski",
       "antwort": "Gemeinnützige Vereine und Organisationen konnten vom 1. bis 25. Oktober 2020 „Ehrenamts- und Vereinshilfen zur Bewältigung der Folgen der Corona-Pandemie“ (Soforthilfe X) bei der Investitionsbank Berlin (IBB) beantragen. Eine Förderung war in der Regel bis zu einer Höhe von 20.000 Euro möglich. Sie wurde als Zuschuss gewährt, der nicht zurückgezahlt werden musste. Dafür stellte der Berliner Senat Mittel in Höhe von insgesamt 4,9 Mio. Euro zur Verfügung. Gefördert wurden u.a. laufende Betriebskosten, Personalkosten, Zahlungsverpflichtungen für abgesagte Veranstaltungen oder sonstige Ausgaben, die aus den erwarteten Einnahmen im Berechnungszeitraum bezahlt werden sollten und nicht storniert oder reduziert werden konnten. Antragsberechtigt waren Vereine und Organisationen mit Sitz in Berlin, die • gemeinnützige, mildtätige oder kirchliche Zwecke verfolgten und als steuerbegünstigt anerkannt waren, • in denen ehrenamtliches Engagement eine tragende Rolle spielte, • die sich zur Berliner Charta zum Bürgerschaftlichen Engagement und zu einer vielfältigen Gesellschaft bekannten und sich gegen Diskriminierung, Gewalt, Antisemitismus, Rassismus und Fremdenfeindlichkeit stellten,\n• die glaubhaft machen konnten, dass Liquiditätsengpässe infolge der Corona-Pandemie zu Existenzbedrohung führten.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "178/VI",
@@ -9373,13 +9373,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Seit Dezember 2023 werden die Sitzungen der Bezirksverordnetenversammlung live mit Bild und Ton gestreamt. Eine der Öffentlichkeit zur Verfügung zu stellende Aufzeichnung wird nicht durchgeführt. Bei Bezirksverordneten, welche einer Live-Übertragung nicht zustimmen, wird der Live-Stream unterbrochen. Es erübrigt sich daher zwei unterschiedliche Redepulte zur Verfügung zu stellen. Eine Übertragung und Aufzeichnung erfolgt in diesen Fällen nicht.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "teilweise-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "196/VI",
@@ -9622,13 +9622,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Sowohl das Bezirksverwaltungsgesetz (BezVwG) in §8 und §8a als auch die Neuregelungen, auf der Grundlage von §8a BezVwG, der Geschäftsordnung der Bezirksverordnetenversammlung haben ausdrücklich eine digitale Durchführung von Sitzungen der Bezirksverordnetenversammlung und ihrer Gremien bei Vorlage außergewöhnlicher Notlagen festgelegt. Weitere Regelungen zur digitalen Durchführung von Sitzungen der Bezirksverordnetenversammlung sind im Bezirksverwaltungsgesetz nicht vorgesehen worden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "nicht-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "200/VI",
@@ -9787,14 +9787,14 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Die Strategische Beteiligungskoordination im Jugendamt ist im kontinuierlichen Austausch mit dem Kinder- und Jugendbüro (KiJuB), mit dem Bezirksschüler:innenausschuss (BSA), mit dem Kinder- und Jugendforum „Jugend spricht mit!“ (JSM!) und dem Bezirksjugendring (BJR) zur Information und Sammlung von Anliegen bzgl. einer gemeinsamen Konzeptentwicklung.\n\nGleichzeitig sind weitere Prozesse im Bezirk angestoßen worden, die für die Konzeptentwicklung wichtig sind und berücksichtigt werden müssen: So wurde durch den Bezirk ein Bürgerbeteiligungs-Leitlinienprozess initiiert, als dessen Ergebnis eine Anlaufstelle bzw. ein Bürgerbeteiligungsbüro vorgesehen ist. Die Besetzung der Anlaufstelle und das Umsetzungskonzept für die Zusammenarbeit verschiedener Fachämter sind aktuell ausgeschrieben. Nach erfolgter Besetzung muss geklärt werden, wie die Anlaufstelle bzw. das Bürgerbeteiligungsbüro die Anliegen von Kindern und Jugendlichen zu bezirklichen Entscheidungsprozessen möglichst niedrigschwellig aufnehmen und methodisch kind- und jugendgerecht aufbereiten wird. \n\nDes Weiteren wurde durch den Bezirk das Bundesprogramm „Partnerschaft für Demokratie“ angestoßen, in dessen Zuge ein Austausch mit der sozialraumorientierten Planungskoordination (SPK) initiiert und zudem eine Verknüpfung der verschiedenen bezirklichen Prozesse angeregt wurde. \n\nIm Hinblick auf die genannten Prozesse wird aktuell eine Handlungsleitlinie zur bezirklichen Konzeptentwicklung zur Stärkung der Kinder- und Jugendbeteiligung entworfen, die im Austausch mit jungen Menschen und der Verwaltung angepasst werden soll. Sie gibt einen Überblick zum aktuellen Stand der Beteiligung in der bezirklichen Jugendarbeit, entwickelt Ziele, Handlungsfelder und nächste Schritte. So soll mit der neu zu besetzenden Fach- und Koordinierungsstelle der „Partnerschaft für Demokratie“ der Auftakt einer gemeinsamen Konzeptentwicklung mit einer für November 2023 geplanten Demokratiekonferenz umgesetzt werden. Hierbei sollen neben einer möglichst breiten Vernetzung und Sichtbarmachung von etabliertem Jugendengagement auch aktuelle bezirkliche Prozesse und Handlungsmöglichkeiten transparent gemacht werden. Zudem soll ein gemeinsames Verständnis von bezirklichen Strukturen der Kinder- und Jugendbeteiligung erarbeitet werden, an das anknüpfend im Verlauf des Jahres 2024 ein gemeinsames Konzept von Verwaltung und jungen Menschen in Kooperation mit dem Bürgerbeteiligungsbüro und der Fach- und Koordinierungsstelle „Partnerschaft für Demokratie“ erstellt wird. Dabei bilden die verschiedenen bezirklichen Prozesse den Ausgangspunkt für die Konkretisierung der von verschiedenen Fachämtern gesetzlich vorgegeben Bürgerbeteiligung (und damit auch Kinder- und Jugendbeteiligung).\n\nDie Konzeptentwicklung und –erarbeitung ist als zeitintensiver Prozess für das gesamte Jahr 2024 geplant, um aufeinander abgestimmte und möglichst niedrigschwellige und inklusive Zugänge für junge Menschen zu schaffen, damit sie ihre Themen und Anliegen wirkungsvoll in die Bezirkspolitik einbringen können.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE- und SPD-Fraktion",
       "originalparties": [
         "Grüne",
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "202/VI",
@@ -9850,13 +9850,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Richter-Kotowski",
       "antwort": "Auf der Internetseite des Fachbereiches Grünflächen können sich Bürgerinnen und Bürger grundsätzlich über offene Sporteinrichtungen, wie z.B. Spielplätze, Tischtennisplatten oder sogenannte Bolzplätze, informieren.\n\nEine Übersicht ist ebenfalls aus dem Sportentwicklungsplan Steglitz-Zehlendorf ersichtlich.\n\nEs wird auf die Erledigung des BVV-Beschlusses „Outdoor-Sport in Steglitz-Zehlendorf planen und ermöglichen“ BNr: 721/VI Drs. Nr.: 1039/VI verwiesen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "GRÜNE-Fraktion",
       "originalparties": [
         "Grüne"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "203/VI",
@@ -9962,11 +9962,11 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Im Vorfeld der Konzeption und Durchführung des Videodrehs ist das Jugendamt gemeinsam mit der strategischen Beteiligungskoordination mit Kindern und Jugendlichen über deren Erwartungen an die Vorstellung des Jugendhilfeausschusses ins Gespräch gegangen und hat deren Ideen und Vorschläge in die Planungen einfließen lassen. Im April 2024 wurden die Videoaufnahmen mit der Ausschussvorsitzenden des Jugendhilfeausschusses gedreht und wurden dann, mit großer Unterstützung der Pressestelle des Bezirksamts, final bearbeitet. Dabei ging es neben dem storytelling auch darum, Ton- und Bildqualität zu sichern und graphische Elemente einzufügen. Die Barrierefreiheit ist durch die Untertitelung gewährleistet. Das Video ist auf der Homepage des Bezirksamts und dem Youtube-Kanal des BASZ abrufbar.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Jugendhilfeausschuss",
       "originalparties": []
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "205/VI",
@@ -10014,13 +10014,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Die bezirkliche Straßenverkehrsbehörde hat zur Verbesserung der Verkehrssituation eine verkehrsrechtliche Anordnung mit folgenden Einzelmaßnahmen getroffen:\n\n - Einrichtung einer Haltverbotszone auf der südlichen Seite in der Marschnerstraße vor der Einmündung in die Haydnstraße\n\n - Einrichtung einer Abstellfläche zum Fahrradparken auf der östlichen Seite der Haydnstraße nach der Einmündung der Marschnerstraße. Es wurden eine Sperrfläche markiert, Poller an die Ecken der Fläche gesetzt und Radbügel eingebaut. \n\nDie Maßnahme wurde m Herbst 2023 umgesetzt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "206/VI",
@@ -10221,7 +10221,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Richter",
       "antwort": "Konkrete Nachfragen seitens der Kunden sind nicht dokumentiert, fachlich besteht für Schulungen von Mitarbeiterinnen und Mitarbeitern des Bürgeramtes für Gebärdensprache bisher kein Bedarf. Schwerhörige oder Gehörlose erscheinen gelegentlich mit einer Begleitperson, die der Gebärdensprache mächtig ist. Im Normalfall werden Verständigungsprobleme durch kurze schriftliche Notizen gelöst. Um eine barrierefreie Kommunikation im Bürgeramt zu gewährleisten, kann es im Hinblick auf die Inklusion von Menschen mit eingeschränktem oder nicht vorhandenem Hörvermögen sinnvoll sein, eine Unterstützung in Gebärdensprache anzubieten. Gebärdensprachkurse werden von den Berliner Volkshochschulen angeboten. Insgesamt würden Kosten für das Erlangen des Levels B1 mit fachspezifischem Bezug in Höhe von einmalig 13.350,00 EUR für z.B. 6 Mitarbeiter und 500 Unterrichtseinheiten sowie 2.225,00 EUR je fluktuationsbedingter Nachnutzung anfallen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -10229,7 +10230,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "210/VI",
@@ -10459,7 +10459,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Die bezirkliche Straßenverkehrsbehörde hat zur Erhöhung der Sicherheit für Fußgängerinnen und Fußgänger beim Überqueren der Klingsorstraße im Bereich des Bäkeparks folgende Maßnahmen angeordnet:\n\n - Zur Sicherung der Sichtbeziehungen zum Fußgängerüberweg und zum Ordnen des Fahrradparkens werden neben dem Fußgänger Radbügel mit Sicherheitsbaken im Stellplatzbereich angeordnet.\n\n - Durch Anordnung einer Zickzacklinie (Vz 299) wird die Zuwegung zum Park für Rettungsfahrzeuge sichergestellt.\n\nDiese Maßnahme wurde am 21.03.2024 umgesetzt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -10467,7 +10468,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "215/VI",
@@ -10823,13 +10823,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Bezirksamt hat mit Schreiben vom 12.01.2023 die für die öffentliche Straßenbeleuchtung zuständige Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz gebeten, die Beleuchtungssituation an der angegebenen Stelle zu überprüfen. Die Senatsverwaltung hat am 15.02.2023 mitgeteilt, dass die Beleuchtungssituation am Nieritzweg überprüft wurde. Im Ergebnis hat sie zugesagt, die Leuchtenköpfe im Rahmen eines Modernisierungsvorhabens durch neue LED-Leuchten zu ersetzen. Es sei geplant, den Leuchtenaustausch im Laufe des nächsten Quartals vorzunehmen. Ferner wird der Fachbereich Grünflächen für eine gute Ausleuchtung der Gehwege einen Freischnitt der Straßenbäume im Bereich der Lichtpunkte veranlassen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "221/VI",
@@ -10928,7 +10928,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Fachbereich Grünflächen teilt mit, dass dieser Beschluss in der Sitzung der Spielplatzkommission am 30.06.2023 diskutiert wurde. Das Problem der starken Sonneneinstrahlung ist allen bewusst. Anpflanzungen von – erst viele Jahre später eventuell schattenspendenden - Bäumen und die Ansprüche an Fallschutzflächen passen allerdings in der Praxis oft nicht zusammen (Wurzelproblematik). Schattenspendende Dächer zum Beispiel bei Spielkombinationen werden bereits seit Jahren berücksichtigt; ebenso selbstverständlich ist die Ausrichtung entgegen der Sonne von bestimmten Spielgeräten wie Metallrutschen. Ganz aktuell wird beim Neubau des Spielplatzes in der Calandrellistraße ein Pavillon errichtet, um den Spielplatzbesucherinnen und -besuchern Sonnen- und Regenschutz zu bieten. Alternative Lösungen wie „Sonnensegel“ sind auf öffentlichen Spielplätzen - anders als in betreuten Kitas - schwer realisierbar. Insbesondere die fehlende Aufsicht bei Sturmwetterlagen sowie Vandalismus-Anfälligkeit sowie die Kosten- und Wartungsintensität lassen hier wenig Handlungsspielraum.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -10936,7 +10937,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "223/VI",
@@ -10984,13 +10984,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Mit Schreiben vom 05.01.2023 hat sich das Bezirksamt an die Deutsche Bahn gewandt und darum gebeten, dass eine Lösung für mobilitätseingeschränkte Menschen an diesem Bahnhof während der Bauzeit gefunden wird. Dabei hat er sowohl auf diesen Beschluss verwiesen als auch auf ein Schreiben der bezirklichen Beauftragten für Menschen mit Behinderungen, die sich bereits im Juli 2022 an die Deutsche Bahn in dieser Sache gewandt hatte.\n\nEine Beantwortung dieses Schreibens seitens der Deutschen Bahn ist nicht erfolgt.\n\nDie Baumaßnahme wurde mit Freigabe der Moltkebrücke am 01.07.2024 beendet. Der Zugang zum S-Bahnhof Botanischer Garten ist wieder barrierefrei.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "224/VI",
@@ -11124,7 +11124,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Richter",
       "antwort": "Durch das Onlinezugangsgesetz (OZG) ist die Verwaltung verpflichtet, schon bereits bis Ende 2022 möglichst viele Dienstleistungen digital anzubieten. Im Bürgeramtsstandort Steglitz wird bereits ein Selbstbedienungsterminal zur Unterstützung und Beschleunigung von Anträgen aus Ausstellung von Personalausweisen und Reisepässen erfolgreich eingesetzt. Das Terminal wird von der Kundschaft gut angenommen, die Arbeitsprozesse sind etabliert. Mit dem Selbstbedienungsterminal wird nicht nur das biometrische Foto für Personaldokumente kostengünstig (5,00 EUR) aufgenommen, es werden auch die Unterschrift und die Fingerabdrücke der Dokumenteninhaber digital erfasst und verarbeitet. Die Bearbeitungszeit am Bedienplatz wird damit deutlich kürzer.\n\nUm der steigenden Nachfrage der Bürgerinnen und Bürger nach diesem Service auch in den Standorten Zehlendorf und Lankwitz gerecht zu werden, strebt das Bürgeramt die Aufstellung von zwei weiteren Geräten an. Hierzu fallen Kosten in Höhe von einmalig 11.000,00 EUR für die Geräte und Lizenzen sowie jährlich 3.600,00 EUR für eine Service- und Updatepauschale an. Da entsprechende Summen nicht im Bezirkshaushalt abgebildet werden können, kann dem durchaus unterstützungswürdigen Ersuchen leider nicht entsprochen werden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "teilweise-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -11132,7 +11133,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "227/VI",
@@ -11176,7 +11176,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Tim Richter",
       "antwort": "Seit dem 1. Januar 2024 liegt die alleinige Zuständigkeit für die Bearbeitung von Einbürgerungsanträgen beim Landesamt für Einwanderung (LEA) als zentrale Einbürgerungs- und Staatsangehörigkeitsbehörde im Land Berlin.\n\nAm Standort beim LEA bearbeiten die Mitarbeiterinnen und Mitarbeiter der Abteilung S folgende Anliegen nach dem Staatsangehörigkeitsgesetz (StAG):\n• Erwerb der deutschen Staatsangehörigkeit auf Antrag (Einbürgerungsanträge)\n• Anträge auf Feststellung des Bestehens oder Nichtbestehens der deutschen Staatsangehörigkeit (Staatsangehörigkeitsausweise und Negativbescheinigungen)\n• Anträge auf Erteilung einer Beibehaltungsgenehmigung (zur Abwendung eines Verlusts der deutschen Staatsangehörigkeit durch antragsbedingte Annahme einer ausländischen Staatsangehörigkeit)\n• Erklärungen im Zusammenhang mit der Optionspflicht nach § 29 StAG\n• sonstige staatsangehörigkeitsrechtliche Erklärungen\n\nBereits seit dem Frühjahr 2023 begannen die Vorbereitungen zur Aktenübergabe durch das Bezirksamt an das LEA, des Weiteren wurde der Aufbau des dortigen Personalstamms (auch durch Mitarbeiterinnen und Mitarbeiter der Bezirke) vorangetrieben.\n\nEine bezirkliche Einbürgerungsfeier war dem Bezirksamt aufgrund des fehlenden Personals sowie fehlender Haushaltsmittel nicht möglich.\n\nObwohl die Einbürgerungen seit Januar 2024 nicht mehr in den jeweiligen Bezirken durchgeführt werden, wird über das Integrationsbüro am 5. Juni 2026 im Rathaus Zehlendorf eine Einbürgerungsfeier stattfinden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "teilweise-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -11184,7 +11185,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "228/VI",
@@ -11651,7 +11651,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Seit der Streichung des § 219a im Juli 2022 dürfen Ärztinnen und Ärzte straffrei über Schwangerschaftsabbrüche informieren, wodurch der Zugang zu entsprechenden Informationen für ungewollt Schwangere verbessert wurde.\n\nDas Land Berlin stellt hierzu eine Online-Übersicht mit Beratungsstellen, Kliniken und Praxen bereit, die Schwangerschaftskonfliktberatung oder Schwangerschaftsabbrüche anbieten: https://www.berlin.de/sen/gesundheit/schwangerschaft-und-kindergesundheit/schwangerschaftskonfliktberatung/ https://liste.bundesaerztekammer.de/suche\n\nIm Bezirk Steglitz-Zehlendorf bietet das Zentrum für Familienplanung als einzige Beratungsstelle die gesetzlich vorgeschriebene Beratung nach § 218 StGB an. Zusätzlich beraten einige niedergelassene Ärztinnen und Ärzte. Praxen informieren auf ihren Webseiten über Schwangerschaftsabbrüche oder verweisen direkt an geeignete Kolleginnen und Kollegen. Bei jeder Beratung wird gefragt, ob die Schwangere Adressen benötigt. Falls gewünscht, wird eine selbst erstellte Liste mit Adressen – überwiegend aus dem Süden Berlins – ausgehändigt. Zudem liegt den Beraterinnen eine regelmäßig aktualisierte Liste des Senats mit Adressen aus allen Bezirken vor. Da umfassende berlinweite Informationsquellen bereits bestehen, wird ein zusätzlicher Wegweiser für einen einzelnen Bezirk nicht als erforderlich angesehen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -11659,7 +11660,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "238/VI",
@@ -11718,7 +11718,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Mit Änderung des Zuständigkeitskatalogs zum allgemeinen Zuständigkeitsgesetz (ZuStKat AZG) vom 01.07.2022 ist die Zuständigkeit für die Landesbrunnen gem. Nr. 10 Abs. 11 ZuStKatAZG an die Hauptverwaltung übergegangen. Darüber hinaus existiert ein Abgeordnetenhausbeschluss zur Übergabe der Trinkwassernotbrunnen (Bundes- und Landesbrunnen) an die Berliner Wasserbetriebe (BWB). Dieser Beschluss wird derzeit von der Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) umgesetzt. Zu diesem Zweck hat die SenUMVK die Bezirke mit Schreiben vom 22.02.2023 aufgefordert die Bestandsunterlagen der Trinkwassernotbrunnen zusammenzustellen und der SenUMVK zu übersenden. Dieser Bitte ist das Straßen- und Grünflächenamt (SGA) nachgekommen.\n\nDurch die Übertragung der Zuständigkeit für die Trinkwassernotbrunnen an die SenUMVK bzw. BWB besitzt das SGA für das im BVV-Beschluss genannte Ansinnen keine Zuständigkeit mehr.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "keine-zustaendigkeit",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -11726,7 +11727,6 @@ var D=[
         "SPD"
       ]
     },
-    "keine-zustaendigkeit"
   ],
   [
     "240/VI",
@@ -12271,13 +12271,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Das Bezirksamt Steglitz-Zehlendorf von Berlin hat gemäß des Beschlusses 247/VI der Bezirksverordnetenversammlung vom 07.12.2022 eine Veranstaltung im Gedenken an den 70. Jahrestag des Aufstandes vom 17. Juni 1953 organisiert. Die Veranstaltung fand am Samstag, dem 17. Juni 2023 um 13:00 Uhr am Freiheitskreuz auf der Potsdamer Chaussee (Autobahnkreuz Zehlendorf) statt. Bei der Veranstaltung wurden Gedenkworte verschiedener Akteure gesprochen. Darunter waren Herr René Rögner-Francke, Vorsteher der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin sowie Herr Michael Grubert, Bürgermeister der Gemeinde Kleinmachnow. Des Weiteren konnte das bezirkliche Veranstaltungsmanagement Frau Sapna Joshi, die Pfarrerin der evangelischen Kirchengemeinde Berlin-Wannsee, als weitere Rednerin gewinnen. Zahlreiche Vertreterinnen und Vertreter aus den Bereichen Politik und Verwaltung sowie viele Gäste besuchten die Veranstaltung am 17. Juni 2023 am Freiheitskreuz auf der Potsdamer Chaussee. Es war eine würdevolle Gedenkveranstaltung, die mit der Kranzniederlegung endete.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "248/VI",
@@ -12449,7 +12449,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Nach Rücksprache mit der Berliner Feuerwehr können mehr Rettungsringe und Rettungsleitern zu Verfügung gestellt werden. Allerdings sind die Bezirke für die Festlegung der jeweiligen Rettungsstellen zuständig. Die Berliner Feuerwehr benötigt eine konkrete Darstellung auf einer Karte und wird dann die entsprechenden Mittel bereitstellen und zeitnah installieren. Die Kosten hierfür übernimmt die Berliner Feuerwehr. Im Rahmen der nächsten Sitzung des BVV-Ausschusses für Grünanlagen, Natur, Umwelt können die Bezirksverordneten gerne konkrete Standorte für weitere Rettungsstellen benennen. Diese werden dann vom Bezirksamt geprüft und an die Berliner Feuerwehr weitergeleitet.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "weitergeleitet-keine-zustaendigkeit",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -12457,7 +12458,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "251/VI",
@@ -12505,13 +12505,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Weder im Winter 2022/2023 noch im Winter 2023/2024 wurden die Temperaturen in den öffentlichen Gebäuden so weit abgesenkt, dass ein Aufenthalt nicht möglich gewesen wäre. Insbesondere die Rathäuser, aber auch Seniorenfreizeiteinrichtungen und andere öffentlichen Gebäude standen für die Öffentlichkeit zum Aufenthalt während der Winterperiode zur Verfügung.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "252/VI",
@@ -12613,7 +12613,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Standplatz des Schildes wurde mit der Waldschule Zehlendorf nach den Vorgaben des Fachbereiches Tiefbau abgestimmt und die Beschilderung ist mittlerweile an der Königstraße zwischen Kronprinzessinnenweg und Bismarckstraße montiert. Dadurch können Besuchende der Waldschule, die vom S-Bahnhof Wannsee kommen, die Waldschule leichter finden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -12621,7 +12622,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "254/VI",
@@ -12717,7 +12717,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Bezirksamt teilt mit, dass der Mexikoplatz und die vor Ort befindliche Bepflanzung denkmalgerecht ist. Die in der vorhandenen Form erlebbare Gestaltung ist als Gartendenkmal in der Denkmalliste des Landes Berlin eingetragen und entsprechend geschützt. Hierzu gehört auch die straßenbegleitende Gestaltung, insbesondere das Vorhandensein der Formgehölze auf dem heutigen Unterstreifen. Die Formgehölze werden regelmäßig fachgerecht geschnitten, in dem der jährliche Zuwachs abgenommen wird. Die Gesamtgröße der Pflanzen bleibt somit mehr oder weniger gleich. Aus Sicht des Amtes wirkt sich die vorhandene Bepflanzung nicht nachteilig auf die Verkehrssicherheit der Radfahrenden aus. Bis zum Schnittpunkt der Fahrbahnkanten besteht für den abbiegenden Kraftfahrzeugverkehr ausreichend Raum zur Verkehrsbeobachtung.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -12725,7 +12726,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "256/VI",
@@ -13096,7 +13096,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Der Spielplatz am Asternplatz wurde durch neue Geräte sowie neuen Fallschutzsand aufgewertet, so dass jetzt eine Kleinkindrutsche sowie zwei Federwipper bespielt werden können. Die Umrandung des Spielplatzes wurde zum Teil erneuert, ebenso die oberste Schicht der wassergebundenen Wegedecke. Diese Maßnahmen - zusammen mit dem fachgerechten Rückschnitt der umliegenden Gehölze - haben die Attraktivität dieses kleinen Spielplatzes erheblich gesteigert.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -13104,7 +13105,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "264/VI",
@@ -13211,13 +13211,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Seitens des Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt ist geplant, den Weg am Buschgraben im Rahmen des Programms der „20 grünen Hauptwege“ grundhaft zu sanieren. Im Zuge dieser Baumaßnahme, die die landeseigene GrünBerlin ausführt, werden auch neue Sitznischen geschaffen und neue Bänke beschafft. Die Bauplanungsunterlage ist inzwischen eingereicht. Nach der Genehmigung ist 2024 mit einer Umsetzung zu rechnen.\n\nTemporär hat der Fachbereich Grünflächen im Buschgrabenrundweg im Oktober 2023 zwei Sitzbänke aufgestellt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "266/VI",
@@ -13267,7 +13267,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Wie bereits im Ausschuss thematisiert, ist die gewünschte Zusammenführung nur mit erheblichen finanziellen Mitteln umsetzbar. Einer Schätzung zufolge wären Mittel von ca. 500.000 Euro erforderlich. Angesichts der bereits vorhandenen digitalen Recherchemöglichkeiten wie dem vom Bundesarchiv herausgegeben »Gedenkbuch – Opfer der Verfolgung der Juden unter der nationalsozialistischen Gewaltherrschaft in Deutschland 1933 – 1945« und den Seiten des Arolsen Archives (international Center on Nazi Persecution), in denen eine Recherche nach Steglitz und Zehlendorf möglich ist, scheint eine weitere Datenbank nicht das notwendige Medium zu sein, um an die Opfer des Nationalsozialismus zu erinnern. Darüber hinaus sind die Mittel in der genannten Höhe nicht im Haushalt 2024/2025 realisierbar.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -13275,7 +13276,6 @@ var D=[
         "SPD"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "267/VI",
@@ -13916,7 +13916,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Richter",
       "antwort": "Dem Beschluss folgend werden bereits heute u.a. auf der Seite des Amtes für Soziales diverse Dienstleistungen in Leichter Sprache vorgestellt, so u.a.\n ● Was ist das Sozialamt\n ● Grundsicherung im Alter und bei Erwerbsminderung\n ● Hilfe zum Lebensunterhalt  Eingliederungshilfe für Menschen mit Behinderung\n ● Hilfe zur Pflege  Leistungen nach dem Landespflegegeldgesetz\n ● Leistungen für Asylsuchende\n\nEbenso werden auf den Seiten des Wohnungsamtes folgende Leistungen in Leichter Sprache zur Verfügung gestellt:\n ● Antrag auf einen Wohnberechtigungsschein (WBS)\n ● Antrag auf Wohngeld\n\nZusätzlich liegt im Standesamt ein Flyer in einfacher Sprache zur Vornamensberatung, der von der Gesellschaft für deutsche Sprache e.V. herausgegeben wird, aus.\n\nWeiterhin bietet das Amt für Soziales in seinen Räumlichkeiten eine soziale, kostenlose und vertrauliche Beratung durch sog. Ämterlotsen an. Diese helfen u.a.\n ● beim Zusammentragen und Sichten der notwendigen Unterlagen\n ● beim Ausfüllen von Anträgen, z.B. von Alg II-Anträgen, Grundsicherungsanträgen, Wohngeldanträgen, Kindergeld- und Elterngeldanträgen, Beantragung von Unterhaltsvorschuss\n ● das zuständige Amt zu finden\n\nAlle Ämterlosten arbeiten ehrenamtlich und haben selbst Erfahrungen mit Ämtern. Sie wurden zu den betreffenden Themen geschult und bieten qualifizierte Hilfe an.\n\nWeiterhin sind beide Ämter mit dem Bereich für Pressearbeit in regem Austausch, um mit der Landesredaktion für die Webseite www.berlin.de eine (pilotierte) Bereitstellung aller servicebezogenen Webseiten in leichter Sprache zu ermöglichen und Mittel zu akquirieren.\n\nDas Amt für Soziales beschäftigt während der Sprechstunden einen freien Mitarbeiter als Sprachmittler für arabisch und französisch. Darüber hinaus werden aktuell mehrere Sprachmittlerinnen für russisch und ukrainisch beschäftigt. Für weitere Sprachen erfolgt eine Zusammenarbeit mit den Integrationslotsen Steglitz-Zehlendorf. In wenigen Fällen wir auch auf den Gemeindedolmetscherdienst zurückgegriffen. Darüber hinaus werden Personen ohne Deutschkenntnisse häufig von Vertrauenspersonen begleitet, die für diese die Übersetzungen vornehmen.\n\nMitarbeiter und Kundinnen und Kunden des Bürgeramtes bedienen sich im Gespräch häufig des Englischen, womit eine Verständigung meist hinreichend möglich ist. Vereinzelt haben Mitarbeiter auch Kenntnisse anderer Sprachen, die im Einzelfall zur Unterstützung abgerufen werden können. Mit Hilfe dieser Fremdsprachenkenntnisse einzelner Mitarbeiter hat das Bürgeramt Steglitz-Zehlendorf z.B. den Vordruck für die sehr häufig abgerufene Verwaltungsdienstleistung der An-bzw. Ummeldung eines Wohnsitzes in einige Sprachen übersetzen lassen und hält diese als Aushang im Wartebereich vor. Grundsätzlich wird nicht deutschsprechenden Personen stets empfohlen, eine dolmetschende Person zur Vorsprache im Bürgeramt mitzubringen. Dem kommen jedoch nur noch wenige Bürgerinnen und Bürger nach. Viel weiter verbreitet ist die Nutzung einer Übersetzungs-App mittels Smartphone. Doch auch damit lassen sich in den allermeisten Fällen sämtliche Unklarheiten beseitigen.\n\nUnabhängig davon muss jedoch darauf hingewiesen werden, dass nach § 23 VwVfG die Amtssprache deutsch ist.\n\nEs ist zudem darauf hinzuweisen, dass Formulare und Anträge, die in den Leistungsbehörden in Steglitz-Zehlendorf verwendet werden, oft sogar ämterübergreifend in speziellen Fachverfahren abgelegt sind und von unterschiedlichen Beteiligten im Land Berlin – mancherorts auch mit Rückkopplung auf die Bundesebene – erstellt werden. Deswegen ist die Abteilung Bürgerdienste und Soziales auf entsprechende Vereinbarungen und geänderte Form-/ Mustertexte angewiesen. Erst kürzlich hat sich der Bezirksstadtrat im Austausch mit unterschiedlichen Gremien befunden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -13924,7 +13925,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "281/VI",
@@ -13973,7 +13973,8 @@ var D=[
       "antwortdatum": "28.10.2025",
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Maren Schellenberg",
       "antwort": "Hierzu wird folgender Zwischenbericht abgegeben: Die Wirtschaftsförderung hat bezüglich der obenstehenden Beschlüsse Gespräche mit den Centermanagements der drei Center entlang der Schloßstraße geführt. Diese sehen bei einer Sperrung der Schloßstraße für den Individualverkehr Vor- aber auch Nachteile. Vor diesem Hintergrund ist die Wirtschaftsförderung dabei, eine Kundenbefragung in der Schloßstraße in Auftrag zu geben. Ziel der Befragung soll sein, das Einkaufsverhalten der Menschen zu analysieren. Hierbei soll unter anderem abgefragt werden, wie die Kunden zu einer temporären Sperrung der Schloßstraße gemäß der BVV-Beschlüsse stehen. Die Befragung wird vom Institut für Handelsforschung (IFH) Köln durchgeführt und durch Zuschüsse der Industrie- und Handelskammer (IHK) Berlin, des Handelsverbands BerlinBrandenburg, der Wirtschaftsförderung sowie der drei Einkaufszentren entlang der Schloßstraße finanziert. Die Koordination erfolgt durch die Wirtschaftsförderung. Die Befragung soll voraussichtlich im Herbst 2024 stattfinden und die Ergebnisse werden im Frühjahr des folgenden Jahres präsentiert und veröffentlicht. Nach Auswertung der Ergebnisse der Kundenbefragung wird das Bezirksamt die weiteren Schritte einschließlich der Kontaktaufnahme zur BVG vornehmen, da diese wesentlich für eine Kostenanalyse sind.\nEine Veranstaltung wird realistisch nicht im Jahr 2024 stattfinden können.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -13981,7 +13982,6 @@ var D=[
         "SPD"
       ]
     },
-    "sonstiges-unklar"
   ],
   [
     "282/VI",
@@ -14077,7 +14077,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Maren Schellenberg",
       "antwort": "Stellungnahme der Marktverwaltung:\n\nDie Marktverwaltung begrüßt die Intention der BVV, den Wochenmarkt auf dem Ludwig-Beck-Platz zu stärken. Wie bereits in der Begründung geschrieben, hat der lange Umbau des Platzes dazu geführt, dass die Händler sich neue feste Märkte gesucht haben. Ein Wechsel ziehen die Händler nur in Betracht, wenn dies für sie wirtschaftliche Vorteile bringen würde. Bisherige Versuche neue Händler auf den Markt auf den Ludwig-Beck-Platz anzusiedeln haben trotz Absenkung bzw. Aussetzung von Standgebühren nicht zum Erfolg geführt. Anders als noch vor einigen Jahren, gibt es mittlerweile ein Nachwuchsproblem bei den Händlern.\n\nUm die Sichtbarkeit des Platzes bei den Bürgern zu stärken wurde im März 2023 ein neues Werbeschild an der Straßenlaterne Hindenburgdamm/Augustastraße angebracht. Hierdurch sollen die Bürger auf dem Hindenburgdamm dafür sensibilisiert werden, dass in der Nähe regelmäßig ein Markt stattfindet. Zur Unterstützung wurde zudem in Zusammenarbeit mit unserer bezirksinternen Presse- und Öffentlichkeitsarbeit über Facebook im Spätsommer 2023 eine Vorstellungsreihe der städtischen Wochenmärkte inklusive einer kleinen Verlosung durchgeführt. Diese Zusammenarbeit soll regelmäßig fortgesetzt werden.\n\nZur Stärkung des Standortes und zur Belebung konnte bereits am 01.09.2023 – 03.09.2023 der Erste Lichterfelder Weinbrunnen durchgeführt werden. Die Veranstaltung war sowohl bei den Besuchern als auch bei den Weinhändlern ein großer Erfolg und wird in 2024 fortgesetzt. Zusätzlich sind in 2024 ein Ostermarkt und ein Adventsmarkt in Planung. Für das Jahr 2024 ist der Weinbrunnen bereits für den Zeitraum 30.08.-01.09.2024 terminiert.\n\nZusammenfassung Maßnahmen:\n\n - Akquise neuer Händler durch Ansprache und Anbietung von vergünstigten Standgebühren\n\n - Facebook Beiträge, wenn möglich verbunden mit kleinen Verlosungen oder ähnlichem\n\n - Fortführung und Etablierung des „Lichterfelder Weinbrunnens“\n\nAls weitere Schritte werden derzeit folgende Maßnahmen geprüft:\n\n - Eintritt in die FÖL „Fördergemeinschaft ökologischer Landbau Berlin-Brandenburg e.V.“, um Zugang zum Netzwerk für eventuelle neue Händler zu erhalten\n\n - Durchführung von weiteren Themenfesten (z.B. Adventsmarkt / Ostermarkt / Herbstfest) auf dem Ludwig-Beck-Platz, zur Stärkung des Standortes.\n\n - Weitere Werbemaßnahmen (Plakate, Flyer, o.ä.)",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -14085,7 +14086,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "284/VI",
@@ -14129,7 +14129,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Bezirksamt teilt mit, dass im Sinne des Beschlusses eine zusätzliche Personalstelle im Fachbereich Grünflächen geschaffen werden konnte. Nach intensiver Suche konnte die entsprechende Stelle, Fachkoordination naturnahe Pflege, zum 01.06.2024 mit einer Dienstkraft besetzt werden. Zu einer der ersten Aufgaben gehört die Analyse der vorhandenen Grünanlagen hinsichtlich ihrer naturschutzfachlichen Potentiale. Hierbei sind auch wichtige Punkte der inhaltlichen Grünflächenpflegearbeit sowie der Zweckbestimmung der Grünanlagen miteinander zu verknüpfen. Wie die gärtnerische Pflege unter Berücksichtigung ökologischer Aspekte zielgerichtet angepasst werden kann steht hierbei im besonderen Fokus.\n\nWichtiger Bestandteil der Arbeit ist insbesondere die inhaltliche und kollegiale Vernetzung zwischen Fachleuten des Natur- und Artenschutzes mit denen der gärtnerisch-technischen Pflege und Unterhaltung. Hierbei geht es im Besonderen auch um ein Werben für gegenseitiges Verständnis der jeweiligen Fachdisziplin. Möglichkeiten und Grenzen des jeweils Absoluten sind dabei auszuloten.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -14137,7 +14138,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "285/VI",
@@ -15323,13 +15323,13 @@ var D=[
       "antwortdatum": "17.06.2025",
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Das Bezirksamt Steglitz-Zehlendorf erkennt die Dringlichkeit und hohe Relevanz der mobilen Beratung für psychisch beeinträchtigte Geflüchtete ausdrücklich an. Der Bedarf an niedrigschwelliger, aufsuchender psychosozialer Unterstützung für geflüchtete Menschen bleibt weiterhin hoch und ist steigend.\nWie im BVV-Beschluss gefordert, wurden folgende Maßnahmen durchgeführt:\n ●  Insgesamt neun Projekte der mobilen Beratung bzw. niedrigschwelligen psychosozialen Versorgung für psychisch beeinträchtigte Geflüchtete wurden in den Jahren 2024 und 2025 sowohl aus Mitteln des Integrationsfonds als auch aus Mitteln des Psychiatrieentwicklungsprogramms (PEP) gefördert.\n ● Die Mittel des Psychiatrieentwicklungsprogramms wurden durch die Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (SenWGP) über sogenannte Verstärkungsmittel um jeweils 96.000 € in den Jahren 2024 und 2025 erhöht. Diese zusätzlichen Mittel wurden u.a. gezielt zur Unterstützung der mobilen Beratung für psychisch beeinträchtigte Geflüchtete eingesetzt (siehe oben). \n ● Durch die Kooperation zwischen dem Integrationsbüro und der OE QPK konnte eine zielgerichtete und abgestimmte Mittelverwendung erfolgen. Dadurch wurde erreicht, dass die eingesetzten Mittel in den Jahren 2024 und 2025 in etwa dem Versorgungsniveau des Jahres 2021 entsprechen. \n ● Die Koordinatorin für die Arbeit mit Geflüchteten, der Psychiatriekoordinator und der Suchthilfekoordinator stehen in einem engen und regelmäßigen fachlichen Austausch zu dieser Thematik.\n ● Zudem haben die benannten Koordinatorinnen und Koordinatoren an der Vorbereitung und Durchführung eines „Fachgesprächs zur psychosozialen Versorgung von Menschen mit Fluchtgeschichte in Steglitz-Zehlendorf“ mitgewirkt, das durch das Projekt TeilHafen initiiert und veranstaltet wurde. Dieses Fachgespräch diente dem fachlichen Austausch und der Vernetzung beteiligter Akteurinnen und Akteure im Bereich der psychosozialen Versorgung geflüchteter Menschen.\n ● Im Rahmen der Gesundheitspartnerschaft mit der AOK Nordost wurde durch die OE QPK das Projekt „Suchtprävention für geflüchtete Menschen in Steglitz-Zehlendorf“ der Fachstelle für Suchtprävention initiiert und begleitet. Das Projekt wurde durch die AOK Nordost finanziert und von der Fachstelle für Suchtprävention Berlin durchgeführt.\nDas Bezirksamt wird auch weiterhin bestrebt sein, bestehende Angebote zu sichern, Kooperationen zu stärken und zusätzliche Fördermöglichkeiten zu erschließen. Ob eine qualitativ und quantitativ hinreichende Angebotsstruktur vorgehalten werden kann, ist jedoch maßgeblich von der Höhe der für den Bezirk zur Verfügung gestellten PEP-Mittel von der Landesseite abhängig.\nDie BVV wird über weitere Entwicklungen fortlaufend informiert.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "sonstiges-unklar"
   ],
   [
     "319/VI",
@@ -15510,7 +15510,8 @@ var D=[
       "berichterstatter": "2. Berichterstatterin: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Nachdem durch Befragungen von Jugendlichen und Fachkräften, Aufsuchen von Schulen und Jugendclubs, aber auch über Peerhelper, Social Media und Personen aus der Community selbst herausgefiltert wurde, welche Angebote es in Steglitz-Zehlendorf braucht, hat der freie Träger der Jugendhilfe Outreach gGmbH im Auftrag des Jugendamtes Steglitz-Zehlendorf zunächst mobile Angebote geschaffen. In bestehenden Jugendclubs wurden Filmabende mit Diskussionen, Projekte im kreativen Bereich, aber auch Ausflüge zu queeren Angeboten und Events veranstaltet. Daraus ergab sich der Wunsch nach einem festen Standort, der nunmehr seit Februar 2025 in der Jugendfreizeiteinrichtung Flemmingstraße angesiedelt ist und vom Träger Outreach gGmbH betreut wird. In dieser Base wird es zunächst Beratungsangebote geben und es soll ein Treffpunkt für queere junge Menschen sein, um sich auszutauschen, gemeinsam weitere Angebote und Aktivitäten zu entwickeln und das Jugendzentrum mit diesem Schwerpunkt auszubauen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -15518,7 +15519,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "322/VI",
@@ -15569,13 +15569,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Tim Richter",
       "antwort": "Bereits im Jahr 2024 konnten ca. 200 Ehrenamtskarten an die ehrenamtlichen Mitarbeiterinnen und Mitarbeiter vergeben werden. Zusätzlich erhielt der Seniorenservice des Amtes für Soziales am 30.09.2025 weitere 50 neue Ehrenamtskarten. Ehrenamtliche Mitarbeiterinnen und Mitarbeiter, die die Voraussetzungen erfüllen, haben eine Ehrenamtskarte erhalten bzw. können diese erhalten.\n\nNach den geltenden Voraussetzungen kommt die Ehrenamtskarte insbesondere für Personen in Betracht, deren Engagement in Berlin oder Brandenburg ausgeübt wird, seit mindestens einem Jahr besteht, mindestens 200 Stunden jährlich umfasst und auch künftig fortgeführt wird.\n\nZudem darf das Engagement grundsätzlich nicht gegen Entgelt oder gegen eine Aufwandsentschädigung erfolgen, die über die Erstattung tatsächlicher Auslagen hinausgeht.\n\nDarüber hinaus ist zu berücksichtigen, dass einzelne ehrenamtliche Mitarbeiterinnen und Mitarbeiter noch über eine gültige Ehrenamtskarte verfügen, da die Gültigkeitsdauer drei Jahre beträgt. In diesen Fällen ist eine erneute Ausstellung derzeit nicht erforderlich.\n\nEine kostenlose Nutzung des Berliner ÖPNV ist mit der Ehrenamtskarte derzeit nicht regelhaft verbunden. Eine entsprechende Ausweitung liegt nicht in bezirklicher Zuständigkeit, sondern müsste auf Landesebene beziehungsweise in Abstimmung mit den zuständigen Verkehrs- und Tarifstellen entschieden werden. Das Bezirksamt kann das Anliegen im Rahmen seiner Möglichkeiten unterstützen bzw. weitergeben; eine eigenständige bezirkliche Umsetzung ist jedoch nicht möglich.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "323/VI",
@@ -15699,7 +15699,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Patrick Steinhoff",
       "antwort": "Der Start der Bauarbeiten der Deutschen Bahn AG (DB AG) zur Sanierung der Eisenbahnüberführung „Teltower Damm“ verzögert sich mindestens in das Jahr 2030. In 2026 soll nach Aussage der DB AG ausschließlich eine Überführung über den östlichen Fußgängertunnel, meist unter laufenden Betrieb der S-Bahn, erneuert werden. Vollumfängliche Sperrungen sind damit in der nächsten Zeit nicht zu erwarten. Die DB AG hat zudem zugesichert, die Errichtung der Unterführung vom Postplatz zur Machnower Straße ggf. vorzuziehen. Mit der DB AG sind zudem regelmäßige ämterübergreifende Austauschtermine zum Informationsaustausch festgelegt worden. Parallel wird aus der erfolgreichen Teilnahme des Bezirks Steglitz-Zehlendorf am Städtebauförderprogramm „Lebendige Zentren und Quartiere“ für den Bereich „Zehlendorf-Mitte“ bereits in 2026 eine Gebietskoordination eingeführt, welche im Anschluss auch die Ausschreibung eines Geschäftsstraßenmanagements vorbereiten wird. Dieses wird bis ca. 2034 die Einzelhandelsbetriebe besser vernetzen und auch Schnittstellen zur DB AG aufbauen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -15707,7 +15708,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "326/VI",
@@ -16351,13 +16351,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Das Bezirksamt hat sich mehrfach gegenüber der Senatsverwaltung Bildung, Jugend und Familie dafür eingesetzt, dass das Therapiebad erhalten bleibt. Der Mietvertrag zwischen der BIM und dem PrimaVita Bad wurde bis Ende 2027 verlängert, da sich die Pläne für die Sanierung und Erweiterung der John-F.-Kennedy-Schule verzögern. Eine Fortführung des Mietvertrages ist nicht ausgeschlossen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "344/VI",
@@ -16708,13 +16708,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Die Akustikanlage im Bürgersaal als solches ist funktionsfähig. Im Rahmen der Einrichtung des Live-Streamings der BVV-Sitzungen im Dezember 2023 wurde eine neue Aussteuerung des Tons realisiert, was zu einer Verbesserung der Akustik geführt hat. Im Rahmen der Sitzungen der BVV findet eine individuelle Steuerung der Höhen, Tiefen und Lautstärken statt. Vor jeder Sitzung wird eine gesonderte Überprüfung durchgeführt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "350/VI",
@@ -16947,7 +16947,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt hat die verkehrliche Situation der Straße „Am Sandwerder“ eingehend geprüft und kommt zum Ergebnis, dass keine Einbahnstraße im betreffenden Abschnitt angeordnet werden kann. Nachfolgend werden die Gründe für diese Entscheidung erläutert:\n\nGrundsätzlich dürfen Beschränkungen und Verbote des fließenden Verkehrs gemäß § 45 Abs. 9 der Straßenverkehrs-Ordnung (StVO) nur angeordnet werden, wenn aufgrund der besonderen örtlichen Verhältnisse eine Gefahrenlage besteht, die das allgemeine Risiko einer Beeinträchtigung der Sicherheit und Ordnung übersteigt.\n\nDie Straße „Am Sandwerder“ ist gemäß einer Festlegung im Stadtentwicklungsplan Verkehr (StEP Verkehr) Bestandteil des untergeordneten Straßennetzes und somit Teil einer geschwindigkeitsreduzierten Tempo 30-Zone. Die Fahrbahnbreite beträgt zwischen 5,40 m und 5,50 m. Überwiegend wird an beiden Fahrbahnrändern der Straße in Längsaufstellung halbseitig auf dem Gehweg geparkt. In den Teilen der Straße „Am Sandwerder“, die nach Osten zum Tillmannsweg führen, ist hingegen das Gehwegparken nicht erlaubt. Dort beträgt die Fahrbahnbreite etwa 5,50 m und lässt aktuell ein alternierendes Parken jeweils an einem Fahrbahnrand in Längsaufstellung zu.\n\nDie Vorfahrtsregelung in der Straße „Am Sandwerder“ ist gemäß § 8 Absatz 1 StVO „rechts vor links“ und entspricht somit einer üblichen Verkehrsregelung in einer Tempo 30-Zone i. S. d. Vorgabe aus § 45 Abs. 1c StVO. An den Stellen der Straße „Am Sandwerder“, an denen beidseitig geparkt wird, ermöglicht die dem Fließverkehr zur Verfügung stehende Restbreite der Fahrbahn von ca. 3,50 m keinen Begegnungsverkehr zweier Kraftfahrzeuge, da stets der Gegenverkehr abgewartet werden muss. Infolgedessen verringert sich die gefahrene Geschwindigkeit dort nachhaltig. Entgegenkommendem Verkehr kann im Bereich vorhandener Grundstückszufahrten, Straßenkreuzungen sowie an den mit Haltverbot versehenen Ausweichstellen ausgewichen werden.\n\nDer Verkehrsablauf ist im Allgemeinen sicher und geordnet. Beanstandungen anderer Verkehrsteilnehmer, wie z. B. der BSR im Rahmen der durchzuführenden Müllentsorgung, über eine mangelnde Passierbarkeit der Straße liegen darüber hinaus ebenfalls nicht vor.\n\nDie Straßenverkehrsbehörde ist nach Maßgabe der Verwaltungsvorschrift (VwV Nr. XI 3a zu § 45 StVO) gehalten, in Tempo 30-Zonen die dem fließenden Verkehr zur Verfügung stehende Fahrbahnbreite durch geeignete Maßnahmen zusätzlich einzuengen, um eine nachhaltige Verkehrsberuhigung zu erzielen. Dies erfolgt im vorliegenden Fall aufgrund der Zulassung des Straßenverkehrs in beide Fahrtrichtungen überwiegend durch ein beidseitiges Gehwegparken von Fahrzeugen.\n\nDie Straße „Am Sandwerder“ ist aus polizeilicher Sicht völlig unauffällig.\n\nDas Ausweisen einer Einbahnstraßenregelung kommt in der Straße „Am Sandwerder“ aus den vorgenannten Gründen nicht in Betracht. Einbahnstraßenregelungen verflüssigen den Verkehrsablauf in die ausgewiesene Fahrtrichtung und machen untergeordnete schützenswerte Wohnstraßen für den Durchgangsverkehr in die ausgewiesene Fahrtrichtung zunehmend attraktiv. Folglich würden sich Verkehrsaufkommen und Fahrgeschwindigkeiten in der Straße „Am Sandwerder“ durch eine solche Maßnahme eher erhöhen. Dies würde dem Ziel einer Verkehrsberuhigung und damit einhergehend einer Lärmverminderung in einer Tempo 30-Zone widersprechen. Zum Erreichen des eigentlichen Fahrtziels müssten von Kraftfahrern hingegen unter Umständen zusätzliche Umwege gefahren werden, so dass zusätzlicher Verkehr inklusive dessen Begleiterscheinungen produziert werden würde. Die Umfahrung über Straßen mit Kopfsteinpflaster erzeugen zusätzliche Lärmimmissionen. Aus den genannten Gründen wurde mit der Einführung der Tempo 30-Zonen im Land Berlin damit begonnen, ehemals vorhandene Einbahnstraßenregelungen in den Nebenstraßen aufzuheben. Eine neuerliche Anordnung von Einbahnstraßen in den Nebenstraßen kommt deshalb auch nicht in Betracht.\n\nAngesichts dieser Sachlage besteht keine Möglichkeit zur Anordnung einer Einbahnstraße zwischen Kronprinzessinnenweg und Am Sandwerder 19.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umsetzbar",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -16955,7 +16956,6 @@ var D=[
         "SPD"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "354/VI",
@@ -17454,7 +17454,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Bezirksamt teilt mit, dass im Sinne des Beschlusses eine Kooperation mit den Kolleginnen und Kollegen des Bezirksamtes Charlottenburg-Wilmersdorf besteht. Über die im Juni 2024 erstmals im Fachbereich Grünflächen besetzte Personalstelle, Fachkoordination naturnahe Pflege, wird der fachliche Kontakt im Hinblick auf die mögliche Verwendung von Wildstauden in der Bepflanzung der Grünanlagen und Friedhöfe weiter intensiviert werden. Bei vielen Wildstauden ist es zudem sinnvoll, diese in Form der Direktsaat auszubringen. Eine Etablierung am Standort ohne eine entwicklungshemmende Verpflanzung ist oftmals erfolgreicher. Hierzu gibt es z.B. bereits Probeflächen entlang des Königsweges.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -17462,7 +17463,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "363/VI",
@@ -17512,7 +17512,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Seit der Beschlussfassung des ersten Antrages bin ich im aktiven Austausch mit der Bürgerinitiative Blumenkiez und den Gewerbetreibenden vor Ort. So habe ich drei Ortstermine – am 20.11.2023, 23.04.2024 und zuletzt am 19.10.2024 wahrgenommen. Des Weiteren waren Vertreterinnen und Vertreter der Initiative mehrfach bei mir ihm Büro, so dass die einzelnen Maßnahmen im Austausch entwickelt wurden. Folgende Einzelmaßnahmen sind geplant:\n\nIm Zentrum des umgestalteten Eugen-Gerstenmaier-Platzes steht der Mensch. Das bedeutet zunächst mehr Raum und mehr Ordnung. Aktuell stehen zum Beispiel die Fahrradbügel verteilt auf dem Platz. Daher werden die Fahrradbügel im Bereich des Fußweges in Richtung S-Bahn zugunsten der Barrierefreiheit entfernt. Auf dem Platz werden zusätzlich zwei neue Bäume gepflanzt, die mit ihren Baumscheiben für eine neue Stadtnatur-Atmosphäre sorgen sollen. Die Restfläche wird künftig für den Lieferverkehr, die Feuerwehr und Rettungsfahrzeuge freigegeben. Gleichzeitig soll der Platz zu einem nachbarschaftlichen Begegnungsort werden. Die bestehenden Bänke wurden gedreht und mit neuen Bänken ergänzt, so dass Sitzgruppen entstanden sind. Ein kleiner Markt kann hier stattfinden. Unter Aufsicht können temporäre Spielangebote wie zum Beispiel durch das Projekt „Spielmobil“ für Kinder organisiert werden. Eine Bücherbox soll aufgebaut werden. Der große Baumstubben wurde bereits gefräst, ein neuer Baum gepflanzt und der Gehweg an der Hortensienstraße instandgesetzt. Eine Querungsmöglichkeit wird in der Hortensienstraße auf Höhe der früheren Telefonzelle geschaffen. Die Telekom hat zugesagt, die alten Telefonzellen im Bezirk Steglitz-Zehlendorf in diesem Jahr abzubauen, prioritär wird diese Telefonzelle abgebaut werden. Am Asternplatz sind wiederum Gehwegvorstreckungen vorgesehen. Allerdings sollen diese nicht baulich sein, sondern durch Markierungen und entsprechendem Pollerschutz erfolgen. Dies ist deutlich günstiger und auch schneller umsetzbar. Gegenüber dem Eugen-Gerstenmaier-Platz wird in Abstimmung mit der Marktleitung vor dem Supermarkt „Penny“ die Lieferzone abgeordnet, da die Lieferzone direkt um die Ecke in der Hortensienstraße ausreichend ist. Somit können an dieser Stelle Kurzzeitparkplätze (2 Stunden) eingerichtet werden. An dieser Stelle werden zwei neue Bäume gepflanzt, dazwischen Fahrradbügel installiert.\n\nAuf der Westseite der Moltkestraße (südlich der Brücke) soll das Gehwegparken abgeordnet werden. Dafür werden in gleicher Anzahl sog. Schrägparkflächen auf der Fahrbahn als Kurzzeitparkplätze (2 Stunden) angeordnet. Der Vorteil dieser Anordnung ist zum einen die Verengung der Fahrbahn und damit verbunden eine Entschleunigung des Verkehrs und zum anderen eine weitere\n\nPlatzatmosphäre aufgrund des überbreiten Gehweges auf der Seite der Buchhandlung Schwericke. Des Weiteren sollen bestehende Baumscheiben vergrößert werden, ein weiterer Baum wird gepflanzt. Fahrradbügel werden neben dem Bestandsbaum ergänzt, so dass auch auf dieser Seite der Brücke zahlreiche geordnete Fahrradbügel zur Verfügung gestellt werden. Stellplätze für Motorräder werden mitgedacht. Auf der Ostseite der Moltkestraße (südlich der Brücke) sollen ebenfalls alle Stellplätze als Kurzzeitparkplätze (2 Stunden) angeordnet werden.\n\nDie Parkplätze vor den Geschäften werden wie mehrfach erwähnt als Kurzzeitparkplätze mit einer maximalen Parkdauer von 2 Stunden zwischen 9 Uhr und 19 Uhr angeordnet, so dass Anwohnerinnen und Anwohner die Möglichkeit haben ab 19 Uhr bis zum nächsten Morgen dort zu parken.\n\nZwischen dem Asternplatz und dem Gardeschützenweg wird Tempo 20 als „Verkehrsberuhigter Geschäftsbereich“ angeordnet. Das Ziel dieser Maßnahme ist, den Durchgangsverkehr zu verringern und den Verkehr zu entschleunigen. Mit der Erhöhung der Aufenthaltsqualität soll vor allem die lokale Wirtschaft gestärkt werden.\n\nEs werden somit viele kleinteilige Maßnahmen ausgeführt. Da wir sowohl mit den Anwohnerinnen und Anwohnern als auch mit den Einzelhändlern im stetigen Austausch sind, können im Prozess auch leichte Änderungen oder Ergänzungen stattfinden.\n\nEs ist vorgesehen, die ersten Umgestaltungsmaßnahmen in den kommenden Wochen und Monaten umzusetzen. Ziel ist, in der ersten Jahreshälfte 2025 alle Maßnahmen umgesetzt zu haben.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -17520,7 +17521,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "364/VI",
@@ -17622,7 +17622,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "An allen Bibliotheksstandorten in Steglitz-Zehlendorf wurden mittlerweile die Rückgabegeräte ausgetauscht. Alle Standorte haben nun neue, moderne Ausleihautomaten. Die neuen Automaten sind nicht nur leiser und schneller, sie ermöglichen auch die papierlose Ausleihe und Rückgabe der Bibliotheksmedien.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -17630,7 +17631,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "366/VI",
@@ -18440,7 +18440,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Das Bezirksamt hat sich an die DB Station&Service AG, Leitung Regionalbereich Ost gewandt und für die Idee geworben, in Kooperation mit der Ortsteilinitative Schlachtensee den historischen Jahrestag des Bahnhofes unter Einbeziehung kultureller Einrichtungen und lokaler Gewerbebetreibender mit einem Ortteilfest zu begehen. Laut Rückmeldung der Deutschen Bahn beteilige sie sich gerne an der Ausrichtung des Ortsteilfestes in Kooperation mit der Ortsteilinitiative Schlachtensee. Die Ortsteilinitiative hat sich zwischenzeitlich mit der Deutschen Bahn in Verbindung gesetzt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -18448,7 +18449,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "388/VI",
@@ -18608,13 +18608,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt teilt mit, dass bereits Mittel zur Verfügung stehen und zur Wiederbepflanzung von Straßen eingesetzt werden, die im Falle von baubedingten Wegnahmen von Straßenbäumen als Wertausgleich eingenommen werden. Naturschutzrechtliche Ausgleichsabgaben stehen hierfür nicht zur Verfügung, da diese zweckgebunden für Maßnahmen des Naturschutzes und der Landschaftspflege zu verwenden sind. Hierbei geht es insbesondere um den Ausgleich von Bestandsminderungen, die nicht anderweitig ausgeglichen werden können. Sie dürfen nicht für Zwecke in Anspruch genommen werden, die aus dem allgemeinen Steueraufkommen zu finanzieren sind. Mit naturschutzfachlichen Ausgleichsabgaben wurde zum Beispiel der Schutzzaun an der Krummen Lanke zum Schutz des Ufers finanziert oder die Maßnahme zur Förderung des Alteichenbestandes am Königsweg. Die Bepflanzung der Straßen mit Bäumen ist dagegen eine Pflichtaufgabe des Straßenbaulastträgers, die sich aus dem Berliner Straßengesetz ergibt. Bei der Bepflanzung wird darauf geachtet, dass die entsprechende Baumartenwahl standortgerecht ist und sich an den neusten Erkenntnissen der fachgerechten Pflanzenverwendung orientiert. Die notwendige Anwuchs- und Entwicklungspflege wird situationsbedingt und nach Erfordernis mittlerweile sogar bis auf acht Jahre ausgedehnt. Darüber hinaus finden Substrate und Wasser speichernde Zuschlagsstoffe Verwendung.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "falscher-ausgangspunkt",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "391/VI",
@@ -18674,13 +18674,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt hat die in Zehlendorf-Mitte am Teltower Damm befindlichen Ladezonen im Bereich von der Kreuzung Berliner Straße / Clayallee / Potsdamer Straße / Teltower Damm bis zur Machnower Straße überprüft. Im Ergebnis konnte festgestellt werden, dass auf der östlichen Seite des genannten Abschnitts zwei Ladezonen vorhanden sind, von Haus Nr. 7-15 (ca. 60 m) und von Haus Nr. 23-29 (ca. 50 m). Der Umfang der Ladezonen wurde im Rahmen einer örtlichen Überprüfung als angemessen beurteilt. Eine Erweiterung dieser genannten Ladezonen ist durch die vorhandenen BVG-Haltestellen und Lichtzeichenanlagen nicht möglich. Zudem liegen keine Anträge von Gewerbetreibenden auf Einrichtung von weiteren Ladezonen am Teltower Damm vor.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "nicht-umsetzbar",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "392/VI",
@@ -19031,7 +19031,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt teilt mit, dass die Belange von Menschen mit Behinderungen bei den Genehmigungsverfahren von Jelbi-Standorten durch die am Verfahren beteiligten Stellen in ausreichender Weise Berücksichtigung finden. Insbesondere die Straßenverkehrsbehörde achtet genau auf die Einhaltung der maßgeblichen rechtlichen Bestimmungen zur Nutzung der Verkehrsflächen, darüber hinaus ist es im Berliner Straßengesetz verankert, dass durch erlaubte Sondernutzungen keine Menschen mit Behinderungen in der Ausübung des Gemeingebrauchs erheblich beeinträchtigt werden dürfen.\n\nZusätzlich wird der Kreis der am Verfahren beteiligten Stellen für die Erteilung einer Sondernutzungserlaubnis für Jelbi-Standorte der BVG künftig durch aktive Einbindung der Beauftragten für Menschen mit Behinderungen erweitert.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -19039,7 +19040,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "398/VI",
@@ -19197,13 +19197,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt teilt mit, dass die Situation vor Ort umfassend geprüft wurde.\n\nIm Charkiw-Park gibt es derzeit 9 Sitzbänke. Im Bereich des Spielplatzes gibt es zusätzlich eine sog. Berliner Bank und eine lange Sitzmauer. Objektiv gibt es dem Grunde nach ausreichend Sitzgelegenheiten.\n\nUm die Aufenthaltsqualität des Ortes jedoch zu verbessern, wird es als sinnvoll erachtet, eine zusätzliche Berliner Bank im Bereich des Spielplatzes aufzustellen. Die Umsetzung erfolgt kurzfristig, jedoch im Rahmen der verfügbaren Einsatzressourcen mit eigenem Personal und Material aus dem Grünflächenunterhalt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "401/VI",
@@ -19294,13 +19294,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt teilt mit, dass die Situation vor Ort umfassend geprüft wurde.\n\nWie in der ersten Stellungnahme durch den Fachbereich Grünflächen ausgeführt, sind Pflanzungen im westlichen Bereich zur Straße Ritterhufen aufgrund zu enger Platzverhältnisse leider nicht möglich. Im östlichen Abschnitt zwischen Vesterzeile und Teltower Damm wurde jedoch Handlungsbedarf bestätigt. Dieser Teil der Rendtorffstraße wird nun mit 8 Bäumen bepflanzt.\n\nWeitere Straßen, wie z. B. der Teltower Damm, werden in diesem Bereich dabei auch bepflanzt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "403/VI",
@@ -19458,13 +19458,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Bezüglich der mit dem Beschluss einhergehenden Aufforderung an das Bezirksamt, sich bei den zuständigen Stellen dafür einzusetzen, dass Anwohnende und Verkehrsteilnehmende vor Baubeginn über die Bauarbeiten im öffentlichen Straßenland in fremder Zuständigkeit informiert werden, wird auf die bestehenden gesetzlichen Grundlagen verwiesen.\n\nGemäß § 22 Abs. 7 MobG ist der Verkehrszeichenplan während aller Baumaßnahmen mit Auswirkungen auf das öffentliche Straßenland vor Ort öffentlich einsehbar durch die Bauherrin oder den Bauherren oder die beauftragte Unternehmerin oder den beauftragten Unternehmer auszuhängen oder im Internet zu veröffentlichen.\n\nDiese Forderung wird regelmäßig durch die SenMVKU Abt. VI auch als Auflage in die Verkehrsrechtliche Anordnung mit aufgenommen.\n\nFür Bauvorhaben der Leitungsverwaltungen gelten die Ausführungsvorschriften zu § 12 des Berliner Straßengesetzes - Sondernutzung öffentlicher Straßen für Zwecke der öffentlichen Versorgung -. Gemäß Ziffer 4. der vorgenannten AV ist der Sondernutzer bei umfangreichen Arbeiten dazu zu verpflichten, die betroffenen Anlieger, insbesondere Industrie- und Gewerbetreibende, über die Baumaßnahme in geeigneter Form rechtzeitig vorher zu unterrichten, und zwar durch Veröffentlichungen in den Tages- oder Bezirkszeitungen, durch Hauswurfsendungen beziehungsweise Hausaushängen oder durch Postsendungen. Auch eine Kombination der genannten Möglichkeiten kann verlangt werden. Dabei sind Ansprechpartner der Sondernutzer unter Angabe der Anschrift, Telefon- und Faxnummer sowie E-Mail-Adresse zu benennen.\n\nDieser Forderung zur Verpflichtung des Sondernutzers zur Information der betroffenen Anlieger kommt das Straßen- und Grünflächenamt regelmäßig nach, indem entsprechende Auflagen mit der Sondernutzungserlaubnis erteilt werden.\n\nErgänzend hierzu macht das SGA bei großen Bauvorhaben der Leitungsverwaltungen regelmäßig von seinem Recht gemäß § 12 Abs. 8 BerlStrG Gebrauch, indem es bei zeitlichen und räumlichverkehrlichen Wirkungszusammenhängen von Leitungsbaumaßnahmen einen gemeinsamen Bauablaufplan und eine Projektkoordination der Leitungsnetzbetreiber verlangt. Zu den Aufgaben der Projektkoordination gehören dann regelmäßig auch entsprechende Beteiligungs- und Informationsformate der betroffenen Anlieger.\n\nDas Bezirksamt bemüht sich im Vorfeld über bevorstehende Baumaßnahmen zu informieren und auf Hinweise aus der Bevölkerung schnell zu reagieren. Außerdem wurde über dieses Thema, das ja alle Berliner Bezirke betrifft, in der Runde der Bezirksverkehrsstadträte mit der Senatsverkehrsverwaltung angesprochen. Die zuständige Senatsverwaltung hat zugesagt, in Bezug auf eine bessere Kommunikation Vorschläge zu machen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "406/VI",
@@ -19520,7 +19520,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Auf der Internetseite des Straßen- und Grünflächenamtes / Straßenverkehrsbehörde wurde ein Link eingefügt, der auf die entsprechende Homepage der SenMVKU ( https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/verkehrsplanung/fussverkehr/autofreie-kieze-und-strassen/temporaere-spielstrassen/ ) verweist.\n\nAuf der Seite der SenMVKU werden weitergebende Hinweise zur Einrichtung von Temporären Spielstraßen gegeben. Der dazugehörige Leitfaden ist an dieser Stelle veröffentlicht und kann als PDF heruntergeladen werden. Von der Seite der SenMVKU gelangt man auch auf die Seiten der Nachbarschaftsinitiative „Bündnis temporäre Spielstraßen“.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -19528,7 +19529,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "407/VI",
@@ -19848,7 +19848,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt hat die Voraussetzungen für eine evtl. Straßenbenennung nach der Architektin Hildegard Weström geprüft. Im Ergebnis ist festzustellen, dass eine Benennung gemäß § 5 Berliner Straßengesetz möglich ist, zudem existiert ein örtlicher Bezug zum Bezirk Zehlendorf. Eine Benennung nach Frau Weström würde darüber hinaus den Anteil an weiblichen Straßennamen erhöhen. Der Namensvorschlag wird daher auf die Straßenbenennungsliste gesetzt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -19856,7 +19857,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "413/VI",
@@ -20318,13 +20318,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Patrick Steinhoff",
       "antwort": "Die Milieuschutzgebiete wurden im Februar 2024 eingeführt. Die anfänglichen Genehmigungskriterien seitens des Bezirksamts Steglitz-Zehlendorfs haben auch den Fokus auf Barrierefreiheit und Umweltschutz gelegt. Mit Einführung berlinweiter Genehmigungskriterien Ende 2024 ist das Bezirksamt aufgefordert, diese bei Umbaumaßnahmen heranzuziehen. Seitens der Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen werden die Kriterien, auch in Zusammenarbeit mit den Bezirken, weiterentwickelt. Bzgl. der Barrierefreiheit sind auf diesem Wege, unter Vorbehalt der Zustimmung des Senats, im Frühjahr 2026 entsprechende Erleichterungen zu erwarten",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "FDP-Fraktion",
       "originalparties": [
         "FDP"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "420/VI",
@@ -20435,7 +20435,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Die Organisationseinheit für Qualitätsentwicklung, Planung und Koordination im öffentlichen Gesundheitsdienst (QPK) hat den Frauengesundheitsbericht 2024 erstellt. Mit diesem Bericht wurden erstmals entsprechende Daten für den Bezirk zusammengestellt, aufbereitet und bewertet, die dann Grundlage für Aktivitäten zur Verbesserung der gesundheitlichen Lage der Frauen in Steglitz-Zehlendorf in verschiedenen Handlungsfeldern sein können. Gleichzeitig informiert der Bericht auch die (Fach-)Öffentlichkeit über Frauengesundheit in Steglitz-Zehlendorf. Der Bericht wird ab sofort auf der Homepage der QPK und als gedruckte Broschüre veröffentlicht. In den entsprechenden Ausschüssen wird der Bericht bei Bedarf vorgestellt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -20443,7 +20444,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "422/VI",
@@ -20864,13 +20864,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt hat zur Erhöhung der Schulwegsicherheit für die Schülerinnen und Schüler der Dunantgrundschule in der Gritznerstraße, in unmittelbarer Schulnähe bereits Gehwegvorstreckungen mit Pollern markiert, sowie Fahrradbügel in der Fahrbahn der Treitschkestr., eingebaut und absolute Haltverbote in der Treitschkestraße angeordnet, um so die Sichtbeziehungen zu verbessern. Aus Sicht des Bezirksamts sind diese Maßnahmen ausreichend. Die Schaffung eines Fußgängerüberwegs wurde von der AG Querungshilfen geprüft und aufgrund zu geringen Verkehrsaufkommens und der bereits getroffenen Maßnahmen verworfen. Das Straßen- und Grünflächenamt hat den Standort in die Liste der mit Dialogdisplays auszustattenden Standorte aufgenommen und plant die Displays noch im Herbst dieses Jahres einzubauen.\n\nDie Einrichtung einer sogenannten „Schulzone / Schulstraße“ ist weiterhin in Prüfung.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "431/VI",
@@ -21049,13 +21049,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Die bezirkliche Straßenverkehrsbehörde ist bereits im April des vergangenen Jahres tätig geworden und hat mit Verkehrsrechtlicher Anordnung vom 12.05.2023 das vollständige Parken auf dem Gehweg (Vz 315-65) entlang der Baseler Straße im Abschnitt von Curtiusstraße bis Potsdamer Straße abgeordnet und zugleich halbseitiges Parken (Vz 315-55) in diesem Bereich angeordnet.\n\nDie bis dahin vorhandene Gehwegbreite von 1,80 m wurde durch diese Maßnahme auf 2,50 m erhöht und gewährleistet eine den rechtlichen Bestimmungen entsprechende Gehwegbreite.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Fraktionslose",
       "originalparties": [
         "Fraktionslose"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "434/VI",
@@ -21236,7 +21236,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Zunächst verweist das Straßen- und Grünflächenamt auf die Informationsquellen der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt und deren Veröffentlichungen. Weiterer Kontaktpartner ist die Wildtierberatung Berlin des Naturschutzbund Deutschland, Landesverband Berlin e.V. mit dem dazugehörigen Wildtiertelefon. Die von dort herausgegebene Aufklärungsbroschüren zum Thema „Füttern – Nein Danke!“ sind im Fachbereich vorhanden und werden entsprechend zur Verfügung gestellt.\n\nDas Straßen- und Grünflächenamt teilt mit, dass in ausgewählten Grünanlagen insbesondere zum Thema Fütterung von Vögeln intensive und erfolgreiche Aufklärungsarbeit vor allem über das vom Fachbereich Grünflächen eingesetzte Parkmanagement geleistet wird. Konkrete Hinweise zu unzulässigen Fütterungen können gerne z.B. über die Ordnungsamts-App an das Straßen- und Grünflächenamt gerichtet werden. Diesen wird zeitnah nachgegangen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -21244,7 +21245,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "438/VI",
@@ -21288,7 +21288,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt teilt mit, dass die Situation sich seit dem Einsatz des aktiven Parkmanagements im Jahr 2019 deutlich verbessert hat. Die Parkläufer der vom Fachbereich Grünflächen beauftragten Firma SI³UG verfolgen ein kooperativ-aufklärendes Ziel. Sie sind vor Ort und verschaffen sich einen Überblick darüber, wie die Stimmung unter den Besuchern dieser Grünanlage ist. Sie versuchen zu deeskalieren und holen bei Bedarf rechtzeitig das Ordnungsamt oder die Polizei dazu. Der Fachbereich Grün, das Parkmanagement, das Ordnungsamt und die Polizei sind im intensiven Austausch und miteinander gut vernetzt. Zuletzt gab es im April ein gemeinsames Akteurs-Treffen, um sich für die Sommerzeit gut vorzubereiten. Das Ordnungsamt wird, wie in den Vorjahren auch, an Verbundeinsätzen mit der Polizei teilnehmen. Ein erster Verbundeinsatz fand am 9. Mai 2024 statt. Der Einsatz verlief recht ruhig. Der nächste ist bereits geplant. Der Termin ist bekannt, soll aber vorher nicht öffentlich genannt werden. Eine Herausforderung ist das Grillen. Um das Grillen zu unterbinden, werden nicht nur die Kontrollen verstärkt weitergehen, es sind auch Banner und Schilder in Vorbereitung, die auf den Grill- und Feuerverbot aufmerksam machen sollen. Hinsichtlich des immens hohen Müllaufkommens in den Sommermonaten gab es gleichsam eine deutliche Verbesserung, seit dem die BSR an den Seen die turnusmäßige Reinigung übernommen hat. Auch hierzu finden regelmäßige Evaluierungsrunden statt, um bei Defiziten gezielt gegensteuern zu können. Alle Akteure arbeiten eng zusammen und unternehmen ihr Möglichstes, um die Bereiche der Seen angemessen und sauber präsentieren zu können.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -21296,7 +21297,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "439/VI",
@@ -21388,7 +21388,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Das Bezirksamt hat am 09.11.2023 gemeinsam mit der Initiative Haus Wolfenstein eine Veranstaltung an der Spiegelwand durchgeführt. Vor der traditionellen Kranzniederlegung erfolgten Redebeiträge der Bezirksbürgermeisterin, der Initiative Haus Wolfenstein und des Projekts Jarock. Begleitet wurde die Veranstaltung von Liedern des Jarock-Ensembles. Den Abschluss bildete das Schlussgebet von Kantor Tal Koch.\n\nZur der Veranstaltung waren die Mitglieder der Bezirksverordnetenversammlung Steglitz-Zehlendorf, die bezirklichen Mitglieder des Berliner Abgeordnetenhauses und Bundestages, sowie die Initiative Haus Wolfenstein und die Öffentlichkeit eingeladen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -21396,7 +21397,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "441/VI",
@@ -21440,7 +21440,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Das Straßen- und Grünflächenamt hatte bereits bei Prüfung des vorangegangenen Antrags festgestellt, dass die Örtlichkeit Grunewaldstraße / Schmidt-Ott-Straße für die Aufstellung einer Bücherbox keinen ausreichenden Platz auf öffentlichem Straßenland bietet. Die jetzt im Beschluss geänderte bzw. erweiterte Standortfestlegung auf die „nähere Umgebung“ zur o. g. Straßenkreuzung führte zu einer erneuten Überprüfung des Umfeldes. Im Ergebnis ist die Aufstellung einer Bücherbox auf dem Königin-Luise-Platz möglich.\n\nEs bedarf zum Aufstellen der Bücherbox auf öffentlichem Straßenland eines Antrages auf Sondernutzung gemäß § 11 Berliner Straßengesetz, dem ein Plan mit dem eingezeichneten Standort, ggf. mit Alternativ-Standort beigefügt sein muss. Bereits bei Antragstellung sollte Berücksichtigung finden, dass ein Abstand zu denkmalgeschützten Objekten eingehalten werden muss.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -21448,7 +21449,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "442/VI",
@@ -21539,7 +21539,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Seit der Beschlussfassung des ersten Antrages bin ich im aktiven Austausch mit der Bürgerinitiative Blumenkiez und den Gewerbetreibenden vor Ort. So habe ich drei Ortstermine – am 20.11.2023, 23.04.2024 und zuletzt am 19.10.2024 wahrgenommen. Des Weiteren waren Vertreterinnen und Vertreter der Initiative mehrfach bei mir ihm Büro, so dass die einzelnen Maßnahmen im Austausch entwickelt wurden. Folgende Einzelmaßnahmen sind geplant:\n\nIm Zentrum des umgestalteten Eugen-Gerstenmaier-Platzes steht der Mensch. Das bedeutet zunächst mehr Raum und mehr Ordnung. Aktuell stehen zum Beispiel die Fahrradbügel verteilt auf dem Platz. Daher werden die Fahrradbügel im Bereich des Fußweges in Richtung S-Bahn zugunsten der Barrierefreiheit entfernt. Auf dem Platz werden zusätzlich zwei neue Bäume gepflanzt, die mit ihren Baumscheiben für eine neue Stadtnatur-Atmosphäre sorgen sollen. Die Restfläche wird künftig für den Lieferverkehr, die Feuerwehr und Rettungsfahrzeuge freigegeben. Gleichzeitig soll der Platz zu einem nachbarschaftlichen Begegnungsort werden. Die bestehenden Bänke wurden gedreht und mit neuen Bänken ergänzt, so dass Sitzgruppen entstanden sind. Ein kleiner Markt kann hier stattfinden. Unter Aufsicht können temporäre Spielangebote wie zum Beispiel durch das Projekt „Spielmobil“ für Kinder organisiert werden. Eine Bücherbox soll aufgebaut werden. Der große Baumstubben wurde bereits gefräst, ein neuer Baum gepflanzt und der Gehweg an der Hortensienstraße instandgesetzt. Eine Querungsmöglichkeit wird in der Hortensienstraße auf Höhe der früheren Telefonzelle geschaffen. Die Telekom hat zugesagt, die alten Telefonzellen im Bezirk Steglitz-Zehlendorf in diesem Jahr abzubauen, prioritär wird diese Telefonzelle abgebaut werden. Am Asternplatz sind wiederum Gehwegvorstreckungen vorgesehen. Allerdings sollen diese nicht baulich sein, sondern durch Markierungen und entsprechendem Pollerschutz erfolgen. Dies ist deutlich günstiger und auch schneller umsetzbar. Gegenüber dem Eugen-Gerstenmaier-Platz wird in Abstimmung mit der Marktleitung vor dem Supermarkt „Penny“ die Lieferzone abgeordnet, da die Lieferzone direkt um die Ecke in der Hortensienstraße ausreichend ist. Somit können an dieser Stelle Kurzzeitparkplätze (2 Stunden) eingerichtet werden. An dieser Stelle werden zwei neue Bäume gepflanzt, dazwischen Fahrradbügel installiert.\n\nAuf der Westseite der Moltkestraße (südlich der Brücke) soll das Gehwegparken abgeordnet werden. Dafür werden in gleicher Anzahl sog. Schrägparkflächen auf der Fahrbahn als Kurzzeitparkplätze (2 Stunden) angeordnet. Der Vorteil dieser Anordnung ist zum einen die Verengung der Fahrbahn und damit verbunden eine Entschleunigung des Verkehrs und zum anderen eine weitere\n\nPlatzatmosphäre aufgrund des überbreiten Gehweges auf der Seite der Buchhandlung Schwericke. Des Weiteren sollen bestehende Baumscheiben vergrößert werden, ein weiterer Baum wird gepflanzt. Fahrradbügel werden neben dem Bestandsbaum ergänzt, so dass auch auf dieser Seite der Brücke zahlreiche geordnete Fahrradbügel zur Verfügung gestellt werden. Stellplätze für Motorräder werden mitgedacht. Auf der Ostseite der Moltkestraße (südlich der Brücke) sollen ebenfalls alle Stellplätze als Kurzzeitparkplätze (2 Stunden) angeordnet werden.\n\nDie Parkplätze vor den Geschäften werden wie mehrfach erwähnt als Kurzzeitparkplätze mit einer maximalen Parkdauer von 2 Stunden zwischen 9 Uhr und 19 Uhr angeordnet, so dass Anwohnerinnen und Anwohner die Möglichkeit haben ab 19 Uhr bis zum nächsten Morgen dort zu parken.\n\nZwischen dem Asternplatz und dem Gardeschützenweg wird Tempo 20 als „Verkehrsberuhigter Geschäftsbereich“ angeordnet. Das Ziel dieser Maßnahme ist, den Durchgangsverkehr zu verringern und den Verkehr zu entschleunigen. Mit der Erhöhung der Aufenthaltsqualität soll vor allem die lokale Wirtschaft gestärkt werden.\n\nEs werden somit viele kleinteilige Maßnahmen ausgeführt. Da wir sowohl mit den Anwohnerinnen und Anwohnern als auch mit den Einzelhändlern im stetigen Austausch sind, können im Prozess auch leichte Änderungen oder Ergänzungen stattfinden.\n\nEs ist vorgesehen, die ersten Umgestaltungsmaßnahmen in den kommenden Wochen und Monaten umzusetzen. Ziel ist, in der ersten Jahreshälfte 2025 alle Maßnahmen umgesetzt zu haben.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -21547,7 +21548,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "444/VI",
@@ -21803,13 +21803,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Zur Verbesserung der Wärmeleistung und höheren Versorgungssicherheit finden seit Ende 2022 im Bereich des Hindenburgdammes umfassende Baumaßnahmen statt. Zwecks einer umfassenden Datenerhebung zum Liefer- und Kundenverkehr wurden vom 30. August bis zum 05. September 2024 Gewerbetreibende am Hindenburgdamm befragt. Daraus resultierten wesentliche Erkenntnisse:\n\n - Liefer- und Parkplatzbedarf: Mehr als die Hälfte der Gewerbetreibenden gab an, dass sie regelmäßig Lieferungen erhalten und daher eine direkte Anlieferung am Geschäft notwendig ist. Über 40 % der Befragten sehen außerdem einen erhöhten Bedarf an Parkplätzen für ihre Kunden während der Öffnungszeiten.\n\n - Ablehnung einer Busvorrangspur: Über zwei Drittel der Gewerbetreibenden sprachen sich gegen die Einrichtung einer Busvorrangspur aus, da sie befürchten, dass dies zu einer Verschärfung der Parkplatzknappheit und erhöhtem Stau führen würde.\n\nInsgesamt haben 51 Gewerbetreibende am Hindenburgdamm die Möglichkeit zur Teilnahme erhalten, von denen 24 den Fragebogen vollständig ausgefüllt zurückgesendet haben. Eine vollständige Auswertung der Umfrageergebnisse ist einzusehen unter https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/service-und-organisationseinheiten/wirtschaftsfoerderung/aktuelles/artikel.1533111.php\n\nDie Wirtschaftsförderung Steglitz-Zehlendorf steht den Gewerbetreibenden weiterhin unterstützend zur Seite und führt bei Bedarf beratende Gespräche u.a. zum Thema Überbrückungshilfen für Gewerbetreibende bei öffentlichen Baumaßnahmen durch den Berliner Senat.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "teilweise-umgesetzt",
       "originalinitiator": "Fraktionslose",
       "originalparties": [
         "Fraktionslose"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "449/VI",
@@ -22118,7 +22118,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter:in: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Der Bezirk Steglitz-Zehlendorf nahm mit der Bezirksregion Lankwitz von Herbst 2022 bis Herbst 2023 als Bezirk an der 2. Modellphase der „Berliner Hausbesuche“ teil. In Steglitz-Zehlendorf wurden bereits während der Modellphase auch Hausbesuche durchgeführt, die außerhalb der Modellregion Lankwitz lagen. Lediglich die Anschreiben der Bezirksstadträtin wurden nur innerhalb der Modellregion sukzessive an ältere Menschen von 70 bis 80 Jahren versandt.\n\nDie Modellphase der Berliner Hausbesuche wurde im September 2023 mit einer Gesamtevaluation im Auftrag der Senatsverwaltung für Wissenschaft, Pflege und Gleichstellung abgeschlossen. Die überaus positiven Ergebnisse sowie die Rückmeldungen aus den Modellbezirken haben dazu beigetragen, dass der Senat beschloss, dass Programm auf alle 12 Bezirke auszuweiten. Für Steglitz-Zehlendorf gilt damit: Die älteren Mitbürger:innen aller Bezirksregionen (beginnend mit den 70-Jährigen) werden per Anschreiben und über Öffentlichkeitsarbeit über das Programm informiert und erhalten, sofern sie dies wünschen, einen Hausbesuch.\n\nWas die Mittelausstattung betrifft, so hat die Senatsverwaltung den Bezirken Mittel für den Versand der Anschreiben durch das ITDZ bereitgestellt. Der Bezirk seinerseits stellt Personalmittel zur Verfügung. Die Hausbesuche für Steglitz-Zehlendorf werden durch eine Mitarbeiterin in der QPK unterstützt, die mit den Maltesern als Lotsen und der Senatsverwaltung als Auftrag- und Fördermittelgeberin in engem und regelmäßigen Austausch steht.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -22126,7 +22127,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "458/VI",
@@ -22241,7 +22241,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Patrick Steinhoff",
       "antwort": "Die 3. Fortschreibung des bezirklichen Zentrenkonzepts wurde am 20.03.2024 durch die Bezirksverordnetenversammlung Steglitz-Zehlendorf beschlossen. Dem voraus ging die entsprechende Vorstellung des finalen Konzepts im Ausschuss für Stadtentwicklung und Wohnen in der Sitzung vom 13.02.2024 einher. Ein erster Sachstand durch das beauftragte Planungsbüro erfolgte bereits in der Ausschusssitzung vom 13.10.2023. Über weitere Beteiligungsschritte wurde fortlaufend informiert. Diskussionsbeiträge der Bezirksverordneten wurden vom Planungsbüro beachtet.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -22249,7 +22250,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "460/VI",
@@ -22299,14 +22299,14 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Patrick Steinhoff",
       "antwort": "Die Untere Denkmalschutzbehörde ist leider nicht berechtigt, Bauwerke unter Denkmalschutz zu stellen. Die Entscheidung hierzu obliegt ausschließlich der Oberen Denkmalschutzbehörde, respektive dem Landesdenkmalamt Berlin (LDA). Die besondere Bedeutung des RTO-Bahnsteigs steht für das Bezirksamt Steglitz-Zehlendorf außer Frage. Basierend auf dem Beschluss der BVV wurde das LDA mit einem Schreiben vom 13.02.2025 darum gebeten, die Reste dieses historischen Ortes in die Denkmalliste aufzunehmen. Vor allem im Hinblick einer möglichen Reaktivierung der Potsdamer Stammbahn könnte der Bahnsteig im Baufeld liegen. Nach Rücksprache mit dem LDA wird aber eine Unterschutzstellung derzeit nicht erwogen. Man habe aber den Blick darauf, wie mögliche Schritte der Entwicklung der Potsdamer Stammbahn vorangehen. Eine Unterschutzstellung wird dann nochmals geprüft. Seitens der Deutschen Bahn AG werden seit einem Schreiben vom Bezirksamt vom 11.01.2024 regelmäßig Vegetationsschnitte unterhalb des Dachs durchgeführt. Auch wurden Verkabelungen und defekte Dachelemente neu sortiert. Das Erscheinungsbild hat sich positiv verstetigt. Seitens der DB AG liegt die Zusage vor, den Bahnsteig zu erhalten.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_ergebniss": "nicht-umgesetzt",
       "originalinitiator": "FDP- und GRÜNE-Fraktion",
       "originalparties": [
         "FDP",
         "Grüne"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "461/VI",
@@ -22350,7 +22350,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Das Bezirksamt Steglitz-Zehlendorf stellt über seine Webseite ein umfangreiches Angebot an Informationen und Kontakten für Geflüchtete bereit. Die Inhalte sind über die Seite des Integrationsbüros frei abrufbar (siehe: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/beauftragte/integration/). Der Wegweiser „Kiez International“ wurde umfangreich überarbeitet und erneuert, einschließlich aktualisiertem Grußwort. Der Wegweiser ist in sechs Sprachen auf der Website des Bezirksamts abrufbar (siehe: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/beauftragte/integration/artikel.1319979.php).",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -22358,7 +22359,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "462/VI",
@@ -22691,13 +22691,13 @@ var D=[
       "berichterstatter": "2. Berichterstatterin: \nBezirksbürgermeisterin Maren Schellenberg",
       "antwort": "Das Bezirksamt unterstützt den Einsatz der Ersthelfer-App KATRETTER. Auf der bezirklichen Internetseite zum Bevölkerungsschutz in Steglitz-Zehlendorf wird unter dem Stichwort „Helfen Sie mit beim Bevölkerungsschutz“ für die Nutzung der App durch freiwillige Ersthelferinnen und Ersthelfer geworben. Auch auf der Internet-Startseite des Bezirksamts wurde im März/April an prominenter Stelle auf die App hingewiesen. Das Bezirksamt hat mit Presseerklärung vom 20.03.2024 für die Nutzung geworben und auf die näheren Informationen auf der Internet-Seite der Berliner Feuerwehr verwiesen. Es ist beabsichtigt, diese Presseerklärung wenigstens zweimal in einem Abstand von etwa einem halben Jahr zu wiederholen.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "472/VI",
@@ -23494,7 +23494,8 @@ var D=[
       "antwortdatum": "27.08.2024",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "<b>Stadtbibliothek:</b> \n\nDer Fachbereich Bibliotheken bietet an allen drei festen Standorten bereits Aktivitäten zur Stärkung der digitalen Medienkompetenz von Senior*innen an. Dazu zählen\n\n<i>Sprechstunden zu den Digitalen Angeboten des VÖBB</i>\n\n - Hilfestellungen bei Fragen wie zum Beispiel zur E-Book-Ausleihe, dem Musikstreaming oder auch zu möglichen technischen Aspekten rund um die digitale Ausleihe\n - Regelmäßig 1-2x im Monat, in der Ingeborg-Drewitz-Bibliothek, in der Gottfried-Benn-Bibliothek und in der Stadtteilbibliothek Lankwitz\n\n<i>Frauen-Computer-Stammtisch</i>\n - Austausch von Frauen zu Computern, Tablets und Smartphones; Teilen von Erfahrungen sowie niedrigschwelliges Lernen\n - Regelmäßig 1x im Monat in der Ingeborg-Drewitz-Bibliothek\n\n<i>Digitale Fotos optimieren</i>\n - Hilfestellung und Beratung zur digitalen Bildbearbeitung\n\n - Regelmäßig 1x im Monat in der Ingeborg-Drewitz-Bibliothek\n\n<i>Roboter, Rechner und Rentner: Künstliche Intelligenz. Eine praktische Einführung für Senioren</i>\n - praktische Einführungsveranstaltung zur Künstlichen Intelligenz: Erläuterung von häufig aufkommenden Begrifflichkeiten sowie die Möglichkeit, um Fragen zu stellen und Ausprobieren von ChatGPT\n - Auftaktveranstaltung in der 50. Berliner Seniorenwoche in der Ingeborg-Drewitz-Bibliothek, soll zu einer regelmäßigen Veranstaltungsreihe ausgebaut werden KI/AI-Spezial für Alle\n - CoderDojo-Spezial für Jugendliche ab 14 Jahren und Erwachsene, mit einer Einführung in die Welt von ChatGPT und Co: Einblick in die Geschichte der KI-Entwicklung, Überblick über die Einflussgebiete der KI sowie ein Praxisteil \n\nIm Bereich Kommunikationstools bietet die Stadtbibliothek Ratgeber, die die Benutzung einschlägiger Instant-Messenger - wie WhatsApp - auch für absolute Neueinsteiger erläutern. Informationen zu digitalen Arztbesuchen und dem E-Rezept finden sich in den in der Stadtbibliothek erhältlichen Magazinen test und finanztest sowie im Bereich Medizin in den Sachbuchabteilungen. Im Bereich „Warnung vor Missbrauch und Kriminalität im Internet“ wird während unserer Polizeisprechstunden entsprechende Aufmerksamkeit geschaffen. \n\n<i>Ausblick Digital-Zebra</i>\n\n - Die Stadtbibliothek Steglitz-Zehlendorf beteiligt sich am Berliner Digital-Zebra-Projekt, welches allen Bürgerinnen und Bürgern ein umfassendes Beratungsangebot hinsichtlich digitaler Dienstleitungen bieten soll. Start ist voraussichtlich im Herbst 2024. \n\n<b>Volkshochschule/Seniorenfreizeitstätten</b>\nDie Volkshochschule Steglitz-Zehlendorf bietet seit über 20 Jahren Kurse für Seniorinnen und Senioren im Bereich Computer Skills an. Diese Kurse decken alle nachfragerelevanten Inhalte ab und schreiten stets mit der technischen Entwicklung einher. Die im Beschluss genannten Themen sind regelmäßig Teil des Angebotes. Die Anpassung der Angebote erfolgt regelmäßig in Abhängigkeit von neuen technologischen Entwicklungen oder von Bedarfen, die Teilnehmende oder potenziell nachfragende äußern.\n\nDie VHS ist darüber hinaus Teil der AG Digitalisierung der Nachbarschaftshilfe Mittelhof e.V. mit Vertreterinnen und Vertreter der Santor- und Fürst Donnersmark Stiftung, der Malteser, Berliner Hausbesuche des Hertha-Müller-Hauses, der Seniorenvertretung u.a. Hierbei hat sich gezeigt, dass diese Akteure in den Einrichtungen bereits vielfältige Unterstützungsleistungen zur Steigerung von Digitalkompetenzen etabliert haben und zum aktuellen Zeitpunkt die VHS als weiterer Player vor Ort nicht notwendig ist. So finden z.B. in mehr als der Hälfte der Seniorenfreizeitstätten Smartphone- und Tabletkurse für Anfänger und Fortgeschrittene statt. Die VHS wird sich weiter an der AG beteiligen und erklärt sich jederzeit bereit, sich auch als Anbieter vor Ort einzubringen, wenn dies nachgefragt wird.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -23503,7 +23504,6 @@ var D=[
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "laufender-prozess"
   ],
   [
     "486/VI",
@@ -23595,7 +23595,8 @@ var D=[
       "antwortdatum": "27.08.2024",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Richter-Kotowski",
       "antwort": "Die Volkshochschule Steglitz-Zehlendorf konnte bereits für das Sommerprogramm 2024 einen kompetenten Kursleiter (Demokratie- und Antigewalt-Trainer, Schützer von Veranstaltungen) gewinnen, einen Wochenendkurs mit folgendem Titel und Inhalt ausschreiben und erfolgreich durchführen: \n\n<i>Umgang mit Konflikten und Gewaltsituationen - Für Frauen und Mädchen ab 16 Jahren Wo fängt Selbstverteidigung an?\n\n</i> Mädchen und Frauen wollen nicht Opfer von Gewalt werden. Sich selbst zu behaupten, abzugrenzen, Situationen zu erkennen und richtig einzuschätzen, sich situationsangemessen zu verhalten und zu einer realistischen Selbstverteidigung fähig zu sein, sind die wesentlichen Voraussetzungen, um Angst zu reduzieren, mit Gefahren und Risiken sinnvoll umzugehen und Angriffen zu begegnen.\nSituationen, die Ihre Selbstbehauptung oder Zivilcourage erfordern, sind zu 80 Prozent durch vorbeugende Maßnahmen zur Vermeidung gewalttätiger Auseinandersetzungen, durch sicheres, überlegtes Handeln zu lösen.\nFür die restlichen 20 Prozent ist das Training der Abwehr physischer Angriffe ein wesentliches Element des Kurses. Verwendet werden praxisbewährte Techniken aus verschiedenen Kampfsportarten. Diese Techniken können Sie effektiv einsetzen, um typische Gefahrensituationen zu bewältigen. Ziel des Kurses ist es, Kompetenzen und Fähigkeiten zu entwickeln, um das Vertrauen in das eigene Handeln zu stärken.\n\nDie Veranstaltung wurde über den Instagram-Kanal der VHS, eine Pressemitteilung und eine Weiterleitung an die Frauenvertreterin publiziert, das Sommerprogramm über die Auslage im Bezirksamt und an weiteren Stellen veröffentlicht. Sieben Frauen bzw. Mädchen hatten sich für den Kurs angemeldet.\n\nDer nächste Kurs ist im Herbstsemester der VHS ausgeschrieben und für das Wochenende 26./27.10.2024 terminiert und wird erneut über zahlreiche Kanäle bekannt gemacht.\n\nDie Programme der VHS werden schon immer in Bürgerämtern, Bibliotheken und vielen anderen öffentlichen Orten ausgelegt. Bestimmte Zielgruppen können darüber hinaus in Kursen z.B. für Geflüchtete (auch in Flüchtlingsunterkünften) angesprochen werden.\n\nEine Erweiterung des Kursprogramms auch in anderen Sprachen hängt maßgeblich von der Verfügbarkeit weiterer geeigneter Kursleitungen ab, die aufgrund der aktuellen Situation eine große Herausforderung ist. Die Volkshochschule greift den Beschluss dennoch auf und sucht nach mindestens einer weiteren geeigneten Kursleitung für die kommenden Programme 2025, die den Kurs z.B. englischsprachig anbieten kann. Sollte dies gelingen, kann das Angebot wir im Beschluss vorgeschlagen kommuniziert werden. Dazu wird im Ausschuss für Weiterbildung und Kultur laufend berichtet.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -23604,7 +23605,6 @@ var D=[
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "488/VI",
@@ -23864,11 +23864,11 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Seit der Beschlussfassung des ersten Antrages bin ich im aktiven Austausch mit der Bürgerinitiative Blumenkiez und den Gewerbetreibenden vor Ort. So habe ich drei Ortstermine – am 20.11.2023, 23.04.2024 und zuletzt am 19.10.2024 wahrgenommen. Des Weiteren waren Vertreterinnen und Vertreter der Initiative mehrfach bei mir ihm Büro, so dass die einzelnen Maßnahmen im Austausch entwickelt wurden. Folgende Einzelmaßnahmen sind geplant:\n\nIm Zentrum des umgestalteten Eugen-Gerstenmaier-Platzes steht der Mensch. Das bedeutet zunächst mehr Raum und mehr Ordnung. Aktuell stehen zum Beispiel die Fahrradbügel verteilt auf dem Platz. Daher werden die Fahrradbügel im Bereich des Fußweges in Richtung S-Bahn zugunsten der Barrierefreiheit entfernt. Auf dem Platz werden zusätzlich zwei neue Bäume gepflanzt, die mit ihren Baumscheiben für eine neue Stadtnatur-Atmosphäre sorgen sollen. Die Restfläche wird künftig für den Lieferverkehr, die Feuerwehr und Rettungsfahrzeuge freigegeben. Gleichzeitig soll der Platz zu einem nachbarschaftlichen Begegnungsort werden. Die bestehenden Bänke wurden gedreht und mit neuen Bänken ergänzt, so dass Sitzgruppen entstanden sind. Ein kleiner Markt kann hier stattfinden. Unter Aufsicht können temporäre Spielangebote wie zum Beispiel durch das Projekt „Spielmobil“ für Kinder organisiert werden. Eine Bücherbox soll aufgebaut werden. Der große Baumstubben wurde bereits gefräst, ein neuer Baum gepflanzt und der Gehweg an der Hortensienstraße instandgesetzt. Eine Querungsmöglichkeit wird in der Hortensienstraße auf Höhe der früheren Telefonzelle geschaffen. Die Telekom hat zugesagt, die alten Telefonzellen im Bezirk Steglitz-Zehlendorf in diesem Jahr abzubauen, prioritär wird diese Telefonzelle abgebaut werden. Am Asternplatz sind wiederum Gehwegvorstreckungen vorgesehen. Allerdings sollen diese nicht baulich sein, sondern durch Markierungen und entsprechendem Pollerschutz erfolgen. Dies ist deutlich günstiger und auch schneller umsetzbar. Gegenüber dem Eugen-Gerstenmaier-Platz wird in Abstimmung mit der Marktleitung vor dem Supermarkt „Penny“ die Lieferzone abgeordnet, da die Lieferzone direkt um die Ecke in der Hortensienstraße ausreichend ist. Somit können an dieser Stelle Kurzzeitparkplätze (2 Stunden) eingerichtet werden. An dieser Stelle werden zwei neue Bäume gepflanzt, dazwischen Fahrradbügel installiert.\n\nAuf der Westseite der Moltkestraße (südlich der Brücke) soll das Gehwegparken abgeordnet werden. Dafür werden in gleicher Anzahl sog. Schrägparkflächen auf der Fahrbahn als Kurzzeitparkplätze (2 Stunden) angeordnet. Der Vorteil dieser Anordnung ist zum einen die Verengung der Fahrbahn und damit verbunden eine Entschleunigung des Verkehrs und zum anderen eine weitere\n\nPlatzatmosphäre aufgrund des überbreiten Gehweges auf der Seite der Buchhandlung Schwericke. Des Weiteren sollen bestehende Baumscheiben vergrößert werden, ein weiterer Baum wird gepflanzt. Fahrradbügel werden neben dem Bestandsbaum ergänzt, so dass auch auf dieser Seite der Brücke zahlreiche geordnete Fahrradbügel zur Verfügung gestellt werden. Stellplätze für Motorräder werden mitgedacht. Auf der Ostseite der Moltkestraße (südlich der Brücke) sollen ebenfalls alle Stellplätze als Kurzzeitparkplätze (2 Stunden) angeordnet werden.\n\nDie Parkplätze vor den Geschäften werden wie mehrfach erwähnt als Kurzzeitparkplätze mit einer maximalen Parkdauer von 2 Stunden zwischen 9 Uhr und 19 Uhr angeordnet, so dass Anwohnerinnen und Anwohner die Möglichkeit haben ab 19 Uhr bis zum nächsten Morgen dort zu parken.\n\nZwischen dem Asternplatz und dem Gardeschützenweg wird Tempo 20 als „Verkehrsberuhigter Geschäftsbereich“ angeordnet. Das Ziel dieser Maßnahme ist, den Durchgangsverkehr zu verringern und den Verkehr zu entschleunigen. Mit der Erhöhung der Aufenthaltsqualität soll vor allem die lokale Wirtschaft gestärkt werden.\n\nEs werden somit viele kleinteilige Maßnahmen ausgeführt. Da wir sowohl mit den Anwohnerinnen und Anwohnern als auch mit den Einzelhändlern im stetigen Austausch sind, können im Prozess auch leichte Änderungen oder Ergänzungen stattfinden.\n\nEs ist vorgesehen, die ersten Umgestaltungsmaßnahmen in den kommenden Wochen und Monaten umzusetzen. Ziel ist, in der ersten Jahreshälfte 2025 alle Maßnahmen umgesetzt zu haben.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Bürgerinnen und Bürger",
       "originalparties": []
     },
-    "laufender-prozess"
   ],
   [
     "493/VI",
@@ -24039,7 +24039,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksverordnetenvorsteher Rögner-Francke",
       "antwort": "Das BVV-Büro hat einen Flyer über die Bezirksverordnetenversammlung Steglitz-Zehlendorf erstellt. Darin sind die genannten Informationen enthalten. Der Flyer wird künftig beim Pförtner, im Bürgeramt etc. ausgelegt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -24047,7 +24048,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "496/VI",
@@ -24704,13 +24704,13 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Die Sporthalle der Athene-Grundschule ist bereits für Schülerinnen und Schüler nutzbar. Der Standort der Athene-Grundschule wurde unter anderem von den Basketballvereinen des Bezirks sowohl für den Trainings- als auch dem Wettkampfbetrieb genutzt. Durch einen erheblichen Wasserschaden war eine Nutzung der Umkleidebereiche und der sanitären Einrichtungen nicht mehr möglich. Die Bauarbeiten vor Ort zur Wiederherstellung der Umkleiden, Toiletten und Duschen werden voraussichtlich im Frühsommer 2025 starten und sollen bis Mitte Oktober 2025 abgeschlossen sein. Nach Abschluss der Baumaßnahmen ist die Halle wieder vollumfänglich für Trainings- und Wettkampfzwecke nutzbar.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "510/VI",
@@ -24916,7 +24916,8 @@ var D=[
       "antwortdatum": "10.02.2026",
       "berichterstatter": "2. Berichterstatter: Bezirksstadträtin Sijbrandij",
       "antwort": "Im Jahr 2022 bezifferte das Alliiertenmuseum im Rahmen der Sonderausstellung „Ein Museum im Zeichen der Freiheit“ (Laufzeit: 21.9.2022 bis 29.5.2023) den benötigten Zeitrahmen für einen Umzug nach Tempelhof nach einer Beschlussfassung auf 12-15 Jahre, frühestmöglicher Umzugstermin wäre zu diesem Zeitpunkt das Jahre 2034 gewesen. Bis heute ist der Umzugsbeschluss nicht erfolgt, auf politischer Ebene finden derzeit keine Diskussionen über das Thema statt. Sollten die Diskussionen zu einem späteren Zeitpunkt wieder aufgenommen werden und der Umzug doch noch beschlossen werden, bleibt angesichts der für den Umzug erforderlichen Zeitspanne von mindestens 12 Jahren genug Zeit, um mit den zuständigen Stellen in einen Austausch über eine mögliche Nachnutzung zu treten. Zum jetzigen Zeitpunkt entbehrte jedwede Anfrage einer soliden Beschlusslage.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "falscher-ausgangspunkt",
+      "erledigte_art_ergebniss": "nicht-umgesetzt",
       "originalinitiator": "FDP- und SPD-Fraktion",
       "originalparties": [
         "FDP",
@@ -24924,7 +24925,6 @@ var D=[
       ],
       "erledigtvermerk": "Wir bitten, den Beschluss damit als erledigt zu betrachten."
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "514/VI",
@@ -25055,7 +25055,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Maren Schellenberg",
       "antwort": "Zehlendorf-Mitte wurde durch die Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen als eines von fünf Berliner Gebieten für eine Aufnahme in das Förderprogramm Lebendige Zentren und Quartiere (LZQ) ab dem Jahr 2025 ausgewählt. Vorab wird ein Integriertes städtebauliches Entwicklungskonzept (ISEK) entwickelt.\n\nIm Rahmen des Förderprogrammes können verschiedene Maßnahmen angemeldet und gefördert werden. Die Wirtschaftsförderung hat in Abstimmung mit dem Stadtentwicklungsamt ein Geschäftsstraßenmanagement beantragt, welches auch gleichzeitig ein Baustellenmanagement beinhaltet. Sofern dem Antrag entsprochen wird, stehen ab dem 3./4. Quartal 2025 und den Folgejahren Mittel für ein Geschäftsstraßenmanagement zur Verfügung. Außerdem soll ein solches Management den Kontakt mit den Gewerbetreibenden suchen und pflegen. Durch verschiedene Projekte und Werbemaßnahmen soll der Standort attraktiver gestaltet werden. Negative Folgen durch die Großbaustelle sollen abgefedert und ein wirtschaftlich lebendiges Zentrum gewährleistet werden. Sogenannten Traiding-Down-Effekten soll mit dem Management entgegengewirkt werden.\n\nUnabhängig davon wird die Wirtschaftsförderung des Bezirkes weiterhin für die Gewerbetreibenden als Ansprechpartnerin und beratend zur Verfügung stehen. Sowie der konkrete Bauablauf feststeht, kann hier konkret vorgegangen werden. Die Wirtschaftsförderung des Bezirkes hat schon seit Jahren gute Kontakte zu den Händlergemeinschaften der Gegend.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
         "FDP",
@@ -25063,7 +25064,6 @@ var D=[
         "SPD"
       ]
     },
-    "laufender-prozess"
   ],
   [
     "517/VI",
@@ -25107,7 +25107,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Patrick Steinhoff",
       "antwort": "Mit der berlinweiten Ausführungsvorschrift (AV) Genehmigungskriterien (in Kraft getreten zum 01. Dezember 2024) seitens der Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen ist dieses Thema „zentralisiert“ worden. Ziel hierbei war, dass in allen Bezirken und in allen Milieuschutzgebieten nach den gleichen Kriterien gearbeitet wird. An der Erstellung der AV waren die Bezirke beteiligt. Zusätzlich erfolgte durch SenStadt parallel ein umfassender Evaluationsprozess. Derzeit erfolgt die weitere Überarbeitung der AV, in denen u.a. das Vorgehen beim „möblierte Wohnen“ geregelt werden soll. Entsprechende Anpassungen erfolgen fortlaufend und häufiger als in den vorhergehenden bezirklichen Ausführungsvorschriften. Eine eigenständige Evaluation durch das Bezirksamt ist aus diesen Gründen nicht vorgesehen und fachlich nicht sinnvoll.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_ergebniss": "laufender-prozess",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -25115,7 +25116,6 @@ var D=[
         "SPD"
       ]
     },
-    "nicht-umsetzbar"
   ],
   [
     "518/VI",
@@ -25164,7 +25164,8 @@ var D=[
       "antwortdatum": "17.06.2025",
       "berichterstatter": "2. Berichterstatter: \nBezirksstadträtin Carolina Böhm",
       "antwort": "Die Bezirksverordnetenversammlung (BVV) Steglitz-Zehlendorf forderte mit Beschluss vom 21.02.2024 das Bezirksamt auf, sich im Zuge der geplanten bundesgesetzlichen Regelungen zur Teillegalisierung von Cannabis als Modellregion zu bewerben. Der Beschluss bezog sich offenbar auf die in den Eckpunkten der Bundesregierung vom April 2023 angekündigte sogenannte „Säule 2“ eines 2-Säulen-Modells. Diese zweite Säule sollte regionale, kommerzielle Modellprojekte zum staatlich kontrollierten Vertrieb von Cannabis in lizenzierten Fachgeschäften ermöglichen. Diese Projekte sollten dazu dienen, die Auswirkungen eines legalen Cannabismarktes auf Gesundheitsschutz, Jugendschutz und illegalen Markt zu untersuchen. Hierzu wären dann Regionen aufgefordert gewesen, sich als Modellregion zu bewerben. Diese zweite Säule wurde bislang jedoch nicht gesetzlich umgesetzt. Es liegt weder ein Gesetzentwurf noch ein Zeitplan zur Einführung dieser Regelung vor. Somit besteht derzeit keine rechtliche Grundlage, auf deren Basis sich der Bezirk Steglitz-Zehlendorf als Modellregion bewerben könnte.\n\nIm Rahmen der „Säule 1“ gibt es gem. § 2 Abs. 4 KCanG, die Möglichkeit, Forschungsprojekte zu Genusscannabis durchzuführen und hierzu gem. Konsumcannabis-Wissenschafts-Zuständigkeitsverordnung (KCanWV) einen Antrag beim Bundesanstalt für Landwirtschaft und Ernährung zu stellen. Hierzu heißt es Auf der Website des Ministeriums für Landwirtschaft, Ernährung und Heimat: „Die Verordnung nach § 2 Abs. 4 KCanG regelt den wissenschaftlichen Umgang mit Konsumcannabis. Wer Konsumcannabis zu wissenschaftlichen Zwecken besitzen, anbauen, herstellen, einführen, ausführen, erwerben, entgegennehmen, abgeben, weitergeben, Cannabinoide aus der Cannabispflanze extrahieren oder mit Konsumcannabis zu wissenschaftlichen Zwecken Handel treiben will, benötigt eine Erlaubnis der Bundesanstalt für Landwirtschaft und Ernährung. Dies ist nicht die „zweite Säule“ des Eckpunktepapiers. Die „zweite Säule“ sollte in einem umfassenden und detaillierten Gesetz bundesweit Cannabisfachgeschäfte erproben. Zuständig für die Erarbeitung eines solchen Gesetzentwurfs ist das Bundesministerium für Gesundheit.“ Die Sucht- und Drogenberatungsstelle im Bezirk „Königsberger 11“ des Caritasverbands wurde frühzeitig darüber informiert, dass der Aufbau eines Cannabis-Modellprojekts beabsichtigt ist. Die Leitung der Sucht- und Drogenberatungsstelle merkte jedoch an, dass die aktuellen Kapazitäten der Beratungsstelle ausgeschöpft sind und bei zusätzlichen Aufgaben im Rahmen eines Modellprojekts dringend zusätzliche Ressourcen benötigt werden.\n\nSchlussfolgerung:\n\nDa das vom BVV-Beschluss adressierte Vorhaben nach „Säule 2“ des Eckpunktepapiers nicht in Gesetzesform umgesetzt wurde und dies nach aktueller Einschätzung auch nicht zeitnah zu erwarten ist.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "falscher-ausgangspunkt",
+      "erledigte_art_ergebniss": "nicht-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -25173,7 +25174,6 @@ var D=[
       ],
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten."
     },
-    "nicht-umsetzbar"
   ],
   [
     "519/VI",
@@ -25309,7 +25309,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Patrick Steinhoff",
       "antwort": "Im Rahmen der Erstellung des Integrierten Städtebaulichen Entwicklungskonzepts (ISEK) für Zehlendorf-Mitte wurden neben den Beteiligungsformaten, welche alle Bevölkerungsgruppen ansprechen sollte (bspw. durch Beteiligungswerkstätten im Rathaus Zehlendorf), auch ein Rundgang speziell für Kinder und Jugendliche zum Tag der Städtebauförderung 2024 angeboten sowie eine Kinder- und Jugendbefragung durchgeführt. In der Vorbereitung wurde das Kinder- und Jugendbüro (KiJuB) mit einbezogen. 75 Kinder und Jugendliche haben sich beteiligt und einzelne Maßnahmen für das ISEK sind hieraus abgeleitet worden. Die Ergebnisse der Beteiligung wurden bei der Abschlussveranstaltung am 15.10.2024 vorgestellt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-, SPD- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -25317,7 +25318,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "522/VI",
@@ -25940,7 +25940,8 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Am 07.01.2025 wurde im Ausschuss für Frauen, Gleichstellung, Queer der BVV ein Frauenbeirat gewählt. Gewählt wurden nach einem öffentlichen Aufruf zur Bewerbung 6 Mitglieder von Vereinen und Organisationen und 7 Mitglieder aus engagierten Frauen aus dem Bezirk. Am 26.02.2025 fand die konstituierende Sitzung des Frauenbeirates statt. Informationen zum Frauenbeirat können auf der folgenden Internetseite eingesehen werden: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/gremien/frauenbeirat/ Die Geschäftsordnung des Frauenbeirates Steglitz-Zehlendorfs ist unter dem folgenden Link abrufbar: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/___tmp/tmp/45081036/2hW8fqEndQKFJdHwrGlbjJpxJv9jvTf0zzLbUlKy/rbRpqHtW/74-Anlagen/01/EntwurfGOFBSteZe.pdf",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigtkategorien": "keine-antwort",
+      "erledigte_art_wie": "geprueft",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "SPD-, GRÜNE- und FDP- Fraktion",
       "originalparties": [
         "FDP",
@@ -25948,7 +25949,6 @@ var D=[
         "SPD"
       ]
     },
-    "vollstaendig-umgesetzt"
   ],
   [
     "536/VI",
@@ -26771,7 +26771,7 @@ var D=[
       "antwort": "Inklusion spielt in der heutigen Zeit eine immer größere Rolle, auch im Sport. Hier geht es darum, allen Menschen – unabhängig von Alter, Geschlecht, Behinderung, Herkunft oder sozialen Gegebenheiten – die Möglichkeit zu geben, aktiv teilzunehmen. Sport bietet eine einzigartige Plattform, um Barrieren abzubauen, Vorurteile zu überwinden und Gemeinschaft zu fördern.\n\nBerlinweit wurde 2023 der „Kriterienkatalog für inklusive nutzbare Sportstätten“ verabschiedet, welcher verbindlich anzuwenden ist.\n\nDer entsprechende Kriterienkatalog ist als Anlage dieser Vorlage zur Kenntnisnahme beigefügt.\n\nDas Thema Inklusion ist ein wichtiges Handlungsfeldziel des Sportentwicklungsplans Steglitz-Zehlendorf. Eine aktuelle Erhebung zum Stand der Barrierefreiheit auf den Steglitz-Zehlendorfer Sportanlagen wurde im Sportstättenkataster festgehalten.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigte_art_wie": "geprueft",
-      "erledigte_art_ergebniss": "nicht-umgesetzt",
+      "erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "GRÜNE-Fraktion",
       "originalparties": [
         "Grüne"
@@ -26843,7 +26843,7 @@ var D=[
       "antwort": "Ein Gewaltschutzkonzept oder auch institutionelles Schutzkonzept liegt in jeder Jugendfreizeiteinrichtung vor und wird regelhaft aktualisiert und angepasst. Dabei handelt es sich im eigentlichen Sinne um ein individuell auf die jeweilige Einrichtung bezogenes Konzept mit strukturellen und prozessorientierten Maßnahmen zur Vermeidung von physischer und sexueller Gewalt, emotionalen Missbrauchs sowie grenzüberschreitenden Verhaltens innerhalb einer Einrichtung, durch Mitarbeitende gegenüber den jungen Menschen aber auch der jungen Menschen untereinander. Beim Cybermobbing und Cybergrooming handelt es sich in der Regel um „außenstehende“ Täter und Täterinnen. Im Bereich der Jugendförderung ist die Aufklärung zu Cybermobbing und Cybergrooming und die Unterstützung der betroffenen jungen Menschen ein genereller Bestandteil der pädagogischen Arbeit in der Jugendarbeit, sowohl in den Jugendfreizeiteinrichtungen als auch in der mobilen Jugend(sozial)arbeit. Das Fachreferat Förderung initiiert regelmäßig Projekte für Fachkräfte, junge Menschen und auch Eltern, die die Schnittstelle zwischen Medienpädagogik und Gewaltprävention aufgreifen. Seit 2023 finden z.B. Workshops an Schulen und in Jugendfreizeiteinrichtungen zu beiden Themen statt.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigte_art_wie": "bereits-vorhanden",
-      "erledigte_art_ergebniss": "nicht-umgesetzt",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
@@ -26915,7 +26915,7 @@ var D=[
       "antwort": "Die Jugendfreizeiteinrichtungen laden die Polizei und Feuerwehr regelmäßig zu Festen ein, um sich dort zu präsentieren. So war z. B. beim 50-jährigen Jubiläum der Jugendwerkstatt am Ostpreußendamm die Feuerwehr vor Ort. Beim Jugendfestival wurde mit der Polizei eine Kooperation durchgeführt. Darüber hinaus sind in Planung Erste-Hilfe-Kurse und Brandschutz-Kurse. Die kooperierenden Institutionen können allerdings nur soweit eingebunden werden wie sie Freiräume für solche Veranstaltungen haben. Hierauf haben die Jugendfreizeiteinrichtungen keinen Einfluss",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
       "erledigte_art_wie": "bereits-vorhanden",
-      "erledigte_art_ergebniss": "nicht-umgesetzt",
+      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
@@ -32262,7 +32262,7 @@ var D=[
       "antwort": "Bereits am 03.11.2023 fand ein Termin zwischen dem Amtsleiter des Straßen- und Grünflächenamtes, dem Geschäftsführer der Firma infresSt und mir statt. Im Ergebnis der Sitzung wurde entschieden, dass der Bezirk Steglitz-Zehlendorf zukünftig den Baustellenatlas aktiv nutzt und seine Investitionsmaßnahmen in das System einträgt / eintragen lässt. Am 03.06.2024 habe ich die Ergänzung der Nutzungsvereinbarung des „Baustellenatlas“ – Schreibrecht für den Bezirk Steglitz-Zehlendorf unterschrieben. Diese Nutzungsvereinbarung ergänzt die bereits bestehende Nutzungsvereinbarung der Firma infreST mit der Senatsverkehrsverwaltung. Eine Ausweitung auf die Maßnahmen der Straßenunterhaltung ist weder leistbar noch aus Sicht der infreSt und des SGA zielführend da diese einen viel zu kurzen Vorlauf haben. Jahresgespräche mit den großen Leitungsnetzbetreibern (NBB, BWB; Stromnetz) und dem Straßen- und Grünflächenamt finden bereits jetzt statt, so dass die Einrichtung einer zusätzlichen Koordinierungsrunde nicht notwendig ist. Hinsichtlich der Einhaltung der Aufgrabeverbote muss darauf hingewiesen werden, dass diese grundsätzlich bereits jetzt eingehalten werden. Ausnahmen bilden hierbei Havariemaßnahmen, die entsprechend durch die Leitungsnetzbetreiber belegt/ begründet werden müssen. Weiterhin stellen Baumaßnahmen der Telekommunikationsunternehmen einen Großteil der Aufgrabungen dar. Für diese Leitungsnetzbetreiber greift das Aufgrabeverbot nicht, da die Telekommunikationlinien auf Grundlage des TKG verlegt werden. Dieses kennt kein Aufgrabeverbot. Das\n\nAufgrabeverbot gem. AV zu § 12 BerlStrG ist hier nicht anwendbar, da das TKG als Bundesrecht entsprechend der Normenhierachie über dem BerlStrG steht.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
       "erledigte_art_wie": "geprueft",
-      "erledigte_art_ergebniss": "bereits-gaengige-praxis",
+      "erledigte_art_ergebniss": "teilweise-umgesetzt",
       "originalinitiator": "CDU-Fraktion",
       "originalparties": [
         "CDU"
