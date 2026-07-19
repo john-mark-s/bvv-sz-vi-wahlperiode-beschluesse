@@ -11445,12 +11445,13 @@ var D=[
       ],
       "beschlusstext": "Die BVV hat beschlossen: Der Antrag ist durch Amtshandeln erledigt.",
       "beschlussdatum": "07.12.2022",
+      "erledigte_art_wie": "geprueft",
+      ""erledigte_art_ergebniss": "vollstaendig-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
         "Linke"
       ]
     },
-    "sonstiges-unklar"
   ],
   [
     "236/VI",
