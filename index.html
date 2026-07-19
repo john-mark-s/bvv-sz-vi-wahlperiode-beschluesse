@@ -227,6 +227,23 @@ var WIE_DEFS={
   "falscher-ausgangspunkt":{label:"Falscher Ausgangspunkt"}
 };
 </script>
+<!--
+  GoatCounter (privacy-friendly, cookieless analytics — https://www.goatcounter.com).
+  This one tag already tracks page views automatically. Custom click events (Beschluss
+  geöffnet / Quelle-Klick) are fired separately via gcEvent() further down and need no
+  extra setup on your end.
+-->
+<script data-goatcounter="https://johnmarks.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+// Fires a custom GoatCounter event. Safe to call even before the script above has loaded
+// or if it's blocked (e.g. by an ad blocker) — silently does nothing in that case rather
+// than throwing and breaking the page.
+function gcEvent(path,title){
+  if(window.goatcounter&&window.goatcounter.count){
+    window.goatcounter.count({path:path,title:title||path,event:true});
+  }
+}
+</script>
 </head>
 <body>
 <div class="topbar"><span>BVV Steglitz-Zehlendorf · VI. Wahlperiode 2021–2026</span><span>Stand: 16.06.2026</span></div>
@@ -673,16 +690,19 @@ function openD(idx){
   // Bezirksamt response
   if(s.antwort){
     var av=splitAntwortErledigt(s.antwort,s.erledigtvermerk);
-    h+='<div class="ms"><div class="ms-title">Antwort des Bezirksamts</div>';
+    h+='<div class="ms"><div class="ms-title">Antwort des Bezirksamts'+(s.antwortdatum?'<span style="font-weight:400;text-transform:none;letter-spacing:normal;color:var(--mid)"> · '+e(s.antwortdatum)+'</span>':'')+'</div>';
     if(s.berichterstatter){h+='<div style="font-size:11px;color:var(--mid);margin-bottom:8px">Berichterstatter: '+e(cleanText(cleanBerichterstatter(s.berichterstatter)))+'</div>';}
     h+='<div class="at-box">'+formatBody(cleanText(av.antwort))+'</div>';
     if(av.erledigtvermerk){h+='<div class="ev-box">'+formatBody(cleanText(av.erledigtvermerk))+(av.signatur?' '+e(av.signatur):'')+'</div>';}
     h+='</div>';
   }
 
-  if(b.url){h+='<div style="padding:4px 0 0"><a class="ext-lnk" href="'+e(b.url)+'" target="_blank" rel="noopener">Originaldokumente ansehen</a></div>';}
+  if(b.url){h+='<div style="padding:4px 0 0"><a id="extLnk" class="ext-lnk" href="'+e(b.url)+'" target="_blank" rel="noopener">Originaldokumente ansehen</a></div>';}
   document.getElementById("mb").innerHTML=h;
   document.getElementById("mo").classList.add("on");
+  gcEvent("beschluss/"+b.nr,b.betreff);
+  var extLnkEl=document.getElementById("extLnk");
+  if(extLnkEl){extLnkEl.addEventListener("click",function(){gcEvent("outbound-quelle/"+b.nr,b.betreff);});}
 }
 
 function closeM(){document.getElementById("mo").classList.remove("on");}
