@@ -11718,7 +11718,7 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksstadtrat Urban Aykal",
       "antwort": "Mit Änderung des Zuständigkeitskatalogs zum allgemeinen Zuständigkeitsgesetz (ZuStKat AZG) vom 01.07.2022 ist die Zuständigkeit für die Landesbrunnen gem. Nr. 10 Abs. 11 ZuStKatAZG an die Hauptverwaltung übergegangen. Darüber hinaus existiert ein Abgeordnetenhausbeschluss zur Übergabe der Trinkwassernotbrunnen (Bundes- und Landesbrunnen) an die Berliner Wasserbetriebe (BWB). Dieser Beschluss wird derzeit von der Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) umgesetzt. Zu diesem Zweck hat die SenUMVK die Bezirke mit Schreiben vom 22.02.2023 aufgefordert die Bestandsunterlagen der Trinkwassernotbrunnen zusammenzustellen und der SenUMVK zu übersenden. Dieser Bitte ist das Straßen- und Grünflächenamt (SGA) nachgekommen.\n\nDurch die Übertragung der Zuständigkeit für die Trinkwassernotbrunnen an die SenUMVK bzw. BWB besitzt das SGA für das im BVV-Beschluss genannte Ansinnen keine Zuständigkeit mehr.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss damit als erledigt zu betrachten.",
-      "erledigte_art_wie": "weitergeleitet",
+      "erledigte_art_wie": "geprueft",
       "erledigte_art_ergebniss": "keine-zustaendigkeit",
       "originalinitiator": "FDP-, GRÜNE- und SPD- Fraktion",
       "originalparties": [
