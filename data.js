@@ -9622,7 +9622,7 @@ var D=[
       "berichterstatter": "2. Berichterstatter: \nBezirksbürgermeisterin Schellenberg",
       "antwort": "Sowohl das Bezirksverwaltungsgesetz (BezVwG) in §8 und §8a als auch die Neuregelungen, auf der Grundlage von §8a BezVwG, der Geschäftsordnung der Bezirksverordnetenversammlung haben ausdrücklich eine digitale Durchführung von Sitzungen der Bezirksverordnetenversammlung und ihrer Gremien bei Vorlage außergewöhnlicher Notlagen festgelegt. Weitere Regelungen zur digitalen Durchführung von Sitzungen der Bezirksverordnetenversammlung sind im Bezirksverwaltungsgesetz nicht vorgesehen worden.",
       "erledigtvermerk": "Es wird gebeten, den Beschluss als erledigt zu betrachten.",
-      "erledigte_art_wie": "bereits-vorhanden",
+      "erledigte_art_wie": "geprueft",
       "erledigte_art_ergebniss": "nicht-umgesetzt",
       "originalinitiator": "Linksfraktion",
       "originalparties": [
