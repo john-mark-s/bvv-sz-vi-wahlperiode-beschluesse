@@ -17,7 +17,7 @@
   .site-tag{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:6px;}
   .masthead-title{font-size:clamp(1.1rem,1.4vw + 0.7rem,1.65rem);font-weight:800;line-height:1.05;letter-spacing:-.02em;white-space:nowrap;}
   .masthead-sub{font-size:14px;color:var(--mid);margin-top:6px;}
-  .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);border:2px solid var(--dark);}
+  .stat-grid{display:grid;grid-template-columns:repeat(3,1fr);border:2px solid var(--dark);}
   .stat-box{padding:12px 16px;text-align:center;border-right:2px solid var(--dark);background:var(--paper);}
   .stat-box:last-child{border-right:none;}
   .stat-num{display:block;font-size:2rem;font-weight:800;line-height:1;}
@@ -152,7 +152,7 @@
   .ext-lnk::after{content:"↗";}
   @media(max-width:720px){
     .masthead-inner{grid-template-columns:1fr;}
-    .stat-grid{grid-template-columns:repeat(4,1fr);}
+    .stat-grid{grid-template-columns:repeat(3,1fr);}
     .stat-box{padding:7px 5px;}
     .th,.row{grid-template-columns:38px 1fr 165px;}
     .th>span:nth-child(2),.th>span:nth-child(4),.rd,.rz{display:none;}
@@ -165,6 +165,12 @@
     .mo{padding:0;align-items:flex-start;}
     .mp{margin:0;min-height:100vh;}
     #bT,#bA2{display:none;}
+    .controls-bar .inner{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+    .sw{width:100%;min-width:0;}
+    #ss,#sz{width:100%;overflow:hidden;text-overflow:ellipsis;}
+    .pd-wrap{width:100%;}
+    .pd-btn{width:100%;overflow:hidden;}
+    .pd-btn span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
 
   }
 
@@ -257,7 +263,6 @@ function gcEvent(path,title){
       <div class="stat-box s-e"><span class="stat-num" id="sE">—</span><span class="stat-label">Erledigt</span></div>
       <div class="stat-box s-o"><span class="stat-num" id="sO">—</span><span class="stat-label">Offen</span></div>
       <div class="stat-box s-z"><span class="stat-num" id="sZ">—</span><span class="stat-label">Zwischenbericht</span></div>
-      <div class="stat-box"><span class="stat-num" id="sG">—</span><span class="stat-label">Gesamt</span></div>
     </div>
   </div>
 </header>
@@ -509,7 +514,6 @@ function render(){
   document.getElementById("sE").textContent = eA;
   document.getElementById("sO").textContent = oA;
   document.getElementById("sZ").textContent = zA;
-  document.getElementById("sG").textContent = eA + oA + zA;
 
   if(view === "table") rT();
   else rTL();
